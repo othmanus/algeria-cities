@@ -364,7 +364,7 @@ $communes = array(
   array('id' => '351','code_postal' => '10043','nom' => 'Ath Mansour','wilaya_id' => '10'),
   array('id' => '352','code_postal' => '10044','nom' => 'El Mokrani','wilaya_id' => '10'),
   array('id' => '353','code_postal' => '10045','nom' => 'Oued El Berdi','wilaya_id' => '10'),
-  array('id' => '354','code_postal' => '11001','nom' => 'Tamanghasset','wilaya_id' => '11'),
+  array('id' => '354','code_postal' => '11001','nom' => 'Tamanrasset','wilaya_id' => '11'),
   array('id' => '355','code_postal' => '11002','nom' => 'Abalessa','wilaya_id' => '11'),
   array('id' => '356','code_postal' => '11003','nom' => 'In Ghar','wilaya_id' => '11'),
   array('id' => '357','code_postal' => '11004','nom' => 'In Guezzam','wilaya_id' => '11'),

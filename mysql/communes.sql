@@ -391,7 +391,7 @@ INSERT INTO `communes` (`id`, `code_postal`, `nom`, `wilaya_id`) VALUES
 (351, '10043', 'Ath Mansour', 10),
 (352, '10044', 'El Mokrani', 10),
 (353, '10045', 'Oued El Berdi', 10),
-(354, '11001', 'Tamanghasset', 11),
+(354, '11001', 'Tamanrasset', 11),
 (355, '11002', 'Abalessa', 11),
 (356, '11003', 'In Ghar', 11),
 (357, '11004', 'In Guezzam', 11),
