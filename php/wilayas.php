@@ -10,7 +10,7 @@
 //
 
 // `algeria-cities`.`wilayas`
-$wilayas = array(
+return [
   array('id' => '1','code' => '1','nom' => 'Adrar'),
   array('id' => '2','code' => '2','nom' => 'Chlef'),
   array('id' => '3','code' => '3','nom' => 'Laghouat'),
@@ -59,4 +59,4 @@ $wilayas = array(
   array('id' => '46','code' => '46','nom' => 'Aïn Témouchent'),
   array('id' => '47','code' => '47','nom' => 'Ghardaïa'),
   array('id' => '48','code' => '48','nom' => 'Relizane')
-);
+];
