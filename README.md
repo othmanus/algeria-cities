@@ -2,7 +2,10 @@
 
 This repository contains the list of all the administrative provinces and cities in Algeria.
 
+The data is up-to-date according to the [official source](https://www.interieur.gov.dz/index.php/fr/collectivit%C3%A9s-territoriales/rechercher-une-collectivite-locale.html) of the Algerian state.
+
 ## Languages
+
 The list is available in two languages:
  
 - Arabic
@@ -48,5 +51,5 @@ Desired formats:
 
 Desired data:
 
-- List of the postal codes per city: each city can have one or many post offices, and each post office has a postal code.
+- List of the postal codes per city: according to the [official Algerian Post](https://www.poste.dz/customer/bureaux_postaux), each city can have one or many post offices, and each post office has a postal code.
 - Latitude and Longitude of each city
