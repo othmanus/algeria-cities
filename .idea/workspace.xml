@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e431eaa-5aed-4751-8561-93fa968b52cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csv/algeria-cities.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/algeria-cities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/algeria-cities_separate_tables.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php/algeria-cities.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xlsx/algeria-cities.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml/algeria-cities.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv/communes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv/wilayas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel/communes-wilayas.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/communes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/communesAvecLatLong.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/wilayas.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/communes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysql/wilayas.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/communes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/wilayas.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,9 +58,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xml/algeria-cities.xml">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/algeria-cities.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -88,16 +92,8 @@
       <list>
         <option value="$PROJECT_DIR$/sql/algeria-cities_separate_tables.sql" />
         <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/algeria-cities.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/mysql/algeria-cities.sql" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -150,6 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -157,11 +154,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysql" />
       <recent name="$PROJECT_DIR$/xml" />
       <recent name="$PROJECT_DIR$/php" />
       <recent name="$PROJECT_DIR$/sql" />
       <recent name="$PROJECT_DIR$/json" />
-      <recent name="$PROJECT_DIR$/xlsx" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -186,12 +183,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601146602275</updated>
-      <workItem from="1601146603385" duration="4938000" />
+      <workItem from="1601146603385" duration="5125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4938000" />
+    <option name="totallyTimeSpent" value="5125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -203,7 +200,7 @@
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -272,6 +269,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xml/algeria-cities.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/algeria-cities.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
