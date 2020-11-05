@@ -1,4 +1,4 @@
-const wilayat = [
+const algeria_cites = [
   {
     "id": 1,
     "code": "01",
