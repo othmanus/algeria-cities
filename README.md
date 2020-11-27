@@ -38,6 +38,7 @@ The list is available in different formats:
 - PHP
 - XML
 - XLSX aka. Microsoft Excel
+- Dart and Flutter
 
 ## Contribution
 
@@ -46,7 +47,6 @@ To contribute with a specific format to the repository, please open a pull reque
 Desired formats:
 
 - Java array
-- Flutter array
 - Swift array
 
 Desired data:
