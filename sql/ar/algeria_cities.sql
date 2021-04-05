@@ -1,9 +1,9 @@
 CREATE TABLE IF NOT EXISTS algeria_cities(
   id                 INTEGER  NOT NULL PRIMARY KEY
-  ,commune_name       VARCHAR(255) NOT NULL COMMENT 'Name of commune in arabic'
-  ,daira_name         VARCHAR(255) NOT NULL COMMENT 'Name of daira in arabic'
-  ,wilaya_code        VARCHAR(4) NOT NULL
-  ,wilaya_name        VARCHAR(255) NOT NULL COMMENT 'Name of wilaya in arabic'
+  ,commune_name      VARCHAR(255) NOT NULL
+  ,daira_name        VARCHAR(255) NOT NULL
+  ,wilaya_code       VARCHAR(4) NOT NULL
+  ,wilaya_name       VARCHAR(255) NOT NULL
 );
 
 INSERT INTO algeria_cities(id,commune_name,daira_name,wilaya_code,wilaya_name) VALUES (22,'تيمقتن','أولف','01','أدرار');
