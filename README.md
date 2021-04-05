@@ -2,43 +2,45 @@
 
 This repository contains the list of all the administrative provinces and cities in Algeria.
 
-The data is up-to-date according to the [official source](https://www.interieur.gov.dz/index.php/fr/collectivit%C3%A9s-territoriales/rechercher-une-collectivite-locale.html) of the Algerian state.
+The data is up-to-date according to the official source of the Algerian Interior Ministry, including the 10 new Wilayas.
 
 ## Languages
 
-The list is available in two languages:
+The list is available in:
  
-- Arabic
-- French
+- Arabic language
+- ASCII, French language
+- Both
 
 ## Data
 
-Each file contains the following data:
+There are:
 
-- Wilaya
-    - `code`: is the wilaya ID, between 1 and 48
-    - `name`: in latin characters in French language
-    - `name_ar`: in Arabic characters in Arabic language
-- Daira
-    - `code`: is the official administrative code for the daira, prefixed by the wilaya's code
-    - `name`: in latin characters in French language
-    - `name_ar`: in Arabic characters in Arabic language
-- Commune
-    - `code`: is the official administrative code for the city. **IMPORTANT:** this is NOT the postal code.
-    - `name`: in latin characters in French language
-    - `name_ar`: in Arabic characters in Arabic language
+- 58 Wilayas (Provinces)
+- 546 Dairas (Administrations)
+- 1541 Communes (City, Municipality)
+- 3940 Post Codes
 
-## Format
+### Format
 
 The list is available in different formats:
 
-- CSV comma separated
+- CSV
 - JSON 
-- MySQL schema
+- SQL
 - PHP
-- XML
 - XLSX aka. Microsoft Excel
-- Dart and Flutter
+- Dart
+
+Each format contains 3 versions of the data: in ASCII characters, in Arabic characters, and in both.
+
+Each folder is structured as the following
+
+```text
+%format%/%file_name%       -- contains data in both Arabic and ASCII characters
+%format%/ar/%file_name%    -- contains data only in Arabic characters
+%format%/ascii/%file_name% -- contains data only in ASCII (French) characters
+```
 
 ## Contribution
 
@@ -51,5 +53,4 @@ Desired formats:
 
 Desired data:
 
-- List of the postal codes per city: according to the [official Algerian Post](https://www.poste.dz/customer/bureaux_postaux), each city can have one or many post offices, and each post office has a postal code.
 - Latitude and Longitude of each city
