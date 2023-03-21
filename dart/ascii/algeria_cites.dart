@@ -2486,7 +2486,7 @@ const algeria_cites = [
   },
   {
     "id": 369,
-    "commune_name": "Bir-El-Ater",
+    "commune_name": "Bir El Ater",
     "daira_name": "Bir El Ater",
     "wilaya_code": "12",
     "wilaya_name": "Tébessa"
