@@ -31,6 +31,7 @@ The list is available in different formats:
 - PHP
 - XLSX aka. Microsoft Excel
 - Dart
+- GeoJSON (wilaya boundaries)
 
 Each format contains 3 versions of the data: in ASCII characters, in Arabic characters, and in both.
 
@@ -41,6 +42,29 @@ Each folder is structured as the following
 %format%/ar/%file_name%    -- contains data only in Arabic characters
 %format%/ascii/%file_name% -- contains data only in ASCII (French) characters
 ```
+
+### Boundaries
+
+`geojson/algeria_wilayas.geojson` contains the boundary polygon of each of the
+58 wilayas as a `FeatureCollection`. It is a single file holding both languages
+(no `ar/` and `ascii/` split), since the geometry would be duplicated for a few
+bytes of text.
+
+```json
+{
+  "type": "Feature",
+  "properties": {
+    "wilaya_code": "16",
+    "wilaya_name_ascii": "Alger",
+    "wilaya_name": "الجزائر"
+  },
+  "geometry": { "type": "Polygon", "coordinates": [ ... ] }
+}
+```
+
+Features are sorted by `wilaya_code`, which joins to every other file in this
+repository. Geometry is sourced from [simplemaps.com](https://simplemaps.com) —
+check their license before redistributing.
 
 ## Contribution
 
