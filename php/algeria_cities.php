@@ -464,36 +464,36 @@ return [
         "commune_name_ascii" => "El Beidha",
         "daira_name" => "قتلة سيدي سعيد",
         "daira_name_ascii" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     73 => [
         "commune_name" => "قلتة سيدي سعد",
         "commune_name_ascii" => "Gueltat Sidi Saad",
         "daira_name" => "قتلة سيدي سعيد",
         "daira_name_ascii" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     69 => [
         "commune_name" => "بريدة",
         "commune_name_ascii" => "Brida",
         "daira_name" => "بريدة",
         "daira_name_ascii" => "Brida",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     66 => [
         "commune_name" => "عين سيدي علي",
         "commune_name_ascii" => "Ain Sidi Ali",
         "daira_name" => "قتلة سيدي سعيد",
         "daira_name_ascii" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     85 => [
         "commune_name" => "تاجموت",
@@ -509,27 +509,27 @@ return [
         "commune_name_ascii" => "Hadj Mechri",
         "daira_name" => "بريدة",
         "daira_name_ascii" => "Brida",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     87 => [
         "commune_name" => "تاويالة",
         "commune_name_ascii" => "Taouiala",
         "daira_name" => "بريدة",
         "daira_name_ascii" => "Brida",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     71 => [
         "commune_name" => "الغيشة",
         "commune_name_ascii" => "El Ghicha",
         "daira_name" => "الغيشة",
         "daira_name_ascii" => "El Ghicha",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     86 => [
         "commune_name" => "تاجرونة",
@@ -545,27 +545,27 @@ return [
         "commune_name_ascii" => "Sebgag",
         "daira_name" => "أفلو",
         "daira_name_ascii" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     83 => [
         "commune_name" => "سيدي بوزيد",
         "commune_name_ascii" => "Sidi Bouzid",
         "daira_name" => "أفلو",
         "daira_name_ascii" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     80 => [
         "commune_name" => "وادي مرة",
         "commune_name_ascii" => "Oued Morra",
         "daira_name" => "وادي مرة",
         "daira_name_ascii" => "Oued Morra",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     79 => [
         "commune_name" => "الأغواط",
@@ -581,9 +581,9 @@ return [
         "commune_name_ascii" => "Oued M'zi",
         "daira_name" => "وادي مرة",
         "daira_name_ascii" => "Oued Morra",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     78 => [
         "commune_name" => "قصر الحيران",
@@ -671,9 +671,9 @@ return [
         "commune_name_ascii" => "Aflou",
         "daira_name" => "أفلو",
         "daira_name_ascii" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط",
-        "wilaya_name_ascii" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو",
+        "wilaya_name_ascii" => "Aflou"
     ],
     104 => [
         "commune_name" => "فكيرينة",
@@ -1274,18 +1274,18 @@ return [
         "commune_name_ascii" => "Seggana",
         "daira_name" => "سقانة",
         "daira_name_ascii" => "Seggana",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     175 => [
         "commune_name" => "تيلاطو",
         "commune_name_ascii" => "Tilatou",
         "daira_name" => "سقانة",
         "daira_name_ascii" => "Seggana",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     137 => [
         "commune_name" => "فم الطوب",
@@ -1355,54 +1355,54 @@ return [
         "commune_name_ascii" => "Barika",
         "daira_name" => "بريكة",
         "daira_name_ascii" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     125 => [
         "commune_name" => "بيطام",
         "commune_name_ascii" => "Bitam",
         "daira_name" => "بريكة",
         "daira_name_ascii" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     149 => [
         "commune_name" => "إمدوكل",
         "commune_name_ascii" => "M Doukal",
         "daira_name" => "بريكة",
         "daira_name_ascii" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     121 => [
         "commune_name" => "عزيل عبد القادر",
         "commune_name_ascii" => "Azil Abedelkader",
         "daira_name" => "الجزار",
         "daira_name_ascii" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     133 => [
         "commune_name" => "الجزار",
         "commune_name_ascii" => "Djezzar",
         "daira_name" => "الجزار",
         "daira_name_ascii" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     157 => [
         "commune_name" => "أولاد عمار",
         "commune_name_ascii" => "Ouled Ammar",
         "daira_name" => "الجزار",
         "daira_name_ascii" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة",
-        "wilaya_name_ascii" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة",
+        "wilaya_name_ascii" => "Barika"
     ],
     138 => [
         "commune_name" => "غسيرة",
@@ -1994,36 +1994,36 @@ return [
         "commune_name_ascii" => "Djemorah",
         "daira_name" => "جمورة",
         "daira_name_ascii" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة",
-        "wilaya_name_ascii" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة",
+        "wilaya_name_ascii" => "El Kantara"
     ],
     236 => [
         "commune_name" => "برانيس",
         "commune_name_ascii" => "Branis",
         "daira_name" => "جمورة",
         "daira_name_ascii" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة",
-        "wilaya_name_ascii" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة",
+        "wilaya_name_ascii" => "El Kantara"
     ],
     246 => [
         "commune_name" => "الوطاية",
         "commune_name_ascii" => "El Outaya",
         "daira_name" => "الوطاية",
         "daira_name_ascii" => "El Outaya",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة",
-        "wilaya_name_ascii" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة",
+        "wilaya_name_ascii" => "El Kantara"
     ],
     245 => [
         "commune_name" => "القنطرة",
         "commune_name_ascii" => "El Kantara",
         "daira_name" => "القنطرة",
         "daira_name_ascii" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة",
-        "wilaya_name_ascii" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة",
+        "wilaya_name_ascii" => "El Kantara"
     ],
     248 => [
         "commune_name" => "خنقة سيدي ناجي",
@@ -2039,9 +2039,9 @@ return [
         "commune_name_ascii" => "Ain Zaatout",
         "daira_name" => "القنطرة",
         "daira_name_ascii" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة",
-        "wilaya_name_ascii" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة",
+        "wilaya_name_ascii" => "El Kantara"
     ],
     262 => [
         "commune_name" => "زريبة الوادي",
@@ -3002,18 +3002,18 @@ return [
         "commune_name_ascii" => "Ferkane",
         "daira_name" => "نقرين",
         "daira_name_ascii" => "Negrine",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة",
-        "wilaya_name_ascii" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر",
+        "wilaya_name_ascii" => "Bir El Ater"
     ],
     385 => [
         "commune_name" => "نقرين",
         "commune_name_ascii" => "Negrine",
         "daira_name" => "نقرين",
         "daira_name_ascii" => "Negrine",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة",
-        "wilaya_name_ascii" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر",
+        "wilaya_name_ascii" => "Bir El Ater"
     ],
     368 => [
         "commune_name" => "بئر مقدم",
@@ -3191,18 +3191,18 @@ return [
         "commune_name_ascii" => "El Ogla El Malha",
         "daira_name" => "بئر العاتر",
         "daira_name_ascii" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة",
-        "wilaya_name_ascii" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر",
+        "wilaya_name_ascii" => "Bir El Ater"
     ],
     369 => [
         "commune_name" => "بئر العاتر",
         "commune_name_ascii" => "Bir-El-Ater",
         "daira_name" => "بئر العاتر",
         "daira_name_ascii" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة",
-        "wilaya_name_ascii" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر",
+        "wilaya_name_ascii" => "Bir El Ater"
     ],
     390 => [
         "commune_name" => "تبسة",
@@ -3326,18 +3326,18 @@ return [
         "commune_name_ascii" => "Sidi Djillali",
         "daira_name" => "سيدي الجيلالي",
         "daira_name_ascii" => "Sidi Djillali",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان",
-        "wilaya_name_ascii" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة",
+        "wilaya_name_ascii" => "El Aricha"
     ],
     410 => [
         "commune_name" => "البويهي",
         "commune_name_ascii" => "Bouihi",
         "daira_name" => "سيدي الجيلالي",
         "daira_name_ascii" => "Sidi Djillali",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان",
-        "wilaya_name_ascii" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة",
+        "wilaya_name_ascii" => "El Aricha"
     ],
     427 => [
         "commune_name" => "ندرومة",
@@ -3398,18 +3398,18 @@ return [
         "commune_name_ascii" => "El Gor",
         "daira_name" => "سبدو",
         "daira_name_ascii" => "Sebdou",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان",
-        "wilaya_name_ascii" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة",
+        "wilaya_name_ascii" => "El Aricha"
     ],
     414 => [
         "commune_name" => "العريشة",
         "commune_name_ascii" => "El Aricha",
         "daira_name" => "سبدو",
         "daira_name_ascii" => "Sebdou",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان",
-        "wilaya_name_ascii" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة",
+        "wilaya_name_ascii" => "El Aricha"
     ],
     409 => [
         "commune_name" => "بوحلو",
@@ -3875,9 +3875,9 @@ return [
         "commune_name_ascii" => "Ksar Chellala",
         "daira_name" => "قصر الشلالة",
         "daira_name_ascii" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت",
-        "wilaya_name_ascii" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة",
+        "wilaya_name_ascii" => "Ksar Chellala"
     ],
     457 => [
         "commune_name" => "قرطوفة",
@@ -3893,18 +3893,18 @@ return [
         "commune_name_ascii" => "Serghine",
         "daira_name" => "قصر الشلالة",
         "daira_name_ascii" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت",
-        "wilaya_name_ascii" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة",
+        "wilaya_name_ascii" => "Ksar Chellala"
     ],
     486 => [
         "commune_name" => "زمالة  الأمير عبد القادر",
         "commune_name_ascii" => "Zmalet El Emir Abdelkade",
         "daira_name" => "قصر الشلالة",
         "daira_name_ascii" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت",
-        "wilaya_name_ascii" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة",
+        "wilaya_name_ascii" => "Ksar Chellala"
     ],
     469 => [
         "commune_name" => "وادي ليلي",
@@ -3956,27 +3956,27 @@ return [
         "commune_name_ascii" => "Bougara",
         "daira_name" => "حمادية",
         "daira_name_ascii" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت",
-        "wilaya_name_ascii" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة",
+        "wilaya_name_ascii" => "Ksar Chellala"
     ],
     458 => [
         "commune_name" => "حمادية",
         "commune_name_ascii" => "Hamadia",
         "daira_name" => "حمادية",
         "daira_name_ascii" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت",
-        "wilaya_name_ascii" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة",
+        "wilaya_name_ascii" => "Ksar Chellala"
     ],
     471 => [
         "commune_name" => "الرشايقة",
         "commune_name_ascii" => "Rechaiga",
         "daira_name" => "حمادية",
         "daira_name_ascii" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت",
-        "wilaya_name_ascii" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة",
+        "wilaya_name_ascii" => "Ksar Chellala"
     ],
     484 => [
         "commune_name" => "تيدة",
@@ -5288,99 +5288,99 @@ return [
         "commune_name_ascii" => "Had Sahary",
         "daira_name" => "حد الصحاري",
         "daira_name_ascii" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     620 => [
         "commune_name" => "بويرة الأحداب",
         "commune_name_ascii" => "Bouira Lahdab",
         "daira_name" => "حد الصحاري",
         "daira_name_ascii" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     613 => [
         "commune_name" => "عين فقه",
         "commune_name_ascii" => "Ain Fekka",
         "daira_name" => "حد الصحاري",
         "daira_name_ascii" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     643 => [
         "commune_name" => "سيدي لعجال",
         "commune_name_ascii" => "Sidi Laadjel",
         "daira_name" => "سيدي لعجال",
         "daira_name_ascii" => "Sidi Laadjel",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     635 => [
         "commune_name" => "حاسي فدول",
         "commune_name_ascii" => "Hassi Fedoul",
         "daira_name" => "سيدي لعجال",
         "daira_name_ascii" => "Sidi Laadjel",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     628 => [
         "commune_name" => "الخميس",
         "commune_name_ascii" => "El Khemis",
         "daira_name" => "سيدي لعجال",
         "daira_name_ascii" => "Sidi Laadjel",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     641 => [
         "commune_name" => "سلمانة",
         "commune_name_ascii" => "Selmana",
         "daira_name" => "مسعد",
         "daira_name_ascii" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     640 => [
         "commune_name" => "سد الرحال",
         "commune_name_ascii" => "Sed Rahal",
         "daira_name" => "مسعد",
         "daira_name_ascii" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     636 => [
         "commune_name" => "مسعد",
         "commune_name_ascii" => "Messaad",
         "daira_name" => "مسعد",
         "daira_name_ascii" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     631 => [
         "commune_name" => "قطارة",
         "commune_name_ascii" => "Guettara",
         "daira_name" => "مسعد",
         "daira_name_ascii" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     623 => [
         "commune_name" => "دلدول",
         "commune_name_ascii" => "Deldoul",
         "daira_name" => "مسعد",
         "daira_name_ascii" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     646 => [
         "commune_name" => "زكار",
@@ -5432,36 +5432,36 @@ return [
         "commune_name_ascii" => "Birine",
         "daira_name" => "بيرين",
         "daira_name_ascii" => "Birine",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     639 => [
         "commune_name" => "أم العظام",
         "commune_name_ascii" => "Oum Laadham",
         "daira_name" => "فيض البطمة",
         "daira_name_ascii" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     629 => [
         "commune_name" => "فيض البطمة",
         "commune_name_ascii" => "Faidh El Botma",
         "daira_name" => "فيض البطمة",
         "daira_name_ascii" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     616 => [
         "commune_name" => "عمورة",
         "commune_name_ascii" => "Amourah",
         "daira_name" => "فيض البطمة",
         "daira_name_ascii" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد",
+        "wilaya_name_ascii" => "Messaad"
     ],
     645 => [
         "commune_name" => "زعفران",
@@ -5477,27 +5477,27 @@ return [
         "commune_name_ascii" => "Guernini",
         "daira_name" => "عين وسارة",
         "daira_name_ascii" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     615 => [
         "commune_name" => "عين وسارة",
         "commune_name_ascii" => "Ain Oussera",
         "daira_name" => "عين وسارة",
         "daira_name_ascii" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     617 => [
         "commune_name" => "بنهار",
         "commune_name_ascii" => "Benhar",
         "daira_name" => "بيرين",
         "daira_name_ascii" => "Birine",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة",
-        "wilaya_name_ascii" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة",
+        "wilaya_name_ascii" => "Aïn Ouessara"
     ],
     614 => [
         "commune_name" => "عين معبد",
@@ -7799,9 +7799,9 @@ return [
         "commune_name_ascii" => "Ouled Hellal",
         "daira_name" => "أولاد عنتر",
         "daira_name_ascii" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     956 => [
         "commune_name" => "السواقي",
@@ -7817,27 +7817,27 @@ return [
         "commune_name_ascii" => "Ksar El Boukhari",
         "daira_name" => "قصر البخاري",
         "daira_name_ascii" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     934 => [
         "commune_name" => "مفاتحة",
         "commune_name_ascii" => "M'fatha",
         "daira_name" => "قصر البخاري",
         "daira_name_ascii" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     947 => [
         "commune_name" => "السانق",
         "commune_name_ascii" => "Saneg",
         "daira_name" => "قصر البخاري",
         "daira_name_ascii" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     920 => [
         "commune_name" => "العزيزية",
@@ -7871,27 +7871,27 @@ return [
         "commune_name_ascii" => "Bouaiche",
         "daira_name" => "الشهبونية",
         "daira_name_ascii" => "Chahbounia",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     912 => [
         "commune_name" => "بوغزول",
         "commune_name_ascii" => "Boughzoul",
         "daira_name" => "الشهبونية",
         "daira_name_ascii" => "Chahbounia",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     914 => [
         "commune_name" => "الشهبونية",
         "commune_name_ascii" => "Chabounia",
         "daira_name" => "الشهبونية",
         "daira_name_ascii" => "Chahbounia",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     926 => [
         "commune_name" => "حناشة",
@@ -8069,9 +8069,9 @@ return [
         "commune_name_ascii" => "Boghar",
         "daira_name" => "أولاد عنتر",
         "daira_name_ascii" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     949 => [
         "commune_name" => "سغوان",
@@ -8150,45 +8150,45 @@ return [
         "commune_name_ascii" => "Ain Boucif",
         "daira_name" => "عين بوسيف",
         "daira_name_ascii" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     925 => [
         "commune_name" => "العوينات",
         "commune_name_ascii" => "El Ouinet",
         "daira_name" => "عين بوسيف",
         "daira_name_ascii" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     927 => [
         "commune_name" => "الكاف الاخضر",
         "commune_name_ascii" => "Kef Lakhdar",
         "daira_name" => "عين بوسيف",
         "daira_name_ascii" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     942 => [
         "commune_name" => "أولاد امعرف",
         "commune_name_ascii" => "Ouled Emaaraf",
         "daira_name" => "عين بوسيف",
         "daira_name_ascii" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     951 => [
         "commune_name" => "سيدي دامد",
         "commune_name_ascii" => "Sidi Demed",
         "daira_name" => "عين بوسيف",
         "daira_name_ascii" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     903 => [
         "commune_name" => "بعطة",
@@ -8249,36 +8249,36 @@ return [
         "commune_name_ascii" => "Ain Ouksir",
         "daira_name" => "شلالة العذاورة",
         "daira_name_ascii" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     915 => [
         "commune_name" => "شلالة العذاورة",
         "commune_name_ascii" => "Chelalet El Adhaoura",
         "daira_name" => "شلالة العذاورة",
         "daira_name_ascii" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     916 => [
         "commune_name" => "شنيقل",
         "commune_name_ascii" => "Cheniguel",
         "daira_name" => "شلالة العذاورة",
         "daira_name_ascii" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     958 => [
         "commune_name" => "تفراوت",
         "commune_name_ascii" => "Tafraout",
         "daira_name" => "شلالة العذاورة",
         "daira_name_ascii" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     911 => [
         "commune_name" => "بوشراحيل",
@@ -8312,27 +8312,27 @@ return [
         "commune_name_ascii" => "Aziz",
         "daira_name" => "عزيز",
         "daira_name_ascii" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     917 => [
         "commune_name" => "دراق",
         "commune_name_ascii" => "Derrag",
         "daira_name" => "عزيز",
         "daira_name_ascii" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     944 => [
         "commune_name" => "أم الجليل",
         "commune_name_ascii" => "Oum El Djellil",
         "daira_name" => "عزيز",
         "daira_name_ascii" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     918 => [
         "commune_name" => "جواب",
@@ -8366,9 +8366,9 @@ return [
         "commune_name_ascii" => "Ouled Antar",
         "daira_name" => "أولاد عنتر",
         "daira_name_ascii" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية",
-        "wilaya_name_ascii" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري",
+        "wilaya_name_ascii" => "Ksar El Boukhari"
     ],
     970 => [
         "commune_name" => "فرناقة",
@@ -8771,180 +8771,180 @@ return [
         "commune_name_ascii" => "Bou Saada",
         "daira_name" => "بوسعادة",
         "daira_name_ascii" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1011 => [
         "commune_name" => "الهامل",
         "commune_name_ascii" => "El Hamel",
         "daira_name" => "بوسعادة",
         "daira_name_ascii" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1032 => [
         "commune_name" => "ولتام",
         "commune_name_ascii" => "Oulteme",
         "daira_name" => "بوسعادة",
         "daira_name_ascii" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1003 => [
         "commune_name" => "بن زوه",
         "commune_name_ascii" => "Benzouh",
         "daira_name" => "أولاد سيدي ابراهيم",
         "daira_name_ascii" => "Ouled Sidi Brahim",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1030 => [
         "commune_name" => "أولاد سيدي ابراهيم",
         "commune_name_ascii" => "Ouled Sidi Brahim",
         "daira_name" => "أولاد سيدي ابراهيم",
         "daira_name_ascii" => "Ouled Sidi Brahim",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1034 => [
         "commune_name" => "سيدي عامر",
         "commune_name_ascii" => "Sidi Ameur",
         "daira_name" => "سيدي عامر",
         "daira_name_ascii" => "Sidi Ameur",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1039 => [
         "commune_name" => "تامسة",
         "commune_name_ascii" => "Tamsa",
         "daira_name" => "سيدي عامر",
         "daira_name_ascii" => "Sidi Ameur",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1001 => [
         "commune_name" => "بن سرور",
         "commune_name_ascii" => "Ben Srour",
         "daira_name" => "بن سرور",
         "daira_name_ascii" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1022 => [
         "commune_name" => "محمد بوضياف",
         "commune_name_ascii" => "Mohamed Boudiaf",
         "daira_name" => "بن سرور",
         "daira_name_ascii" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1031 => [
         "commune_name" => "أولاد سليمان",
         "commune_name_ascii" => "Ouled Slimane",
         "daira_name" => "بن سرور",
         "daira_name_ascii" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1041 => [
         "commune_name" => "زرزور",
         "commune_name_ascii" => "Zarzour",
         "daira_name" => "بن سرور",
         "daira_name_ascii" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     996 => [
         "commune_name" => "عين الملح",
         "commune_name_ascii" => "Ain El Melh",
         "daira_name" => "عين الملح",
         "daira_name_ascii" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     997 => [
         "commune_name" => "عين فارس",
         "commune_name_ascii" => "Ain Fares",
         "daira_name" => "عين الملح",
         "daira_name_ascii" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     999 => [
         "commune_name" => "عين الريش",
         "commune_name_ascii" => "Ain Rich",
         "daira_name" => "عين الملح",
         "daira_name_ascii" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1005 => [
         "commune_name" => "بئر فضة",
         "commune_name_ascii" => "Bir Foda",
         "daira_name" => "عين الملح",
         "daira_name_ascii" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1036 => [
         "commune_name" => "سيدي امحمد",
         "commune_name_ascii" => "Sidi M'hamed",
         "daira_name" => "عين الملح",
         "daira_name_ascii" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1020 => [
         "commune_name" => "امجدل",
         "commune_name_ascii" => "Medjedel",
         "daira_name" => "امجدل",
         "daira_name_ascii" => "Medjedel",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1021 => [
         "commune_name" => "مناعة",
         "commune_name_ascii" => "Menaa",
         "daira_name" => "امجدل",
         "daira_name_ascii" => "Medjedel",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1010 => [
         "commune_name" => "جبل مساعد",
         "commune_name_ascii" => "Djebel Messaad",
         "daira_name" => "جبل مساعد",
         "daira_name_ascii" => "Djebel Messaad",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1037 => [
         "commune_name" => "سليم",
         "commune_name_ascii" => "Slim",
         "daira_name" => "جبل مساعد",
         "daira_name_ascii" => "Djebel Messaad",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1023 => [
         "commune_name" => "المسيلة",
@@ -9041,27 +9041,27 @@ return [
         "commune_name_ascii" => "El Houamed",
         "daira_name" => "خبانة",
         "daira_name_ascii" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1015 => [
         "commune_name" => "خبانة",
         "commune_name_ascii" => "Khoubana",
         "daira_name" => "خبانة",
         "daira_name_ascii" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     1019 => [
         "commune_name" => "مسيف",
         "commune_name_ascii" => "M'cif",
         "daira_name" => "خبانة",
         "daira_name_ascii" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة",
-        "wilaya_name_ascii" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة",
+        "wilaya_name_ascii" => "Bou Saâda"
     ],
     998 => [
         "commune_name" => "عين الخضراء",
@@ -9815,9 +9815,9 @@ return [
         "commune_name_ascii" => "Ain El Orak",
         "daira_name" => "الأبيض سيدي الشيخ",
         "daira_name_ascii" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1151 => [
         "commune_name" => "كراكدة",
@@ -9860,9 +9860,9 @@ return [
         "commune_name_ascii" => "El Bnoud",
         "daira_name" => "الأبيض سيدي الشيخ",
         "daira_name_ascii" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1139 => [
         "commune_name" => "بوقطب",
@@ -9932,9 +9932,9 @@ return [
         "commune_name_ascii" => "El Mehara",
         "daira_name" => "شلالة",
         "daira_name_ascii" => "Chellala",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1150 => [
         "commune_name" => "الكاف الأحمر",
@@ -9968,18 +9968,18 @@ return [
         "commune_name_ascii" => "Labiodh Sidi Cheikh",
         "daira_name" => "الأبيض سيدي الشيخ",
         "daira_name_ascii" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1140 => [
         "commune_name" => "بوسمغون",
         "commune_name_ascii" => "Boussemghoun",
         "daira_name" => "بوسمغون",
         "daira_name_ascii" => "Boussemghoun",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1142 => [
         "commune_name" => "الشقيق",
@@ -9995,18 +9995,18 @@ return [
         "commune_name_ascii" => "Chellala",
         "daira_name" => "شلالة",
         "daira_name_ascii" => "Chellala",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1137 => [
         "commune_name" => "اربوات",
         "commune_name_ascii" => "Arbaouat",
         "daira_name" => "الأبيض سيدي الشيخ",
         "daira_name_ascii" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض",
-        "wilaya_name_ascii" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ",
+        "wilaya_name_ascii" => "El Abiodh Sidi Cheikh"
     ],
     1159 => [
         "commune_name" => "برج عمر إدريس",
