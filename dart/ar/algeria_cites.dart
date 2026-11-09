@@ -360,29 +360,29 @@ const algeria_cites = [
     "id": 67,
     "commune_name": "البيضاء",
     "daira_name": "قتلة سيدي سعيد",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 73,
     "commune_name": "قلتة سيدي سعد",
     "daira_name": "قتلة سيدي سعيد",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 69,
     "commune_name": "بريدة",
     "daira_name": "بريدة",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 66,
     "commune_name": "عين سيدي علي",
     "daira_name": "قتلة سيدي سعيد",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 85,
@@ -395,22 +395,22 @@ const algeria_cites = [
     "id": 74,
     "commune_name": "الحاج مشري",
     "daira_name": "بريدة",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 87,
     "commune_name": "تاويالة",
     "daira_name": "بريدة",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 71,
     "commune_name": "الغيشة",
     "daira_name": "الغيشة",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 86,
@@ -423,22 +423,22 @@ const algeria_cites = [
     "id": 82,
     "commune_name": "سبقاق",
     "daira_name": "أفلو",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 83,
     "commune_name": "سيدي بوزيد",
     "daira_name": "أفلو",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 80,
     "commune_name": "وادي مرة",
     "daira_name": "وادي مرة",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 79,
@@ -451,8 +451,8 @@ const algeria_cites = [
     "id": 81,
     "commune_name": "وادي مزي",
     "daira_name": "وادي مرة",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 78,
@@ -521,8 +521,8 @@ const algeria_cites = [
     "id": 64,
     "commune_name": "أفلو",
     "daira_name": "أفلو",
-    "wilaya_code": "03",
-    "wilaya_name": "الأغواط"
+    "wilaya_code": "59",
+    "wilaya_name": "آفلو"
   },
   {
     "id": 104,
@@ -990,15 +990,15 @@ const algeria_cites = [
     "id": 166,
     "commune_name": "سقانة",
     "daira_name": "سقانة",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 175,
     "commune_name": "تيلاطو",
     "daira_name": "سقانة",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 137,
@@ -1053,43 +1053,43 @@ const algeria_cites = [
     "id": 122,
     "commune_name": "بريكة",
     "daira_name": "بريكة",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 125,
     "commune_name": "بيطام",
     "daira_name": "بريكة",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 149,
     "commune_name": "إمدوكل",
     "daira_name": "بريكة",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 121,
     "commune_name": "عزيل عبد القادر",
     "daira_name": "الجزار",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 133,
     "commune_name": "الجزار",
     "daira_name": "الجزار",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 157,
     "commune_name": "أولاد عمار",
     "daira_name": "الجزار",
-    "wilaya_code": "05",
-    "wilaya_name": "باتنة"
+    "wilaya_code": "60",
+    "wilaya_name": "بريكة"
   },
   {
     "id": 138,
@@ -1550,29 +1550,29 @@ const algeria_cites = [
     "id": 239,
     "commune_name": "جمورة",
     "daira_name": "جمورة",
-    "wilaya_code": "07",
-    "wilaya_name": "بسكرة"
+    "wilaya_code": "61",
+    "wilaya_name": "القنطرة"
   },
   {
     "id": 236,
     "commune_name": "برانيس",
     "daira_name": "جمورة",
-    "wilaya_code": "07",
-    "wilaya_name": "بسكرة"
+    "wilaya_code": "61",
+    "wilaya_name": "القنطرة"
   },
   {
     "id": 246,
     "commune_name": "الوطاية",
     "daira_name": "الوطاية",
-    "wilaya_code": "07",
-    "wilaya_name": "بسكرة"
+    "wilaya_code": "61",
+    "wilaya_name": "القنطرة"
   },
   {
     "id": 245,
     "commune_name": "القنطرة",
     "daira_name": "القنطرة",
-    "wilaya_code": "07",
-    "wilaya_name": "بسكرة"
+    "wilaya_code": "61",
+    "wilaya_name": "القنطرة"
   },
   {
     "id": 248,
@@ -1585,8 +1585,8 @@ const algeria_cites = [
     "id": 231,
     "commune_name": "عين زعطوط",
     "daira_name": "القنطرة",
-    "wilaya_code": "07",
-    "wilaya_name": "بسكرة"
+    "wilaya_code": "61",
+    "wilaya_name": "القنطرة"
   },
   {
     "id": 262,
@@ -2334,15 +2334,15 @@ const algeria_cites = [
     "id": 381,
     "commune_name": "فركان",
     "daira_name": "نقرين",
-    "wilaya_code": "12",
-    "wilaya_name": "تبسة"
+    "wilaya_code": "62",
+    "wilaya_name": "بئر العاتر"
   },
   {
     "id": 385,
     "commune_name": "نقرين",
     "daira_name": "نقرين",
-    "wilaya_code": "12",
-    "wilaya_name": "تبسة"
+    "wilaya_code": "62",
+    "wilaya_name": "بئر العاتر"
   },
   {
     "id": 368,
@@ -2481,15 +2481,15 @@ const algeria_cites = [
     "id": 378,
     "commune_name": "العقلة المالحة",
     "daira_name": "بئر العاتر",
-    "wilaya_code": "12",
-    "wilaya_name": "تبسة"
+    "wilaya_code": "62",
+    "wilaya_name": "بئر العاتر"
   },
   {
     "id": 369,
     "commune_name": "بئر العاتر",
     "daira_name": "بئر العاتر",
-    "wilaya_code": "12",
-    "wilaya_name": "تبسة"
+    "wilaya_code": "62",
+    "wilaya_name": "بئر العاتر"
   },
   {
     "id": 390,
@@ -2586,15 +2586,15 @@ const algeria_cites = [
     "id": 436,
     "commune_name": "سيدي الجيلالي",
     "daira_name": "سيدي الجيلالي",
-    "wilaya_code": "13",
-    "wilaya_name": "تلمسان"
+    "wilaya_code": "63",
+    "wilaya_name": "العريشة"
   },
   {
     "id": 410,
     "commune_name": "البويهي",
     "daira_name": "سيدي الجيلالي",
-    "wilaya_code": "13",
-    "wilaya_name": "تلمسان"
+    "wilaya_code": "63",
+    "wilaya_name": "العريشة"
   },
   {
     "id": 427,
@@ -2642,15 +2642,15 @@ const algeria_cites = [
     "id": 417,
     "commune_name": "القور",
     "daira_name": "سبدو",
-    "wilaya_code": "13",
-    "wilaya_name": "تلمسان"
+    "wilaya_code": "63",
+    "wilaya_name": "العريشة"
   },
   {
     "id": 414,
     "commune_name": "العريشة",
     "daira_name": "سبدو",
-    "wilaya_code": "13",
-    "wilaya_name": "تلمسان"
+    "wilaya_code": "63",
+    "wilaya_name": "العريشة"
   },
   {
     "id": 409,
@@ -3013,8 +3013,8 @@ const algeria_cites = [
     "id": 459,
     "commune_name": "قصر الشلالة",
     "daira_name": "قصر الشلالة",
-    "wilaya_code": "14",
-    "wilaya_name": "تيارت"
+    "wilaya_code": "64",
+    "wilaya_name": "قصر الشلالة"
   },
   {
     "id": 457,
@@ -3027,15 +3027,15 @@ const algeria_cites = [
     "id": 474,
     "commune_name": "سرغين",
     "daira_name": "قصر الشلالة",
-    "wilaya_code": "14",
-    "wilaya_name": "تيارت"
+    "wilaya_code": "64",
+    "wilaya_name": "قصر الشلالة"
   },
   {
     "id": 486,
     "commune_name": "زمالة  الأمير عبد القادر",
     "daira_name": "قصر الشلالة",
-    "wilaya_code": "14",
-    "wilaya_name": "تيارت"
+    "wilaya_code": "64",
+    "wilaya_name": "قصر الشلالة"
   },
   {
     "id": 469,
@@ -3076,22 +3076,22 @@ const algeria_cites = [
     "id": 450,
     "commune_name": "بوقرة",
     "daira_name": "حمادية",
-    "wilaya_code": "14",
-    "wilaya_name": "تيارت"
+    "wilaya_code": "64",
+    "wilaya_name": "قصر الشلالة"
   },
   {
     "id": 458,
     "commune_name": "حمادية",
     "daira_name": "حمادية",
-    "wilaya_code": "14",
-    "wilaya_name": "تيارت"
+    "wilaya_code": "64",
+    "wilaya_name": "قصر الشلالة"
   },
   {
     "id": 471,
     "commune_name": "الرشايقة",
     "daira_name": "حمادية",
-    "wilaya_code": "14",
-    "wilaya_name": "تيارت"
+    "wilaya_code": "64",
+    "wilaya_name": "قصر الشلالة"
   },
   {
     "id": 484,
@@ -4112,78 +4112,78 @@ const algeria_cites = [
     "id": 632,
     "commune_name": "حد الصحاري",
     "daira_name": "حد الصحاري",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 620,
     "commune_name": "بويرة الأحداب",
     "daira_name": "حد الصحاري",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 613,
     "commune_name": "عين فقه",
     "daira_name": "حد الصحاري",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 643,
     "commune_name": "سيدي لعجال",
     "daira_name": "سيدي لعجال",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 635,
     "commune_name": "حاسي فدول",
     "daira_name": "سيدي لعجال",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 628,
     "commune_name": "الخميس",
     "daira_name": "سيدي لعجال",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 641,
     "commune_name": "سلمانة",
     "daira_name": "مسعد",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 640,
     "commune_name": "سد الرحال",
     "daira_name": "مسعد",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 636,
     "commune_name": "مسعد",
     "daira_name": "مسعد",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 631,
     "commune_name": "قطارة",
     "daira_name": "مسعد",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 623,
     "commune_name": "دلدول",
     "daira_name": "مسعد",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 646,
@@ -4224,29 +4224,29 @@ const algeria_cites = [
     "id": 619,
     "commune_name": "بيرين",
     "daira_name": "بيرين",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 639,
     "commune_name": "أم العظام",
     "daira_name": "فيض البطمة",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 629,
     "commune_name": "فيض البطمة",
     "daira_name": "فيض البطمة",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 616,
     "commune_name": "عمورة",
     "daira_name": "فيض البطمة",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "66",
+    "wilaya_name": "مسعد"
   },
   {
     "id": 645,
@@ -4259,22 +4259,22 @@ const algeria_cites = [
     "id": 630,
     "commune_name": "قرنيني",
     "daira_name": "عين وسارة",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 615,
     "commune_name": "عين وسارة",
     "daira_name": "عين وسارة",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 617,
     "commune_name": "بنهار",
     "daira_name": "بيرين",
-    "wilaya_code": "17",
-    "wilaya_name": "الجلفة"
+    "wilaya_code": "65",
+    "wilaya_name": "عين وسارة"
   },
   {
     "id": 614,
@@ -6065,8 +6065,8 @@ const algeria_cites = [
     "id": 943,
     "commune_name": "أولاد هلال",
     "daira_name": "أولاد عنتر",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 956,
@@ -6079,22 +6079,22 @@ const algeria_cites = [
     "id": 929,
     "commune_name": "قصر البخاري",
     "daira_name": "قصر البخاري",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 934,
     "commune_name": "مفاتحة",
     "daira_name": "قصر البخاري",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 947,
     "commune_name": "السانق",
     "daira_name": "قصر البخاري",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 920,
@@ -6121,22 +6121,22 @@ const algeria_cites = [
     "id": 909,
     "commune_name": "بوعيش",
     "daira_name": "الشهبونية",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 912,
     "commune_name": "بوغزول",
     "daira_name": "الشهبونية",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 914,
     "commune_name": "الشهبونية",
     "daira_name": "الشهبونية",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 926,
@@ -6275,8 +6275,8 @@ const algeria_cites = [
     "id": 908,
     "commune_name": "بوغار",
     "daira_name": "أولاد عنتر",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 949,
@@ -6338,36 +6338,36 @@ const algeria_cites = [
     "id": 899,
     "commune_name": "عين بوسيف",
     "daira_name": "عين بوسيف",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 925,
     "commune_name": "العوينات",
     "daira_name": "عين بوسيف",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 927,
     "commune_name": "الكاف الاخضر",
     "daira_name": "عين بوسيف",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 942,
     "commune_name": "أولاد امعرف",
     "daira_name": "عين بوسيف",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 951,
     "commune_name": "سيدي دامد",
     "daira_name": "عين بوسيف",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 903,
@@ -6415,29 +6415,29 @@ const algeria_cites = [
     "id": 900,
     "commune_name": "عين اقصير",
     "daira_name": "شلالة العذاورة",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 915,
     "commune_name": "شلالة العذاورة",
     "daira_name": "شلالة العذاورة",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 916,
     "commune_name": "شنيقل",
     "daira_name": "شلالة العذاورة",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 958,
     "commune_name": "تفراوت",
     "daira_name": "شلالة العذاورة",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 911,
@@ -6464,22 +6464,22 @@ const algeria_cites = [
     "id": 902,
     "commune_name": "عزيز",
     "daira_name": "عزيز",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 917,
     "commune_name": "دراق",
     "daira_name": "عزيز",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 944,
     "commune_name": "أم الجليل",
     "daira_name": "عزيز",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 918,
@@ -6506,8 +6506,8 @@ const algeria_cites = [
     "id": 938,
     "commune_name": "أولاد عنتر",
     "daira_name": "أولاد عنتر",
-    "wilaya_code": "26",
-    "wilaya_name": "المدية"
+    "wilaya_code": "67",
+    "wilaya_name": "قصر البخاري"
   },
   {
     "id": 970,
@@ -6821,141 +6821,141 @@ const algeria_cites = [
     "id": 1006,
     "commune_name": "بوسعادة",
     "daira_name": "بوسعادة",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1011,
     "commune_name": "الهامل",
     "daira_name": "بوسعادة",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1032,
     "commune_name": "ولتام",
     "daira_name": "بوسعادة",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1003,
     "commune_name": "بن زوه",
     "daira_name": "أولاد سيدي ابراهيم",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1030,
     "commune_name": "أولاد سيدي ابراهيم",
     "daira_name": "أولاد سيدي ابراهيم",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1034,
     "commune_name": "سيدي عامر",
     "daira_name": "سيدي عامر",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1039,
     "commune_name": "تامسة",
     "daira_name": "سيدي عامر",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1001,
     "commune_name": "بن سرور",
     "daira_name": "بن سرور",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1022,
     "commune_name": "محمد بوضياف",
     "daira_name": "بن سرور",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1031,
     "commune_name": "أولاد سليمان",
     "daira_name": "بن سرور",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1041,
     "commune_name": "زرزور",
     "daira_name": "بن سرور",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 996,
     "commune_name": "عين الملح",
     "daira_name": "عين الملح",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 997,
     "commune_name": "عين فارس",
     "daira_name": "عين الملح",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 999,
     "commune_name": "عين الريش",
     "daira_name": "عين الملح",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1005,
     "commune_name": "بئر فضة",
     "daira_name": "عين الملح",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1036,
     "commune_name": "سيدي امحمد",
     "daira_name": "عين الملح",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1020,
     "commune_name": "امجدل",
     "daira_name": "امجدل",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1021,
     "commune_name": "مناعة",
     "daira_name": "امجدل",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1010,
     "commune_name": "جبل مساعد",
     "daira_name": "جبل مساعد",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1037,
     "commune_name": "سليم",
     "daira_name": "جبل مساعد",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1023,
@@ -7031,22 +7031,22 @@ const algeria_cites = [
     "id": 1012,
     "commune_name": "الحوامد",
     "daira_name": "خبانة",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1015,
     "commune_name": "خبانة",
     "daira_name": "خبانة",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 1019,
     "commune_name": "مسيف",
     "daira_name": "خبانة",
-    "wilaya_code": "28",
-    "wilaya_name": "المسيلة"
+    "wilaya_code": "68",
+    "wilaya_name": "بوسعادة"
   },
   {
     "id": 998,
@@ -7633,8 +7633,8 @@ const algeria_cites = [
     "id": 1136,
     "commune_name": "عين العراك",
     "daira_name": "الأبيض سيدي الشيخ",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1151,
@@ -7668,8 +7668,8 @@ const algeria_cites = [
     "id": 1146,
     "commune_name": "البنود",
     "daira_name": "الأبيض سيدي الشيخ",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1139,
@@ -7724,8 +7724,8 @@ const algeria_cites = [
     "id": 1148,
     "commune_name": "المحرة",
     "daira_name": "شلالة",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1150,
@@ -7752,15 +7752,15 @@ const algeria_cites = [
     "id": 1145,
     "commune_name": "الأبيض سيدي الشيخ",
     "daira_name": "الأبيض سيدي الشيخ",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1140,
     "commune_name": "بوسمغون",
     "daira_name": "بوسمغون",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1142,
@@ -7773,15 +7773,15 @@ const algeria_cites = [
     "id": 1143,
     "commune_name": "شلالة",
     "daira_name": "شلالة",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1137,
     "commune_name": "اربوات",
     "daira_name": "الأبيض سيدي الشيخ",
-    "wilaya_code": "32",
-    "wilaya_name": "البيض"
+    "wilaya_code": "69",
+    "wilaya_name": "الأبيض سيدي الشيخ"
   },
   {
     "id": 1159,

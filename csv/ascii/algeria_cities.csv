@@ -50,20 +50,20 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 31,Benairia,Zeboudja,02,Chlef
 46,Labiod Medjadja,Ouled Fares,02,Chlef
 40,Dahra,Taougrit,02,Chlef
-67,El Beidha,Gueltat Sidi Saad,03,Laghouat
-73,Gueltat Sidi Saad,Gueltat Sidi Saad,03,Laghouat
-69,Brida,Brida,03,Laghouat
-66,Ain Sidi Ali,Gueltat Sidi Saad,03,Laghouat
+67,El Beidha,Gueltat Sidi Saad,59,Aflou
+73,Gueltat Sidi Saad,Gueltat Sidi Saad,59,Aflou
+69,Brida,Brida,59,Aflou
+66,Ain Sidi Ali,Gueltat Sidi Saad,59,Aflou
 85,Tadjemout,Ain Madhi,03,Laghouat
-74,Hadj Mechri,Brida,03,Laghouat
-87,Taouiala,Brida,03,Laghouat
-71,El Ghicha,El Ghicha,03,Laghouat
+74,Hadj Mechri,Brida,59,Aflou
+87,Taouiala,Brida,59,Aflou
+71,El Ghicha,El Ghicha,59,Aflou
 86,Tadjrouna,Ain Madhi,03,Laghouat
-82,Sebgag,Aflou,03,Laghouat
-83,Sidi Bouzid,Aflou,03,Laghouat
-80,Oued Morra,Oued Morra,03,Laghouat
+82,Sebgag,Aflou,59,Aflou
+83,Sidi Bouzid,Aflou,59,Aflou
+80,Oued Morra,Oued Morra,59,Aflou
 79,Laghouat,Laghouat,03,Laghouat
-81,Oued M'zi,Oued Morra,03,Laghouat
+81,Oued M'zi,Oued Morra,59,Aflou
 78,Ksar El Hirane,Ksar El Hirane,03,Laghouat
 70,El Assafia,Sidi Makhlouf,03,Laghouat
 84,Sidi Makhlouf,Sidi Makhlouf,03,Laghouat
@@ -73,7 +73,7 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 72,El Haouaita,Ain Madhi,03,Laghouat
 77,Kheneg,Ain Madhi,03,Laghouat
 68,Benacer Benchohra,Ksar El Hirane,03,Laghouat
-64,Aflou,Aflou,03,Laghouat
+64,Aflou,Aflou,59,Aflou
 104,Fkirina,F'kirina,04,Oum El Bouaghi
 102,El Fedjoudj Boughrara Sa,Ain Fekroun,04,Oum El Bouaghi
 91,Ain Fekroun,Ain Fekroun,04,Oum El Bouaghi
@@ -140,8 +140,8 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 173,Tighanimine,Arris,05,Batna
 117,Ain Djasser,Ain Djasser,05,Batna
 134,El Hassi,Ain Djasser,05,Batna
-166,Seggana,Seggana,05,Batna
-175,Tilatou,Seggana,05,Batna
+166,Seggana,Seggana,60,Barika
+175,Tilatou,Seggana,60,Barika
 137,Foum Toub,Ichemoul,05,Batna
 142,Ichemoul,Ichemoul,05,Batna
 143,Inoughissen,Ichemoul,05,Batna
@@ -149,12 +149,12 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 146,Larbaa,Bouzina,05,Batna
 126,Boulhilat,Chemora,05,Batna
 130,Chemora,Chemora,05,Batna
-122,Barika,Barika,05,Batna
-125,Bitam,Barika,05,Batna
-149,M Doukal,Barika,05,Batna
-121,Azil Abedelkader,Djezzar,05,Batna
-133,Djezzar,Djezzar,05,Batna
-157,Ouled Ammar,Djezzar,05,Batna
+122,Barika,Barika,60,Barika
+125,Bitam,Barika,60,Barika
+149,M Doukal,Barika,60,Barika
+121,Azil Abedelkader,Djezzar,60,Barika
+133,Djezzar,Djezzar,60,Barika
+157,Ouled Ammar,Djezzar,60,Barika
 138,Ghassira,Tkout,05,Batna
 144,Kimmel,Tkout,05,Batna
 168,T Kout,Tkout,05,Batna
@@ -220,12 +220,12 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 249,Lichana,Tolga,07,Biskra
 235,Bouchakroun,Tolga,07,Biskra
 252,Mekhadma,Ourlal,07,Biskra
-239,Djemorah,Djemorah,07,Biskra
-236,Branis,Djemorah,07,Biskra
-246,El Outaya,El Outaya,07,Biskra
-245,El Kantara,El Kantara,07,Biskra
+239,Djemorah,Djemorah,61,El Kantara
+236,Branis,Djemorah,61,El Kantara
+246,El Outaya,El Outaya,61,El Kantara
+245,El Kantara,El Kantara,61,El Kantara
 248,Khenguet Sidi Nadji,Zeribet El Oued,07,Biskra
-231,Ain Zaatout,El Kantara,07,Biskra
+231,Ain Zaatout,El Kantara,61,El Kantara
 262,Zeribet El Oued,Zeribet El Oued,07,Biskra
 253,Meziraa,Zeribet El Oued,07,Biskra
 233,Biskra,Biskra,07,Biskra
@@ -332,8 +332,8 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 359,Idles,Tazrouk,11,Tamanrasset
 380,El-Houidjbet,El Malabiod,12,Tébessa
 379,El-Aouinet,El Aouinet,12,Tébessa
-381,Ferkane,Negrine,12,Tébessa
-385,Negrine,Negrine,12,Tébessa
+381,Ferkane,Negrine,62,Bir El Ater
+385,Negrine,Negrine,62,Bir El Ater
 368,Bir Mokkadem,Bir Mokadem,12,Tébessa
 367,Bir Dheheb,Morsott,12,Tébessa
 388,Saf Saf El Ouesra,Oum Ali,12,Tébessa
@@ -353,8 +353,8 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 384,Morsott,Morsott,12,Tébessa
 391,Telidjen,Cheria,12,Tébessa
 372,Cheria,Cheria,12,Tébessa
-378,El Ogla El Malha,Bir El Ater,12,Tébessa
-369,Bir-El-Ater,Bir El Ater,12,Tébessa
+378,El Ogla El Malha,Bir El Ater,62,Bir El Ater
+369,Bir-El-Ater,Bir El Ater,62,Bir El Ater
 390,Tebessa,Tebessa,12,Tébessa
 383,Hammamet,Bir Mokadem,12,Tébessa
 373,El Kouif,El Kouif,12,Tébessa
@@ -368,16 +368,16 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 393,Ain Fezza,Chetouane,13,Tlemcen
 422,Honnaine,Honnaine,13,Tlemcen
 403,Beni Khellad,Honnaine,13,Tlemcen
-436,Sidi Djillali,Sidi Djillali,13,Tlemcen
-410,Bouihi,Sidi Djillali,13,Tlemcen
+436,Sidi Djillali,Sidi Djillali,63,El Aricha
+410,Bouihi,Sidi Djillali,63,El Aricha
 427,Nedroma,Nedroma,13,Tlemcen
 426,M'sirda Fouaga,Marsa Ben Mehdi,13,Tlemcen
 425,Marsa Ben M'hidi,Marsa Ben Mehdi,13,Tlemcen
 437,Sidi Medjahed,Beni Boussaid,13,Tlemcen
 402,Beni Boussaid,Beni Boussaid,13,Tlemcen
 434,Sebdou,Sebdou,13,Tlemcen
-417,El Gor,Sebdou,13,Tlemcen
-414,El Aricha,Sebdou,13,Tlemcen
+417,El Gor,Sebdou,63,El Aricha
+414,El Aricha,Sebdou,63,El Aricha
 409,Bouhlou,Sabra,13,Tlemcen
 423,Maghnia,Maghnia,13,Tlemcen
 420,Hammam Boughrara,Maghnia,13,Tlemcen
@@ -429,18 +429,18 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 460,Madna,Ain Kermes,14,Tiaret
 463,Medrissa,Ain Kermes,14,Tiaret
 476,Sidi Abderrahmane,Ain Kermes,14,Tiaret
-459,Ksar Chellala,Ksar Chellala,14,Tiaret
+459,Ksar Chellala,Ksar Chellala,64,Ksar Chellala
 457,Guertoufa,Rahouia,14,Tiaret
-474,Serghine,Ksar Chellala,14,Tiaret
-486,Zmalet El Emir Abdelkade,Ksar Chellala,14,Tiaret
+474,Serghine,Ksar Chellala,64,Ksar Chellala
+486,Zmalet El Emir Abdelkade,Ksar Chellala,64,Ksar Chellala
 469,Oued Lilli,Oued Lili,14,Tiaret
 477,Sidi Ali Mellal,Oued Lili,14,Tiaret
 454,Djillali Ben Amar,Mechraa Sfa,14,Tiaret
 462,Mechraa Safa,Mechraa Sfa,14,Tiaret
 481,Tagdempt,Mechraa Sfa,14,Tiaret
-450,Bougara,Hamadia,14,Tiaret
-458,Hamadia,Hamadia,14,Tiaret
-471,Rechaiga,Hamadia,14,Tiaret
+450,Bougara,Hamadia,64,Ksar Chellala
+458,Hamadia,Hamadia,64,Ksar Chellala
+471,Rechaiga,Hamadia,64,Ksar Chellala
 484,Tidda,Oued Lili,14,Tiaret
 467,Nadorah,Mahdia,14,Tiaret
 483,Tiaret,Tiaret,14,Tiaret
@@ -586,30 +586,30 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 637,M'liliha,Dar Chioukh,17,Djelfa
 622,Dar Chioukh,Dar Chioukh,17,Djelfa
 644,Taadmit,Ain El Ibel,17,Djelfa
-632,Had Sahary,Had Sahary,17,Djelfa
-620,Bouira Lahdab,Had Sahary,17,Djelfa
-613,Ain Fekka,Had Sahary,17,Djelfa
-643,Sidi Laadjel,Sidi Laadjel,17,Djelfa
-635,Hassi Fedoul,Sidi Laadjel,17,Djelfa
-628,El Khemis,Sidi Laadjel,17,Djelfa
-641,Selmana,Messaad,17,Djelfa
-640,Sed Rahal,Messaad,17,Djelfa
-636,Messaad,Messaad,17,Djelfa
-631,Guettara,Messaad,17,Djelfa
-623,Deldoul,Messaad,17,Djelfa
+632,Had Sahary,Had Sahary,65,Aïn Ouessara
+620,Bouira Lahdab,Had Sahary,65,Aïn Ouessara
+613,Ain Fekka,Had Sahary,65,Aïn Ouessara
+643,Sidi Laadjel,Sidi Laadjel,65,Aïn Ouessara
+635,Hassi Fedoul,Sidi Laadjel,65,Aïn Ouessara
+628,El Khemis,Sidi Laadjel,65,Aïn Ouessara
+641,Selmana,Messaad,66,Messaad
+640,Sed Rahal,Messaad,66,Messaad
+636,Messaad,Messaad,66,Messaad
+631,Guettara,Messaad,66,Messaad
+623,Deldoul,Messaad,66,Messaad
 646,Zaccar,Ain El Ibel,17,Djelfa
 625,Douis,El Idrissia,17,Djelfa
 627,El Idrissia,El Idrissia,17,Djelfa
 611,Ain Chouhada,El Idrissia,17,Djelfa
 624,Djelfa,Djelfa,17,Djelfa
-619,Birine,Birine,17,Djelfa
-639,Oum Laadham,Faidh El Botma,17,Djelfa
-629,Faidh El Botma,Faidh El Botma,17,Djelfa
-616,Amourah,Faidh El Botma,17,Djelfa
+619,Birine,Birine,65,Aïn Ouessara
+639,Oum Laadham,Faidh El Botma,66,Messaad
+629,Faidh El Botma,Faidh El Botma,66,Messaad
+616,Amourah,Faidh El Botma,66,Messaad
 645,Zaafrane,Hassi Bahbah,17,Djelfa
-630,Guernini,Ain Oussera,17,Djelfa
-615,Ain Oussera,Ain Oussera,17,Djelfa
-617,Benhar,Birine,17,Djelfa
+630,Guernini,Ain Oussera,65,Aïn Ouessara
+615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
+617,Benhar,Birine,65,Aïn Ouessara
 614,Ain Maabed,Hassi Bahbah,17,Djelfa
 633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
 638,Moudjebara,Ain El Ibel,17,Djelfa
@@ -865,17 +865,17 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 895,Ibn Ziad,Ibn Ziad,25,Constantine
 896,Messaoud Boudjeriou,Ibn Ziad,25,Constantine
 891,Constantine,Constantine,25,Constantine
-943,Ouled Hellal,Ouled Antar,26,Médéa
+943,Ouled Hellal,Ouled Antar,67,Ksar El Boukhari
 956,Souagui,Souaghi,26,Médéa
-929,Ksar El Boukhari,Ksar El Boukhari,26,Médéa
-934,M'fatha,Ksar El Boukhari,26,Médéa
-947,Saneg,Ksar El Boukhari,26,Médéa
+929,Ksar El Boukhari,Ksar El Boukhari,67,Ksar El Boukhari
+934,M'fatha,Ksar El Boukhari,67,Ksar El Boukhari
+947,Saneg,Ksar El Boukhari,67,Ksar El Boukhari
 920,El Azizia,El Azizia,26,Médéa
 930,Maghraoua,El Azizia,26,Médéa
 935,Mihoub,El Azizia,26,Médéa
-909,Bouaiche,Chahbounia,26,Médéa
-912,Boughzoul,Chahbounia,26,Médéa
-914,Chabounia,Chahbounia,26,Médéa
+909,Bouaiche,Chahbounia,67,Ksar El Boukhari
+912,Boughzoul,Chahbounia,67,Ksar El Boukhari
+914,Chabounia,Chahbounia,67,Ksar El Boukhari
 926,Hannacha,Ouamri,26,Médéa
 936,Ouamri,Ouamri,26,Médéa
 937,Oued Harbil,Ouamri,26,Médéa
@@ -895,7 +895,7 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 923,El Haoudane,Tablat,26,Médéa
 933,Mezerana,Tablat,26,Médéa
 957,Tablat,Tablat,26,Médéa
-908,Boghar,Ouled Antar,26,Médéa
+908,Boghar,Ouled Antar,67,Ksar El Boukhari
 949,Seghouane,Seghouane,26,Médéa
 919,Draa Esmar,Medea,26,Médéa
 931,Medea,Medea,26,Médéa
@@ -904,31 +904,31 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 922,El Hamdania,Ouzera,26,Médéa
 945,Ouzera,Ouzera,26,Médéa
 960,Tizi Mahdi,Ouzera,26,Médéa
-899,Ain Boucif,Ain Boucif,26,Médéa
-925,El Ouinet,Ain Boucif,26,Médéa
-927,Kef Lakhdar,Ain Boucif,26,Médéa
-942,Ouled Emaaraf,Ain Boucif,26,Médéa
-951,Sidi Demed,Ain Boucif,26,Médéa
+899,Ain Boucif,Ain Boucif,67,Ksar El Boukhari
+925,El Ouinet,Ain Boucif,67,Ksar El Boukhari
+927,Kef Lakhdar,Ain Boucif,67,Ksar El Boukhari
+942,Ouled Emaaraf,Ain Boucif,67,Ksar El Boukhari
+951,Sidi Demed,Ain Boucif,67,Ksar El Boukhari
 903,Baata,El Omaria,26,Médéa
 924,El Omaria,El Omaria,26,Médéa
 940,Ouled Brahim,El Omaria,26,Médéa
 907,Bir Ben Laabed,Guelb El Kebir,26,Médéa
 921,El Guelbelkebir,Guelb El Kebir,26,Médéa
 948,Sedraya,Guelb El Kebir,26,Médéa
-900,Ain Ouksir,Chellalat El Adhaoura,26,Médéa
-915,Chelalet El Adhaoura,Chellalat El Adhaoura,26,Médéa
-916,Cheniguel,Chellalat El Adhaoura,26,Médéa
-958,Tafraout,Chellalat El Adhaoura,26,Médéa
+900,Ain Ouksir,Chellalat El Adhaoura,67,Ksar El Boukhari
+915,Chelalet El Adhaoura,Chellalat El Adhaoura,67,Ksar El Boukhari
+916,Cheniguel,Chellalat El Adhaoura,67,Ksar El Boukhari
+958,Tafraout,Chellalat El Adhaoura,67,Ksar El Boukhari
 911,Bouchrahil,Sidi Naamane,26,Médéa
 928,Khams Djouamaa,Sidi Naamane,26,Médéa
 952,Sidi Naamane,Sidi Naamane,26,Médéa
-902,Aziz,Aziz,26,Médéa
-917,Derrag,Aziz,26,Médéa
-944,Oum El Djellil,Aziz,26,Médéa
+902,Aziz,Aziz,67,Ksar El Boukhari
+917,Derrag,Aziz,67,Ksar El Boukhari
+944,Oum El Djellil,Aziz,67,Ksar El Boukhari
 918,Djouab,Souaghi,26,Médéa
 954,Sidi Zahar,Souaghi,26,Médéa
 955,Sidi Ziane,Souaghi,26,Médéa
-938,Ouled Antar,Ouled Antar,26,Médéa
+938,Ouled Antar,Ouled Antar,67,Ksar El Boukhari
 970,Fornaka,Ain Nouicy,27,Mostaganem
 981,Oued El Kheir,Ain Tedeles,27,Mostaganem
 973,Hassiane,Ain Nouicy,27,Mostaganem
@@ -973,26 +973,26 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 1033,Sidi Aissa,Sidi Aissa,28,M'Sila
 995,Ain El Hadjel,Ain El Hadjel,28,M'Sila
 1035,Sidi Hadjeres,Ain El Hadjel,28,M'Sila
-1006,Bou Saada,Bousaada,28,M'Sila
-1011,El Hamel,Bousaada,28,M'Sila
-1032,Oulteme,Bousaada,28,M'Sila
-1003,Benzouh,Ouled Sidi Brahim,28,M'Sila
-1030,Ouled Sidi Brahim,Ouled Sidi Brahim,28,M'Sila
-1034,Sidi Ameur,Sidi Ameur,28,M'Sila
-1039,Tamsa,Sidi Ameur,28,M'Sila
-1001,Ben Srour,Ben Srour,28,M'Sila
-1022,Mohamed Boudiaf,Ben Srour,28,M'Sila
-1031,Ouled Slimane,Ben Srour,28,M'Sila
-1041,Zarzour,Ben Srour,28,M'Sila
-996,Ain El Melh,Ain El Melh,28,M'Sila
-997,Ain Fares,Ain El Melh,28,M'Sila
-999,Ain Rich,Ain El Melh,28,M'Sila
-1005,Bir Foda,Ain El Melh,28,M'Sila
-1036,Sidi M'hamed,Ain El Melh,28,M'Sila
-1020,Medjedel,Medjedel,28,M'Sila
-1021,Menaa,Medjedel,28,M'Sila
-1010,Djebel Messaad,Djebel Messaad,28,M'Sila
-1037,Slim,Djebel Messaad,28,M'Sila
+1006,Bou Saada,Bousaada,68,Bou Saâda
+1011,El Hamel,Bousaada,68,Bou Saâda
+1032,Oulteme,Bousaada,68,Bou Saâda
+1003,Benzouh,Ouled Sidi Brahim,68,Bou Saâda
+1030,Ouled Sidi Brahim,Ouled Sidi Brahim,68,Bou Saâda
+1034,Sidi Ameur,Sidi Ameur,68,Bou Saâda
+1039,Tamsa,Sidi Ameur,68,Bou Saâda
+1001,Ben Srour,Ben Srour,68,Bou Saâda
+1022,Mohamed Boudiaf,Ben Srour,68,Bou Saâda
+1031,Ouled Slimane,Ben Srour,68,Bou Saâda
+1041,Zarzour,Ben Srour,68,Bou Saâda
+996,Ain El Melh,Ain El Melh,68,Bou Saâda
+997,Ain Fares,Ain El Melh,68,Bou Saâda
+999,Ain Rich,Ain El Melh,68,Bou Saâda
+1005,Bir Foda,Ain El Melh,68,Bou Saâda
+1036,Sidi M'hamed,Ain El Melh,68,Bou Saâda
+1020,Medjedel,Medjedel,68,Bou Saâda
+1021,Menaa,Medjedel,68,Bou Saâda
+1010,Djebel Messaad,Djebel Messaad,68,Bou Saâda
+1037,Slim,Djebel Messaad,68,Bou Saâda
 1023,M'sila,M'sila,28,M'Sila
 1013,Hammam Dalaa,Hammam Dalaa,28,M'Sila
 1025,Ouanougha,Hammam Dalaa,28,M'Sila
@@ -1003,9 +1003,9 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 1017,Maarif,Chellal,28,M'Sila
 1027,Ouled Derradj,Ouled Derradj,28,M'Sila
 1038,Souamaa,Ouled Derradj,28,M'Sila
-1012,El Houamed,Khoubana,28,M'Sila
-1015,Khoubana,Khoubana,28,M'Sila
-1019,M'cif,Khoubana,28,M'Sila
+1012,El Houamed,Khoubana,68,Bou Saâda
+1015,Khoubana,Khoubana,68,Bou Saâda
+1019,M'cif,Khoubana,68,Bou Saâda
 998,Ain Khadra,Magra,28,M'Sila
 1026,Ouled Addi Guebala,Ouled Derradj,28,M'Sila
 1075,Oued El Abtal,Oued El Abtal,29,Mascara
@@ -1089,12 +1089,12 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 1130,Messerghin,Boutlelis,31,Oran
 1118,Bousfer,Ain Turk,31,Oran
 1135,Tafraoui,Oued Tlelat,31,Oran
-1136,Ain El Orak,Labiodh Sidi Cheikh,32,El Bayadh
+1136,Ain El Orak,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 1151,Krakda,Brezina,32,El Bayadh
 1154,Sidi Slimane,Boualem,32,El Bayadh
 1153,Sidi Ameur,Boualem,32,El Bayadh
 1138,Boualem,Boualem,32,El Bayadh
-1146,El Bnoud,Labiodh Sidi Cheikh,32,El Bayadh
+1146,El Bnoud,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 1139,Bougtoub,Bougtoub,32,El Bayadh
 1147,El Kheiter,Bougtoub,32,El Bayadh
 1157,Tousmouline,Bougtoub,32,El Bayadh
@@ -1102,15 +1102,15 @@ id,commune_name,daira_name,wilaya_code,wilaya_name
 1156,Stitten,Boualem,32,El Bayadh
 1144,El Bayadh,El Bayadh,32,El Bayadh
 1152,Rogassa,Rogassa,32,El Bayadh
-1148,El Mehara,Chellala,32,El Bayadh
+1148,El Mehara,Chellala,69,El Abiodh Sidi Cheikh
 1150,Kef El Ahmar,Rogassa,32,El Bayadh
 1141,Brezina,Brezina,32,El Bayadh
 1149,Ghassoul,Brezina,32,El Bayadh
-1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
-1140,Boussemghoun,Boussemghoun,32,El Bayadh
+1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
+1140,Boussemghoun,Boussemghoun,69,El Abiodh Sidi Cheikh
 1142,Cheguig,Rogassa,32,El Bayadh
-1143,Chellala,Chellala,32,El Bayadh
-1137,Arbaouat,Labiodh Sidi Cheikh,32,El Bayadh
+1143,Chellala,Chellala,69,El Abiodh Sidi Cheikh
+1137,Arbaouat,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 1159,Bordj Omar Driss,In Amenas,33,Illizi
 1160,Debdeb,In Amenas,33,Illizi
 1163,In Amenas,In Amenas,33,Illizi

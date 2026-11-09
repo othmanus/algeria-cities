@@ -1627,8 +1627,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "Aflou",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     163 => [
         "post_code" => "03002",
@@ -1667,8 +1667,8 @@ return [
         "commune_id" => 69,
         "commune_name" => "Brida",
         "daira_name" => "Brida",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     167 => [
         "post_code" => "03006",
@@ -1747,8 +1747,8 @@ return [
         "commune_id" => 67,
         "commune_name" => "El Beidha",
         "daira_name" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     175 => [
         "post_code" => "03014",
@@ -1817,8 +1817,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "Aflou",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     182 => [
         "post_code" => "03021",
@@ -1827,8 +1827,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "Aflou",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     183 => [
         "post_code" => "03022",
@@ -1847,8 +1847,8 @@ return [
         "commune_id" => 71,
         "commune_name" => "El Ghicha",
         "daira_name" => "El Ghicha",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     185 => [
         "post_code" => "03024",
@@ -1857,8 +1857,8 @@ return [
         "commune_id" => 83,
         "commune_name" => "Sidi Bouzid",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     186 => [
         "post_code" => "03025",
@@ -1867,8 +1867,8 @@ return [
         "commune_id" => 73,
         "commune_name" => "Gueltat Sidi Saad",
         "daira_name" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     187 => [
         "post_code" => "03026",
@@ -1877,8 +1877,8 @@ return [
         "commune_id" => 87,
         "commune_name" => "Taouiala",
         "daira_name" => "Brida",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     188 => [
         "post_code" => "03027",
@@ -1887,8 +1887,8 @@ return [
         "commune_id" => 80,
         "commune_name" => "Oued Morra",
         "daira_name" => "Oued Morra",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     189 => [
         "post_code" => "03028",
@@ -1897,8 +1897,8 @@ return [
         "commune_id" => 66,
         "commune_name" => "Ain Sidi Ali",
         "daira_name" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     190 => [
         "post_code" => "03030",
@@ -1907,8 +1907,8 @@ return [
         "commune_id" => 83,
         "commune_name" => "Sidi Bouzid",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     191 => [
         "post_code" => "03031",
@@ -1917,8 +1917,8 @@ return [
         "commune_id" => 83,
         "commune_name" => "Sidi Bouzid",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     192 => [
         "post_code" => "03032",
@@ -1947,8 +1947,8 @@ return [
         "commune_id" => 82,
         "commune_name" => "Sebgag",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     195 => [
         "post_code" => "03035",
@@ -1957,8 +1957,8 @@ return [
         "commune_id" => 71,
         "commune_name" => "El Ghicha",
         "daira_name" => "El Ghicha",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     196 => [
         "post_code" => "03036",
@@ -1977,8 +1977,8 @@ return [
         "commune_id" => 71,
         "commune_name" => "El Ghicha",
         "daira_name" => "El Ghicha",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     198 => [
         "post_code" => "03038",
@@ -1987,8 +1987,8 @@ return [
         "commune_id" => 74,
         "commune_name" => "Hadj Mechri",
         "daira_name" => "Brida",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     199 => [
         "post_code" => "03040",
@@ -2007,8 +2007,8 @@ return [
         "commune_id" => 81,
         "commune_name" => "Oued M'zi",
         "daira_name" => "Oued Morra",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     201 => [
         "post_code" => "03042",
@@ -2027,8 +2027,8 @@ return [
         "commune_id" => 73,
         "commune_name" => "Gueltat Sidi Saad",
         "daira_name" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     203 => [
         "post_code" => "03044",
@@ -2037,8 +2037,8 @@ return [
         "commune_id" => 73,
         "commune_name" => "Gueltat Sidi Saad",
         "daira_name" => "Gueltat Sidi Saad",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     204 => [
         "post_code" => "03046",
@@ -2057,8 +2057,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "Aflou",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     206 => [
         "post_code" => "03048",
@@ -2087,8 +2087,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "Aflou",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     209 => [
         "post_code" => "03051",
@@ -2117,8 +2117,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "Aflou",
         "daira_name" => "Aflou",
-        "wilaya_code" => "03",
-        "wilaya_name" => "Laghouat"
+        "wilaya_code" => "59",
+        "wilaya_name" => "Aflou"
     ],
     212 => [
         "post_code" => "03054",
@@ -2907,8 +2907,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "Barika",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     291 => [
         "post_code" => "05002",
@@ -3117,8 +3117,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "Barika",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     312 => [
         "post_code" => "05023",
@@ -3167,8 +3167,8 @@ return [
         "commune_id" => 166,
         "commune_name" => "Seggana",
         "daira_name" => "Seggana",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     317 => [
         "post_code" => "05028",
@@ -3177,8 +3177,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "Barika",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     318 => [
         "post_code" => "05029",
@@ -3267,8 +3267,8 @@ return [
         "commune_id" => 149,
         "commune_name" => "M Doukal",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     327 => [
         "post_code" => "05038",
@@ -3347,8 +3347,8 @@ return [
         "commune_id" => 125,
         "commune_name" => "Bitam",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     335 => [
         "post_code" => "05046",
@@ -3357,8 +3357,8 @@ return [
         "commune_id" => 133,
         "commune_name" => "Djezzar",
         "daira_name" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     336 => [
         "post_code" => "05047",
@@ -3757,8 +3757,8 @@ return [
         "commune_id" => 121,
         "commune_name" => "Azil Abedelkader",
         "daira_name" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     376 => [
         "post_code" => "05088",
@@ -4077,8 +4077,8 @@ return [
         "commune_id" => 125,
         "commune_name" => "Bitam",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     408 => [
         "post_code" => "05120",
@@ -4097,8 +4097,8 @@ return [
         "commune_id" => 157,
         "commune_name" => "Ouled Ammar",
         "daira_name" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     410 => [
         "post_code" => "05122",
@@ -4137,8 +4137,8 @@ return [
         "commune_id" => 166,
         "commune_name" => "Seggana",
         "daira_name" => "Seggana",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     414 => [
         "post_code" => "05126",
@@ -4157,8 +4157,8 @@ return [
         "commune_id" => 175,
         "commune_name" => "Tilatou",
         "daira_name" => "Seggana",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     416 => [
         "post_code" => "05128",
@@ -4187,8 +4187,8 @@ return [
         "commune_id" => 121,
         "commune_name" => "Azil Abedelkader",
         "daira_name" => "Djezzar",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     419 => [
         "post_code" => "05131",
@@ -4247,8 +4247,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "Barika",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     425 => [
         "post_code" => "05137",
@@ -4277,8 +4277,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "Barika",
         "daira_name" => "Barika",
-        "wilaya_code" => "05",
-        "wilaya_name" => "Batna"
+        "wilaya_code" => "60",
+        "wilaya_name" => "Barika"
     ],
     428 => [
         "post_code" => "05140",
@@ -6017,8 +6017,8 @@ return [
         "commune_id" => 245,
         "commune_name" => "El Kantara",
         "daira_name" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     602 => [
         "post_code" => "07009",
@@ -6067,8 +6067,8 @@ return [
         "commune_id" => 231,
         "commune_name" => "Ain Zaatout",
         "daira_name" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     607 => [
         "post_code" => "07014",
@@ -6167,8 +6167,8 @@ return [
         "commune_id" => 236,
         "commune_name" => "Branis",
         "daira_name" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     617 => [
         "post_code" => "07024",
@@ -6187,8 +6187,8 @@ return [
         "commune_id" => 239,
         "commune_name" => "Djemorah",
         "daira_name" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     619 => [
         "post_code" => "07026",
@@ -6227,8 +6227,8 @@ return [
         "commune_id" => 245,
         "commune_name" => "El Kantara",
         "daira_name" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     623 => [
         "post_code" => "07030",
@@ -6237,8 +6237,8 @@ return [
         "commune_id" => 246,
         "commune_name" => "El Outaya",
         "daira_name" => "El Outaya",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     624 => [
         "post_code" => "07031",
@@ -6307,8 +6307,8 @@ return [
         "commune_id" => 246,
         "commune_name" => "El Outaya",
         "daira_name" => "El Outaya",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     631 => [
         "post_code" => "07039",
@@ -6367,8 +6367,8 @@ return [
         "commune_id" => 246,
         "commune_name" => "El Outaya",
         "daira_name" => "El Outaya",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     637 => [
         "post_code" => "07050",
@@ -6407,8 +6407,8 @@ return [
         "commune_id" => 245,
         "commune_name" => "El Kantara",
         "daira_name" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     641 => [
         "post_code" => "07054",
@@ -6457,8 +6457,8 @@ return [
         "commune_id" => 239,
         "commune_name" => "Djemorah",
         "daira_name" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     646 => [
         "post_code" => "07060",
@@ -6597,8 +6597,8 @@ return [
         "commune_id" => 231,
         "commune_name" => "Ain Zaatout",
         "daira_name" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     660 => [
         "post_code" => "07082",
@@ -6707,8 +6707,8 @@ return [
         "commune_id" => 236,
         "commune_name" => "Branis",
         "daira_name" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     671 => [
         "post_code" => "07094",
@@ -6717,8 +6717,8 @@ return [
         "commune_id" => 239,
         "commune_name" => "Djemorah",
         "daira_name" => "Djemorah",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     672 => [
         "post_code" => "07095",
@@ -6747,8 +6747,8 @@ return [
         "commune_id" => 231,
         "commune_name" => "Ain Zaatout",
         "daira_name" => "El Kantara",
-        "wilaya_code" => "07",
-        "wilaya_name" => "Biskra"
+        "wilaya_code" => "61",
+        "wilaya_name" => "El Kantara"
     ],
     675 => [
         "post_code" => "30059",
@@ -9397,8 +9397,8 @@ return [
         "commune_id" => 369,
         "commune_name" => "Bir-El-Ater",
         "daira_name" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     940 => [
         "post_code" => "12002",
@@ -9477,8 +9477,8 @@ return [
         "commune_id" => 369,
         "commune_name" => "Bir-El-Ater",
         "daira_name" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     948 => [
         "post_code" => "12011",
@@ -9577,8 +9577,8 @@ return [
         "commune_id" => 369,
         "commune_name" => "Bir-El-Ater",
         "daira_name" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     958 => [
         "post_code" => "12021",
@@ -9617,8 +9617,8 @@ return [
         "commune_id" => 385,
         "commune_name" => "Negrine",
         "daira_name" => "Negrine",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     962 => [
         "post_code" => "12025",
@@ -9807,8 +9807,8 @@ return [
         "commune_id" => 378,
         "commune_name" => "El Ogla El Malha",
         "daira_name" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     981 => [
         "post_code" => "12044",
@@ -9817,8 +9817,8 @@ return [
         "commune_id" => 381,
         "commune_name" => "Ferkane",
         "daira_name" => "Negrine",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     982 => [
         "post_code" => "12045",
@@ -9827,8 +9827,8 @@ return [
         "commune_id" => 378,
         "commune_name" => "El Ogla El Malha",
         "daira_name" => "Bir El Ater",
-        "wilaya_code" => "12",
-        "wilaya_name" => "Tébessa"
+        "wilaya_code" => "62",
+        "wilaya_name" => "Bir El Ater"
     ],
     983 => [
         "post_code" => "12046",
@@ -10397,8 +10397,8 @@ return [
         "commune_id" => 410,
         "commune_name" => "Bouihi",
         "daira_name" => "Sidi Djillali",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1040 => [
         "post_code" => "13031",
@@ -10407,8 +10407,8 @@ return [
         "commune_id" => 414,
         "commune_name" => "El Aricha",
         "daira_name" => "Sebdou",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1041 => [
         "post_code" => "13032",
@@ -10437,8 +10437,8 @@ return [
         "commune_id" => 417,
         "commune_name" => "El Gor",
         "daira_name" => "Sebdou",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1044 => [
         "post_code" => "13035",
@@ -10527,8 +10527,8 @@ return [
         "commune_id" => 436,
         "commune_name" => "Sidi Djillali",
         "daira_name" => "Sidi Djillali",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1053 => [
         "post_code" => "13044",
@@ -10687,8 +10687,8 @@ return [
         "commune_id" => 414,
         "commune_name" => "El Aricha",
         "daira_name" => "Sebdou",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1069 => [
         "post_code" => "13060",
@@ -10757,8 +10757,8 @@ return [
         "commune_id" => 410,
         "commune_name" => "Bouihi",
         "daira_name" => "Sidi Djillali",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1076 => [
         "post_code" => "13067",
@@ -11297,8 +11297,8 @@ return [
         "commune_id" => 436,
         "commune_name" => "Sidi Djillali",
         "daira_name" => "Sidi Djillali",
-        "wilaya_code" => "13",
-        "wilaya_name" => "Tlemcen"
+        "wilaya_code" => "63",
+        "wilaya_name" => "El Aricha"
     ],
     1130 => [
         "post_code" => "31051",
@@ -11357,8 +11357,8 @@ return [
         "commune_id" => 459,
         "commune_name" => "Ksar Chellala",
         "daira_name" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1136 => [
         "post_code" => "14003",
@@ -11447,8 +11447,8 @@ return [
         "commune_id" => 459,
         "commune_name" => "Ksar Chellala",
         "daira_name" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1145 => [
         "post_code" => "14012",
@@ -11517,8 +11517,8 @@ return [
         "commune_id" => 450,
         "commune_name" => "Bougara",
         "daira_name" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1152 => [
         "post_code" => "14019",
@@ -11537,8 +11537,8 @@ return [
         "commune_id" => 458,
         "commune_name" => "Hamadia",
         "daira_name" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1154 => [
         "post_code" => "14021",
@@ -11587,8 +11587,8 @@ return [
         "commune_id" => 471,
         "commune_name" => "Rechaiga",
         "daira_name" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1159 => [
         "post_code" => "14027",
@@ -11697,8 +11697,8 @@ return [
         "commune_id" => 486,
         "commune_name" => "Zmalet El Emir Abdelkade",
         "daira_name" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1170 => [
         "post_code" => "14040",
@@ -11727,8 +11727,8 @@ return [
         "commune_id" => 459,
         "commune_name" => "Ksar Chellala",
         "daira_name" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1173 => [
         "post_code" => "14043",
@@ -11817,8 +11817,8 @@ return [
         "commune_id" => 474,
         "commune_name" => "Serghine",
         "daira_name" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1182 => [
         "post_code" => "14052",
@@ -11927,8 +11927,8 @@ return [
         "commune_id" => 474,
         "commune_name" => "Serghine",
         "daira_name" => "Ksar Chellala",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1193 => [
         "post_code" => "14064",
@@ -12037,8 +12037,8 @@ return [
         "commune_id" => 458,
         "commune_name" => "Hamadia",
         "daira_name" => "Hamadia",
-        "wilaya_code" => "14",
-        "wilaya_name" => "Tiaret"
+        "wilaya_code" => "64",
+        "wilaya_name" => "Ksar Chellala"
     ],
     1204 => [
         "post_code" => "14075",
@@ -16417,8 +16417,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1642 => [
         "post_code" => "17002",
@@ -16437,8 +16437,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1644 => [
         "post_code" => "17004",
@@ -16447,8 +16447,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1645 => [
         "post_code" => "17005",
@@ -16457,8 +16457,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1646 => [
         "post_code" => "17006",
@@ -16527,8 +16527,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1653 => [
         "post_code" => "17013",
@@ -16537,8 +16537,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1654 => [
         "post_code" => "17014",
@@ -16547,8 +16547,8 @@ return [
         "commune_id" => 619,
         "commune_name" => "Birine",
         "daira_name" => "Birine",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1655 => [
         "post_code" => "17015",
@@ -16617,8 +16617,8 @@ return [
         "commune_id" => 629,
         "commune_name" => "Faidh El Botma",
         "daira_name" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1662 => [
         "post_code" => "17022",
@@ -16627,8 +16627,8 @@ return [
         "commune_id" => 632,
         "commune_name" => "Had Sahary",
         "daira_name" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1663 => [
         "post_code" => "17023",
@@ -16647,8 +16647,8 @@ return [
         "commune_id" => 643,
         "commune_name" => "Sidi Laadjel",
         "daira_name" => "Sidi Laadjel",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1665 => [
         "post_code" => "17025",
@@ -16677,8 +16677,8 @@ return [
         "commune_id" => 619,
         "commune_name" => "Birine",
         "daira_name" => "Birine",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1668 => [
         "post_code" => "17028",
@@ -16737,8 +16737,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1674 => [
         "post_code" => "17034",
@@ -16747,8 +16747,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1675 => [
         "post_code" => "17035",
@@ -16757,8 +16757,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1676 => [
         "post_code" => "17036",
@@ -16807,8 +16807,8 @@ return [
         "commune_id" => 613,
         "commune_name" => "Ain Fekka",
         "daira_name" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1681 => [
         "post_code" => "17041",
@@ -16827,8 +16827,8 @@ return [
         "commune_id" => 616,
         "commune_name" => "Amourah",
         "daira_name" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1683 => [
         "post_code" => "17043",
@@ -16837,8 +16837,8 @@ return [
         "commune_id" => 617,
         "commune_name" => "Benhar",
         "daira_name" => "Birine",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1684 => [
         "post_code" => "17044",
@@ -16847,8 +16847,8 @@ return [
         "commune_id" => 620,
         "commune_name" => "Bouira Lahdab",
         "daira_name" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1685 => [
         "post_code" => "17045",
@@ -16867,8 +16867,8 @@ return [
         "commune_id" => 623,
         "commune_name" => "Deldoul",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1687 => [
         "post_code" => "17047",
@@ -16877,8 +16877,8 @@ return [
         "commune_id" => 617,
         "commune_name" => "Benhar",
         "daira_name" => "Birine",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1688 => [
         "post_code" => "17048",
@@ -16887,8 +16887,8 @@ return [
         "commune_id" => 623,
         "commune_name" => "Deldoul",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1689 => [
         "post_code" => "17049",
@@ -16917,8 +16917,8 @@ return [
         "commune_id" => 628,
         "commune_name" => "El Khemis",
         "daira_name" => "Sidi Laadjel",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1692 => [
         "post_code" => "17052",
@@ -16937,8 +16937,8 @@ return [
         "commune_id" => 630,
         "commune_name" => "Guernini",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1694 => [
         "post_code" => "17055",
@@ -16947,8 +16947,8 @@ return [
         "commune_id" => 631,
         "commune_name" => "Guettara",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1695 => [
         "post_code" => "17056",
@@ -16957,8 +16957,8 @@ return [
         "commune_id" => 635,
         "commune_name" => "Hassi Fedoul",
         "daira_name" => "Sidi Laadjel",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1696 => [
         "post_code" => "17057",
@@ -17007,8 +17007,8 @@ return [
         "commune_id" => 639,
         "commune_name" => "Oum Laadham",
         "daira_name" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1701 => [
         "post_code" => "17062",
@@ -17017,8 +17017,8 @@ return [
         "commune_id" => 640,
         "commune_name" => "Sed Rahal",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1702 => [
         "post_code" => "17063",
@@ -17027,8 +17027,8 @@ return [
         "commune_id" => 641,
         "commune_name" => "Selmana",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1703 => [
         "post_code" => "17064",
@@ -17057,8 +17057,8 @@ return [
         "commune_id" => 631,
         "commune_name" => "Guettara",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1706 => [
         "post_code" => "17067",
@@ -17067,8 +17067,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1707 => [
         "post_code" => "17068",
@@ -17087,8 +17087,8 @@ return [
         "commune_id" => 629,
         "commune_name" => "Faidh El Botma",
         "daira_name" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1709 => [
         "post_code" => "17070",
@@ -17097,8 +17097,8 @@ return [
         "commune_id" => 623,
         "commune_name" => "Deldoul",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1710 => [
         "post_code" => "17071",
@@ -17107,8 +17107,8 @@ return [
         "commune_id" => 632,
         "commune_name" => "Had Sahary",
         "daira_name" => "Had Sahary",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1711 => [
         "post_code" => "17072",
@@ -17137,8 +17137,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1714 => [
         "post_code" => "17075",
@@ -17147,8 +17147,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1715 => [
         "post_code" => "17076",
@@ -17227,8 +17227,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "Messaad",
         "daira_name" => "Messaad",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1723 => [
         "post_code" => "17084",
@@ -17237,8 +17237,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "Ain Oussera",
         "daira_name" => "Ain Oussera",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "65",
+        "wilaya_name" => "Aïn Ouessara"
     ],
     1724 => [
         "post_code" => "17085",
@@ -17307,8 +17307,8 @@ return [
         "commune_id" => 616,
         "commune_name" => "Amourah",
         "daira_name" => "Faidh El Botma",
-        "wilaya_code" => "17",
-        "wilaya_name" => "Djelfa"
+        "wilaya_code" => "66",
+        "wilaya_name" => "Messaad"
     ],
     1731 => [
         "post_code" => "18000",
@@ -23637,8 +23637,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "Ksar El Boukhari",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2364 => [
         "post_code" => "26004",
@@ -23657,8 +23657,8 @@ return [
         "commune_id" => 899,
         "commune_name" => "Ain Boucif",
         "daira_name" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2366 => [
         "post_code" => "26006",
@@ -23677,8 +23677,8 @@ return [
         "commune_id" => 915,
         "commune_name" => "Chelalet El Adhaoura",
         "daira_name" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2368 => [
         "post_code" => "26008",
@@ -23707,8 +23707,8 @@ return [
         "commune_id" => 899,
         "commune_name" => "Ain Boucif",
         "daira_name" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2371 => [
         "post_code" => "26011",
@@ -23737,8 +23737,8 @@ return [
         "commune_id" => 908,
         "commune_name" => "Boghar",
         "daira_name" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2374 => [
         "post_code" => "26014",
@@ -23757,8 +23757,8 @@ return [
         "commune_id" => 917,
         "commune_name" => "Derrag",
         "daira_name" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2376 => [
         "post_code" => "26016",
@@ -23837,8 +23837,8 @@ return [
         "commune_id" => 912,
         "commune_name" => "Boughzoul",
         "daira_name" => "Chahbounia",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2384 => [
         "post_code" => "26024",
@@ -23867,8 +23867,8 @@ return [
         "commune_id" => 914,
         "commune_name" => "Chabounia",
         "daira_name" => "Chahbounia",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2387 => [
         "post_code" => "26027",
@@ -23887,8 +23887,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "Ksar El Boukhari",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2389 => [
         "post_code" => "26029",
@@ -23897,8 +23897,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "Ksar El Boukhari",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2390 => [
         "post_code" => "26030",
@@ -23957,8 +23957,8 @@ return [
         "commune_id" => 938,
         "commune_name" => "Ouled Antar",
         "daira_name" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2396 => [
         "post_code" => "26036",
@@ -23977,8 +23977,8 @@ return [
         "commune_id" => 943,
         "commune_name" => "Ouled Hellal",
         "daira_name" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2398 => [
         "post_code" => "26038",
@@ -23987,8 +23987,8 @@ return [
         "commune_id" => 942,
         "commune_name" => "Ouled Emaaraf",
         "daira_name" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2399 => [
         "post_code" => "26039",
@@ -24007,8 +24007,8 @@ return [
         "commune_id" => 902,
         "commune_name" => "Aziz",
         "daira_name" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2401 => [
         "post_code" => "26041",
@@ -24027,8 +24027,8 @@ return [
         "commune_id" => 944,
         "commune_name" => "Oum El Djellil",
         "daira_name" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2403 => [
         "post_code" => "26044",
@@ -24067,8 +24067,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "Ksar El Boukhari",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2407 => [
         "post_code" => "26048",
@@ -24077,8 +24077,8 @@ return [
         "commune_id" => 900,
         "commune_name" => "Ain Ouksir",
         "daira_name" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2408 => [
         "post_code" => "26049",
@@ -24087,8 +24087,8 @@ return [
         "commune_id" => 934,
         "commune_name" => "M'fatha",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2409 => [
         "post_code" => "26050",
@@ -24107,8 +24107,8 @@ return [
         "commune_id" => 927,
         "commune_name" => "Kef Lakhdar",
         "daira_name" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2411 => [
         "post_code" => "26052",
@@ -24157,8 +24157,8 @@ return [
         "commune_id" => 916,
         "commune_name" => "Cheniguel",
         "daira_name" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2416 => [
         "post_code" => "26058",
@@ -24227,8 +24227,8 @@ return [
         "commune_id" => 944,
         "commune_name" => "Oum El Djellil",
         "daira_name" => "Aziz",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2423 => [
         "post_code" => "26066",
@@ -24247,8 +24247,8 @@ return [
         "commune_id" => 947,
         "commune_name" => "Saneg",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2425 => [
         "post_code" => "26068",
@@ -24267,8 +24267,8 @@ return [
         "commune_id" => 951,
         "commune_name" => "Sidi Demed",
         "daira_name" => "Ain Boucif",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2427 => [
         "post_code" => "26070",
@@ -24307,8 +24307,8 @@ return [
         "commune_id" => 958,
         "commune_name" => "Tafraout",
         "daira_name" => "Chellalat El Adhaoura",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2431 => [
         "post_code" => "26075",
@@ -24337,8 +24337,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "Ksar El Boukhari",
         "daira_name" => "Ksar El Boukhari",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2434 => [
         "post_code" => "26078",
@@ -24357,8 +24357,8 @@ return [
         "commune_id" => 943,
         "commune_name" => "Ouled Hellal",
         "daira_name" => "Ouled Antar",
-        "wilaya_code" => "26",
-        "wilaya_name" => "Médéa"
+        "wilaya_code" => "67",
+        "wilaya_name" => "Ksar El Boukhari"
     ],
     2436 => [
         "post_code" => "26080",
@@ -25207,8 +25207,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2521 => [
         "post_code" => "28002",
@@ -25237,8 +25237,8 @@ return [
         "commune_id" => 996,
         "commune_name" => "Ain El Melh",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2524 => [
         "post_code" => "28005",
@@ -25287,8 +25287,8 @@ return [
         "commune_id" => 1001,
         "commune_name" => "Ben Srour",
         "daira_name" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2529 => [
         "post_code" => "28010",
@@ -25317,8 +25317,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2532 => [
         "post_code" => "28013",
@@ -25327,8 +25327,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2533 => [
         "post_code" => "28014",
@@ -25347,8 +25347,8 @@ return [
         "commune_id" => 1011,
         "commune_name" => "El Hamel",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2535 => [
         "post_code" => "28016",
@@ -25357,8 +25357,8 @@ return [
         "commune_id" => 1020,
         "commune_name" => "Medjedel",
         "daira_name" => "Medjedel",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2536 => [
         "post_code" => "28017",
@@ -25427,8 +25427,8 @@ return [
         "commune_id" => 997,
         "commune_name" => "Ain Fares",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2543 => [
         "post_code" => "28024",
@@ -25437,8 +25437,8 @@ return [
         "commune_id" => 1010,
         "commune_name" => "Djebel Messaad",
         "daira_name" => "Djebel Messaad",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2544 => [
         "post_code" => "28025",
@@ -25447,8 +25447,8 @@ return [
         "commune_id" => 999,
         "commune_name" => "Ain Rich",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2545 => [
         "post_code" => "28026",
@@ -25477,8 +25477,8 @@ return [
         "commune_id" => 1003,
         "commune_name" => "Benzouh",
         "daira_name" => "Ouled Sidi Brahim",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2548 => [
         "post_code" => "28029",
@@ -25487,8 +25487,8 @@ return [
         "commune_id" => 1019,
         "commune_name" => "M'cif",
         "daira_name" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2549 => [
         "post_code" => "28030",
@@ -25497,8 +25497,8 @@ return [
         "commune_id" => 1015,
         "commune_name" => "Khoubana",
         "daira_name" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2550 => [
         "post_code" => "28031",
@@ -25507,8 +25507,8 @@ return [
         "commune_id" => 1031,
         "commune_name" => "Ouled Slimane",
         "daira_name" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2551 => [
         "post_code" => "28032",
@@ -25517,8 +25517,8 @@ return [
         "commune_id" => 1030,
         "commune_name" => "Ouled Sidi Brahim",
         "daira_name" => "Ouled Sidi Brahim",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2552 => [
         "post_code" => "28033",
@@ -25527,8 +25527,8 @@ return [
         "commune_id" => 1022,
         "commune_name" => "Mohamed Boudiaf",
         "daira_name" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2553 => [
         "post_code" => "28034",
@@ -25567,8 +25567,8 @@ return [
         "commune_id" => 1037,
         "commune_name" => "Slim",
         "daira_name" => "Djebel Messaad",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2557 => [
         "post_code" => "28038",
@@ -25597,8 +25597,8 @@ return [
         "commune_id" => 1003,
         "commune_name" => "Benzouh",
         "daira_name" => "Ouled Sidi Brahim",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2560 => [
         "post_code" => "28041",
@@ -25627,8 +25627,8 @@ return [
         "commune_id" => 1005,
         "commune_name" => "Bir Foda",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2563 => [
         "post_code" => "28044",
@@ -25647,8 +25647,8 @@ return [
         "commune_id" => 1036,
         "commune_name" => "Sidi M'hamed",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2565 => [
         "post_code" => "28046",
@@ -25697,8 +25697,8 @@ return [
         "commune_id" => 1015,
         "commune_name" => "Khoubana",
         "daira_name" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2570 => [
         "post_code" => "28051",
@@ -25717,8 +25717,8 @@ return [
         "commune_id" => 1019,
         "commune_name" => "M'cif",
         "daira_name" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2572 => [
         "post_code" => "28053",
@@ -25737,8 +25737,8 @@ return [
         "commune_id" => 1032,
         "commune_name" => "Oulteme",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2574 => [
         "post_code" => "28055",
@@ -25767,8 +25767,8 @@ return [
         "commune_id" => 1030,
         "commune_name" => "Ouled Sidi Brahim",
         "daira_name" => "Ouled Sidi Brahim",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2577 => [
         "post_code" => "28059",
@@ -25777,8 +25777,8 @@ return [
         "commune_id" => 1005,
         "commune_name" => "Bir Foda",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2578 => [
         "post_code" => "28060",
@@ -25797,8 +25797,8 @@ return [
         "commune_id" => 1032,
         "commune_name" => "Oulteme",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2580 => [
         "post_code" => "28062",
@@ -25817,8 +25817,8 @@ return [
         "commune_id" => 1019,
         "commune_name" => "M'cif",
         "daira_name" => "Khoubana",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2582 => [
         "post_code" => "28064",
@@ -25837,8 +25837,8 @@ return [
         "commune_id" => 1039,
         "commune_name" => "Tamsa",
         "daira_name" => "Sidi Ameur",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2584 => [
         "post_code" => "28066",
@@ -25847,8 +25847,8 @@ return [
         "commune_id" => 1036,
         "commune_name" => "Sidi M'hamed",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2585 => [
         "post_code" => "28067",
@@ -25857,8 +25857,8 @@ return [
         "commune_id" => 1041,
         "commune_name" => "Zarzour",
         "daira_name" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2586 => [
         "post_code" => "28068",
@@ -25877,8 +25877,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2588 => [
         "post_code" => "28071",
@@ -25887,8 +25887,8 @@ return [
         "commune_id" => 996,
         "commune_name" => "Ain El Melh",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2589 => [
         "post_code" => "28073",
@@ -25897,8 +25897,8 @@ return [
         "commune_id" => 1022,
         "commune_name" => "Mohamed Boudiaf",
         "daira_name" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2590 => [
         "post_code" => "28074",
@@ -26017,8 +26017,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2602 => [
         "post_code" => "28086",
@@ -26027,8 +26027,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2603 => [
         "post_code" => "28087",
@@ -26037,8 +26037,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2604 => [
         "post_code" => "28088",
@@ -26047,8 +26047,8 @@ return [
         "commune_id" => 996,
         "commune_name" => "Ain El Melh",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2605 => [
         "post_code" => "28089",
@@ -26067,8 +26067,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "Bou Saada",
         "daira_name" => "Bousaada",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2607 => [
         "post_code" => "28091",
@@ -26077,8 +26077,8 @@ return [
         "commune_id" => 1036,
         "commune_name" => "Sidi M'hamed",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2608 => [
         "post_code" => "28092",
@@ -26097,8 +26097,8 @@ return [
         "commune_id" => 1001,
         "commune_name" => "Ben Srour",
         "daira_name" => "Ben Srour",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2610 => [
         "post_code" => "",
@@ -26117,8 +26117,8 @@ return [
         "commune_id" => 997,
         "commune_name" => "Ain Fares",
         "daira_name" => "Ain El Melh",
-        "wilaya_code" => "28",
-        "wilaya_name" => "M'Sila"
+        "wilaya_code" => "68",
+        "wilaya_name" => "Bou Saâda"
     ],
     2612 => [
         "post_code" => "29000",
@@ -28797,8 +28797,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "Labiodh Sidi Cheikh",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2880 => [
         "post_code" => "32004",
@@ -28817,8 +28817,8 @@ return [
         "commune_id" => 1137,
         "commune_name" => "Arbaouat",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2882 => [
         "post_code" => "32006",
@@ -28837,8 +28837,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "Labiodh Sidi Cheikh",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2884 => [
         "post_code" => "32008",
@@ -28907,8 +28907,8 @@ return [
         "commune_id" => 1140,
         "commune_name" => "Boussemghoun",
         "daira_name" => "Boussemghoun",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2891 => [
         "post_code" => "32015",
@@ -28917,8 +28917,8 @@ return [
         "commune_id" => 1143,
         "commune_name" => "Chellala",
         "daira_name" => "Chellala",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2892 => [
         "post_code" => "32016",
@@ -28957,8 +28957,8 @@ return [
         "commune_id" => 1136,
         "commune_name" => "Ain El Orak",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2896 => [
         "post_code" => "32020",
@@ -28967,8 +28967,8 @@ return [
         "commune_id" => 1137,
         "commune_name" => "Arbaouat",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2897 => [
         "post_code" => "32021",
@@ -28997,8 +28997,8 @@ return [
         "commune_id" => 1143,
         "commune_name" => "Chellala",
         "daira_name" => "Chellala",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2900 => [
         "post_code" => "32024",
@@ -29007,8 +29007,8 @@ return [
         "commune_id" => 1148,
         "commune_name" => "El Mehara",
         "daira_name" => "Chellala",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2901 => [
         "post_code" => "32025",
@@ -29017,8 +29017,8 @@ return [
         "commune_id" => 1146,
         "commune_name" => "El Bnoud",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2902 => [
         "post_code" => "32026",
@@ -29027,8 +29027,8 @@ return [
         "commune_id" => 1148,
         "commune_name" => "El Mehara",
         "daira_name" => "Chellala",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2903 => [
         "post_code" => "32027",
@@ -29127,8 +29127,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "Labiodh Sidi Cheikh",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2913 => [
         "post_code" => "32039",
@@ -29147,8 +29147,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "Labiodh Sidi Cheikh",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2915 => [
         "post_code" => "32041",
@@ -29167,8 +29167,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "Labiodh Sidi Cheikh",
         "daira_name" => "Labiodh Sidi Cheikh",
-        "wilaya_code" => "32",
-        "wilaya_name" => "El Bayadh"
+        "wilaya_code" => "69",
+        "wilaya_name" => "El Abiodh Sidi Cheikh"
     ],
     2917 => [
         "post_code" => "43060",
@@ -30693,7 +30693,7 @@ return [
     3069 => [
         "post_code" => "35065",
         "post_name" => "Boudouaou Plateau",
-        "post_address" => "Plateau "Est" Boudouaou El Bahri",
+        "post_address" => "Plateau \"Est\" Boudouaou El Bahri",
         "commune_id" => 1205,
         "commune_name" => "Boudouaou El Bahri",
         "daira_name" => "Boudouaou",

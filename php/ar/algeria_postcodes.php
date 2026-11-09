@@ -1627,8 +1627,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "أفلو",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     163 => [
         "post_code" => "03002",
@@ -1667,8 +1667,8 @@ return [
         "commune_id" => 69,
         "commune_name" => "بريدة",
         "daira_name" => "بريدة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     167 => [
         "post_code" => "03006",
@@ -1747,8 +1747,8 @@ return [
         "commune_id" => 67,
         "commune_name" => "البيضاء",
         "daira_name" => "قتلة سيدي سعيد",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     175 => [
         "post_code" => "03014",
@@ -1817,8 +1817,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "أفلو",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     182 => [
         "post_code" => "03021",
@@ -1827,8 +1827,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "أفلو",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     183 => [
         "post_code" => "03022",
@@ -1847,8 +1847,8 @@ return [
         "commune_id" => 71,
         "commune_name" => "الغيشة",
         "daira_name" => "الغيشة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     185 => [
         "post_code" => "03024",
@@ -1857,8 +1857,8 @@ return [
         "commune_id" => 83,
         "commune_name" => "سيدي بوزيد",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     186 => [
         "post_code" => "03025",
@@ -1867,8 +1867,8 @@ return [
         "commune_id" => 73,
         "commune_name" => "قلتة سيدي سعد",
         "daira_name" => "قتلة سيدي سعيد",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     187 => [
         "post_code" => "03026",
@@ -1877,8 +1877,8 @@ return [
         "commune_id" => 87,
         "commune_name" => "تاويالة",
         "daira_name" => "بريدة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     188 => [
         "post_code" => "03027",
@@ -1887,8 +1887,8 @@ return [
         "commune_id" => 80,
         "commune_name" => "وادي مرة",
         "daira_name" => "وادي مرة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     189 => [
         "post_code" => "03028",
@@ -1897,8 +1897,8 @@ return [
         "commune_id" => 66,
         "commune_name" => "عين سيدي علي",
         "daira_name" => "قتلة سيدي سعيد",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     190 => [
         "post_code" => "03030",
@@ -1907,8 +1907,8 @@ return [
         "commune_id" => 83,
         "commune_name" => "سيدي بوزيد",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     191 => [
         "post_code" => "03031",
@@ -1917,8 +1917,8 @@ return [
         "commune_id" => 83,
         "commune_name" => "سيدي بوزيد",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     192 => [
         "post_code" => "03032",
@@ -1947,8 +1947,8 @@ return [
         "commune_id" => 82,
         "commune_name" => "سبقاق",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     195 => [
         "post_code" => "03035",
@@ -1957,8 +1957,8 @@ return [
         "commune_id" => 71,
         "commune_name" => "الغيشة",
         "daira_name" => "الغيشة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     196 => [
         "post_code" => "03036",
@@ -1977,8 +1977,8 @@ return [
         "commune_id" => 71,
         "commune_name" => "الغيشة",
         "daira_name" => "الغيشة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     198 => [
         "post_code" => "03038",
@@ -1987,8 +1987,8 @@ return [
         "commune_id" => 74,
         "commune_name" => "الحاج مشري",
         "daira_name" => "بريدة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     199 => [
         "post_code" => "03040",
@@ -2007,8 +2007,8 @@ return [
         "commune_id" => 81,
         "commune_name" => "وادي مزي",
         "daira_name" => "وادي مرة",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     201 => [
         "post_code" => "03042",
@@ -2027,8 +2027,8 @@ return [
         "commune_id" => 73,
         "commune_name" => "قلتة سيدي سعد",
         "daira_name" => "قتلة سيدي سعيد",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     203 => [
         "post_code" => "03044",
@@ -2037,8 +2037,8 @@ return [
         "commune_id" => 73,
         "commune_name" => "قلتة سيدي سعد",
         "daira_name" => "قتلة سيدي سعيد",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     204 => [
         "post_code" => "03046",
@@ -2057,13 +2057,13 @@ return [
         "commune_id" => 64,
         "commune_name" => "أفلو",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     206 => [
         "post_code" => "03048",
-        "post_name" => "الأغواط - "DCA"",
-        "post_address" => "الأغواط - "DCA"",
+        "post_name" => "الأغواط - \"DCA\"",
+        "post_address" => "الأغواط - \"DCA\"",
         "commune_id" => 79,
         "commune_name" => "الأغواط",
         "daira_name" => "الأغواط",
@@ -2087,8 +2087,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "أفلو",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     209 => [
         "post_code" => "03051",
@@ -2117,8 +2117,8 @@ return [
         "commune_id" => 64,
         "commune_name" => "أفلو",
         "daira_name" => "أفلو",
-        "wilaya_code" => "03",
-        "wilaya_name" => "الأغواط"
+        "wilaya_code" => "59",
+        "wilaya_name" => "آفلو"
     ],
     212 => [
         "post_code" => "03054",
@@ -2673,7 +2673,7 @@ return [
     267 => [
         "post_code" => "04055",
         "post_name" => "أم البواقي - القوات البرية",
-        "post_address" => "ثكنة "CIST 555"",
+        "post_address" => "ثكنة \"CIST 555\"",
         "commune_id" => 112,
         "commune_name" => "أم البواقي",
         "daira_name" => "أم البواقي",
@@ -2907,8 +2907,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "بريكة",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     291 => [
         "post_code" => "05002",
@@ -3117,8 +3117,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "بريكة",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     312 => [
         "post_code" => "05023",
@@ -3167,8 +3167,8 @@ return [
         "commune_id" => 166,
         "commune_name" => "سقانة",
         "daira_name" => "سقانة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     317 => [
         "post_code" => "05028",
@@ -3177,8 +3177,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "بريكة",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     318 => [
         "post_code" => "05029",
@@ -3267,8 +3267,8 @@ return [
         "commune_id" => 149,
         "commune_name" => "إمدوكل",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     327 => [
         "post_code" => "05038",
@@ -3347,8 +3347,8 @@ return [
         "commune_id" => 125,
         "commune_name" => "بيطام",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     335 => [
         "post_code" => "05046",
@@ -3357,8 +3357,8 @@ return [
         "commune_id" => 133,
         "commune_name" => "الجزار",
         "daira_name" => "الجزار",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     336 => [
         "post_code" => "05047",
@@ -3757,8 +3757,8 @@ return [
         "commune_id" => 121,
         "commune_name" => "عزيل عبد القادر",
         "daira_name" => "الجزار",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     376 => [
         "post_code" => "05088",
@@ -4077,8 +4077,8 @@ return [
         "commune_id" => 125,
         "commune_name" => "بيطام",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     408 => [
         "post_code" => "05120",
@@ -4097,8 +4097,8 @@ return [
         "commune_id" => 157,
         "commune_name" => "أولاد عمار",
         "daira_name" => "الجزار",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     410 => [
         "post_code" => "05122",
@@ -4137,8 +4137,8 @@ return [
         "commune_id" => 166,
         "commune_name" => "سقانة",
         "daira_name" => "سقانة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     414 => [
         "post_code" => "05126",
@@ -4157,8 +4157,8 @@ return [
         "commune_id" => 175,
         "commune_name" => "تيلاطو",
         "daira_name" => "سقانة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     416 => [
         "post_code" => "05128",
@@ -4187,8 +4187,8 @@ return [
         "commune_id" => 121,
         "commune_name" => "عزيل عبد القادر",
         "daira_name" => "الجزار",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     419 => [
         "post_code" => "05131",
@@ -4247,8 +4247,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "بريكة",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     425 => [
         "post_code" => "05137",
@@ -4277,8 +4277,8 @@ return [
         "commune_id" => 122,
         "commune_name" => "بريكة",
         "daira_name" => "بريكة",
-        "wilaya_code" => "05",
-        "wilaya_name" => "باتنة"
+        "wilaya_code" => "60",
+        "wilaya_name" => "بريكة"
     ],
     428 => [
         "post_code" => "05140",
@@ -6017,8 +6017,8 @@ return [
         "commune_id" => 245,
         "commune_name" => "القنطرة",
         "daira_name" => "القنطرة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     602 => [
         "post_code" => "07009",
@@ -6067,8 +6067,8 @@ return [
         "commune_id" => 231,
         "commune_name" => "عين زعطوط",
         "daira_name" => "القنطرة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     607 => [
         "post_code" => "07014",
@@ -6167,8 +6167,8 @@ return [
         "commune_id" => 236,
         "commune_name" => "برانيس",
         "daira_name" => "جمورة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     617 => [
         "post_code" => "07024",
@@ -6187,8 +6187,8 @@ return [
         "commune_id" => 239,
         "commune_name" => "جمورة",
         "daira_name" => "جمورة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     619 => [
         "post_code" => "07026",
@@ -6227,8 +6227,8 @@ return [
         "commune_id" => 245,
         "commune_name" => "القنطرة",
         "daira_name" => "القنطرة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     623 => [
         "post_code" => "07030",
@@ -6237,8 +6237,8 @@ return [
         "commune_id" => 246,
         "commune_name" => "الوطاية",
         "daira_name" => "الوطاية",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     624 => [
         "post_code" => "07031",
@@ -6307,8 +6307,8 @@ return [
         "commune_id" => 246,
         "commune_name" => "الوطاية",
         "daira_name" => "الوطاية",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     631 => [
         "post_code" => "07039",
@@ -6367,8 +6367,8 @@ return [
         "commune_id" => 246,
         "commune_name" => "الوطاية",
         "daira_name" => "الوطاية",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     637 => [
         "post_code" => "07050",
@@ -6407,8 +6407,8 @@ return [
         "commune_id" => 245,
         "commune_name" => "القنطرة",
         "daira_name" => "القنطرة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     641 => [
         "post_code" => "07054",
@@ -6457,8 +6457,8 @@ return [
         "commune_id" => 239,
         "commune_name" => "جمورة",
         "daira_name" => "جمورة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     646 => [
         "post_code" => "07060",
@@ -6597,8 +6597,8 @@ return [
         "commune_id" => 231,
         "commune_name" => "عين زعطوط",
         "daira_name" => "القنطرة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     660 => [
         "post_code" => "07082",
@@ -6707,8 +6707,8 @@ return [
         "commune_id" => 236,
         "commune_name" => "برانيس",
         "daira_name" => "جمورة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     671 => [
         "post_code" => "07094",
@@ -6717,8 +6717,8 @@ return [
         "commune_id" => 239,
         "commune_name" => "جمورة",
         "daira_name" => "جمورة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     672 => [
         "post_code" => "07095",
@@ -6747,8 +6747,8 @@ return [
         "commune_id" => 231,
         "commune_name" => "عين زعطوط",
         "daira_name" => "القنطرة",
-        "wilaya_code" => "07",
-        "wilaya_name" => "بسكرة"
+        "wilaya_code" => "61",
+        "wilaya_name" => "القنطرة"
     ],
     675 => [
         "post_code" => "30059",
@@ -9397,8 +9397,8 @@ return [
         "commune_id" => 369,
         "commune_name" => "بئر العاتر",
         "daira_name" => "بئر العاتر",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     940 => [
         "post_code" => "12002",
@@ -9477,8 +9477,8 @@ return [
         "commune_id" => 369,
         "commune_name" => "بئر العاتر",
         "daira_name" => "بئر العاتر",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     948 => [
         "post_code" => "12011",
@@ -9577,8 +9577,8 @@ return [
         "commune_id" => 369,
         "commune_name" => "بئر العاتر",
         "daira_name" => "بئر العاتر",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     958 => [
         "post_code" => "12021",
@@ -9617,8 +9617,8 @@ return [
         "commune_id" => 385,
         "commune_name" => "نقرين",
         "daira_name" => "نقرين",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     962 => [
         "post_code" => "12025",
@@ -9807,8 +9807,8 @@ return [
         "commune_id" => 378,
         "commune_name" => "العقلة المالحة",
         "daira_name" => "بئر العاتر",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     981 => [
         "post_code" => "12044",
@@ -9817,8 +9817,8 @@ return [
         "commune_id" => 381,
         "commune_name" => "فركان",
         "daira_name" => "نقرين",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     982 => [
         "post_code" => "12045",
@@ -9827,8 +9827,8 @@ return [
         "commune_id" => 378,
         "commune_name" => "العقلة المالحة",
         "daira_name" => "بئر العاتر",
-        "wilaya_code" => "12",
-        "wilaya_name" => "تبسة"
+        "wilaya_code" => "62",
+        "wilaya_name" => "بئر العاتر"
     ],
     983 => [
         "post_code" => "12046",
@@ -10397,8 +10397,8 @@ return [
         "commune_id" => 410,
         "commune_name" => "البويهي",
         "daira_name" => "سيدي الجيلالي",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1040 => [
         "post_code" => "13031",
@@ -10407,8 +10407,8 @@ return [
         "commune_id" => 414,
         "commune_name" => "العريشة",
         "daira_name" => "سبدو",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1041 => [
         "post_code" => "13032",
@@ -10437,8 +10437,8 @@ return [
         "commune_id" => 417,
         "commune_name" => "القور",
         "daira_name" => "سبدو",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1044 => [
         "post_code" => "13035",
@@ -10527,8 +10527,8 @@ return [
         "commune_id" => 436,
         "commune_name" => "سيدي الجيلالي",
         "daira_name" => "سيدي الجيلالي",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1053 => [
         "post_code" => "13044",
@@ -10687,8 +10687,8 @@ return [
         "commune_id" => 414,
         "commune_name" => "العريشة",
         "daira_name" => "سبدو",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1069 => [
         "post_code" => "13060",
@@ -10713,7 +10713,7 @@ return [
     1071 => [
         "post_code" => "13062",
         "post_name" => "بوحناك",
-        "post_address" => "عمارة "I" رقم 01، 500 مسكن",
+        "post_address" => "عمارة \"I\" رقم 01، 500 مسكن",
         "commune_id" => 424,
         "commune_name" => "منصورة",
         "daira_name" => "منصورة",
@@ -10757,8 +10757,8 @@ return [
         "commune_id" => 410,
         "commune_name" => "البويهي",
         "daira_name" => "سيدي الجيلالي",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1076 => [
         "post_code" => "13067",
@@ -11297,8 +11297,8 @@ return [
         "commune_id" => 436,
         "commune_name" => "سيدي الجيلالي",
         "daira_name" => "سيدي الجيلالي",
-        "wilaya_code" => "13",
-        "wilaya_name" => "تلمسان"
+        "wilaya_code" => "63",
+        "wilaya_name" => "العريشة"
     ],
     1130 => [
         "post_code" => "31051",
@@ -11357,8 +11357,8 @@ return [
         "commune_id" => 459,
         "commune_name" => "قصر الشلالة",
         "daira_name" => "قصر الشلالة",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1136 => [
         "post_code" => "14003",
@@ -11447,8 +11447,8 @@ return [
         "commune_id" => 459,
         "commune_name" => "قصر الشلالة",
         "daira_name" => "قصر الشلالة",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1145 => [
         "post_code" => "14012",
@@ -11517,8 +11517,8 @@ return [
         "commune_id" => 450,
         "commune_name" => "بوقرة",
         "daira_name" => "حمادية",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1152 => [
         "post_code" => "14019",
@@ -11537,8 +11537,8 @@ return [
         "commune_id" => 458,
         "commune_name" => "حمادية",
         "daira_name" => "حمادية",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1154 => [
         "post_code" => "14021",
@@ -11587,8 +11587,8 @@ return [
         "commune_id" => 471,
         "commune_name" => "الرشايقة",
         "daira_name" => "حمادية",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1159 => [
         "post_code" => "14027",
@@ -11697,8 +11697,8 @@ return [
         "commune_id" => 486,
         "commune_name" => "زمالة  الأمير عبد القادر",
         "daira_name" => "قصر الشلالة",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1170 => [
         "post_code" => "14040",
@@ -11727,8 +11727,8 @@ return [
         "commune_id" => 459,
         "commune_name" => "قصر الشلالة",
         "daira_name" => "قصر الشلالة",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1173 => [
         "post_code" => "14043",
@@ -11817,8 +11817,8 @@ return [
         "commune_id" => 474,
         "commune_name" => "سرغين",
         "daira_name" => "قصر الشلالة",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1182 => [
         "post_code" => "14052",
@@ -11927,8 +11927,8 @@ return [
         "commune_id" => 474,
         "commune_name" => "سرغين",
         "daira_name" => "قصر الشلالة",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1193 => [
         "post_code" => "14064",
@@ -12037,8 +12037,8 @@ return [
         "commune_id" => 458,
         "commune_name" => "حمادية",
         "daira_name" => "حمادية",
-        "wilaya_code" => "14",
-        "wilaya_name" => "تيارت"
+        "wilaya_code" => "64",
+        "wilaya_name" => "قصر الشلالة"
     ],
     1204 => [
         "post_code" => "14075",
@@ -14873,7 +14873,7 @@ return [
     1487 => [
         "post_code" => "16106",
         "post_name" => "وادي الرمان",
-        "post_address" => "الحصة العقارية "ي"",
+        "post_address" => "الحصة العقارية \"ي\"",
         "commune_id" => 579,
         "commune_name" => "العاشور",
         "daira_name" => "الدرارية",
@@ -16417,8 +16417,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1642 => [
         "post_code" => "17002",
@@ -16437,8 +16437,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1644 => [
         "post_code" => "17004",
@@ -16447,8 +16447,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1645 => [
         "post_code" => "17005",
@@ -16457,8 +16457,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1646 => [
         "post_code" => "17006",
@@ -16527,8 +16527,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1653 => [
         "post_code" => "17013",
@@ -16537,8 +16537,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1654 => [
         "post_code" => "17014",
@@ -16547,8 +16547,8 @@ return [
         "commune_id" => 619,
         "commune_name" => "بيرين",
         "daira_name" => "بيرين",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1655 => [
         "post_code" => "17015",
@@ -16617,8 +16617,8 @@ return [
         "commune_id" => 629,
         "commune_name" => "فيض البطمة",
         "daira_name" => "فيض البطمة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1662 => [
         "post_code" => "17022",
@@ -16627,8 +16627,8 @@ return [
         "commune_id" => 632,
         "commune_name" => "حد الصحاري",
         "daira_name" => "حد الصحاري",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1663 => [
         "post_code" => "17023",
@@ -16647,8 +16647,8 @@ return [
         "commune_id" => 643,
         "commune_name" => "سيدي لعجال",
         "daira_name" => "سيدي لعجال",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1665 => [
         "post_code" => "17025",
@@ -16677,8 +16677,8 @@ return [
         "commune_id" => 619,
         "commune_name" => "بيرين",
         "daira_name" => "بيرين",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1668 => [
         "post_code" => "17028",
@@ -16737,8 +16737,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1674 => [
         "post_code" => "17034",
@@ -16747,8 +16747,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1675 => [
         "post_code" => "17035",
@@ -16757,8 +16757,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1676 => [
         "post_code" => "17036",
@@ -16807,8 +16807,8 @@ return [
         "commune_id" => 613,
         "commune_name" => "عين فقه",
         "daira_name" => "حد الصحاري",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1681 => [
         "post_code" => "17041",
@@ -16827,8 +16827,8 @@ return [
         "commune_id" => 616,
         "commune_name" => "عمورة",
         "daira_name" => "فيض البطمة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1683 => [
         "post_code" => "17043",
@@ -16837,8 +16837,8 @@ return [
         "commune_id" => 617,
         "commune_name" => "بنهار",
         "daira_name" => "بيرين",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1684 => [
         "post_code" => "17044",
@@ -16847,8 +16847,8 @@ return [
         "commune_id" => 620,
         "commune_name" => "بويرة الأحداب",
         "daira_name" => "حد الصحاري",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1685 => [
         "post_code" => "17045",
@@ -16867,8 +16867,8 @@ return [
         "commune_id" => 623,
         "commune_name" => "دلدول",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1687 => [
         "post_code" => "17047",
@@ -16877,8 +16877,8 @@ return [
         "commune_id" => 617,
         "commune_name" => "بنهار",
         "daira_name" => "بيرين",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1688 => [
         "post_code" => "17048",
@@ -16887,8 +16887,8 @@ return [
         "commune_id" => 623,
         "commune_name" => "دلدول",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1689 => [
         "post_code" => "17049",
@@ -16917,8 +16917,8 @@ return [
         "commune_id" => 628,
         "commune_name" => "الخميس",
         "daira_name" => "سيدي لعجال",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1692 => [
         "post_code" => "17052",
@@ -16937,8 +16937,8 @@ return [
         "commune_id" => 630,
         "commune_name" => "قرنيني",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1694 => [
         "post_code" => "17055",
@@ -16947,8 +16947,8 @@ return [
         "commune_id" => 631,
         "commune_name" => "قطارة",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1695 => [
         "post_code" => "17056",
@@ -16957,8 +16957,8 @@ return [
         "commune_id" => 635,
         "commune_name" => "حاسي فدول",
         "daira_name" => "سيدي لعجال",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1696 => [
         "post_code" => "17057",
@@ -17007,8 +17007,8 @@ return [
         "commune_id" => 639,
         "commune_name" => "أم العظام",
         "daira_name" => "فيض البطمة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1701 => [
         "post_code" => "17062",
@@ -17017,8 +17017,8 @@ return [
         "commune_id" => 640,
         "commune_name" => "سد الرحال",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1702 => [
         "post_code" => "17063",
@@ -17027,8 +17027,8 @@ return [
         "commune_id" => 641,
         "commune_name" => "سلمانة",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1703 => [
         "post_code" => "17064",
@@ -17057,8 +17057,8 @@ return [
         "commune_id" => 631,
         "commune_name" => "قطارة",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1706 => [
         "post_code" => "17067",
@@ -17067,8 +17067,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1707 => [
         "post_code" => "17068",
@@ -17087,8 +17087,8 @@ return [
         "commune_id" => 629,
         "commune_name" => "فيض البطمة",
         "daira_name" => "فيض البطمة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1709 => [
         "post_code" => "17070",
@@ -17097,8 +17097,8 @@ return [
         "commune_id" => 623,
         "commune_name" => "دلدول",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1710 => [
         "post_code" => "17071",
@@ -17107,8 +17107,8 @@ return [
         "commune_id" => 632,
         "commune_name" => "حد الصحاري",
         "daira_name" => "حد الصحاري",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1711 => [
         "post_code" => "17072",
@@ -17137,8 +17137,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1714 => [
         "post_code" => "17075",
@@ -17147,8 +17147,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1715 => [
         "post_code" => "17076",
@@ -17227,8 +17227,8 @@ return [
         "commune_id" => 636,
         "commune_name" => "مسعد",
         "daira_name" => "مسعد",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1723 => [
         "post_code" => "17084",
@@ -17237,8 +17237,8 @@ return [
         "commune_id" => 615,
         "commune_name" => "عين وسارة",
         "daira_name" => "عين وسارة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "65",
+        "wilaya_name" => "عين وسارة"
     ],
     1724 => [
         "post_code" => "17085",
@@ -17307,8 +17307,8 @@ return [
         "commune_id" => 616,
         "commune_name" => "عمورة",
         "daira_name" => "فيض البطمة",
-        "wilaya_code" => "17",
-        "wilaya_name" => "الجلفة"
+        "wilaya_code" => "66",
+        "wilaya_name" => "مسعد"
     ],
     1731 => [
         "post_code" => "18000",
@@ -23123,7 +23123,7 @@ return [
     2312 => [
         "post_code" => "25025",
         "post_name" => "قسنطينة - عدالة عمار",
-        "post_address" => "عمارة رقم 27، حي الصندوق الوطني للتوفير والاحتياط "CNEP"",
+        "post_address" => "عمارة رقم 27، حي الصندوق الوطني للتوفير والاحتياط \"CNEP\"",
         "commune_id" => 891,
         "commune_name" => "قسنطينة",
         "daira_name" => "قسنطينة",
@@ -23533,7 +23533,7 @@ return [
     2353 => [
         "post_code" => "",
         "post_name" => "قسنطينة - لبيض محمد",
-        "post_address" => "حي السكنات ذات الإيجار المتوسط "HLM"، سيدي مبروك السفلى",
+        "post_address" => "حي السكنات ذات الإيجار المتوسط \"HLM\"، سيدي مبروك السفلى",
         "commune_id" => 891,
         "commune_name" => "قسنطينة",
         "daira_name" => "قسنطينة",
@@ -23637,8 +23637,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "قصر البخاري",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2364 => [
         "post_code" => "26004",
@@ -23657,8 +23657,8 @@ return [
         "commune_id" => 899,
         "commune_name" => "عين بوسيف",
         "daira_name" => "عين بوسيف",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2366 => [
         "post_code" => "26006",
@@ -23677,8 +23677,8 @@ return [
         "commune_id" => 915,
         "commune_name" => "شلالة العذاورة",
         "daira_name" => "شلالة العذاورة",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2368 => [
         "post_code" => "26008",
@@ -23707,8 +23707,8 @@ return [
         "commune_id" => 899,
         "commune_name" => "عين بوسيف",
         "daira_name" => "عين بوسيف",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2371 => [
         "post_code" => "26011",
@@ -23737,8 +23737,8 @@ return [
         "commune_id" => 908,
         "commune_name" => "بوغار",
         "daira_name" => "أولاد عنتر",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2374 => [
         "post_code" => "26014",
@@ -23757,8 +23757,8 @@ return [
         "commune_id" => 917,
         "commune_name" => "دراق",
         "daira_name" => "عزيز",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2376 => [
         "post_code" => "26016",
@@ -23837,8 +23837,8 @@ return [
         "commune_id" => 912,
         "commune_name" => "بوغزول",
         "daira_name" => "الشهبونية",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2384 => [
         "post_code" => "26024",
@@ -23867,8 +23867,8 @@ return [
         "commune_id" => 914,
         "commune_name" => "الشهبونية",
         "daira_name" => "الشهبونية",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2387 => [
         "post_code" => "26027",
@@ -23887,8 +23887,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "قصر البخاري",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2389 => [
         "post_code" => "26029",
@@ -23897,8 +23897,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "قصر البخاري",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2390 => [
         "post_code" => "26030",
@@ -23957,8 +23957,8 @@ return [
         "commune_id" => 938,
         "commune_name" => "أولاد عنتر",
         "daira_name" => "أولاد عنتر",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2396 => [
         "post_code" => "26036",
@@ -23977,8 +23977,8 @@ return [
         "commune_id" => 943,
         "commune_name" => "أولاد هلال",
         "daira_name" => "أولاد عنتر",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2398 => [
         "post_code" => "26038",
@@ -23987,8 +23987,8 @@ return [
         "commune_id" => 942,
         "commune_name" => "أولاد امعرف",
         "daira_name" => "عين بوسيف",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2399 => [
         "post_code" => "26039",
@@ -24007,8 +24007,8 @@ return [
         "commune_id" => 902,
         "commune_name" => "عزيز",
         "daira_name" => "عزيز",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2401 => [
         "post_code" => "26041",
@@ -24027,8 +24027,8 @@ return [
         "commune_id" => 944,
         "commune_name" => "أم الجليل",
         "daira_name" => "عزيز",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2403 => [
         "post_code" => "26044",
@@ -24067,8 +24067,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "قصر البخاري",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2407 => [
         "post_code" => "26048",
@@ -24077,8 +24077,8 @@ return [
         "commune_id" => 900,
         "commune_name" => "عين اقصير",
         "daira_name" => "شلالة العذاورة",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2408 => [
         "post_code" => "26049",
@@ -24087,8 +24087,8 @@ return [
         "commune_id" => 934,
         "commune_name" => "مفاتحة",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2409 => [
         "post_code" => "26050",
@@ -24107,8 +24107,8 @@ return [
         "commune_id" => 927,
         "commune_name" => "الكاف الاخضر",
         "daira_name" => "عين بوسيف",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2411 => [
         "post_code" => "26052",
@@ -24157,8 +24157,8 @@ return [
         "commune_id" => 916,
         "commune_name" => "شنيقل",
         "daira_name" => "شلالة العذاورة",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2416 => [
         "post_code" => "26058",
@@ -24227,8 +24227,8 @@ return [
         "commune_id" => 944,
         "commune_name" => "أم الجليل",
         "daira_name" => "عزيز",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2423 => [
         "post_code" => "26066",
@@ -24247,8 +24247,8 @@ return [
         "commune_id" => 947,
         "commune_name" => "السانق",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2425 => [
         "post_code" => "26068",
@@ -24267,8 +24267,8 @@ return [
         "commune_id" => 951,
         "commune_name" => "سيدي دامد",
         "daira_name" => "عين بوسيف",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2427 => [
         "post_code" => "26070",
@@ -24307,8 +24307,8 @@ return [
         "commune_id" => 958,
         "commune_name" => "تفراوت",
         "daira_name" => "شلالة العذاورة",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2431 => [
         "post_code" => "26075",
@@ -24337,8 +24337,8 @@ return [
         "commune_id" => 929,
         "commune_name" => "قصر البخاري",
         "daira_name" => "قصر البخاري",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2434 => [
         "post_code" => "26078",
@@ -24357,8 +24357,8 @@ return [
         "commune_id" => 943,
         "commune_name" => "أولاد هلال",
         "daira_name" => "أولاد عنتر",
-        "wilaya_code" => "26",
-        "wilaya_name" => "المدية"
+        "wilaya_code" => "67",
+        "wilaya_name" => "قصر البخاري"
     ],
     2436 => [
         "post_code" => "26080",
@@ -25207,8 +25207,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2521 => [
         "post_code" => "28002",
@@ -25237,8 +25237,8 @@ return [
         "commune_id" => 996,
         "commune_name" => "عين الملح",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2524 => [
         "post_code" => "28005",
@@ -25287,8 +25287,8 @@ return [
         "commune_id" => 1001,
         "commune_name" => "بن سرور",
         "daira_name" => "بن سرور",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2529 => [
         "post_code" => "28010",
@@ -25317,8 +25317,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2532 => [
         "post_code" => "28013",
@@ -25327,8 +25327,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2533 => [
         "post_code" => "28014",
@@ -25347,8 +25347,8 @@ return [
         "commune_id" => 1011,
         "commune_name" => "الهامل",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2535 => [
         "post_code" => "28016",
@@ -25357,8 +25357,8 @@ return [
         "commune_id" => 1020,
         "commune_name" => "امجدل",
         "daira_name" => "امجدل",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2536 => [
         "post_code" => "28017",
@@ -25427,8 +25427,8 @@ return [
         "commune_id" => 997,
         "commune_name" => "عين فارس",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2543 => [
         "post_code" => "28024",
@@ -25437,8 +25437,8 @@ return [
         "commune_id" => 1010,
         "commune_name" => "جبل مساعد",
         "daira_name" => "جبل مساعد",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2544 => [
         "post_code" => "28025",
@@ -25447,8 +25447,8 @@ return [
         "commune_id" => 999,
         "commune_name" => "عين الريش",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2545 => [
         "post_code" => "28026",
@@ -25477,8 +25477,8 @@ return [
         "commune_id" => 1003,
         "commune_name" => "بن زوه",
         "daira_name" => "أولاد سيدي ابراهيم",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2548 => [
         "post_code" => "28029",
@@ -25487,8 +25487,8 @@ return [
         "commune_id" => 1019,
         "commune_name" => "مسيف",
         "daira_name" => "خبانة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2549 => [
         "post_code" => "28030",
@@ -25497,8 +25497,8 @@ return [
         "commune_id" => 1015,
         "commune_name" => "خبانة",
         "daira_name" => "خبانة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2550 => [
         "post_code" => "28031",
@@ -25507,8 +25507,8 @@ return [
         "commune_id" => 1031,
         "commune_name" => "أولاد سليمان",
         "daira_name" => "بن سرور",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2551 => [
         "post_code" => "28032",
@@ -25517,8 +25517,8 @@ return [
         "commune_id" => 1030,
         "commune_name" => "أولاد سيدي ابراهيم",
         "daira_name" => "أولاد سيدي ابراهيم",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2552 => [
         "post_code" => "28033",
@@ -25527,8 +25527,8 @@ return [
         "commune_id" => 1022,
         "commune_name" => "محمد بوضياف",
         "daira_name" => "بن سرور",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2553 => [
         "post_code" => "28034",
@@ -25567,8 +25567,8 @@ return [
         "commune_id" => 1037,
         "commune_name" => "سليم",
         "daira_name" => "جبل مساعد",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2557 => [
         "post_code" => "28038",
@@ -25597,8 +25597,8 @@ return [
         "commune_id" => 1003,
         "commune_name" => "بن زوه",
         "daira_name" => "أولاد سيدي ابراهيم",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2560 => [
         "post_code" => "28041",
@@ -25627,8 +25627,8 @@ return [
         "commune_id" => 1005,
         "commune_name" => "بئر فضة",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2563 => [
         "post_code" => "28044",
@@ -25647,8 +25647,8 @@ return [
         "commune_id" => 1036,
         "commune_name" => "سيدي امحمد",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2565 => [
         "post_code" => "28046",
@@ -25697,8 +25697,8 @@ return [
         "commune_id" => 1015,
         "commune_name" => "خبانة",
         "daira_name" => "خبانة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2570 => [
         "post_code" => "28051",
@@ -25717,8 +25717,8 @@ return [
         "commune_id" => 1019,
         "commune_name" => "مسيف",
         "daira_name" => "خبانة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2572 => [
         "post_code" => "28053",
@@ -25737,8 +25737,8 @@ return [
         "commune_id" => 1032,
         "commune_name" => "ولتام",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2574 => [
         "post_code" => "28055",
@@ -25767,8 +25767,8 @@ return [
         "commune_id" => 1030,
         "commune_name" => "أولاد سيدي ابراهيم",
         "daira_name" => "أولاد سيدي ابراهيم",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2577 => [
         "post_code" => "28059",
@@ -25777,8 +25777,8 @@ return [
         "commune_id" => 1005,
         "commune_name" => "بئر فضة",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2578 => [
         "post_code" => "28060",
@@ -25797,8 +25797,8 @@ return [
         "commune_id" => 1032,
         "commune_name" => "ولتام",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2580 => [
         "post_code" => "28062",
@@ -25817,8 +25817,8 @@ return [
         "commune_id" => 1019,
         "commune_name" => "مسيف",
         "daira_name" => "خبانة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2582 => [
         "post_code" => "28064",
@@ -25837,8 +25837,8 @@ return [
         "commune_id" => 1039,
         "commune_name" => "تامسة",
         "daira_name" => "سيدي عامر",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2584 => [
         "post_code" => "28066",
@@ -25847,8 +25847,8 @@ return [
         "commune_id" => 1036,
         "commune_name" => "سيدي امحمد",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2585 => [
         "post_code" => "28067",
@@ -25857,8 +25857,8 @@ return [
         "commune_id" => 1041,
         "commune_name" => "زرزور",
         "daira_name" => "بن سرور",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2586 => [
         "post_code" => "28068",
@@ -25877,8 +25877,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2588 => [
         "post_code" => "28071",
@@ -25887,8 +25887,8 @@ return [
         "commune_id" => 996,
         "commune_name" => "عين الملح",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2589 => [
         "post_code" => "28073",
@@ -25897,8 +25897,8 @@ return [
         "commune_id" => 1022,
         "commune_name" => "محمد بوضياف",
         "daira_name" => "بن سرور",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2590 => [
         "post_code" => "28074",
@@ -26017,8 +26017,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2602 => [
         "post_code" => "28086",
@@ -26027,8 +26027,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2603 => [
         "post_code" => "28087",
@@ -26037,8 +26037,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2604 => [
         "post_code" => "28088",
@@ -26047,8 +26047,8 @@ return [
         "commune_id" => 996,
         "commune_name" => "عين الملح",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2605 => [
         "post_code" => "28089",
@@ -26067,8 +26067,8 @@ return [
         "commune_id" => 1006,
         "commune_name" => "بوسعادة",
         "daira_name" => "بوسعادة",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2607 => [
         "post_code" => "28091",
@@ -26077,8 +26077,8 @@ return [
         "commune_id" => 1036,
         "commune_name" => "سيدي امحمد",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2608 => [
         "post_code" => "28092",
@@ -26097,8 +26097,8 @@ return [
         "commune_id" => 1001,
         "commune_name" => "بن سرور",
         "daira_name" => "بن سرور",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2610 => [
         "post_code" => "",
@@ -26117,8 +26117,8 @@ return [
         "commune_id" => 997,
         "commune_name" => "عين فارس",
         "daira_name" => "عين الملح",
-        "wilaya_code" => "28",
-        "wilaya_name" => "المسيلة"
+        "wilaya_code" => "68",
+        "wilaya_name" => "بوسعادة"
     ],
     2612 => [
         "post_code" => "29000",
@@ -27533,7 +27533,7 @@ return [
     2753 => [
         "post_code" => "31012",
         "post_name" => "وهران - أسامة",
-        "post_address" => "شارع بيقريفي بولونجي "Rue Pigrify Boulanger"",
+        "post_address" => "شارع بيقريفي بولونجي \"Rue Pigrify Boulanger\"",
         "commune_id" => 1131,
         "commune_name" => "وهران",
         "daira_name" => "وهران",
@@ -27543,7 +27543,7 @@ return [
     2754 => [
         "post_code" => "31013",
         "post_name" => "وهران - صديقية",
-        "post_address" => "وهران - 25 نهج الكحول "Alcool"",
+        "post_address" => "وهران - 25 نهج الكحول \"Alcool\"",
         "commune_id" => 1131,
         "commune_name" => "وهران",
         "daira_name" => "وهران",
@@ -28797,8 +28797,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "الأبيض سيدي الشيخ",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2880 => [
         "post_code" => "32004",
@@ -28817,8 +28817,8 @@ return [
         "commune_id" => 1137,
         "commune_name" => "اربوات",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2882 => [
         "post_code" => "32006",
@@ -28837,8 +28837,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "الأبيض سيدي الشيخ",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2884 => [
         "post_code" => "32008",
@@ -28907,8 +28907,8 @@ return [
         "commune_id" => 1140,
         "commune_name" => "بوسمغون",
         "daira_name" => "بوسمغون",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2891 => [
         "post_code" => "32015",
@@ -28917,8 +28917,8 @@ return [
         "commune_id" => 1143,
         "commune_name" => "شلالة",
         "daira_name" => "شلالة",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2892 => [
         "post_code" => "32016",
@@ -28957,8 +28957,8 @@ return [
         "commune_id" => 1136,
         "commune_name" => "عين العراك",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2896 => [
         "post_code" => "32020",
@@ -28967,8 +28967,8 @@ return [
         "commune_id" => 1137,
         "commune_name" => "اربوات",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2897 => [
         "post_code" => "32021",
@@ -28997,8 +28997,8 @@ return [
         "commune_id" => 1143,
         "commune_name" => "شلالة",
         "daira_name" => "شلالة",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2900 => [
         "post_code" => "32024",
@@ -29007,8 +29007,8 @@ return [
         "commune_id" => 1148,
         "commune_name" => "المحرة",
         "daira_name" => "شلالة",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2901 => [
         "post_code" => "32025",
@@ -29017,8 +29017,8 @@ return [
         "commune_id" => 1146,
         "commune_name" => "البنود",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2902 => [
         "post_code" => "32026",
@@ -29027,8 +29027,8 @@ return [
         "commune_id" => 1148,
         "commune_name" => "المحرة",
         "daira_name" => "شلالة",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2903 => [
         "post_code" => "32027",
@@ -29127,8 +29127,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "الأبيض سيدي الشيخ",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2913 => [
         "post_code" => "32039",
@@ -29147,8 +29147,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "الأبيض سيدي الشيخ",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2915 => [
         "post_code" => "32041",
@@ -29167,8 +29167,8 @@ return [
         "commune_id" => 1145,
         "commune_name" => "الأبيض سيدي الشيخ",
         "daira_name" => "الأبيض سيدي الشيخ",
-        "wilaya_code" => "32",
-        "wilaya_name" => "البيض"
+        "wilaya_code" => "69",
+        "wilaya_name" => "الأبيض سيدي الشيخ"
     ],
     2917 => [
         "post_code" => "43060",

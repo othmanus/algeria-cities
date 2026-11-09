@@ -49,123 +49,123 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 01074,أولف - تيديكلت,Aoulef Tidiklete,أولف - تيديكلت,Aoulef Tidiklete,4,أولف,Aoulef,أولف,Aoulef,01,أدرار,Adrar
 04015,بريش,Berriche,حي بوضياف,Cité Boudiaf,17,سالي,Sali,رقان,Reggane,01,أدرار,Adrar
 06138,سيدي عيش - تيمزغرة,Sidi Aich Timzaghra,سيدي عيش,Sidi Aich,13,أولاد أحمد تيمي,Ouled Ahmed Timmi,أدرار,Adrar,01,أدرار,Adrar
-02000,الشلف - القبّاضة الرّئيسيّة,Chlef,شارع 20 أوت,Rue Du 20 Aout,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02001,وادي الفضة - مصالحة,Oued Fodda Moussalaha,وادي الفضة وسط,Oued Fodda Centre,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02002,بوقادير,Boukadir,الطّريق الوطني رقم 04 - بوقادير,Route Nationale Nâ°04 Boukadir,35,بوقادير,Boukadir,بوقادير,Boukadir,02," الشلف",Chlef
-02003,وادي الفضّة,Oued Fodda,الطّريق الوطني رقم 04 - وادي الفضة,Route Nationale Nâ°04 Oued Fodda,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02004,عين مران,Ain Merane,عين مران وسط,Ain Merane Centre,30,عين مران,Ain Merane,عين مران,Ain Merane,02," الشلف",Chlef
-02005,الشلف - بن سونة,Chlef Bensouna,حي بن سونة,Hay Bensouna,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02006,تنس,Tenes,حي قصير، تنس وسط، تنس,Rue Kosier Tenes Centre Tenes,62,تنس,Tenes,تنس,Tenes,02," الشلف",Chlef
-02007,الشلف - شطية,Chlef Chettia,ملحقة,Annexe,38,الشطية,Chettia,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02008,الكريمية,El Karimia,الكريمية وسط,El Karimia Centre,42,الكريمية,El Karimia,الكريمية,El Karimia,02," الشلف",Chlef
-02009,سيدي عكاشة,Sidi Akacha,الطريق الوطني رقم 19، سيدي عكاشة,Route Nationale Nâ°19 Sidi Akkacha,57,سيدي عكاشة,Sidi Akkacha,تنس,Tenes,02," الشلف",Chlef
-02010,أولاد فارس,Ouled Fares,أولاد فارس وسط,Ouled Fares Centre,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02011,وادي سلي,Oued Sly,وادي سلي وسط,Oued Sly Centre,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02," الشلف",Chlef
-02012,تاووقريت,Taougrite,تاوغريت وسط,Taougrite Centre,61,تاوقريت,Taougrit,تاوقريت,Taougrit,02," الشلف",Chlef
-02013,الشلف - الحي الإداري,Chlef Cité Administrative,شارع المقاومة,Rue De La Resistance,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02014,زبوجة,Zeboudja,زبوجة وسط,Zeboudja Centre,63,الزبوجة,Zeboudja,الزبوجة,Zeboudja,02," الشلف",Chlef
-02015,المرسى,El Marsa,المرسى,El Marsa,43,المرسى,El Marsa,المرسى,El Marsa,02," الشلف",Chlef
-02016,أحمد خلفاوي,Ahmed Khalfaoui,المنطقة رقم 02,Zone 2,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02017,بني هاوة,Beni Haoua,بني حواء,Beni Haoua,33,بني حواء,Beni Haoua,بني حواء,Beni Haoua,02," الشلف",Chlef
-02018,أبو الحسن,Abou El Hassan,أبو الحسن,Abou El Hassen,29,أبو الحسن,Abou El Hassane,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-02019,حوميس - عين البيضة,Heumis Ain Beida,المحطة,La Gare,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02020,شطية - VSA,Chettia Vsa,شطية - VSA,Chettia Vsa,38,الشطية,Chettia,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02021,بوزغاية,Bouzghaia,الطريق الوطني رقم 19,Rn19,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02022,الشلف - حي البدر,Chlef Hai Badr,المنطقة رقم 03,Zone 3,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02023,الشلف - حي النصر,Chlef Hay Nasr,المنطقة رقم 05,Zone 5,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02024,أم الضرو,Oum Drou,أم الضرو,Oum Drou,54,أم الدروع,Oum Drou,الشلف,Chlef,02," الشلف",Chlef
-02025,سنجاص,Sendjas,سنجاص,Sendjas,55,سنجاس,Sendjas,الشلف,Chlef,02," الشلف",Chlef
-02026,بوقادير - الحرية,Boukadir El Houria,حي الحرية - بوقادير,Hay El Houria Boukadir,35,بوقادير,Boukadir,بوقادير,Boukadir,02," الشلف",Chlef
-02027,تنس - محمد بوضياف,Tenes Mohamed Boudiaf,تنس وسط,Tã‰nãˆs Centre,62,تنس,Tenes,تنس,Tenes,02," الشلف",Chlef
-02028,العثمانية,El Athmania,العثمانية,El Atmania,35,بوقادير,Boukadir,بوقادير,Boukadir,02," الشلف",Chlef
-02029,أولاد عباس,Ouled Abbes,أولاد عباس,Ouled Abbes,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02030,أولاد زياد,Ouled Ziad,أولاد زياد,Ouled Ziad,58,الصبحة,Sobha,بوقادير,Boukadir,02," الشلف",Chlef
-02031,حرشون,Harchoun,حرشون,Harchoun,44,حرشون,Harchoun,الكريمية,El Karimia,02," الشلف",Chlef
-02032,سيدي موسى,Sidi Moussa,سيدي موسى,Sidi Moussa,40,الظهرة,Dahra,تاوقريت,Taougrit,02," الشلف",Chlef
-02033,سبحة,Sobha,سبحة,Sobha,58,الصبحة,Sobha,بوقادير,Boukadir,02," الشلف",Chlef
-02034,بير الصفصاف,Bir Saf Saf,بير الصفصاف,Bir Saf Saf,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02035,بني راشد,Beni Rached,بني راشد,Beni Rached,34,بني راشد,Beni Rached,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02036,الضهرة,Dahra,الضهرة,Dahra,40,الظهرة,Dahra,تاوقريت,Taougrit,02," الشلف",Chlef
-02037,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Aek,52,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,02," الشلف",Chlef
-02038,حرنفة,Herenfa,حرنفة,Herenfa,45,الهرانفة,Herenfa,عين مران,Ain Merane,02," الشلف",Chlef
-02039,بن عايرية,Benaria,بن عايرية,Benairia,31,بنايرية,Benairia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02040,عين سردون,Ain Serdoune,عين سردون,Ain Serdoune,30,عين مران,Ain Merane,عين مران,Ain Merane,02," الشلف",Chlef
-02041,الشلف - ساحلي,Chlef Sahli,حي ساحلي,Hay Sahli,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02042,الشلف - لالة عودة,Chlef Lalla Aouda,حي لالة عودة,Hay Lalla Aouda,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02043,تاجنة,Tadjena,تاجنة وسط,Tadjna Centre,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-02044,القلعة بوحالو,El Kalaa Bouhallou,القلعة بوحالو,El Kalaa Bouhallou,57,سيدي عكاشة,Sidi Akkacha,تنس,Tenes,02," الشلف",Chlef
-02045,الشلف - حي عباد,Chlef Hay Abbad,حي عباد,Hay Abbad,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02046,قلطة,Guelta,قلطة,Guelta,43,المرسى,El Marsa,المرسى,El Marsa,02," الشلف",Chlef
-02047,كشاشدة,Kechachda,كشاشدة,Kechachda,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02048,عطاطفة,Attatfa,خربة,Kherba,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02049,الأبيض مجاجة,Labiodh Medjadja,خرارة,Kherrara,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02050,الحجاج,El Hadjadj,الحجاج,El Hadjadj,41,الحجاج,El Hadjadj,أولاد بن عبد القادر,Ouled Ben Abdelkader,02," الشلف",Chlef
-02051,حوش الغابة,Haouch El Ghaba,حوش الغابة,Haouch El Ghaba,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02052,زلقو,Zelgou,زلقو,Zelgou,31,بنايرية,Benairia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02053,شوشاوة,Chouchaoua,السّد الصّغير,Petit Barrage,42,الكريمية,El Karimia,الكريمية,El Karimia,02," الشلف",Chlef
-02054,زمورة,Zemoura,زمورة,Zemoura,52,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,02," الشلف",Chlef
-02055,السي بلقاسم,Si Belkacem,كابر,Caper,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02056,وادي سلي - حي الحرية,Oued Sly Hay Houria,حي سونلغاز,Hay Sonelgaz,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02," الشلف",Chlef
-02057,الشلف - شقة,Chlef Chegga,حي شقة,Hay Chegga,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02058,بو الفرد,Boulefred,حي بولفراد,Hay Boulefred,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02," الشلف",Chlef
-02059,أولاد فطي,Ouled Fetti,أولاد فطي,Ouled Fetti,58,الصبحة,Sobha,بوقادير,Boukadir,02," الشلف",Chlef
-02060,مصادق,Moussadek,مصادق,Moussadek,47,مصدق,Moussadek,المرسى,El Marsa,02," الشلف",Chlef
-02061,وادي قوسين,Oued Goussine,وادي قوسين,Oued Goussine,49,وادي قوسين,Oued Goussine,بني حواء,Beni Haoua,02," الشلف",Chlef
-02062,تنس القديمة,Vieux Tenes,تنس القديمة,Vieux Tenes,62,تنس,Tenes,تنس,Tenes,02," الشلف",Chlef
-02063,دار المداح,Dar El Meddah,دار المدّاح,Dar El Meddah,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-02064,شعرير,Chaarir,شعرير,Chaarir,62,تنس,Tenes,تنس,Tenes,02," الشلف",Chlef
-02065,تلاسة,Talassa,تلاسة,Talassa,60,تلعصة,Talassa,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-02066,سيدي عبد الرحمان,Sidi Abderrahmane,سيدي عبد الرّحمان,Sidi Abderahmane,56,سيدي عبد الرحمن,Sidi Abderrahmane,تنس,Tenes,02," الشلف",Chlef
-02067,رقون,Reggoun,رقون,Reggoun,62,تنس,Tenes,تنس,Tenes,02," الشلف",Chlef
-02068,معين - سينفيتة,Main Sinfita,معين سينفيتة,Main Sinfita,63,الزبوجة,Zeboudja,الزبوجة,Zeboudja,02," الشلف",Chlef
-02069,بني وزان,Beni Ouazane,بني وزان,Beni Ouazene,52,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,02," الشلف",Chlef
-02070,بريرة,Breira,بريرة,Breira,37,بريرة,Breira,بني حواء,Beni Haoua,02," الشلف",Chlef
-02071,بني بوعاتب,Beni Bouatteb,بني بوعاتب,Beni Bouateb,32,بني بوعتاب,Beni  Bouattab,الكريمية,El Karimia,02," الشلف",Chlef
-02072,شعابنية,Chaabnia,شعابنية,Chaabnia,61,تاوقريت,Taougrit,تاوقريت,Taougrit,02," الشلف",Chlef
-02073,مدّينة,Meddina,مدّينة,Meddina,46,الأبيض مجاجة,Labiod Medjadja,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02074,أولاد بالرجاح,Ouled Berradjah,أولاد بالرجاح,Ouled Berradjah,30,عين مران,Ain Merane,عين مران,Ain Merane,02," الشلف",Chlef
-02075,غلافطية,Guelaftia,غلافطية,Guelaftia,54,أم الدروع,Oum Drou,الشلف,Chlef,02," الشلف",Chlef
-02076,بني أودران,Beni Oudrene,بني أودران,Beni Oudrene,55,سنجاس,Sendjas,الشلف,Chlef,02," الشلف",Chlef
-02077,أولاد بوعلي,Ouled Bouali,أولاد بوعلي,Ouled Bouali,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02078,مزاوت,Mezaout,مزاوت,Mezaouet,44,حرشون,Harchoun,الكريمية,El Karimia,02," الشلف",Chlef
-02079,يوحنين,Bouhenyene,يوحنين,Bouhenyenne,34,بني راشد,Beni Rached,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02080,زبابجة,Zebabdja,زبابجة,Zebabdja,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-02081,كحلول,Kahloul,كحلول,Kahloul,29,أبو الحسن,Abou El Hassane,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-02082,رزيم معمر,Razim Maamar,النّخلات الخمس,Cinq Palmier,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02083,برج بعل,Bordj Baal,برج بعل,Bordj Baal,40,الظهرة,Dahra,تاوقريت,Taougrit,02," الشلف",Chlef
-02084,دار المداح,Daid Mohamed,سيدي عيسى,Sidi Aissa,61,تاوقريت,Taougrit,تاوقريت,Taougrit,02," الشلف",Chlef
-02085,شاشو علي,Chachou Ali,سيدي مدول,Sidi Medoul,42,الكريمية,El Karimia,الكريمية,El Karimia,02," الشلف",Chlef
-02086,بوقادير - أ- سليماني,Boukadir A.Slimani,دوايدية,Douaidia,35,بوقادير,Boukadir,بوقادير,Boukadir,02," الشلف",Chlef
-02087,شطية - ب - جياحية,Chettia B.Djayahia,المنطقة رقم 09,Zone 9,38,الشطية,Chettia,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02088,الشلف - ب - فراحي,Chlef B Frahi,حي 712 مسكن,712 Logts,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02089,سيدي زيان,Sidi Ziane,سيدي زيان,Sidi Ziane,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-02090,الشلف - الإخوة خليف,Chlef Freres Khelif,حي بدر - عدل,Hay Badr Aadl,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02091,الشلف - حي السلام,Chlef Hay Es Salam,حي السلام,Hay Es Salam,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02092,أولاد فارس - حي الإتحاد,Ouled Fares Cité Uni,الحي الجامعي تيليلان,Cité Universitaire,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02," الشلف",Chlef
-02093,الفلاقية - قندز جيلالي,El Fellaguia Guendez Djillali,حي الفلاقية,Hai El Fellaguia,31,بنايرية,Benairia,الزبوجة,Zeboudja,02," الشلف",Chlef
-02094,الشلف - محمد قوادري,Chlef Mohamed Kouadri,حي العمال، الشلف وسط,"Cité Des Employes,Chlef Centre",39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02095,عين مران - طاهر محمد,Ain Merane Tahar Mohamed,وسط مدينة عين مران، الشلف,"Centre Ville D'Ain Merane,Chlef",30,عين مران,Ain Merane,عين مران,Ain Merane,02," الشلف",Chlef
-02096,حرنفة - الشيخ الحبيب,Herenfa Cheikh El Habib,محلة عين سراق، حرنفة,"Localite D'Ain Serague,Herenfa",45,الهرانفة,Herenfa,عين مران,Ain Merane,02," الشلف",Chlef
-02097,وادي سلي - بوكفوسة غول شارف,Oued Sly Boukfoussa Ghoul Charef,,,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02," الشلف",Chlef
-02098,الشلف - المحطة البرية,Chlef Gare Routiere,الشلف - المحطة البرية,Chlef Gare Routiere,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02099,الشلف - علي حاجي أحمد,Chlef Ali Hadji Ahmed,,,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-,الشّلف - القاعدة الجوية,Chlef Base Aerienne,القاعدة الجوية,Base Aerienne,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-02100,الشلف - مكتب البريد المتنقل - 1,Chlef Etablissement Postal Itinerant 1,,,39,الشلف,Chlef,الشلف,Chlef,02," الشلف",Chlef
-05084,الحجاج,El Hadjadj,الحجاج,El Hadjadj,41,الحجاج,El Hadjadj,أولاد بن عبد القادر,Ouled Ben Abdelkader,02," الشلف",Chlef
-10046,زبوجة,Zeboudja,زبوجة 10221,Zeboudja 10221,63,الزبوجة,Zeboudja,الزبوجة,Zeboudja,02," الشلف",Chlef
-14028,سيدي عبد الرحمان,Sidi Abderrahmane,شارع برية محمد,Rue Beria Mohamed,56,سيدي عبد الرحمن,Sidi Abderrahmane,تنس,Tenes,02," الشلف",Chlef
-16061,سيدي موسى,Sidi Moussa,طريق الدار البيضاء، سيدي موسى,Route Dar Beida Sidi Moussa,40,الظهرة,Dahra,تاوقريت,Taougrit,02," الشلف",Chlef
-16115,المرسى,El Marsa,الشارع الرئيسي، المرسى,Rue Principale El Marsa,43,المرسى,El Marsa,المرسى,El Marsa,02," الشلف",Chlef
-26073,سيدي زيان,Sidi Ziane,سيدي زيان وسط,Sidi Ziane Centre,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02," الشلف",Chlef
-41042,أولاد عباس,Ouled Abbes,حي أولاد عباس,Cité Ouled  Abbes,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02," الشلف",Chlef
-45036,سيدي موسى,Sidi Moussa,قرية سيدي موسى,Village Sidi Moussa,40,الظهرة,Dahra,تاوقريت,Taougrit,02," الشلف",Chlef
-48058,أولاد بوعلي,Ouled Bouali,أولاد بوعلي,Ouled Bouali,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02," الشلف",Chlef
+02000,الشلف - القبّاضة الرّئيسيّة,Chlef,شارع 20 أوت,Rue Du 20 Aout,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02001,وادي الفضة - مصالحة,Oued Fodda Moussalaha,وادي الفضة وسط,Oued Fodda Centre,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02002,بوقادير,Boukadir,الطّريق الوطني رقم 04 - بوقادير,Route Nationale Nâ°04 Boukadir,35,بوقادير,Boukadir,بوقادير,Boukadir,02, الشلف,Chlef
+02003,وادي الفضّة,Oued Fodda,الطّريق الوطني رقم 04 - وادي الفضة,Route Nationale Nâ°04 Oued Fodda,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02004,عين مران,Ain Merane,عين مران وسط,Ain Merane Centre,30,عين مران,Ain Merane,عين مران,Ain Merane,02, الشلف,Chlef
+02005,الشلف - بن سونة,Chlef Bensouna,حي بن سونة,Hay Bensouna,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02006,تنس,Tenes,حي قصير، تنس وسط، تنس,Rue Kosier Tenes Centre Tenes,62,تنس,Tenes,تنس,Tenes,02, الشلف,Chlef
+02007,الشلف - شطية,Chlef Chettia,ملحقة,Annexe,38,الشطية,Chettia,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02008,الكريمية,El Karimia,الكريمية وسط,El Karimia Centre,42,الكريمية,El Karimia,الكريمية,El Karimia,02, الشلف,Chlef
+02009,سيدي عكاشة,Sidi Akacha,الطريق الوطني رقم 19، سيدي عكاشة,Route Nationale Nâ°19 Sidi Akkacha,57,سيدي عكاشة,Sidi Akkacha,تنس,Tenes,02, الشلف,Chlef
+02010,أولاد فارس,Ouled Fares,أولاد فارس وسط,Ouled Fares Centre,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02011,وادي سلي,Oued Sly,وادي سلي وسط,Oued Sly Centre,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02, الشلف,Chlef
+02012,تاووقريت,Taougrite,تاوغريت وسط,Taougrite Centre,61,تاوقريت,Taougrit,تاوقريت,Taougrit,02, الشلف,Chlef
+02013,الشلف - الحي الإداري,Chlef Cité Administrative,شارع المقاومة,Rue De La Resistance,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02014,زبوجة,Zeboudja,زبوجة وسط,Zeboudja Centre,63,الزبوجة,Zeboudja,الزبوجة,Zeboudja,02, الشلف,Chlef
+02015,المرسى,El Marsa,المرسى,El Marsa,43,المرسى,El Marsa,المرسى,El Marsa,02, الشلف,Chlef
+02016,أحمد خلفاوي,Ahmed Khalfaoui,المنطقة رقم 02,Zone 2,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02017,بني هاوة,Beni Haoua,بني حواء,Beni Haoua,33,بني حواء,Beni Haoua,بني حواء,Beni Haoua,02, الشلف,Chlef
+02018,أبو الحسن,Abou El Hassan,أبو الحسن,Abou El Hassen,29,أبو الحسن,Abou El Hassane,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+02019,حوميس - عين البيضة,Heumis Ain Beida,المحطة,La Gare,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02020,شطية - VSA,Chettia Vsa,شطية - VSA,Chettia Vsa,38,الشطية,Chettia,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02021,بوزغاية,Bouzghaia,الطريق الوطني رقم 19,Rn19,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02022,الشلف - حي البدر,Chlef Hai Badr,المنطقة رقم 03,Zone 3,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02023,الشلف - حي النصر,Chlef Hay Nasr,المنطقة رقم 05,Zone 5,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02024,أم الضرو,Oum Drou,أم الضرو,Oum Drou,54,أم الدروع,Oum Drou,الشلف,Chlef,02, الشلف,Chlef
+02025,سنجاص,Sendjas,سنجاص,Sendjas,55,سنجاس,Sendjas,الشلف,Chlef,02, الشلف,Chlef
+02026,بوقادير - الحرية,Boukadir El Houria,حي الحرية - بوقادير,Hay El Houria Boukadir,35,بوقادير,Boukadir,بوقادير,Boukadir,02, الشلف,Chlef
+02027,تنس - محمد بوضياف,Tenes Mohamed Boudiaf,تنس وسط,Tã‰nãˆs Centre,62,تنس,Tenes,تنس,Tenes,02, الشلف,Chlef
+02028,العثمانية,El Athmania,العثمانية,El Atmania,35,بوقادير,Boukadir,بوقادير,Boukadir,02, الشلف,Chlef
+02029,أولاد عباس,Ouled Abbes,أولاد عباس,Ouled Abbes,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02030,أولاد زياد,Ouled Ziad,أولاد زياد,Ouled Ziad,58,الصبحة,Sobha,بوقادير,Boukadir,02, الشلف,Chlef
+02031,حرشون,Harchoun,حرشون,Harchoun,44,حرشون,Harchoun,الكريمية,El Karimia,02, الشلف,Chlef
+02032,سيدي موسى,Sidi Moussa,سيدي موسى,Sidi Moussa,40,الظهرة,Dahra,تاوقريت,Taougrit,02, الشلف,Chlef
+02033,سبحة,Sobha,سبحة,Sobha,58,الصبحة,Sobha,بوقادير,Boukadir,02, الشلف,Chlef
+02034,بير الصفصاف,Bir Saf Saf,بير الصفصاف,Bir Saf Saf,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02035,بني راشد,Beni Rached,بني راشد,Beni Rached,34,بني راشد,Beni Rached,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02036,الضهرة,Dahra,الضهرة,Dahra,40,الظهرة,Dahra,تاوقريت,Taougrit,02, الشلف,Chlef
+02037,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Aek,52,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,02, الشلف,Chlef
+02038,حرنفة,Herenfa,حرنفة,Herenfa,45,الهرانفة,Herenfa,عين مران,Ain Merane,02, الشلف,Chlef
+02039,بن عايرية,Benaria,بن عايرية,Benairia,31,بنايرية,Benairia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02040,عين سردون,Ain Serdoune,عين سردون,Ain Serdoune,30,عين مران,Ain Merane,عين مران,Ain Merane,02, الشلف,Chlef
+02041,الشلف - ساحلي,Chlef Sahli,حي ساحلي,Hay Sahli,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02042,الشلف - لالة عودة,Chlef Lalla Aouda,حي لالة عودة,Hay Lalla Aouda,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02043,تاجنة,Tadjena,تاجنة وسط,Tadjna Centre,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+02044,القلعة بوحالو,El Kalaa Bouhallou,القلعة بوحالو,El Kalaa Bouhallou,57,سيدي عكاشة,Sidi Akkacha,تنس,Tenes,02, الشلف,Chlef
+02045,الشلف - حي عباد,Chlef Hay Abbad,حي عباد,Hay Abbad,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02046,قلطة,Guelta,قلطة,Guelta,43,المرسى,El Marsa,المرسى,El Marsa,02, الشلف,Chlef
+02047,كشاشدة,Kechachda,كشاشدة,Kechachda,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02048,عطاطفة,Attatfa,خربة,Kherba,36,بوزغاية,Bouzeghaia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02049,الأبيض مجاجة,Labiodh Medjadja,خرارة,Kherrara,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02050,الحجاج,El Hadjadj,الحجاج,El Hadjadj,41,الحجاج,El Hadjadj,أولاد بن عبد القادر,Ouled Ben Abdelkader,02, الشلف,Chlef
+02051,حوش الغابة,Haouch El Ghaba,حوش الغابة,Haouch El Ghaba,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02052,زلقو,Zelgou,زلقو,Zelgou,31,بنايرية,Benairia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02053,شوشاوة,Chouchaoua,السّد الصّغير,Petit Barrage,42,الكريمية,El Karimia,الكريمية,El Karimia,02, الشلف,Chlef
+02054,زمورة,Zemoura,زمورة,Zemoura,52,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,02, الشلف,Chlef
+02055,السي بلقاسم,Si Belkacem,كابر,Caper,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02056,وادي سلي - حي الحرية,Oued Sly Hay Houria,حي سونلغاز,Hay Sonelgaz,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02, الشلف,Chlef
+02057,الشلف - شقة,Chlef Chegga,حي شقة,Hay Chegga,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02058,بو الفرد,Boulefred,حي بولفراد,Hay Boulefred,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02, الشلف,Chlef
+02059,أولاد فطي,Ouled Fetti,أولاد فطي,Ouled Fetti,58,الصبحة,Sobha,بوقادير,Boukadir,02, الشلف,Chlef
+02060,مصادق,Moussadek,مصادق,Moussadek,47,مصدق,Moussadek,المرسى,El Marsa,02, الشلف,Chlef
+02061,وادي قوسين,Oued Goussine,وادي قوسين,Oued Goussine,49,وادي قوسين,Oued Goussine,بني حواء,Beni Haoua,02, الشلف,Chlef
+02062,تنس القديمة,Vieux Tenes,تنس القديمة,Vieux Tenes,62,تنس,Tenes,تنس,Tenes,02, الشلف,Chlef
+02063,دار المداح,Dar El Meddah,دار المدّاح,Dar El Meddah,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+02064,شعرير,Chaarir,شعرير,Chaarir,62,تنس,Tenes,تنس,Tenes,02, الشلف,Chlef
+02065,تلاسة,Talassa,تلاسة,Talassa,60,تلعصة,Talassa,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+02066,سيدي عبد الرحمان,Sidi Abderrahmane,سيدي عبد الرّحمان,Sidi Abderahmane,56,سيدي عبد الرحمن,Sidi Abderrahmane,تنس,Tenes,02, الشلف,Chlef
+02067,رقون,Reggoun,رقون,Reggoun,62,تنس,Tenes,تنس,Tenes,02, الشلف,Chlef
+02068,معين - سينفيتة,Main Sinfita,معين سينفيتة,Main Sinfita,63,الزبوجة,Zeboudja,الزبوجة,Zeboudja,02, الشلف,Chlef
+02069,بني وزان,Beni Ouazane,بني وزان,Beni Ouazene,52,أولاد بن عبد القادر,Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,02, الشلف,Chlef
+02070,بريرة,Breira,بريرة,Breira,37,بريرة,Breira,بني حواء,Beni Haoua,02, الشلف,Chlef
+02071,بني بوعاتب,Beni Bouatteb,بني بوعاتب,Beni Bouateb,32,بني بوعتاب,Beni  Bouattab,الكريمية,El Karimia,02, الشلف,Chlef
+02072,شعابنية,Chaabnia,شعابنية,Chaabnia,61,تاوقريت,Taougrit,تاوقريت,Taougrit,02, الشلف,Chlef
+02073,مدّينة,Meddina,مدّينة,Meddina,46,الأبيض مجاجة,Labiod Medjadja,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02074,أولاد بالرجاح,Ouled Berradjah,أولاد بالرجاح,Ouled Berradjah,30,عين مران,Ain Merane,عين مران,Ain Merane,02, الشلف,Chlef
+02075,غلافطية,Guelaftia,غلافطية,Guelaftia,54,أم الدروع,Oum Drou,الشلف,Chlef,02, الشلف,Chlef
+02076,بني أودران,Beni Oudrene,بني أودران,Beni Oudrene,55,سنجاس,Sendjas,الشلف,Chlef,02, الشلف,Chlef
+02077,أولاد بوعلي,Ouled Bouali,أولاد بوعلي,Ouled Bouali,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02078,مزاوت,Mezaout,مزاوت,Mezaouet,44,حرشون,Harchoun,الكريمية,El Karimia,02, الشلف,Chlef
+02079,يوحنين,Bouhenyene,يوحنين,Bouhenyenne,34,بني راشد,Beni Rached,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02080,زبابجة,Zebabdja,زبابجة,Zebabdja,48,وادي الفضة,Oued Fodda,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+02081,كحلول,Kahloul,كحلول,Kahloul,29,أبو الحسن,Abou El Hassane,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+02082,رزيم معمر,Razim Maamar,النّخلات الخمس,Cinq Palmier,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02083,برج بعل,Bordj Baal,برج بعل,Bordj Baal,40,الظهرة,Dahra,تاوقريت,Taougrit,02, الشلف,Chlef
+02084,دار المداح,Daid Mohamed,سيدي عيسى,Sidi Aissa,61,تاوقريت,Taougrit,تاوقريت,Taougrit,02, الشلف,Chlef
+02085,شاشو علي,Chachou Ali,سيدي مدول,Sidi Medoul,42,الكريمية,El Karimia,الكريمية,El Karimia,02, الشلف,Chlef
+02086,بوقادير - أ- سليماني,Boukadir A.Slimani,دوايدية,Douaidia,35,بوقادير,Boukadir,بوقادير,Boukadir,02, الشلف,Chlef
+02087,شطية - ب - جياحية,Chettia B.Djayahia,المنطقة رقم 09,Zone 9,38,الشطية,Chettia,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02088,الشلف - ب - فراحي,Chlef B Frahi,حي 712 مسكن,712 Logts,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02089,سيدي زيان,Sidi Ziane,سيدي زيان,Sidi Ziane,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+02090,الشلف - الإخوة خليف,Chlef Freres Khelif,حي بدر - عدل,Hay Badr Aadl,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02091,الشلف - حي السلام,Chlef Hay Es Salam,حي السلام,Hay Es Salam,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02092,أولاد فارس - حي الإتحاد,Ouled Fares Cité Uni,الحي الجامعي تيليلان,Cité Universitaire,53,أولاد فارس,Ouled Fares,أولاد فارس,Ouled Fares,02, الشلف,Chlef
+02093,الفلاقية - قندز جيلالي,El Fellaguia Guendez Djillali,حي الفلاقية,Hai El Fellaguia,31,بنايرية,Benairia,الزبوجة,Zeboudja,02, الشلف,Chlef
+02094,الشلف - محمد قوادري,Chlef Mohamed Kouadri,حي العمال، الشلف وسط,"Cité Des Employes,Chlef Centre",39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02095,عين مران - طاهر محمد,Ain Merane Tahar Mohamed,وسط مدينة عين مران، الشلف,"Centre Ville D'Ain Merane,Chlef",30,عين مران,Ain Merane,عين مران,Ain Merane,02, الشلف,Chlef
+02096,حرنفة - الشيخ الحبيب,Herenfa Cheikh El Habib,محلة عين سراق، حرنفة,"Localite D'Ain Serague,Herenfa",45,الهرانفة,Herenfa,عين مران,Ain Merane,02, الشلف,Chlef
+02097,وادي سلي - بوكفوسة غول شارف,Oued Sly Boukfoussa Ghoul Charef,,,50,وادي سلي,Oued Sly,بوقادير,Boukadir,02, الشلف,Chlef
+02098,الشلف - المحطة البرية,Chlef Gare Routiere,الشلف - المحطة البرية,Chlef Gare Routiere,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02099,الشلف - علي حاجي أحمد,Chlef Ali Hadji Ahmed,,,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+,الشّلف - القاعدة الجوية,Chlef Base Aerienne,القاعدة الجوية,Base Aerienne,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+02100,الشلف - مكتب البريد المتنقل - 1,Chlef Etablissement Postal Itinerant 1,,,39,الشلف,Chlef,الشلف,Chlef,02, الشلف,Chlef
+05084,الحجاج,El Hadjadj,الحجاج,El Hadjadj,41,الحجاج,El Hadjadj,أولاد بن عبد القادر,Ouled Ben Abdelkader,02, الشلف,Chlef
+10046,زبوجة,Zeboudja,زبوجة 10221,Zeboudja 10221,63,الزبوجة,Zeboudja,الزبوجة,Zeboudja,02, الشلف,Chlef
+14028,سيدي عبد الرحمان,Sidi Abderrahmane,شارع برية محمد,Rue Beria Mohamed,56,سيدي عبد الرحمن,Sidi Abderrahmane,تنس,Tenes,02, الشلف,Chlef
+16061,سيدي موسى,Sidi Moussa,طريق الدار البيضاء، سيدي موسى,Route Dar Beida Sidi Moussa,40,الظهرة,Dahra,تاوقريت,Taougrit,02, الشلف,Chlef
+16115,المرسى,El Marsa,الشارع الرئيسي، المرسى,Rue Principale El Marsa,43,المرسى,El Marsa,المرسى,El Marsa,02, الشلف,Chlef
+26073,سيدي زيان,Sidi Ziane,سيدي زيان وسط,Sidi Ziane Centre,59,تاجنة,Tadjena,أبو الحسن,Abou El Hassane,02, الشلف,Chlef
+41042,أولاد عباس,Ouled Abbes,حي أولاد عباس,Cité Ouled  Abbes,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02, الشلف,Chlef
+45036,سيدي موسى,Sidi Moussa,قرية سيدي موسى,Village Sidi Moussa,40,الظهرة,Dahra,تاوقريت,Taougrit,02, الشلف,Chlef
+48058,أولاد بوعلي,Ouled Bouali,أولاد بوعلي,Ouled Bouali,51,أولاد عباس,Ouled Abbes,وادي الفضة,Oued Fodda,02, الشلف,Chlef
 03000,الّأغواط - القبّاضة الرّئيسيّة,Laghouat,الّأغواط - القبّاضة الرّئيسيّة,Laghouat,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
-03001,أفلو,Aflou,أفلو,Aflou,64,أفلو,Aflou,أفلو,Aflou,03,الأغواط,Laghouat
+03001,أفلو,Aflou,أفلو,Aflou,64,أفلو,Aflou,أفلو,Aflou,59,آفلو,Aflou
 03002,الأغواط - المعمورة,Laghouat Maamourah,المعمورة,Maamourah,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03003,قصر الحيران,Ksar El Hirane,قصر الحيران,Ksar Elhirane,78,قصر الحيران,Ksar El Hirane,قصر الحيران,Ksar El Hirane,03,الأغواط,Laghouat
 03004,حاسي الرمل,Hassi R'Mel,حاسي الرمل,Hassi R'Mel,76,حاسي الرمل,Hassi R'mel,حاسي الرمل,Hassi R'mel,03,الأغواط,Laghouat
-03005,بريدة,Brida,بريدة,Brida,69,بريدة,Brida,بريدة,Brida,03,الأغواط,Laghouat
+03005,بريدة,Brida,بريدة,Brida,69,بريدة,Brida,بريدة,Brida,59,آفلو,Aflou
 03006,الأغواط - المقام,Laghouat El Makam,المقام,El M'Kam,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03007,تاجموت,Tadjemout,تاجموت,Tadjemout,85,تاجموت,Tadjemout,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
 03008,بليل,Bellil,بليل,Bellil,76,حاسي الرمل,Hassi R'mel,حاسي الرمل,Hassi R'mel,03,الأغواط,Laghouat
@@ -173,44 +173,44 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 03010,الخنق,El Kheneg,الخنق,El Kheneg,77,الخنق,Kheneg,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
 03011,تاجرونة,Tadjerouna,تاجرونة,Tadjerouna,86,تاجرونة,Tadjrouna,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
 03012,عين ماضي,Ain Madhi,عين ماضي,Ain Madhi,65,عين ماضي,Ain Madhi,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
-03013,بيضاء,Beidha,بيضاء,Beidha,67,البيضاء,El Beidha,قتلة سيدي سعيد,Gueltat Sidi Saad,03,الأغواط,Laghouat
+03013,بيضاء,Beidha,بيضاء,Beidha,67,البيضاء,El Beidha,قتلة سيدي سعيد,Gueltat Sidi Saad,59,آفلو,Aflou
 03014,العسافية,El Assafia,العسافية,El Assafia,70,العسافية,El Assafia,سيدي مخلوف,Sidi Makhlouf,03,الأغواط,Laghouat
 03015,الأغواط - الصّديقيّة,Laghouat Essadikia,لصّديقيّة,Essadikia,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03016,الأغواط - الحي الشّمالي,Laghouat Cité Nord,الحي الشّمالي,Cité Nord,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03017,الأغواط - أوّل نوفمبر,Laghouat 1er Nov.,الأغواط - الفاتح نوفمبر,Laghouat 1er Nov,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03018,الأغواط - الأمير عبد القادر (المحطة البرية),Laghouat Emir Aek (Gare Routiere),الأغواط - الأمير عبد القادر (المحطة البرية),Laghouat Emir Aek,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03019,سيدي مخلوف,Sidi Makhlouf,سيدي مخلوف,Sidi Makhlouf,84,سيدي مخلوف,Sidi Makhlouf,سيدي مخلوف,Sidi Makhlouf,03,الأغواط,Laghouat
-03020,أفلو - حي القعدة,Aflou Hay El Gaada,أفلو - حي القعدة,Aflou Hay Elgaada,64,أفلو,Aflou,أفلو,Aflou,03,الأغواط,Laghouat
-03021,أفلو - حي محمد بوضياف,Aflou Hai Med Boudiaf,أفلو - حي محمد بوضياف,Aflou Med Boudiaf,64,أفلو,Aflou,أفلو,Aflou,03,الأغواط,Laghouat
+03020,أفلو - حي القعدة,Aflou Hay El Gaada,أفلو - حي القعدة,Aflou Hay Elgaada,64,أفلو,Aflou,أفلو,Aflou,59,آفلو,Aflou
+03021,أفلو - حي محمد بوضياف,Aflou Hai Med Boudiaf,أفلو - حي محمد بوضياف,Aflou Med Boudiaf,64,أفلو,Aflou,أفلو,Aflou,59,آفلو,Aflou
 03022,حاسي الدلاع,Hassi Dalaa,حاسي الدلاع,Hassi Delaa,75,حاسي الدلاعة,Hassi Delaa,حاسي الرمل,Hassi R'mel,03,الأغواط,Laghouat
-03023,الغيشة,El Ghicha,الغيشة,El Ghicha,71,الغيشة,El Ghicha,الغيشة,El Ghicha,03,الأغواط,Laghouat
-03024,سيدي بوزيد,Sidi Bouzid,سيدي بوزيد,Sidi Bouzid,83,سيدي بوزيد,Sidi Bouzid,أفلو,Aflou,03,الأغواط,Laghouat
-03025,قلطة سيدي سعد,Gueltat Sidi Saad,قلطة سيدي سعد,Gueltat Sidi Saad,73,قلتة سيدي سعد,Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,03,الأغواط,Laghouat
-03026,تاويالة,Taouiala,تاويالة,Taouiala,87,تاويالة,Taouiala,بريدة,Brida,03,الأغواط,Laghouat
-03027,وادي مرة,Oued Mourra,وادي مرة,Oued Mourra,80,وادي مرة,Oued Morra,وادي مرة,Oued Morra,03,الأغواط,Laghouat
-03028,عين سيدي علي,Ain Sidi Ali,عين سيدي علي,Ain Sidi Ali,66,عين سيدي علي,Ain Sidi Ali,قتلة سيدي سعيد,Gueltat Sidi Saad,03,الأغواط,Laghouat
-03030,عين سخونة,Ain Skhouna,عين سخونة,Ain Skhouna,83,سيدي بوزيد,Sidi Bouzid,أفلو,Aflou,03,الأغواط,Laghouat
-03031,شكالة,Chekkala,شكالة,Chekkala,83,سيدي بوزيد,Sidi Bouzid,أفلو,Aflou,03,الأغواط,Laghouat
+03023,الغيشة,El Ghicha,الغيشة,El Ghicha,71,الغيشة,El Ghicha,الغيشة,El Ghicha,59,آفلو,Aflou
+03024,سيدي بوزيد,Sidi Bouzid,سيدي بوزيد,Sidi Bouzid,83,سيدي بوزيد,Sidi Bouzid,أفلو,Aflou,59,آفلو,Aflou
+03025,قلطة سيدي سعد,Gueltat Sidi Saad,قلطة سيدي سعد,Gueltat Sidi Saad,73,قلتة سيدي سعد,Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,59,آفلو,Aflou
+03026,تاويالة,Taouiala,تاويالة,Taouiala,87,تاويالة,Taouiala,بريدة,Brida,59,آفلو,Aflou
+03027,وادي مرة,Oued Mourra,وادي مرة,Oued Mourra,80,وادي مرة,Oued Morra,وادي مرة,Oued Morra,59,آفلو,Aflou
+03028,عين سيدي علي,Ain Sidi Ali,عين سيدي علي,Ain Sidi Ali,66,عين سيدي علي,Ain Sidi Ali,قتلة سيدي سعيد,Gueltat Sidi Saad,59,آفلو,Aflou
+03030,عين سخونة,Ain Skhouna,عين سخونة,Ain Skhouna,83,سيدي بوزيد,Sidi Bouzid,أفلو,Aflou,59,آفلو,Aflou
+03031,شكالة,Chekkala,شكالة,Chekkala,83,سيدي بوزيد,Sidi Bouzid,أفلو,Aflou,59,آفلو,Aflou
 03032,برج سنوسي,Bordj Senouci,برج سنوسي,Bordj Senouci,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03033,بن ناصر بن شهرة,Benacer Benchohra,بن ناصر بن شهرة,Benacer Benchohra,68,بن ناصر بن شهرة,Benacer Benchohra,قصر الحيران,Ksar El Hirane,03,الأغواط,Laghouat
-03034,سبقاق,Sebgag,سبقاق,Sebgag,82,سبقاق,Sebgag,أفلو,Aflou,03,الأغواط,Laghouat
-03035,طرغالل,Terghalel,تركلل,Terkellel,71,الغيشة,El Ghicha,الغيشة,El Ghicha,03,الأغواط,Laghouat
+03034,سبقاق,Sebgag,سبقاق,Sebgag,82,سبقاق,Sebgag,أفلو,Aflou,59,آفلو,Aflou
+03035,طرغالل,Terghalel,تركلل,Terkellel,71,الغيشة,El Ghicha,الغيشة,El Ghicha,59,آفلو,Aflou
 03036,الأغواط - جمعية,Laghouat Djamia,الأغواط - جمعية,Laghouat Djamiaa,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
-03037,أنفوس,Anfous,أنفوس,Anfous,71,الغيشة,El Ghicha,الغيشة,El Ghicha,03,الأغواط,Laghouat
-03038,حاج مشاري,Hadj Mecheri,حاج مشاري,Hadj Mecheri,74,الحاج مشري,Hadj Mechri,بريدة,Brida,03,الأغواط,Laghouat
+03037,أنفوس,Anfous,أنفوس,Anfous,71,الغيشة,El Ghicha,الغيشة,El Ghicha,59,آفلو,Aflou
+03038,حاج مشاري,Hadj Mecheri,حاج مشاري,Hadj Mecheri,74,الحاج مشري,Hadj Mechri,بريدة,Brida,59,آفلو,Aflou
 03040,الحويطة,El Houita,الحويطة,El Houita,72,الحويطة,El Haouaita,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
-03041,وادي مزي,Oued M'Zi,وادي مزي,Oued M'Zi,81,وادي مزي,Oued M'zi,وادي مرة,Oued Morra,03,الأغواط,Laghouat
+03041,وادي مزي,Oued M'Zi,وادي مزي,Oued M'Zi,81,وادي مزي,Oued M'zi,وادي مرة,Oued Morra,59,آفلو,Aflou
 03042,لالماية,Lalmaya,لالماية,Lalmaya,86,تاجرونة,Tadjrouna,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
-03043,وادي الطويل,Oued Touil,وادي الطويل,Oued Touil,73,قلتة سيدي سعد,Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,03,الأغواط,Laghouat
-03044,حسيان الذيب,Hassiane Dhib,حسيان الذيب,Hassiane Dhib,73,قلتة سيدي سعد,Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,03,الأغواط,Laghouat
+03043,وادي الطويل,Oued Touil,وادي الطويل,Oued Touil,73,قلتة سيدي سعد,Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,59,آفلو,Aflou
+03044,حسيان الذيب,Hassiane Dhib,حسيان الذيب,Hassiane Dhib,73,قلتة سيدي سعد,Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,59,آفلو,Aflou
 03046,بوزباير,Bouzbaeir,بوزباير,Bouzbaeir,76,حاسي الرمل,Hassi R'mel,حاسي الرمل,Hassi R'mel,03,الأغواط,Laghouat
-03047,أفلو - زاوي سعيد,Aflou Zaoui Said,أفلو - زاوي سعيد,Aflou Zaoui Said,64,أفلو,Aflou,أفلو,Aflou,03,الأغواط,Laghouat
+03047,أفلو - زاوي سعيد,Aflou Zaoui Said,أفلو - زاوي سعيد,Aflou Zaoui Said,64,أفلو,Aflou,أفلو,Aflou,59,آفلو,Aflou
 03048,"الأغواط - ""DCA""",Laghouat D C A,"الأغواط - ""DCA""",Laghouat Dca,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03049,الأغواط - قطب 1,Laghouat Pole 1,الأغواط - قطب 1,Laghouat Pole 1,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
-03050,أفلو - الجامعة,Aflou Universite,أفلو - الجامعة,Aflou Universite,64,أفلو,Aflou,أفلو,Aflou,03,الأغواط,Laghouat
+03050,أفلو - الجامعة,Aflou Universite,أفلو - الجامعة,Aflou Universite,64,أفلو,Aflou,أفلو,Aflou,59,آفلو,Aflou
 03051,الأغواط - القوات الجوية,Laghouat Air,الأغواط - القوات الجوية,Laghouat Air,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 03052,الأغواط - الوئام,Laghouat El Wiam,الأغواط - الوئام,Laghouat El Wiam,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
-03053,أفلو - أول ماي,Aflou 01 Mai,أفلو - أول ماي,Aflou 01 Mai,64,أفلو,Aflou,أفلو,Aflou,03,الأغواط,Laghouat
+03053,أفلو - أول ماي,Aflou 01 Mai,أفلو - أول ماي,Aflou 01 Mai,64,أفلو,Aflou,أفلو,Aflou,59,آفلو,Aflou
 03054,الأغواط - القطب الجامعي 02,Laghouat Pole Universitaire 2,الأغواط - القطب الجامعي 02,Laghouat Pole Universitaire 2,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 ,الأغواط - الضلعة,Laghouat Dhalaa,الأغواط - الضلعة,Laghouat Dhalaa,79,الأغواط,Laghouat,الأغواط,Laghouat,03,الأغواط,Laghouat
 ,الحاجب,El Hadjeub,الطريق الوطني رقم 23 الرّابط بين ولايتي الأغواط وتيارت، قرية الحاجب,"Route Nationale N° 23 Reliant La Wilaya De Laghouat A Tiaret,Village El Hadjeub",85,تاجموت,Tadjemout,عين ماضي,Ain Madhi,03,الأغواط,Laghouat
@@ -289,7 +289,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 34053,أولاد زايد,Ouled Zaid,أولاد زايد,Ouled Zaid,93,عين مليلة,Ain M'lila,عين مليلة,Ain M'lila,04,أم البواقي,Oum El Bouaghi
 46028,عين البيضاء,Ain Beida,عين البيضاء,Ain Beida,89,عين البيضاء,Ain Beida,عين البيضاء,Ain Beida,04,أم البواقي,Oum El Bouaghi
 05000,باتنة - القبّاضة الرّئيسيّة,Batna,نهج هواري بومدين,Cité Des 410 Logts Ex Ecotec Batna,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
-05001,بريكة,Barika,وسط مدينة بريكة,Centre Ville Barika,122,بريكة,Barika,بريكة,Barika,05,باتنة,Batna
+05001,بريكة,Barika,وسط مدينة بريكة,Centre Ville Barika,122,بريكة,Barika,بريكة,Barika,60,بريكة,Barika
 05002,عين التوتة,Ain Touta,طريق بسكرة,Route De Biskra,118,عين التوتة,Ain Touta,عين التوتة,Ain Touta,05,باتنة,Batna
 05003,باتنة - بن بولعيد,Batna Ben Boulaid,باتنة - بن بولعيد,Alees Ben Boulaid,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
 05004,نقاوس,N'Gaous,الحي الإداري,Cité Administratif,153,نقاوس,N Gaous,نقاوس,N'gaous,05,باتنة,Batna
@@ -310,13 +310,13 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 05019,نقاوس - 5 جويلية,N'Gaous 5 Juillet,وسط مدينة نقاوس,N'Gaous Centre Ville,153,نقاوس,N Gaous,نقاوس,N'gaous,05,باتنة,Batna
 05020,تكوت,T'Kout,تكوت وسط,T'Kout Centre,168,تكوت,T Kout,تكوت,Tkout,05,باتنة,Batna
 05021,باتنة - البستان,Batna El Boustene,حي البستان,Cité El Boustene,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
-05022,بريكة - الحرية,Barika Liberte,حي الحرية,Cité Liberte,122,بريكة,Barika,بريكة,Barika,05,باتنة,Batna
+05022,بريكة - الحرية,Barika Liberte,حي الحرية,Cité Liberte,122,بريكة,Barika,بريكة,Barika,60,بريكة,Barika
 05023,تمقاد,Timgad,طريق الأطلال الرومانية - تمقاد,Route Des Ruinestimgad,176,تيمقاد,Timgad,تيمقاد,Timgad,05,باتنة,Batna
 05024,أريس - مزوجي اعمر,Arris Mezoudji Amor,حي مزوجي اعمر,Cité Mezoudji Amor,120,أريس,Arris,أريس,Arris,05,باتنة,Batna
 05025,سريانة,Seriana,وسط مدينة سريانة,Centre Ville Seriana,167,سريانة,Seriana,سريانة,Seriana,05,باتنة,Batna
 05026,مدينة,Medina,مدينة وسط,Medina Centre,142,إشمول,Ichemoul,إشمول,Ichemoul,05,باتنة,Batna
-05027,سقانة,Seggana,طريق بريكة,Route De Barika,166,سقانة,Seggana,سقانة,Seggana,05,باتنة,Batna
-05028,بريكة - بن بعطوش,Barika Ben Baatouche,حي 1000 مسكن,Cité 1000 Logts,122,بريكة,Barika,بريكة,Barika,05,باتنة,Batna
+05027,سقانة,Seggana,طريق بريكة,Route De Barika,166,سقانة,Seggana,سقانة,Seggana,60,بريكة,Barika
+05028,بريكة - بن بعطوش,Barika Ben Baatouche,حي 1000 مسكن,Cité 1000 Logts,122,بريكة,Barika,بريكة,Barika,60,بريكة,Barika
 05029,نقاوس - رأس العين,N'Gaous Ras El Ain,حي رأس العين,Cité Ras El Ain,153,نقاوس,N Gaous,نقاوس,N'gaous,05,باتنة,Batna
 05030,مروانة - 8 ماي 1945,Merouana 8 Mai 1945,شارع 5 جويلية,Rue 5 Juillet,152,مروانة,Merouana,مروانة,Merouana,05,باتنة,Batna
 05031,عين ياقوت,Ain Yagout,عين ياقوت وسط,Ain Yagout Centre,119,عين ياقوت,Ain Yagout,المعذر,El Madher,05,باتنة,Batna
@@ -325,7 +325,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 05034,مروانة - هواري بومدين,Merouana Houari Boumediene,حي هواري بومدين,Cité Houari Boumediene,152,مروانة,Merouana,مروانة,Merouana,05,باتنة,Batna
 05035,ثنية العابد,Teniet El Abed,ثنية العابد وسط,Teniet El Abed Centre,172,ثنية العابد,Teniet El Abed,ثنية العابد,Theniet El Abed,05,باتنة,Batna
 05036,وادي الطاقة,Oued Taga,وادي الطاقة - المدينة الجديدة,Oued Taga Cité Nouvelle,156,وادي الطاقة,Oued Taga,ثنية العابد,Theniet El Abed,05,باتنة,Batna
-05037,مدوكال,M'Doukal,مدوكال وسط,M'Doukal Centre,149,إمدوكل,M Doukal,بريكة,Barika,05,باتنة,Batna
+05037,مدوكال,M'Doukal,مدوكال وسط,M'Doukal Centre,149,إمدوكل,M Doukal,بريكة,Barika,60,بريكة,Barika
 05038,نوادر,Nouader,نوادر - طريق مناع,Nouader Route Menaa,131,شير,Chir,ثنية العابد,Theniet El Abed,05,باتنة,Batna
 05039,شمورة,Chemmora,شمورة وسط,Chemmora Centre,130,الشمرة,Chemora,الشمرة,Chemora,05,باتنة,Batna
 05040,باتنة كشيدة,Batna Kechida,باتنة - حي كشيدة,Batna Cité Kechida,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
@@ -333,8 +333,8 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 05042,أريس - قرين بلقاسم,Arris Grine Belgacem,حي 1052 مسكن - أريس,Cité 1052 Logts Arris,120,أريس,Arris,أريس,Arris,05,باتنة,Batna
 05043,تيفلفل,Tifelfel,تيفلفل,Tifelfel,138,غسيرة,Ghassira,تكوت,Tkout,05,باتنة,Batna
 05044,مسيل,M'Cil,مسيل وسط,M'Cil Centre,160,أولاد سلام,Ouled Sellem,رأس العيون,Ras El Aioun,05,باتنة,Batna
-05045,بيطام,Bitam,بيطام - طريق بسكرة,Route Biskra Bitam,125,بيطام,Bitam,بريكة,Barika,05,باتنة,Batna
-05046,مرابطين,Merabtine,مرابطين - الجزار,Merabtine El Djezzar,133,الجزار,Djezzar,الجزار,Djezzar,05,باتنة,Batna
+05045,بيطام,Bitam,بيطام - طريق بسكرة,Route Biskra Bitam,125,بيطام,Bitam,بريكة,Barika,60,بريكة,Barika
+05046,مرابطين,Merabtine,مرابطين - الجزار,Merabtine El Djezzar,133,الجزار,Djezzar,الجزار,Djezzar,60,بريكة,Barika
 05047,القصر,El Ksar,القصر,El Ksar,145,قصر بلزمة,Ksar Bellezma,مروانة,Merouana,05,باتنة,Batna
 05048,عين التوتة - أوّل نوفمبر,Ain Touta 1er Nov.,شارع لوشان طاهر,Rue Louchene Tahar,118,عين التوتة,Ain Touta,عين التوتة,Ain Touta,05,باتنة,Batna
 05049,فم الطوب,Foum Toub,فم الطوب,Foum Toub,137,فم الطوب,Foum Toub,إشمول,Ichemoul,05,باتنة,Batna
@@ -374,7 +374,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 05083,إينوغيسن,Inoughissene,إينوغيسن,Inoughissene,143,إينوغيسن,Inoughissen,إشمول,Ichemoul,05,باتنة,Batna
 05085,درمون,Dermoune,درمون,Dermoune,168,تكوت,T Kout,تكوت,Tkout,05,باتنة,Batna
 05086,نيردي,Nirdi,نيردي,Nirdi,129,بوزينة,Bouzina,بوزينة,Bouzina,05,باتنة,Batna
-05087,أولاد دراجي,Ouled Derradji,أولاد دراجي,Ouled Derradji,121,عزيل عبد القادر,Azil Abedelkader,الجزار,Djezzar,05,باتنة,Batna
+05087,أولاد دراجي,Ouled Derradji,أولاد دراجي,Ouled Derradji,121,عزيل عبد القادر,Azil Abedelkader,الجزار,Djezzar,60,بريكة,Barika
 05088,كودية مسارة,Koudiat Messara,كودية مسارة,Koudiat Messara,170,تاكسلانت,Taxlent,أولاد سي سليمان,Ouled Si Slimane,05,باتنة,Batna
 05089,كندة,Kenda,كندة,Kenda,164,رأس العيون,Ras El Aioun,رأس العيون,Ras El Aioun,05,باتنة,Batna
 05090,شعبة القصبات,Chaabet El Gosbat,شعبة القصبات,Chaabet El Gosbat,139,القصبات,Gosbat,رأس العيون,Ras El Aioun,05,باتنة,Batna
@@ -406,27 +406,27 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 05116,الحاسي,El Hassi,الحاسي,El Hassi,134,الحاسي,El Hassi,عين جاسر,Ain Djasser,05,باتنة,Batna
 05117,لزرو,Lazrou,لزرو,Lazrou,147,لازرو,Lazrou,سريانة,Seriana,05,باتنة,Batna
 05118,شوط,Chott,شوط,Chott,160,أولاد سلام,Ouled Sellem,رأس العيون,Ras El Aioun,05,باتنة,Batna
-05119,أولاد يعيش,Ouled Aiche,أولاد يعيش,Ouled Aiche,125,بيطام,Bitam,بريكة,Barika,05,باتنة,Batna
+05119,أولاد يعيش,Ouled Aiche,أولاد يعيش,Ouled Aiche,125,بيطام,Bitam,بريكة,Barika,60,بريكة,Barika
 05120,طاقة,Taga,طاقة,Taga,167,سريانة,Seriana,سريانة,Seriana,05,باتنة,Batna
-05121,أولاد عمار,Ouled Ammar,أولاد عمار,Ouled Ammar,157,أولاد عمار,Ouled Ammar,الجزار,Djezzar,05,باتنة,Batna
+05121,أولاد عمار,Ouled Ammar,أولاد عمار,Ouled Ammar,157,أولاد عمار,Ouled Ammar,الجزار,Djezzar,60,بريكة,Barika
 05122,شيحات,Chihat,شيحات,Chihat,158,أولاد عوف,Ouled Aouf,عين التوتة,Ain Touta,05,باتنة,Batna
 05123,معافة,Maafa,معافة,Maafa,150,معافة,Maafa,عين التوتة,Ain Touta,05,باتنة,Batna
 05124,رأس الماء,Ras El Ma,رأس الماء,Ras El Ma,118,عين التوتة,Ain Touta,عين التوتة,Ain Touta,05,باتنة,Batna
-05125,تازغت,Tazeght,تازغت,Tazeght,166,سقانة,Seggana,سقانة,Seggana,05,باتنة,Batna
+05125,تازغت,Tazeght,تازغت,Tazeght,166,سقانة,Seggana,سقانة,Seggana,60,بريكة,Barika
 05126,مولية,Moulia,مولية,Moulia,118,عين التوتة,Ain Touta,عين التوتة,Ain Touta,05,باتنة,Batna
-05127,القريدات,Legridet,القريدات,Legridet,175,تيلاطو,Tilatou,سقانة,Seggana,05,باتنة,Batna
+05127,القريدات,Legridet,القريدات,Legridet,175,تيلاطو,Tilatou,سقانة,Seggana,60,بريكة,Barika
 05128,فنارو,Fenarou,فنارو,Fenarou,153,نقاوس,N Gaous,نقاوس,N'gaous,05,باتنة,Batna
 05129,طرف,Tarf,طرف,Tarf,140,القيقبة,Guigba,رأس العيون,Ras El Aioun,05,باتنة,Batna
-05130,متكاوك,M'Tkaouak,متكاوك,M'Tkaouak,121,عزيل عبد القادر,Azil Abedelkader,الجزار,Djezzar,05,باتنة,Batna
+05130,متكاوك,M'Tkaouak,متكاوك,M'Tkaouak,121,عزيل عبد القادر,Azil Abedelkader,الجزار,Djezzar,60,بريكة,Barika
 05131,تاماشيت,Tamachit,حي تاماشيت - باتنة,Cité Tamachit Batna,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
 05132,بوتراع كرمية,Bouteraa Kermia,بوتراع كرمية,Bouteraa Kermia,163,الرحبات,Rahbat,رأس العيون,Ras El Aioun,05,باتنة,Batna
 05133,تامسغيت,Tamesghit,تامسغيت,Tamesghit,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
 05134,باتنة - المحطة البرية,Batna Gare Routiere,المحطة البرية,Gare Routiere,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
 05135,باتنة - مدرسة تطبيق السّلاح المدرّع,Batna  E A A B,مدرسة تطبيق السّلاح المدرّع,Ecole Militaire E A A B,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
-05136,بريكة - الوحدة العسكرية المدرعة 1,Berika 1ere Division Blindee,الوحدة العسكرية المدرعة 1,Berika Division Blindee,122,بريكة,Barika,بريكة,Barika,05,باتنة,Batna
+05136,بريكة - الوحدة العسكرية المدرعة 1,Berika 1ere Division Blindee,الوحدة العسكرية المدرعة 1,Berika Division Blindee,122,بريكة,Barika,بريكة,Barika,60,بريكة,Barika
 05137,باتنة - الجامعة,Batna Universite,باتنة - الجامعة,Batna Universite,123,باتنة,Batna,باتنة,Batna,05,باتنة,Batna
 05138,سريانة - أريس,Seriana Eris,سريانة - أريس,Eris Seriana,167,سريانة,Seriana,سريانة,Seriana,05,باتنة,Batna
-05139,بريكة - المحطة البرية,Barika Gare Routiere,,Gare Routiere Barika,122,بريكة,Barika,بريكة,Barika,05,باتنة,Batna
+05139,بريكة - المحطة البرية,Barika Gare Routiere,,Gare Routiere Barika,122,بريكة,Barika,بريكة,Barika,60,بريكة,Barika
 05140,عين التوتة - شفات,Ain Touta Chaffet,حي شفات، بلدية عين التوتة - باتنة,"Cité Chaffet, Commune Ain Touta, Batna",118,عين التوتة,Ain Touta,عين التوتة,Ain Touta,05,باتنة,Batna
 05141,بني فضالة الحقانية,Beni Fedhala El Hakania,بلدية بني فضالة الحقانية - باتنة,"Commune Beni Fedala El Hakania, Batna",124,بني فضالة الحقانية,Beni Foudhala El Hakania,عين التوتة,Ain Touta,05,باتنة,Batna
 05142,تازولت - 20 أوت 1956,Tazoult 20 Aout 1956,,,171,تازولت,Tazoult,تازولت,Tazoult,05,باتنة,Batna
@@ -442,170 +442,170 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 30021,الشط,Chott,الشّارع البلدي,Rue Communal,160,أولاد سلام,Ouled Sellem,رأس العيون,Ras El Aioun,05,باتنة,Batna
 36007,الشط,Chott,بلدية الشط,Commune Chott,160,أولاد سلام,Ouled Sellem,رأس العيون,Ras El Aioun,05,باتنة,Batna
 48046,الحاسي,El Hassi,فطاطشة 'CTA',Cta Ftatcha,134,الحاسي,El Hassi,عين جاسر,Ain Djasser,05,باتنة,Batna
-06000,بجاية - القبّاضة الرّئيسيّة,Bejaia,ساحة مجاهد,Place Medjahed,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06001,أقبو,Akbou,أقبو وسط,Akbou Centre,181,أقبو,Akbou,أقبو,Akbou,06," بجاية",Béjaïa
-06002,بجاية - الحرية,Bejaia Liberte,شارع الحرية,Rue De La Liberte,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06003,القصر,El Kseur,القصر وسط,El Kseur Centre,200,القصر,El Kseur,القصر,El Kseur,06," بجاية",Béjaïa
-06004,خراطة,Kherrata,خراطة وسط,Kherrata Centre,207,خراطة,Kherrata,خراطة,Kherrata,06," بجاية",Béjaïa
-06005,سيدي عيش,Sidi Aich,سيدي عيش وسط,Sidi Aich Centre,213,سيدي عيش,Sidi-Aich,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06006,تازمالت,Tazmalt,تازمالت وسط,Tazmalt Centre,222,تازمالت,Tazmalt,تازملت,Tazmalt,06," بجاية",Béjaïa
-06007,أوقاس,Aokas,أوقاس وسط,Aokas Centre,185,أوقاس,Aokas,أوقاس,Aokas,06," بجاية",Béjaïa
-06008,أميزور,Amizour,أميزور وسط,Amizour Centre,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06009,برباشة,Barbacha,برباشة وسط,Barbacha Centre,186,برباشة,Barbacha,برباشة,Barbacha,06," بجاية",Béjaïa
-06010,إيغزر أمقران,Ighzer Amokrane,إيغزر أمقران,Igher Amokrane,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06," بجاية",Béjaïa
-06011,سدوق,Seddouk,سدوق وسط,Seddouk Centre,211,صدوق,Seddouk,صدوق,Seddouk,06," بجاية",Béjaïa
-06012,سوق الإثنين,Souk El Tenine,سوق الإثنين وسط,Souk El Tenine Centre,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-06013,قندوز,Guendouze,قندوز وسط,Guendouze Centre,179,أيت رزين,Ait R'zine,إغيل علي,Ighil Ali,06," بجاية",Béjaïa
-06014,إغيل علي,Ighil Ali,إغيل علي وسط,Ighil Ali Centre,204,إغيل علي,Ighil-Ali,إغيل علي,Ighil Ali,06," بجاية",Béjaïa
-06015,برج ميرة,Bordj Mira,برج ميرة وسط,Bordj Mira Centre,221,تاسكريوت,Taskriout,درقينة,Darguina,06," بجاية",Béjaïa
-06016,درقينة,Darguina,درقينة وسط,Darguina Centre,197,درقينة,Darguina,درقينة,Darguina,06," بجاية",Béjaïa
-06017,وادي غير,Oued Ghir,وادي غير وسط,Oued Ghir Centre,210,وادي غير,Oued Ghir,بجاية,Bejaia,06," بجاية",Béjaïa
-06018,بوجليل,Boudjellil,بوجليل وسط,Boudjellil Centre,192,بو جليل,Boudjellil,تازملت,Tazmalt,06," بجاية",Béjaïa
-06019,أكابيو,Akabiou,أكابيو وسط,Akabiou Centre,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06," بجاية",Béjaïa
-06020,سمعون,Semaoune,سمعون وسط,Semaoune Centre,214,سمعون,Smaoun,أميزور,Amizour,06," بجاية",Béjaïa
-06021,أدكار - كبوش,Adekar Kebouche,أدكار وسط,Adekar Centre,178,أدكار,Adekar,أدكار,Adekar,06," بجاية",Béjaïa
-06022,شميني,Chemini,شميني وسط,Chemini Centre,196,شميني,Chemini,شميني,Chemini,06," بجاية",Béjaïa
-06023,تيشي,Tichi,تيشي وسط,Tichi Centre,224,تيشي,Tichy,تيشي,Tichy,06," بجاية",Béjaïa
-06024,بني معوش,Beni Maouche,بني معوش وسط,Beni Maouche Centre,191,بني معوش,Benimaouche,بني معوش,Beni Maouche,06," بجاية",Béjaïa
-06025,تيزمورين,Tizamourine,تيزمورين,Tizamourine,182,أكفادو,Akfadou,شميني,Chemini,06," بجاية",Béjaïa
-06026,بني منصور,Beni Mansour,بني منصور,Beni Mansour,192,بو جليل,Boudjellil,تازملت,Tazmalt,06," بجاية",Béjaïa
-06027,جبلة,Djeblaa,جبلة,Djeblaa,189,بني كسيلة,Beni K'sila,أدكار,Adekar,06," بجاية",Béjaïa
-06028,سيلال,Sillal,سيلال,Sillal,225,تيفرة,Tifra,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06029,كيرية,Kiria,كيرية,Kiria,178,أدكار,Adekar,أدكار,Adekar,06," بجاية",Béjaïa
-06030,توجة,Toudja,توجة,Toudja,229,توجة,Toudja,القصر,El Kseur,06," بجاية",Béjaïa
-06031,بوحمزة,Bouhamza,بوحمزة,Bouhamza,193,بوحمزة,Bouhamza,صدوق,Seddouk,06," بجاية",Béjaïa
-06032,تيزي تينجيت,Tizi Tindjit,كنديرة,Kendira,206,كنديرة,Kendira,برباشة,Barbacha,06," بجاية",Béjaïa
-06033,فرعون,Feraoune,فرعون وسط,Feraoune Centre,202,فرعون,Feraoun,أميزور,Amizour,06," بجاية",Béjaïa
-06034,أكورمة,Akourma,أمالو,Amalou,183,أمالو,Amalou,صدوق,Seddouk,06," بجاية",Béjaïa
-06035,تيزي القرن,Tizi El Korn,توريرت إغيل,Taourit Ighil,220,تاوريرت إغيل,Taourit Ighil,أدكار,Adekar,06," بجاية",Béjaïa
-06036,تقريت,Takrietz,تقريت,Takerietz,216,سوق اوفلا,Souk Oufella,شميني,Chemini,06," بجاية",Béjaïa
-06037,تينبدر,Tinebdar,تينبدر,Tinebdar,227,تينبدار,Tinebdar,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06038,سيدي سعيد,Sidi Said,سيدي سعيد,Sidi Said,208,مسيسنة,M'cisna,صدوق,Seddouk,06," بجاية",Béjaïa
-06039,بني مليكش,Beni Melikeche,بني مليكش,Ben Melikeche,190,بني مليكش,Beni-Mallikeche,تازملت,Tazmalt,06," بجاية",Béjaïa
-06040,بجاية - سيدي أحمد,Bejaia Sidi Ahmed,سيدي أحمد - بجاية,"Sidi Ahmed,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06041,إلماتن,Il Matten,إلماتن,Il Matten,201,فناية الماثن,Fenaia Il Maten,القصر,El Kseur,06," بجاية",Béjaïa
-06042,تيليواكادي,Tiliouacadi,سوق أوفلا,Souk Oufela,216,سوق اوفلا,Souk Oufella,شميني,Chemini,06," بجاية",Béjaïa
-06043,الفلاي,El Flaye,الفلاي,El Flaye,199,الفلاي,Leflaye,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06044,تيرقرقت,Teregregt,آيت اسماعل,Ait Semail,180,أيت إسماعيل,Ait-Smail,درقينة,Darguina,06," بجاية",Béjaïa
-06045,جمعة,Djemaa,جمعة,Djamaa,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06," بجاية",Béjaïa
-06046,بوخيامة,Boukhiama,بوخيامة، بجاية,"Boukhiama,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06047,أمتيق نتافاث,Amtik N'Tafat,أمتيق نتافاث، بجاية,Amitik N'Tafath Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06048,تاسلنت,Taslent,تاسلنت,Taslent,205,اغرم,Ighram,أقبو,Akbou,06," بجاية",Béjaïa
-06049,بوحاتم,Bouhitem,بوحاتم,Bouhitem,193,بوحمزة,Bouhamza,صدوق,Seddouk,06," بجاية",Béjaïa
-06050,قندوزة,Guendouza,قندوزة,Guendouza,181,أقبو,Akbou,أقبو,Akbou,06," بجاية",Béjaïa
-06051,أولاد علوان,Ouled Allouane,أولاد علوان,Ouled Alouane,182,أكفادو,Akfadou,شميني,Chemini,06," بجاية",Béjaïa
-06052,شلاطة,Chellata,شلاطة,Chellata,195,شلاطة,Chellata,أقبو,Akbou,06," بجاية",Béjaïa
-06053,بيشر,Bicher,بيشر,Bicher,218,تامقرة,Tamokra,أقبو,Akbou,06," بجاية",Béjaïa
-06054,بلايل,Belayel,بلايل,Belayel,179,أيت رزين,Ait R'zine,إغيل علي,Ighil Ali,06," بجاية",Béjaïa
-06055,تيزي علوان,Tizi Alouane,تيزي علوان,Tizi Alouane,221,تاسكريوت,Taskriout,درقينة,Darguina,06," بجاية",Béjaïa
-06056,بني واعمر,Beni Ouamar,بني واعمر,Beni Ouamar,190,بني مليكش,Beni-Mallikeche,تازملت,Tazmalt,06," بجاية",Béjaïa
-06057,إيغرم,Ighram,إيغرم,Ighram,205,اغرم,Ighram,أقبو,Akbou,06," بجاية",Béjaïa
-06058,إيفالن,Ifalene,إيفالن,Ifalene,228,تيزي نبربر,Tizi-N'berber,أوقاس,Aokas,06," بجاية",Béjaïa
-06059,تاقمونت,Taguemount,بوخليفة,Boukhelifa,194,بوخليفة,Boukhelifa,تيشي,Tichy,06," بجاية",Béjaïa
-06060,تيزي نبربر,Tizi N'Berber,تيزي نبربر,Tizi N'Berber,228,تيزي نبربر,Tizi-N'berber,أوقاس,Aokas,06," بجاية",Béjaïa
-06061,أدكار,Akkar,أدكار,Akkar,185,أوقاس,Aokas,أوقاس,Aokas,06," بجاية",Béjaïa
-06062,ملالة,Mellala,ملالة,Mellala,210,وادي غير,Oued Ghir,بجاية,Bejaia,06," بجاية",Béjaïa
-06063,إغيل أومسد,Ighil Oumced,إغيل أومسد,Ighil Oumced,195,شلاطة,Chellata,أقبو,Akbou,06," بجاية",Béjaïa
-06064,إغيل وانتر,Ighil Ouantar,إغيل وانتر,Ighil Ouantar,208,مسيسنة,M'cisna,صدوق,Seddouk,06," بجاية",Béjaïa
-06065,تيزي واكلان,Tizi Ouaklane,تيزي واكلان,Tizi Ouaklane,224,تيشي,Tichy,تيشي,Tichy,06," بجاية",Béjaïa
-06066,تالة حمزة,Tala Hamza,تالة حمزة,Tala Hamza,217,تالة حمزة,Tala Hamza,تيشي,Tichy,06," بجاية",Béjaïa
-06067,آيت سخور,Ait S'Kheur,آيت سخور,Ait S'Kheur,188,بني جليل,Beni Djellil,أميزور,Amizour,06," بجاية",Béjaïa
-06068,عياشة,Ayacha,عياشة,Ayacha,190,بني مليكش,Beni-Mallikeche,تازملت,Tazmalt,06," بجاية",Béjaïa
-06069,إغيل ناصر,Ighil Nasser,إغيل ناصر,Ighil Nasser,205,اغرم,Ighram,أقبو,Akbou,06," بجاية",Béjaïa
-06070,برزاخ,Berzakh,برزاخ,Berzakh,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06," بجاية",Béjaïa
-06071,أشلوف,Achelouf,أشلوف,Achelouf,229,توجة,Toudja,القصر,El Kseur,06," بجاية",Béjaïa
-06072,تاقاعت,Takaatz,تاقاعت,Takaatz,211,صدوق,Seddouk,صدوق,Seddouk,06," بجاية",Béjaïa
-06073,محفوظة,Mahfouda,محفوظة,Mahfouda,193,بوحمزة,Bouhamza,صدوق,Seddouk,06," بجاية",Béjaïa
-06074,أجيون,Adjioun,أجيون,Adjioun,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06," بجاية",Béjaïa
-06075,درادرة,Dradra,درادرة,Dradra,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06," بجاية",Béjaïa
-06076,الجرف,El Djorf,الجرف,Melbou,209,مالبو,Melbou,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-06077,العالم,El Alem,العالم,El Alem,219,تامريجت,Tamridjet,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-06078,آيت إدريس,Ait Idriss,آيت إدريس,Ait Idriss,221,تاسكريوت,Taskriout,درقينة,Darguina,06," بجاية",Béjaïa
-06079,تيبوعموشين,Tibouamouchine,تيبوعموشين,Tbouamouchine,211,صدوق,Seddouk,صدوق,Seddouk,06," بجاية",Béjaïa
-06080,تيزوال,Tizoual,تيزوال,Tizouel,180,أيت إسماعيل,Ait-Smail,درقينة,Darguina,06," بجاية",Béjaïa
-06081,آيت عجيسة,Ait Adjissa,آيت عجيسة,Ait Adjissa,191,بني معوش,Benimaouche,بني معوش,Beni Maouche,06," بجاية",Béjaïa
-06082,إغيل نالسبت,Ighil N'Sebt,بني جليل,Beni Djellil,188,بني جليل,Beni Djellil,أميزور,Amizour,06," بجاية",Béjaïa
-06083,إغيل أوتواف,Ighil Outouaf,إغيل أوتواف,Ighil Outouaf,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06," بجاية",Béjaïa
-06084,سمعون - شميني,Semaoune Chemini,سمعون - شميني,Semaoune Chemini,196,شميني,Chemini,شميني,Chemini,06," بجاية",Béjaïa
-06085,سيدي عياد,Sidi Ayad,سيدي عياد,Sidi Ayad,212,سيدي عياد,Sidi Ayad,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06086,تالة تازرت,Tala Tazert,فناية,Fenaia,201,فناية الماثن,Fenaia Il Maten,القصر,El Kseur,06," بجاية",Béjaïa
-06087,تيبان,Tibane,تيبان,Tibane,223,طيبان,Tibane,شميني,Chemini,06," بجاية",Béjaïa
-06088,إيلماتن - المستشفى,Il Matten Hopital,إيلماتن - المستشفى,Il Matten Hopital,201,فناية الماثن,Fenaia Il Maten,القصر,El Kseur,06," بجاية",Béjaïa
-06089,إيقجان,Ikedjane,إيقجان,Ikedjane,225,تيفرة,Tifra,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06090,تامريشت,Tamricht,تامريشت,Tamricht,197,درقينة,Darguina,درقينة,Darguina,06," بجاية",Béjaïa
-06091,بوخالفة,Boukhalfa,بوخالفة,Boukhalfa,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06092,أغبالو,Aghbala,أغبالو,Aghbala,188,بني جليل,Beni Djellil,أميزور,Amizour,06," بجاية",Béjaïa
-06093,أورير عجيسة,Aourir Adjissa,أورير عجيسة,Aourir Adjissa,214,سمعون,Smaoun,أميزور,Amizour,06," بجاية",Béjaïa
-06094,قارت,Garet,قارت,Garet,200,القصر,El Kseur,القصر,El Kseur,06," بجاية",Béjaïa
-06095,خليل,Khellil,خليل,Khellil,186,برباشة,Barbacha,برباشة,Barbacha,06," بجاية",Béjaïa
-06096,تادرت تامقرانت,Tadert Tamokrant,تادرت تامقرانت,Tadart Tamokrant,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06098,إغيل إعلوانن,Ighil Ialouanene,إغيل إعلوانن,Ighil Ialouanene,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06099,أخناق,Akhnak,أخناق,Akhnak,211,صدوق,Seddouk,صدوق,Seddouk,06," بجاية",Béjaïa
-06100,تيزي بني خطاب,Tizi Beni Khettab,تيزي بني خطاب,Tizi Beni Khettab,202,فرعون,Feraoun,أميزور,Amizour,06," بجاية",Béjaïa
-06101,تيقرين,Tigrine,تيقرين,Tigrine,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06," بجاية",Béjaïa
-06102,مرج أوامان,Merdj Ouamene,مرج أوامان,Merdj Ouamene,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06103,تيزي أوقني,Tizi Ougueni,تيزي أوقني,Tizi Ougueni,178,أدكار,Adekar,أدكار,Adekar,06," بجاية",Béjaïa
-06104,أسام,Assam,أسام,Assam,225,تيفرة,Tifra,سيدي عيش,Sidi Aich,06," بجاية",Béjaïa
-06106,بني كسيلة,Beni K'Sila,بني كسيلة,Beni K'Sila,189,بني كسيلة,Beni K'sila,أدكار,Adekar,06," بجاية",Béjaïa
-06107,أقمون - بني خيار,Aguemoune Beni Khiar,أقمون - بني خيار,Aguemoune Beni Khiar,191,بني معوش,Benimaouche,بني معوش,Beni Maouche,06," بجاية",Béjaïa
-06108,إمولة,Immoula,إمولة,Immoula,208,مسيسنة,M'cisna,صدوق,Seddouk,06," بجاية",Béjaïa
-06109,تمقرة,Tamokra,تمقرة,Tamokra,218,تامقرة,Tamokra,أقبو,Akbou,06," بجاية",Béjaïa
-06110,لوطة,Lota,لوطة,Lota,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-06111,أقبو - أول نوفمبر,Akbou 1er Novembre,أقبو,Akbou,181,أقبو,Akbou,أقبو,Akbou,06," بجاية",Béjaïa
-06112,ألاغن,Allaghane,ألاغن,Allaghane,222,تازمالت,Tazmalt,تازملت,Tazmalt,06," بجاية",Béjaïa
-06113,صنادلة,Snadla,صنادلة,Snadla,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06," بجاية",Béjaïa
-06114,تيزي الوادي,Tizi El Oued,سوق الإثنين,Souk El Tenine,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-06115,توريرت إغيل,Taourirt Ighil Centre,توريرت إغيل وسط,Taourirt Ighil Centre,220,تاوريرت إغيل,Taourit Ighil,أدكار,Adekar,06," بجاية",Béjaïa
-06116,بجاية - المشتلة,Bejaia Pepiniere,الإقامة الجامعية المشتلة - بجاية,R.U.Pepiniere . Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06117,الحامة,El Hamma,الحامة,El Hamma,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06118,خراطة الجديدة,Kherrata Nouvelle,خراطة الجديدة,Kherrata,207,خراطة,Kherrata,خراطة,Kherrata,06," بجاية",Béjaïa
-06119,أبينو,Abainou,أبينو,Abainou,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06," بجاية",Béjaïa
-06120,برشيش - الإقامة الجامعيّة,Berchiche Residence Universitaire,الإقامة الجامعيّة برشيش 3، القصر,R.U.Berchiche 3. Elkseur,200,القصر,El Kseur,القصر,El Kseur,06," بجاية",Béjaïa
-06121,حلوان,Helouane,حلوان,Hellouane,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06," بجاية",Béjaïa
-06122,إيدراقن,Ideraken,إيدراقن,Ideraken,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06," بجاية",Béjaïa
-06123,بجاية - المحطة البريّة,Bejaia Gare Routiere,المحطة البريّة لبجاية,Gare Routiere De Bajaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06124,توريرت الأربعاء,Taourirt Larbaa,توريرت الأربعاء,Taourirt Larbaa,224,تيشي,Tichy,تيشي,Tichy,06," بجاية",Béjaïa
-06125,بجاية - أحمد أوقانة,Bejaia Ahmed Ougana,الخميس، بجاية,"Lekhmiss,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06126,بجاية - حسيبة بن بوعلي,Bejaia Hassiba Ben Bouali,حي روسال، مقابل مكتب الحضيرة الولائيّة متعدّدة الرياضات,Cité Roussel En Face Opow,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06127,بجاية - عبان رمضان,Bejaia Abane Ramdane,حي 1000 مسكن، إحدادن، بجاية,"Q.1000logs Ihaddedn,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06128,بجاية - الناصرية,Bejaia Naceria,حي الناصرية، بجاية,Cité Naciria.Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06129,بجاية - تالة وريان,Bejaia Tala Ouriane,حي تالة وريان، بجاية,Q.Tala Ouriane. Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06130,بجاية - إحدادن,Bejaia Ihaddadene,حي 600 مسكن، إحدادن بجاية,Q.600logts Ihadadden,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06131,بجاية - سيدي علي البحر,Bejaia Sidi Ali Labhar,سيدي علي البحر، بجاية,Sidi Ali L'Abhar.Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06132,القصر - أكال أبركان,El Kseur Akal Aberkan,حي أكال أبركان، القصر,Cité Akal Aberkan. El Kseur,200,القصر,El Kseur,القصر,El Kseur,06," بجاية",Béjaïa
-06133,جرمونة,Djermouna,جرمونة,Djarmouna,207,خراطة,Kherrata,خراطة,Kherrata,06," بجاية",Béjaïa
-06134,بجاية - تاعساست,Bejaia Taassast,قرية تاعساست، بجاية,"Village De Taassast,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06135,أميزور - الإقامة الجامعيّة 01,Amizour Residence Universitaire 01,الإقامة الجامعيّة أميزور,"La Cité Universitaire Amizour,Bejaia",184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-06136,أوقاس 20 أوت 1956,Aokas 20 Aout 1956,حي 100/900 مسكن محلي، 109 و 110 المكتب الوطني للسكن، أوقاس,"Cité 100/900 Logements Locaux Nâ° 109 Et 110 Opgi,Aokas",185,أوقاس,Aokas,أوقاس,Aokas,06," بجاية",Béjaïa
-06137,أقبو - المستشفى,Akbou Hopital,أقبو,Akbou,181,أقبو,Akbou,أقبو,Akbou,06," بجاية",Béjaïa
-06139,بجاية - سيدي سفيان,Bejaia Sidi Soufiane,سيدي سفيان، بجاية,Cité Sidi Soufiane.Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-06140,مرواحة,Merouaha,الطريق الوطني رقم 09، قرية مرواحة,"La Route Nationale Nâ°9,Village De Merouaha,Bejaia",207,خراطة,Kherrata,خراطة,Kherrata,06," بجاية",Béjaïa
-06141,أقبو - قلدامن,Akbou Gueldamene,الطريق الوطني رقم 26، إنحراف أوشعلال، أقبو,"Route Nationale Nâ° 26, Tournant Ouchalal, Akbou",181,أقبو,Akbou,أقبو,Akbou,06," بجاية",Béjaïa
-06142,أكفادو,Akfadou,وسط قرية تينيري، بلدية أكفادو,Village Tiniri Chef Lieu Commune D'Akfadou,182,أكفادو,Akfadou,شميني,Chemini,06," بجاية",Béjaïa
-06143,آيت مقدم,Ait Mekedem,,,195,شلاطة,Chellata,أقبو,Akbou,06," بجاية",Béjaïa
-06144,بجاية - المكتب البريديّ المتنقل -1,Bejaia Etablissement Postal Itinerant 1,,,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-,بجاية - القوات البرية,Bejaia Terre,أربع طرق، بجاية,Quatre Chemins Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06," بجاية",Béjaïa
-15066,بوخالفة,Boukhalfa,الطريق الرئيسي,Route Principale,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-15070,سوق الاثنين,Souk El Tenine,سوق الاثنين,Souk El T'Nine,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-17053,قندوزة,Guendouza,قندوزة,Guendouza,181,أقبو,Akbou,أقبو,Akbou,06," بجاية",Béjaïa
-21080,الحامة,El Hamma,الحامة,El Hamma,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-28072,الجرف,El Djorf,الجرف,El Djorf,209,مالبو,Melbou,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-34007,خليل,Khellil,خليل,Khellil,186,برباشة,Barbacha,برباشة,Barbacha,06," بجاية",Béjaïa
-39046,أكفادو,Akfadou,حي أكفادو,Cité Akfadou,182,أكفادو,Akfadou,شميني,Chemini,06," بجاية",Béjaïa
-40016,الحامة,El Hamma,الحامة,El Hamma,184,أميزور,Amizour,أميزور,Amizour,06," بجاية",Béjaïa
-46014,سوق الإثنين,Souk El Tenine,شارع أحمد بن شعيب موسى,Rue Ahmed Benchaib Moussa,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06," بجاية",Béjaïa
-46052,سيدي سعيد,Sidi Said,حي سيدي سعيد، المالح,Cité Sidi Said   El Maleh,208,مسيسنة,M'cisna,صدوق,Seddouk,06," بجاية",Béjaïa
+06000,بجاية - القبّاضة الرّئيسيّة,Bejaia,ساحة مجاهد,Place Medjahed,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06001,أقبو,Akbou,أقبو وسط,Akbou Centre,181,أقبو,Akbou,أقبو,Akbou,06, بجاية,Béjaïa
+06002,بجاية - الحرية,Bejaia Liberte,شارع الحرية,Rue De La Liberte,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06003,القصر,El Kseur,القصر وسط,El Kseur Centre,200,القصر,El Kseur,القصر,El Kseur,06, بجاية,Béjaïa
+06004,خراطة,Kherrata,خراطة وسط,Kherrata Centre,207,خراطة,Kherrata,خراطة,Kherrata,06, بجاية,Béjaïa
+06005,سيدي عيش,Sidi Aich,سيدي عيش وسط,Sidi Aich Centre,213,سيدي عيش,Sidi-Aich,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06006,تازمالت,Tazmalt,تازمالت وسط,Tazmalt Centre,222,تازمالت,Tazmalt,تازملت,Tazmalt,06, بجاية,Béjaïa
+06007,أوقاس,Aokas,أوقاس وسط,Aokas Centre,185,أوقاس,Aokas,أوقاس,Aokas,06, بجاية,Béjaïa
+06008,أميزور,Amizour,أميزور وسط,Amizour Centre,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06009,برباشة,Barbacha,برباشة وسط,Barbacha Centre,186,برباشة,Barbacha,برباشة,Barbacha,06, بجاية,Béjaïa
+06010,إيغزر أمقران,Ighzer Amokrane,إيغزر أمقران,Igher Amokrane,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06, بجاية,Béjaïa
+06011,سدوق,Seddouk,سدوق وسط,Seddouk Centre,211,صدوق,Seddouk,صدوق,Seddouk,06, بجاية,Béjaïa
+06012,سوق الإثنين,Souk El Tenine,سوق الإثنين وسط,Souk El Tenine Centre,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+06013,قندوز,Guendouze,قندوز وسط,Guendouze Centre,179,أيت رزين,Ait R'zine,إغيل علي,Ighil Ali,06, بجاية,Béjaïa
+06014,إغيل علي,Ighil Ali,إغيل علي وسط,Ighil Ali Centre,204,إغيل علي,Ighil-Ali,إغيل علي,Ighil Ali,06, بجاية,Béjaïa
+06015,برج ميرة,Bordj Mira,برج ميرة وسط,Bordj Mira Centre,221,تاسكريوت,Taskriout,درقينة,Darguina,06, بجاية,Béjaïa
+06016,درقينة,Darguina,درقينة وسط,Darguina Centre,197,درقينة,Darguina,درقينة,Darguina,06, بجاية,Béjaïa
+06017,وادي غير,Oued Ghir,وادي غير وسط,Oued Ghir Centre,210,وادي غير,Oued Ghir,بجاية,Bejaia,06, بجاية,Béjaïa
+06018,بوجليل,Boudjellil,بوجليل وسط,Boudjellil Centre,192,بو جليل,Boudjellil,تازملت,Tazmalt,06, بجاية,Béjaïa
+06019,أكابيو,Akabiou,أكابيو وسط,Akabiou Centre,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06, بجاية,Béjaïa
+06020,سمعون,Semaoune,سمعون وسط,Semaoune Centre,214,سمعون,Smaoun,أميزور,Amizour,06, بجاية,Béjaïa
+06021,أدكار - كبوش,Adekar Kebouche,أدكار وسط,Adekar Centre,178,أدكار,Adekar,أدكار,Adekar,06, بجاية,Béjaïa
+06022,شميني,Chemini,شميني وسط,Chemini Centre,196,شميني,Chemini,شميني,Chemini,06, بجاية,Béjaïa
+06023,تيشي,Tichi,تيشي وسط,Tichi Centre,224,تيشي,Tichy,تيشي,Tichy,06, بجاية,Béjaïa
+06024,بني معوش,Beni Maouche,بني معوش وسط,Beni Maouche Centre,191,بني معوش,Benimaouche,بني معوش,Beni Maouche,06, بجاية,Béjaïa
+06025,تيزمورين,Tizamourine,تيزمورين,Tizamourine,182,أكفادو,Akfadou,شميني,Chemini,06, بجاية,Béjaïa
+06026,بني منصور,Beni Mansour,بني منصور,Beni Mansour,192,بو جليل,Boudjellil,تازملت,Tazmalt,06, بجاية,Béjaïa
+06027,جبلة,Djeblaa,جبلة,Djeblaa,189,بني كسيلة,Beni K'sila,أدكار,Adekar,06, بجاية,Béjaïa
+06028,سيلال,Sillal,سيلال,Sillal,225,تيفرة,Tifra,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06029,كيرية,Kiria,كيرية,Kiria,178,أدكار,Adekar,أدكار,Adekar,06, بجاية,Béjaïa
+06030,توجة,Toudja,توجة,Toudja,229,توجة,Toudja,القصر,El Kseur,06, بجاية,Béjaïa
+06031,بوحمزة,Bouhamza,بوحمزة,Bouhamza,193,بوحمزة,Bouhamza,صدوق,Seddouk,06, بجاية,Béjaïa
+06032,تيزي تينجيت,Tizi Tindjit,كنديرة,Kendira,206,كنديرة,Kendira,برباشة,Barbacha,06, بجاية,Béjaïa
+06033,فرعون,Feraoune,فرعون وسط,Feraoune Centre,202,فرعون,Feraoun,أميزور,Amizour,06, بجاية,Béjaïa
+06034,أكورمة,Akourma,أمالو,Amalou,183,أمالو,Amalou,صدوق,Seddouk,06, بجاية,Béjaïa
+06035,تيزي القرن,Tizi El Korn,توريرت إغيل,Taourit Ighil,220,تاوريرت إغيل,Taourit Ighil,أدكار,Adekar,06, بجاية,Béjaïa
+06036,تقريت,Takrietz,تقريت,Takerietz,216,سوق اوفلا,Souk Oufella,شميني,Chemini,06, بجاية,Béjaïa
+06037,تينبدر,Tinebdar,تينبدر,Tinebdar,227,تينبدار,Tinebdar,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06038,سيدي سعيد,Sidi Said,سيدي سعيد,Sidi Said,208,مسيسنة,M'cisna,صدوق,Seddouk,06, بجاية,Béjaïa
+06039,بني مليكش,Beni Melikeche,بني مليكش,Ben Melikeche,190,بني مليكش,Beni-Mallikeche,تازملت,Tazmalt,06, بجاية,Béjaïa
+06040,بجاية - سيدي أحمد,Bejaia Sidi Ahmed,سيدي أحمد - بجاية,"Sidi Ahmed,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06041,إلماتن,Il Matten,إلماتن,Il Matten,201,فناية الماثن,Fenaia Il Maten,القصر,El Kseur,06, بجاية,Béjaïa
+06042,تيليواكادي,Tiliouacadi,سوق أوفلا,Souk Oufela,216,سوق اوفلا,Souk Oufella,شميني,Chemini,06, بجاية,Béjaïa
+06043,الفلاي,El Flaye,الفلاي,El Flaye,199,الفلاي,Leflaye,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06044,تيرقرقت,Teregregt,آيت اسماعل,Ait Semail,180,أيت إسماعيل,Ait-Smail,درقينة,Darguina,06, بجاية,Béjaïa
+06045,جمعة,Djemaa,جمعة,Djamaa,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06, بجاية,Béjaïa
+06046,بوخيامة,Boukhiama,بوخيامة، بجاية,"Boukhiama,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06047,أمتيق نتافاث,Amtik N'Tafat,أمتيق نتافاث، بجاية,Amitik N'Tafath Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06048,تاسلنت,Taslent,تاسلنت,Taslent,205,اغرم,Ighram,أقبو,Akbou,06, بجاية,Béjaïa
+06049,بوحاتم,Bouhitem,بوحاتم,Bouhitem,193,بوحمزة,Bouhamza,صدوق,Seddouk,06, بجاية,Béjaïa
+06050,قندوزة,Guendouza,قندوزة,Guendouza,181,أقبو,Akbou,أقبو,Akbou,06, بجاية,Béjaïa
+06051,أولاد علوان,Ouled Allouane,أولاد علوان,Ouled Alouane,182,أكفادو,Akfadou,شميني,Chemini,06, بجاية,Béjaïa
+06052,شلاطة,Chellata,شلاطة,Chellata,195,شلاطة,Chellata,أقبو,Akbou,06, بجاية,Béjaïa
+06053,بيشر,Bicher,بيشر,Bicher,218,تامقرة,Tamokra,أقبو,Akbou,06, بجاية,Béjaïa
+06054,بلايل,Belayel,بلايل,Belayel,179,أيت رزين,Ait R'zine,إغيل علي,Ighil Ali,06, بجاية,Béjaïa
+06055,تيزي علوان,Tizi Alouane,تيزي علوان,Tizi Alouane,221,تاسكريوت,Taskriout,درقينة,Darguina,06, بجاية,Béjaïa
+06056,بني واعمر,Beni Ouamar,بني واعمر,Beni Ouamar,190,بني مليكش,Beni-Mallikeche,تازملت,Tazmalt,06, بجاية,Béjaïa
+06057,إيغرم,Ighram,إيغرم,Ighram,205,اغرم,Ighram,أقبو,Akbou,06, بجاية,Béjaïa
+06058,إيفالن,Ifalene,إيفالن,Ifalene,228,تيزي نبربر,Tizi-N'berber,أوقاس,Aokas,06, بجاية,Béjaïa
+06059,تاقمونت,Taguemount,بوخليفة,Boukhelifa,194,بوخليفة,Boukhelifa,تيشي,Tichy,06, بجاية,Béjaïa
+06060,تيزي نبربر,Tizi N'Berber,تيزي نبربر,Tizi N'Berber,228,تيزي نبربر,Tizi-N'berber,أوقاس,Aokas,06, بجاية,Béjaïa
+06061,أدكار,Akkar,أدكار,Akkar,185,أوقاس,Aokas,أوقاس,Aokas,06, بجاية,Béjaïa
+06062,ملالة,Mellala,ملالة,Mellala,210,وادي غير,Oued Ghir,بجاية,Bejaia,06, بجاية,Béjaïa
+06063,إغيل أومسد,Ighil Oumced,إغيل أومسد,Ighil Oumced,195,شلاطة,Chellata,أقبو,Akbou,06, بجاية,Béjaïa
+06064,إغيل وانتر,Ighil Ouantar,إغيل وانتر,Ighil Ouantar,208,مسيسنة,M'cisna,صدوق,Seddouk,06, بجاية,Béjaïa
+06065,تيزي واكلان,Tizi Ouaklane,تيزي واكلان,Tizi Ouaklane,224,تيشي,Tichy,تيشي,Tichy,06, بجاية,Béjaïa
+06066,تالة حمزة,Tala Hamza,تالة حمزة,Tala Hamza,217,تالة حمزة,Tala Hamza,تيشي,Tichy,06, بجاية,Béjaïa
+06067,آيت سخور,Ait S'Kheur,آيت سخور,Ait S'Kheur,188,بني جليل,Beni Djellil,أميزور,Amizour,06, بجاية,Béjaïa
+06068,عياشة,Ayacha,عياشة,Ayacha,190,بني مليكش,Beni-Mallikeche,تازملت,Tazmalt,06, بجاية,Béjaïa
+06069,إغيل ناصر,Ighil Nasser,إغيل ناصر,Ighil Nasser,205,اغرم,Ighram,أقبو,Akbou,06, بجاية,Béjaïa
+06070,برزاخ,Berzakh,برزاخ,Berzakh,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06, بجاية,Béjaïa
+06071,أشلوف,Achelouf,أشلوف,Achelouf,229,توجة,Toudja,القصر,El Kseur,06, بجاية,Béjaïa
+06072,تاقاعت,Takaatz,تاقاعت,Takaatz,211,صدوق,Seddouk,صدوق,Seddouk,06, بجاية,Béjaïa
+06073,محفوظة,Mahfouda,محفوظة,Mahfouda,193,بوحمزة,Bouhamza,صدوق,Seddouk,06, بجاية,Béjaïa
+06074,أجيون,Adjioun,أجيون,Adjioun,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06, بجاية,Béjaïa
+06075,درادرة,Dradra,درادرة,Dradra,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06, بجاية,Béjaïa
+06076,الجرف,El Djorf,الجرف,Melbou,209,مالبو,Melbou,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+06077,العالم,El Alem,العالم,El Alem,219,تامريجت,Tamridjet,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+06078,آيت إدريس,Ait Idriss,آيت إدريس,Ait Idriss,221,تاسكريوت,Taskriout,درقينة,Darguina,06, بجاية,Béjaïa
+06079,تيبوعموشين,Tibouamouchine,تيبوعموشين,Tbouamouchine,211,صدوق,Seddouk,صدوق,Seddouk,06, بجاية,Béjaïa
+06080,تيزوال,Tizoual,تيزوال,Tizouel,180,أيت إسماعيل,Ait-Smail,درقينة,Darguina,06, بجاية,Béjaïa
+06081,آيت عجيسة,Ait Adjissa,آيت عجيسة,Ait Adjissa,191,بني معوش,Benimaouche,بني معوش,Beni Maouche,06, بجاية,Béjaïa
+06082,إغيل نالسبت,Ighil N'Sebt,بني جليل,Beni Djellil,188,بني جليل,Beni Djellil,أميزور,Amizour,06, بجاية,Béjaïa
+06083,إغيل أوتواف,Ighil Outouaf,إغيل أوتواف,Ighil Outouaf,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06, بجاية,Béjaïa
+06084,سمعون - شميني,Semaoune Chemini,سمعون - شميني,Semaoune Chemini,196,شميني,Chemini,شميني,Chemini,06, بجاية,Béjaïa
+06085,سيدي عياد,Sidi Ayad,سيدي عياد,Sidi Ayad,212,سيدي عياد,Sidi Ayad,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06086,تالة تازرت,Tala Tazert,فناية,Fenaia,201,فناية الماثن,Fenaia Il Maten,القصر,El Kseur,06, بجاية,Béjaïa
+06087,تيبان,Tibane,تيبان,Tibane,223,طيبان,Tibane,شميني,Chemini,06, بجاية,Béjaïa
+06088,إيلماتن - المستشفى,Il Matten Hopital,إيلماتن - المستشفى,Il Matten Hopital,201,فناية الماثن,Fenaia Il Maten,القصر,El Kseur,06, بجاية,Béjaïa
+06089,إيقجان,Ikedjane,إيقجان,Ikedjane,225,تيفرة,Tifra,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06090,تامريشت,Tamricht,تامريشت,Tamricht,197,درقينة,Darguina,درقينة,Darguina,06, بجاية,Béjaïa
+06091,بوخالفة,Boukhalfa,بوخالفة,Boukhalfa,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06092,أغبالو,Aghbala,أغبالو,Aghbala,188,بني جليل,Beni Djellil,أميزور,Amizour,06, بجاية,Béjaïa
+06093,أورير عجيسة,Aourir Adjissa,أورير عجيسة,Aourir Adjissa,214,سمعون,Smaoun,أميزور,Amizour,06, بجاية,Béjaïa
+06094,قارت,Garet,قارت,Garet,200,القصر,El Kseur,القصر,El Kseur,06, بجاية,Béjaïa
+06095,خليل,Khellil,خليل,Khellil,186,برباشة,Barbacha,برباشة,Barbacha,06, بجاية,Béjaïa
+06096,تادرت تامقرانت,Tadert Tamokrant,تادرت تامقرانت,Tadart Tamokrant,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06098,إغيل إعلوانن,Ighil Ialouanene,إغيل إعلوانن,Ighil Ialouanene,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06099,أخناق,Akhnak,أخناق,Akhnak,211,صدوق,Seddouk,صدوق,Seddouk,06, بجاية,Béjaïa
+06100,تيزي بني خطاب,Tizi Beni Khettab,تيزي بني خطاب,Tizi Beni Khettab,202,فرعون,Feraoun,أميزور,Amizour,06, بجاية,Béjaïa
+06101,تيقرين,Tigrine,تيقرين,Tigrine,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06, بجاية,Béjaïa
+06102,مرج أوامان,Merdj Ouamene,مرج أوامان,Merdj Ouamene,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06103,تيزي أوقني,Tizi Ougueni,تيزي أوقني,Tizi Ougueni,178,أدكار,Adekar,أدكار,Adekar,06, بجاية,Béjaïa
+06104,أسام,Assam,أسام,Assam,225,تيفرة,Tifra,سيدي عيش,Sidi Aich,06, بجاية,Béjaïa
+06106,بني كسيلة,Beni K'Sila,بني كسيلة,Beni K'Sila,189,بني كسيلة,Beni K'sila,أدكار,Adekar,06, بجاية,Béjaïa
+06107,أقمون - بني خيار,Aguemoune Beni Khiar,أقمون - بني خيار,Aguemoune Beni Khiar,191,بني معوش,Benimaouche,بني معوش,Beni Maouche,06, بجاية,Béjaïa
+06108,إمولة,Immoula,إمولة,Immoula,208,مسيسنة,M'cisna,صدوق,Seddouk,06, بجاية,Béjaïa
+06109,تمقرة,Tamokra,تمقرة,Tamokra,218,تامقرة,Tamokra,أقبو,Akbou,06, بجاية,Béjaïa
+06110,لوطة,Lota,لوطة,Lota,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+06111,أقبو - أول نوفمبر,Akbou 1er Novembre,أقبو,Akbou,181,أقبو,Akbou,أقبو,Akbou,06, بجاية,Béjaïa
+06112,ألاغن,Allaghane,ألاغن,Allaghane,222,تازمالت,Tazmalt,تازملت,Tazmalt,06, بجاية,Béjaïa
+06113,صنادلة,Snadla,صنادلة,Snadla,198,ذراع القايد,Dra El Caid,خراطة,Kherrata,06, بجاية,Béjaïa
+06114,تيزي الوادي,Tizi El Oued,سوق الإثنين,Souk El Tenine,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+06115,توريرت إغيل,Taourirt Ighil Centre,توريرت إغيل وسط,Taourirt Ighil Centre,220,تاوريرت إغيل,Taourit Ighil,أدكار,Adekar,06, بجاية,Béjaïa
+06116,بجاية - المشتلة,Bejaia Pepiniere,الإقامة الجامعية المشتلة - بجاية,R.U.Pepiniere . Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06117,الحامة,El Hamma,الحامة,El Hamma,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06118,خراطة الجديدة,Kherrata Nouvelle,خراطة الجديدة,Kherrata,207,خراطة,Kherrata,خراطة,Kherrata,06, بجاية,Béjaïa
+06119,أبينو,Abainou,أبينو,Abainou,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06, بجاية,Béjaïa
+06120,برشيش - الإقامة الجامعيّة,Berchiche Residence Universitaire,الإقامة الجامعيّة برشيش 3، القصر,R.U.Berchiche 3. Elkseur,200,القصر,El Kseur,القصر,El Kseur,06, بجاية,Béjaïa
+06121,حلوان,Helouane,حلوان,Hellouane,203,أوزلاقن,Ouzellaguen,إفري أوزلاقن,Ifri Ouzellaguene,06, بجاية,Béjaïa
+06122,إيدراقن,Ideraken,إيدراقن,Ideraken,226,تيمزريت,Timezrit,تيمزريت,Timezrit,06, بجاية,Béjaïa
+06123,بجاية - المحطة البريّة,Bejaia Gare Routiere,المحطة البريّة لبجاية,Gare Routiere De Bajaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06124,توريرت الأربعاء,Taourirt Larbaa,توريرت الأربعاء,Taourirt Larbaa,224,تيشي,Tichy,تيشي,Tichy,06, بجاية,Béjaïa
+06125,بجاية - أحمد أوقانة,Bejaia Ahmed Ougana,الخميس، بجاية,"Lekhmiss,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06126,بجاية - حسيبة بن بوعلي,Bejaia Hassiba Ben Bouali,حي روسال، مقابل مكتب الحضيرة الولائيّة متعدّدة الرياضات,Cité Roussel En Face Opow,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06127,بجاية - عبان رمضان,Bejaia Abane Ramdane,حي 1000 مسكن، إحدادن، بجاية,"Q.1000logs Ihaddedn,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06128,بجاية - الناصرية,Bejaia Naceria,حي الناصرية، بجاية,Cité Naciria.Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06129,بجاية - تالة وريان,Bejaia Tala Ouriane,حي تالة وريان، بجاية,Q.Tala Ouriane. Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06130,بجاية - إحدادن,Bejaia Ihaddadene,حي 600 مسكن، إحدادن بجاية,Q.600logts Ihadadden,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06131,بجاية - سيدي علي البحر,Bejaia Sidi Ali Labhar,سيدي علي البحر، بجاية,Sidi Ali L'Abhar.Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06132,القصر - أكال أبركان,El Kseur Akal Aberkan,حي أكال أبركان، القصر,Cité Akal Aberkan. El Kseur,200,القصر,El Kseur,القصر,El Kseur,06, بجاية,Béjaïa
+06133,جرمونة,Djermouna,جرمونة,Djarmouna,207,خراطة,Kherrata,خراطة,Kherrata,06, بجاية,Béjaïa
+06134,بجاية - تاعساست,Bejaia Taassast,قرية تاعساست، بجاية,"Village De Taassast,Bejaia",187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06135,أميزور - الإقامة الجامعيّة 01,Amizour Residence Universitaire 01,الإقامة الجامعيّة أميزور,"La Cité Universitaire Amizour,Bejaia",184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+06136,أوقاس 20 أوت 1956,Aokas 20 Aout 1956,حي 100/900 مسكن محلي، 109 و 110 المكتب الوطني للسكن، أوقاس,"Cité 100/900 Logements Locaux Nâ° 109 Et 110 Opgi,Aokas",185,أوقاس,Aokas,أوقاس,Aokas,06, بجاية,Béjaïa
+06137,أقبو - المستشفى,Akbou Hopital,أقبو,Akbou,181,أقبو,Akbou,أقبو,Akbou,06, بجاية,Béjaïa
+06139,بجاية - سيدي سفيان,Bejaia Sidi Soufiane,سيدي سفيان، بجاية,Cité Sidi Soufiane.Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+06140,مرواحة,Merouaha,الطريق الوطني رقم 09، قرية مرواحة,"La Route Nationale Nâ°9,Village De Merouaha,Bejaia",207,خراطة,Kherrata,خراطة,Kherrata,06, بجاية,Béjaïa
+06141,أقبو - قلدامن,Akbou Gueldamene,الطريق الوطني رقم 26، إنحراف أوشعلال، أقبو,"Route Nationale Nâ° 26, Tournant Ouchalal, Akbou",181,أقبو,Akbou,أقبو,Akbou,06, بجاية,Béjaïa
+06142,أكفادو,Akfadou,وسط قرية تينيري، بلدية أكفادو,Village Tiniri Chef Lieu Commune D'Akfadou,182,أكفادو,Akfadou,شميني,Chemini,06, بجاية,Béjaïa
+06143,آيت مقدم,Ait Mekedem,,,195,شلاطة,Chellata,أقبو,Akbou,06, بجاية,Béjaïa
+06144,بجاية - المكتب البريديّ المتنقل -1,Bejaia Etablissement Postal Itinerant 1,,,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+,بجاية - القوات البرية,Bejaia Terre,أربع طرق، بجاية,Quatre Chemins Bejaia,187,بجاية,Bejaia,بجاية,Bejaia,06, بجاية,Béjaïa
+15066,بوخالفة,Boukhalfa,الطريق الرئيسي,Route Principale,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+15070,سوق الاثنين,Souk El Tenine,سوق الاثنين,Souk El T'Nine,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+17053,قندوزة,Guendouza,قندوزة,Guendouza,181,أقبو,Akbou,أقبو,Akbou,06, بجاية,Béjaïa
+21080,الحامة,El Hamma,الحامة,El Hamma,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+28072,الجرف,El Djorf,الجرف,El Djorf,209,مالبو,Melbou,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+34007,خليل,Khellil,خليل,Khellil,186,برباشة,Barbacha,برباشة,Barbacha,06, بجاية,Béjaïa
+39046,أكفادو,Akfadou,حي أكفادو,Cité Akfadou,182,أكفادو,Akfadou,شميني,Chemini,06, بجاية,Béjaïa
+40016,الحامة,El Hamma,الحامة,El Hamma,184,أميزور,Amizour,أميزور,Amizour,06, بجاية,Béjaïa
+46014,سوق الإثنين,Souk El Tenine,شارع أحمد بن شعيب موسى,Rue Ahmed Benchaib Moussa,215,سوق لإثنين,Souk El Tenine,سوق الإثنين,Souk El Tenine,06, بجاية,Béjaïa
+46052,سيدي سعيد,Sidi Said,حي سيدي سعيد، المالح,Cité Sidi Said   El Maleh,208,مسيسنة,M'cisna,صدوق,Seddouk,06, بجاية,Béjaïa
 07000,بسكرة - القبّاضة الرّئيسيّة,Biskra,نهج الأمير عبد القادر، بسكرة,Boulevard Emir Aek Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07001,بسكرة - ستار ملوك,Biskra Star Melouk,شارع الزعاطشة، بسكرة,Rue Zaatcha Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07003,طولقة,Tolga,نهج 5 جويلية، طولقة,Av 5 Juillet Tolga,261,طولقة,Tolga,طولقة,Tolga,07,بسكرة,Biskra
 07005,سيدي عقبة,Sidi Okba,طريق عين النّاقة، سيدي عقبة,Route Ain Naga Sidi Okba,260,سيدي عقبة,Sidi Okba,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
 07006,بسكرة - باب الدرب,Biskra Bab Darb,شارع خراشي براهيم، بسكرة,Rue Khrachi Brahim Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
-07008,القنطرة,El Kantara,شارع 5 جويلية، القنطرة,Rue 5 Juillet El Kantara,245,القنطرة,El Kantara,القنطرة,El Kantara,07,بسكرة,Biskra
+07008,القنطرة,El Kantara,شارع 5 جويلية، القنطرة,Rue 5 Juillet El Kantara,245,القنطرة,El Kantara,القنطرة,El Kantara,61,القنطرة,El Kantara
 07009,ليشانة,Lichana,شارع أول نوفمبر 54، ليشانة,Rue 1er Nov 54 Lichana,249,ليشانة,Lichana,طولقة,Tolga,07,بسكرة,Biskra
 07010,مشونش,M'Chounech,شارع ماوري، مشونش,Rue Meouri M'Chouneche,251,مشونش,M'chouneche,مشونش,Mechouneche,07,بسكرة,Biskra
 07011,أورلال,Ourlal,أشارع شعيبة عبد المجيد، أورلال,Rue Chaiba Abdel Madjid Ourlal,257,أورلال,Ourlal,أورلال,Ourlal,07,بسكرة,Biskra
 07012,زريبة الوادي,Zeribet El Oued,الطريق الوطني رقم 83، زريبة الوادي,Rue Nationnale Nâ° 83 Zeribet El Oued,262,زريبة الوادي,Zeribet El Oued,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
-07013,عين زعطوط,Ain Zaatout,شارع 10 جويلية 57، عين زعطوط,Rue 10 Juillet 57 Ain Zaatout,231,عين زعطوط,Ain Zaatout,القنطرة,El Kantara,07,بسكرة,Biskra
+07013,عين زعطوط,Ain Zaatout,شارع 10 جويلية 57، عين زعطوط,Rue 10 Juillet 57 Ain Zaatout,231,عين زعطوط,Ain Zaatout,القنطرة,El Kantara,61,القنطرة,El Kantara
 07014,بسكرة - بني مراح,Biskra Beni Morah,حي بالعياط، بسكرة,Hai Belaiath Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07015,بسكرة - حي الأمل,Biskra Cité El Amal,حي 726 مسكن، بسكرة,Cité 726 Logts Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07016,بسكرة - العالية,Biskra El Alia,شارع الإخوة ونوغي، العالية، بسكرة,Rue Freres Ouanoughi El Alia Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
@@ -615,36 +615,36 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 07020,بسكرة - الجامعة,Biskra Universite,جامعة خيضر محمد، بسكرة,Universite Khaider Med Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07021,برج بن عزوز,Bordj Benazzouz,شارع علي حايف، برج بن عزوز,Rue Ali Haif Bordj Ben Azzouz,234,برج بن عزوز,Bordj Ben Azzouz,طولقة,Tolga,07,بسكرة,Biskra
 07022,بوشقرون,Bouchagroune,شارع الأمير عبد القادر، بوشقرون,Rue Emir Aek Bouchagroune,235,بوشقرون,Bouchakroun,طولقة,Tolga,07,بسكرة,Biskra
-07023,برانيس,Branis,شارع 19 جوان، برانيس,Rue 19 Juin Branis,236,برانيس,Branis,جمورة,Djemorah,07,بسكرة,Biskra
+07023,برانيس,Branis,شارع 19 جوان، برانيس,Rue 19 Juin Branis,236,برانيس,Branis,جمورة,Djemorah,61,القنطرة,El Kantara
 07024,شتمة,Chetma,شارع عمران محمد، شتمة,Rue Amrane Mohamed Chetma,238,شتمة,Chetma,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
-07025,جمورة,Djemourah,شارع أول نوفمبر، جمورة,Rue 1er Nov Djemmorah,239,جمورة,Djemorah,جمورة,Djemorah,07,بسكرة,Biskra
+07025,جمورة,Djemourah,شارع أول نوفمبر، جمورة,Rue 1er Nov Djemmorah,239,جمورة,Djemorah,جمورة,Djemorah,61,القنطرة,El Kantara
 07026,الفيض,El Feidh,الحي الجديد، الفيض,Hai El Jadide El Feidh,241,الفيض,El Feidh,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07027,الغروس,El Ghrous,شارع سوارت الطيب، الغروس,Rue Soueret El Tayb El Ghrous,242,الغروس,El Ghrous,فوغالة,Foughala,07,بسكرة,Biskra
 07028,الحوش,El Haouch,حي المجاهدين، الحوش,Hai El Moudjahidine El Haouch,244,الحوش,El Haouch,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
-07029,القنطرة - الأخاديد,El Kantara Les Gorges,طريق باتنة، القنطرة,Route De Batna El Kantara,245,القنطرة,El Kantara,القنطرة,El Kantara,07,بسكرة,Biskra
-07030,الوطاية,El Outaya,شارع بوجمعة ميهوب، الوطاية,Rue Boudjemaa Mihoub El Outaya,246,الوطاية,El Outaya,الوطاية,El Outaya,07,بسكرة,Biskra
+07029,القنطرة - الأخاديد,El Kantara Les Gorges,طريق باتنة، القنطرة,Route De Batna El Kantara,245,القنطرة,El Kantara,القنطرة,El Kantara,61,القنطرة,El Kantara
+07030,الوطاية,El Outaya,شارع بوجمعة ميهوب، الوطاية,Rue Boudjemaa Mihoub El Outaya,246,الوطاية,El Outaya,الوطاية,El Outaya,61,القنطرة,El Kantara
 07031,فوغالة,Foughala,شارع سلامين عيسى، فوغالة,Rue Sellamine Aissa Foughala,247,فوغالة,Foughala,فوغالة,Foughala,07,بسكرة,Biskra
 07032,خنقة سيدي ناجي البرج,Khangat Sidi Nadji El Bordj,الطريق الوطني رقم 83، خنقة سيدي ناجي البرج,Rue Nationnale Nâ° 83 Khangat Sidi Nadji El Bordj,248,خنقة سيدي ناجي,Khenguet Sidi Nadji,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07033,لواء,Lioua,شارع ساهل صديق، لواء,Rue Sahel Sedik Lioua,250,ليوة,Lioua,أورلال,Ourlal,07,بسكرة,Biskra
 07034,مخادمة,Mekhadma,شارع أولاد العم زاغز، مخادمة,Rue Des Cousins Zaghez Mekhadma,252,مخادمة,Mekhadma,أورلال,Ourlal,07,بسكرة,Biskra
 07035,أوماش,Oumache,حي بلخوخ، أوماش,Cité Belkhoukh Oumache,256,أوماش,Oumache,أورلال,Ourlal,07,بسكرة,Biskra
 07037,عين الكرمة,Ain El Kerma,عين الكرمة,Ain El Kerma,243,الحاجب,El Hadjab,بسكرة,Biskra,07,بسكرة,Biskra
-07038,عين غزال,Ain Ghezal,عين غزال,Ain Ghezal,246,الوطاية,El Outaya,الوطاية,El Outaya,07,بسكرة,Biskra
+07038,عين غزال,Ain Ghezal,عين غزال,Ain Ghezal,246,الوطاية,El Outaya,الوطاية,El Outaya,61,القنطرة,El Kantara
 07039,عين الناقة,Ain Naga,عين الناقة,Ain Naga,230,عين الناقة,Ain Naga,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
 07041,بادس,Bades,بادس,Bades,262,زريبة الوادي,Zeribet El Oued,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07042,بنيان,Baniane,بنيان,Baniane,251,مشونش,M'chouneche,مشونش,Mechouneche,07,بسكرة,Biskra
 07043,بغيلة,Beghila,بغيلة,Beghila,253,المزيرعة,Meziraa,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07046,بوشقرون - حي عميروش,Bouchagroune C Amirouche,حي عميروش، بوشقرون,Cité Amirouche Bouchagroune,235,بوشقرون,Bouchakroun,طولقة,Tolga,07,بسكرة,Biskra
-07049,دريس اعمر,Driss Amor,الطريق الوطني رقم 03,Route National Nâ°03,246,الوطاية,El Outaya,الوطاية,El Outaya,07,بسكرة,Biskra
+07049,دريس اعمر,Driss Amor,الطريق الوطني رقم 03,Route National Nâ°03,246,الوطاية,El Outaya,الوطاية,El Outaya,61,القنطرة,El Kantara
 07050,دروح,Droh,طريق أريس، دروح,Route D'Arris Droh,238,شتمة,Chetma,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
 07051,العمري,El Amri,العمري,El Amri,242,الغروس,El Ghrous,فوغالة,Foughala,07,بسكرة,Biskra
 07052,الحوراية,El Horaya,الحوراية,El Horaya,230,عين الناقة,Ain Naga,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
-07053,القنطرة - أول نوفمبر,"El Kantara 1er Nov,",حي 200 مسكن، القنطرة,Cité 200 Logement El Kantara,245,القنطرة,El Kantara,القنطرة,El Kantara,07,بسكرة,Biskra
+07053,القنطرة - أول نوفمبر,"El Kantara 1er Nov,",حي 200 مسكن، القنطرة,Cité 200 Logement El Kantara,245,القنطرة,El Kantara,القنطرة,El Kantara,61,القنطرة,El Kantara
 07054,الولاجة,El Oualadja,الولاجة,El Oualadja,241,الفيض,El Feidh,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07055,فرفار,Farfar,فرفار,Farfar,261,طولقة,Tolga,طولقة,Tolga,07,بسكرة,Biskra
 07056,فلياش,Feliache,فلياش,Feliache,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07058,غرثة,Ghartha,غرثة,Ghartha,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
-07059,قديلة,Guedila,طريق جمورة، قديلة,Route Djemourah Guedila,239,جمورة,Djemorah,جمورة,Djemorah,07,بسكرة,Biskra
+07059,قديلة,Guedila,طريق جمورة، قديلة,Route Djemourah Guedila,239,جمورة,Djemorah,جمورة,Djemorah,61,القنطرة,El Kantara
 07060,قطوشي لخضر,Guettouchi Lakhdar,حي البليدة، مشونش,Hai El Blida M'Chouneche,251,مشونش,M'chouneche,مشونش,Mechouneche,07,بسكرة,Biskra
 07065,الإخوة حرزلي,Les Freres Harzelli,الإخوة حرزلي,Les Freres Harzelli,241,الفيض,El Feidh,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07066,مقلوب,Megloub,مقلوب,Megloub,243,الحاجب,El Hadjab,بسكرة,Biskra,07,بسكرة,Biskra
@@ -658,7 +658,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 07078,سيدي مصمودي,Sidi Masmoudi,سيدي مصمودي,Sidi Masmoudi,253,المزيرعة,Meziraa,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
 07079,سيدي محمد موسى,Sidi Mohamed Moussa,سيدي محمد موسى,Sidi Mohamed Moussa,244,الحوش,El Haouch,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
 07080,بن ثييوس (طرفاية النُص),Benthious (Tarfayet El Nos),شارع رزيقة اعمر، أورال,Rue Rezigat Amor Ourlal,252,مخادمة,Mekhadma,أورلال,Ourlal,07,بسكرة,Biskra
-07081,تيزي الوادي,Tizi,شارع دادة اعمر، عين زعطوط,Rue Dada Amar Ain Zaatout,231,عين زعطوط,Ain Zaatout,القنطرة,El Kantara,07,بسكرة,Biskra
+07081,تيزي الوادي,Tizi,شارع دادة اعمر، عين زعطوط,Rue Dada Amar Ain Zaatout,231,عين زعطوط,Ain Zaatout,القنطرة,El Kantara,61,القنطرة,El Kantara
 07082,طولقة - الأمير عبد القادر,Tolga Emir Aek,طولقة - الأمير عبد القادر,Rue Emir Aek Tolga,261,طولقة,Tolga,طولقة,Tolga,07,بسكرة,Biskra
 07083,الزعاطشة - بن بولعيد,Zaatcha Ben Boulaid,الزعاطشة - بن بولعيد,Zaatcha Ben Boulaid,243,الحاجب,El Hadjab,بسكرة,Biskra,07,بسكرة,Biskra
 07084,زريبة الوادي - أول نوفمبر,Zeribet El Oued 1er Nov.,الحي البلدي، زريبة الوادي,Cité Communale Zeribet El Oued,262,زريبة الوادي,Zeribet El Oued,زريبة الوادي,Zeribet El Oued,07,بسكرة,Biskra
@@ -669,11 +669,11 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 07090,بسكرة - قرة,Biskra Korra,ثكنة (ETAP)، بسكرة,Caserne Etap Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07091,بسكرة - القاعدة,Biskra Base,بسكرة - القاعدة,Caserne Biskra,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
 07092,بسكرة - حي المجاهدين,Biskra Hay El Moudjahidine,,,233,بسكرة,Biskra,بسكرة,Biskra,07,بسكرة,Biskra
-07093,أولاد سعيد,Ouled Seid,أولاد سعيد,Ouled Seid,236,برانيس,Branis,جمورة,Djemorah,07,بسكرة,Biskra
-07094,بني سويك,Beni Souik,بني سويك,Beni Souik,239,جمورة,Djemorah,جمورة,Djemorah,07,بسكرة,Biskra
+07093,أولاد سعيد,Ouled Seid,أولاد سعيد,Ouled Seid,236,برانيس,Branis,جمورة,Djemorah,61,القنطرة,El Kantara
+07094,بني سويك,Beni Souik,بني سويك,Beni Souik,239,جمورة,Djemorah,جمورة,Djemorah,61,القنطرة,El Kantara
 07095,موبار محمد,Mobar Mohamed,,,242,الغروس,El Ghrous,فوغالة,Foughala,07,بسكرة,Biskra
 ,سيدي عقبة - الشيخ الطيب العقبي,Sidi Okba Cheikh Tayeb El Okbi,سيدي عقبة,Sidi Okba,260,سيدي عقبة,Sidi Okba,سيدي عقبة,Sidi Okba,07,بسكرة,Biskra
-29018,تيزي,Tizi,شارع نصر الدين - تيزي,Rue Nasreddine Tizi,231,عين زعطوط,Ain Zaatout,القنطرة,El Kantara,07,بسكرة,Biskra
+29018,تيزي,Tizi,شارع نصر الدين - تيزي,Rue Nasreddine Tizi,231,عين زعطوط,Ain Zaatout,القنطرة,El Kantara,61,القنطرة,El Kantara
 30059,مخادمة,Mekhadma,حي 460 مسكن - مخادمة - ورقلة,Cité 460 Lgts Mekhadma Ouargla,252,مخادمة,Mekhadma,أورلال,Ourlal,07,بسكرة,Biskra
 38015,عين الكرمة,Ain El Kerma,الشارع الرئيسي,Rue Principale,243,الحاجب,El Hadjab,بسكرة,Biskra,07,بسكرة,Biskra
 08000,بشار - القبّاضة الرّئيسيّة,Bechar,وسط المدينة,Centre Ville,264,بشار,Bechar,بشار,Bechar,08,بشار,Béchar
@@ -938,7 +938,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 ,أوتول - التجمع العسكري,Outoul Groupement Militaire,أوتول - التجمع العسكري,Outoul Groupement Militaire,361,تمنراست,Tamanrasset,تمنراست,Tamanrasset,11,تمنراست,Tamanrasset
 ,عين كوف - التجمع الجهوي للدرك,In Kouf Groupement Regional Gendarmerie,عين كوف - التجمع الجهوي للدرك,In Kouf Groupement Regional Gendarmerie,361,تمنراست,Tamanrasset,تمنراست,Tamanrasset,11,تمنراست,Tamanrasset
 12000,تبسة - القبّاضة الرّئيسيّة,Tebessa,حيث جبل الجرف,Cité Djebel El Djorf,390,تبسة,Tebessa,تبسة,Tebessa,12,تبسة,Tébessa
-12001,بير العاتر,Bir El Ater,بير العاتر وسط المدينة,Centre Ville Bir El Ater,369,بئر العاتر,Bir-El-Ater,بئر العاتر,Bir El Ater,12,تبسة,Tébessa
+12001,بير العاتر,Bir El Ater,بير العاتر وسط المدينة,Centre Ville Bir El Ater,369,بئر العاتر,Bir-El-Ater,بئر العاتر,Bir El Ater,62,بئر العاتر,Bir El Ater
 12002,شريعة,Cheria,شريعة وسط المدينة,Centre Ville Cheria,372,الشريعة,Cheria,الشريعة,Cheria,12,تبسة,Tébessa
 12003,ونزة,Ouenza,ونزة وسط المدينة,Centre Ville Ouenza,386,الونزة,Ouenza,الونزة,Ouenza,12,تبسة,Tébessa
 12004,تبسة - مينيرفة,Tebessa Minerve,طريق قسنطينة,Route De Constantine,390,تبسة,Tebessa,تبسة,Tebessa,12,تبسة,Tébessa
@@ -946,7 +946,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 12006,الكويف,El Kouif,وسط المدينة الكويف,Centre Ville El Kouif,373,الكويف,El Kouif,الكويف,El Kouif,12,تبسة,Tébessa
 12007,تبسة - الوئام,Tebessa La Concorde,حي الوئام تبسة,Cité La Concorde Tebessa,390,تبسة,Tebessa,تبسة,Tebessa,12,تبسة,Tébessa
 12008,عين الزرقة,Ain Zerga,الطريق الوطني رقم 82 عين الزرقة,Route Nationale Nâ° 82 Ain Zerga,364,عين الزرقاء,Ain Zerga,الونزة,Ouenza,12,تبسة,Tébessa
-12009,بير العاتر - 19 جوان,Bir El Ater 19 Juin,حي الجبل، بير العاتر - 19 جوان,Cité El Djabel 19 Juin Bea,369,بئر العاتر,Bir-El-Ater,بئر العاتر,Bir El Ater,12,تبسة,Tébessa
+12009,بير العاتر - 19 جوان,Bir El Ater 19 Juin,حي الجبل، بير العاتر - 19 جوان,Cité El Djabel 19 Juin Bea,369,بئر العاتر,Bir-El-Ater,بئر العاتر,Bir El Ater,62,بئر العاتر,Bir El Ater
 12011,بير مقدم,Bir Mokadem,بير مقدم وسط المدينة,Centre Ville B.Mokkadem,368,بئر مقدم,Bir Mokkadem,بئر مقدم,Bir Mokadem,12,تبسة,Tébessa
 12012,بوخضرة,Boukhadra,حي قنز حسناوي بوخضرة,Cité Guenze Hassenaoui Boukhadra,370,بوخضرة,Boukhadra,العوينات,El Aouinet,12,تبسة,Tébessa
 12013,ذراع الإمام,Draa Limame,حي ذراع الإمام تبسة,Cité Draa Limame Tebessa,390,تبسة,Tebessa,تبسة,Tebessa,12,تبسة,Tébessa
@@ -956,11 +956,11 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 12017,مورسوت,Morsott,وسط المدينة مورسوت,Centre Ville Morsott,384,مرسط,Morsott,مرسط,Morsott,12,تبسة,Tébessa
 12018,تبسة - الزهور,Tebessa Ezzouhour,تبسة - حي الزهور,Cité Ezzouhour Tebessa,390,تبسة,Tebessa,تبسة,Tebessa,12,تبسة,Tébessa
 12019,بكارية,Bekkaria,وسط المدينة بكارية,Centre Ville Bekkaria,366,بكارية,Bekkaria,الكويف,El Kouif,12,تبسة,Tébessa
-12020,بير العاتر - عمران,Bir El Ater El Imrane,بير العاتر - حي العمران,Cité El Imrane Bir El Ater,369,بئر العاتر,Bir-El-Ater,بئر العاتر,Bir El Ater,12,تبسة,Tébessa
+12020,بير العاتر - عمران,Bir El Ater El Imrane,بير العاتر - حي العمران,Cité El Imrane Bir El Ater,369,بئر العاتر,Bir-El-Ater,بئر العاتر,Bir El Ater,62,بئر العاتر,Bir El Ater
 12021,شريعة - 9 أكتوبر,Cheria 9 Octobre,حي 9 أكتوبر الشريعة,Cité 09 Ocobre Cheria,372,الشريعة,Cheria,الشريعة,Cheria,12,تبسة,Tébessa
 12022,جبل أنوال,Djebel Anoual,حي أول نوفمبر تبسة,Cité 1er Nov Tebessa,390,تبسة,Tebessa,تبسة,Tebessa,12,تبسة,Tébessa
 12023,المريج,El Meridj,وسط المدينة المريج,Centre Ville El Meridj,375,المريج,El Meridj,الونزة,Ouenza,12,تبسة,Tébessa
-12024,نقرين,Negrine,وسط المدينة نقرين,Centre Ville Negrine,385,نقرين,Negrine,نقرين,Negrine,12,تبسة,Tébessa
+12024,نقرين,Negrine,وسط المدينة نقرين,Centre Ville Negrine,385,نقرين,Negrine,نقرين,Negrine,62,بئر العاتر,Bir El Ater
 12025,ونزة - أول نوفمبر,Ouenza 1er Novembre,الحي الرئيسي ونزة,Cité Centrale Ouenza,386,الونزة,Ouenza,الونزة,Ouenza,12,تبسة,Tébessa
 12026,ونزة - أمال,Ouenza Amel,حي الأمل ونزة,Cité El Amel Ouenza,386,الونزة,Ouenza,الونزة,Ouenza,12,تبسة,Tébessa
 12027,أم علي,Oum Ali,وسط المدينة أم علي,Centre Ville Oum Ali,387,أم علي,Oum Ali,أم علي,Oum Ali,12,تبسة,Tébessa
@@ -979,9 +979,9 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 12040,دير,Dyr,قرية دير,Village Dyr,364,عين الزرقاء,Ain Zerga,الونزة,Ouenza,12,تبسة,Tébessa
 12041,الحويجبات,Lahouidjebet,قرية الحويجبات,Village El Houdjebet,380,الحويجبات,El-Houidjbet,الماء الابيض,El Malabiod,12,تبسة,Tébessa
 12042,المزرعة,El Mezraa,قرية المزرعة,Village El Mazraa,376,المزرعة,El Mezeraa,العقلة,El Ogla,12,تبسة,Tébessa
-12043,العقلة المالحة,El Ogla El Malha,قرية العقلة المالحة,Village El Ogla El Malah,378,العقلة المالحة,El Ogla El Malha,بئر العاتر,Bir El Ater,12,تبسة,Tébessa
-12044,فركان,Ferkane,قرية فركان,Village Ferkane,381,فركان,Ferkane,نقرين,Negrine,12,تبسة,Tébessa
-12045,فم المطلق,Foum El Matleg,قرية فم المطلق,Village Foum El Matleg,378,العقلة المالحة,El Ogla El Malha,بئر العاتر,Bir El Ater,12,تبسة,Tébessa
+12043,العقلة المالحة,El Ogla El Malha,قرية العقلة المالحة,Village El Ogla El Malah,378,العقلة المالحة,El Ogla El Malha,بئر العاتر,Bir El Ater,62,بئر العاتر,Bir El Ater
+12044,فركان,Ferkane,قرية فركان,Village Ferkane,381,فركان,Ferkane,نقرين,Negrine,62,بئر العاتر,Bir El Ater
+12045,فم المطلق,Foum El Matleg,قرية فم المطلق,Village Foum El Matleg,378,العقلة المالحة,El Ogla El Malha,بئر العاتر,Bir El Ater,62,بئر العاتر,Bir El Ater
 12046,قوريقر,Gourigueur,قرية قوريقر,Village Gourigueur,382,قريقر,Guorriguer,بئر مقدم,Bir Mokadem,12,تبسة,Tébessa
 12047,قنتيس,Guentis,قرية قنتيس,Village Guentis,389,سطح قنطيس,Stah Guentis,العقلة,El Ogla,12,تبسة,Tébessa
 12048,كيسة,Kissa,قرية كيسة,Village Kissa,371,بولحاف الدير,Boulhaf Dyr,الكويف,El Kouif,12,تبسة,Tébessa
@@ -1038,11 +1038,11 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 13027,بوكانون,Boukanoun,طريق الدربوز,Route D'Arbouz,426,مسيردة الفواقة,M'sirda Fouaga,مرسى بن مهيدي,Marsa Ben Mehdi,13,تلمسان,Tlemcen
 13028,بوتراك,Boutrak,طريق بوتراك,Route Boutrak,392,عين فتاح,Ain Fetah,فلاوسن,Fellaoucene,13,تلمسان,Tlemcen
 13029,جبالة,Djebala,شارع البلدية جبالة,Rue De L'APC Djebala,413,جبالة,Djebala,ندرومة,Nedroma,13,تلمسان,Tlemcen
-13030,العابد,El Abed,شارع البريد,Rue De La Poste,410,البويهي,Bouihi,سيدي الجيلالي,Sidi Djillali,13,تلمسان,Tlemcen
-13031,العريشة,El Aricha,حي الشهداء,Hai Chouhada,414,العريشة,El Aricha,سبدو,Sebdou,13,تلمسان,Tlemcen
+13030,العابد,El Abed,شارع البريد,Rue De La Poste,410,البويهي,Bouihi,سيدي الجيلالي,Sidi Djillali,63,العريشة,El Aricha
+13031,العريشة,El Aricha,حي الشهداء,Hai Chouhada,414,العريشة,El Aricha,سبدو,Sebdou,63,العريشة,El Aricha
 13032,البور,El Bor,شارع سيدي عوشة,Rue Sidi Ouchaa,412,دار يغمراسن,Dar Yaghmoracen,الغزوات,Ghazaouet,13,تلمسان,Tlemcen
 13033,الفحول,El Fehoul,شارع بلعيدوني محمد,Rue Belaidouni Med,416,الفحول,El Fehoul,الرمشي,Remchi,13,تلمسان,Tlemcen
-13034,القور,El Gor,شارع الاستقلال سليماني محمد,Rue L'Independance Slimani Med,417,القور,El Gor,سبدو,Sebdou,13,تلمسان,Tlemcen
+13034,القور,El Gor,شارع الاستقلال سليماني محمد,Rue L'Independance Slimani Med,417,القور,El Gor,سبدو,Sebdou,63,العريشة,El Aricha
 13035,فيلاوسان,Fillaoucene,شارع جريف الامير عبد القادر,Rue Djerief Aek,418,فلاوسن,Fellaoucene,فلاوسن,Fellaoucene,13,تلمسان,Tlemcen
 13036,حمام بوغرارة,Hammam Boughrara,الطريق الوكني رقم 35,Route Nationale 35,420,حمام بوغرارة,Hammam Boughrara,مغنية,Maghnia,13,تلمسان,Tlemcen
 13037,الخميس - بني سنوس,El Khemis Beni Snous,شارع البريد، البلدية القديمة,Rue De La Poste Ancienne Mairie,407,بني سنوس,Beni Snous,بني سنوس,Beni Snous,13,تلمسان,Tlemcen
@@ -1051,7 +1051,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 13040,معزيز,Maaziz,الجادة الرئيسية,Bd Principale,420,حمام بوغرارة,Hammam Boughrara,مغنية,Maghnia,13,تلمسان,Tlemcen
 13041,مزاورو - سيدي براهيم,Mezaourou Sidi Brahim,شارع ندرومة,Rue De Nedroma,438,السواحلية,Souahlia,الغزوات,Ghazaouet,13,تلمسان,Tlemcen
 13042,سبعة شيوخ,Sebaa Chioukh,شارع الاستقلال,Rue Independance,433,سبعة شيوخ,Sebbaa Chioukh,الرمشي,Remchi,13,تلمسان,Tlemcen
-13043,سيدي الجيلالي,Sidi Djillali,حي 11 ديسمبر,Cité 11 Decembre,436,سيدي الجيلالي,Sidi Djillali,سيدي الجيلالي,Sidi Djillali,13,تلمسان,Tlemcen
+13043,سيدي الجيلالي,Sidi Djillali,حي 11 ديسمبر,Cité 11 Decembre,436,سيدي الجيلالي,Sidi Djillali,سيدي الجيلالي,Sidi Djillali,63,العريشة,El Aricha
 13044,سيدي مجاهد,Sidi Medjahed,شارع سيدي مجاهد,Rue Sidi Medjahed,437,سيدي مجاهد,Sidi Medjahed,بني بوسعيد,Beni Boussaid,13,تلمسان,Tlemcen
 13045,سيدي زواوي - قداري قويدر,Sidi Zouaoui Keddari Kouider,حي الرحمة,Hai El Rahma,437,سيدي مجاهد,Sidi Medjahed,بني بوسعيد,Beni Boussaid,13,تلمسان,Tlemcen
 13046,سواني,Souani,شارع عيشي أحمد - سواني,Rue Achi Ahmed Souani,439,السواني,Souani,باب العسة,Bab El Assa,13,تلمسان,Tlemcen
@@ -1067,14 +1067,14 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 13056,عين زانة شبيكية,Ain Zana Chebikia,شارع البريد,Rue De La Poste,423,مغنية,Maghnia,مغنية,Maghnia,13,تلمسان,Tlemcen
 13057,العقيد لطفي,Akid Lotfi,شارع البريد,Rue De La Poste,423,مغنية,Maghnia,مغنية,Maghnia,13,تلمسان,Tlemcen
 13058,عميور,Amieur,شارع البريد,Rue De La Poste,399,عمير,Amieur,شتوان,Chetouane,13,تلمسان,Tlemcen
-13059,بلحاجي بوسيف,Belhadji Boucif,شارع البريد,Rue De La Poste,414,العريشة,El Aricha,سبدو,Sebdou,13,تلمسان,Tlemcen
+13059,بلحاجي بوسيف,Belhadji Boucif,شارع البريد,Rue De La Poste,414,العريشة,El Aricha,سبدو,Sebdou,63,العريشة,El Aricha
 13060,بني بهدل,Beni Bahdel,شارع البريد,Rue De La Poste,401,بني بهدل,Beni Bahdel,بني سنوس,Beni Snous,13,تلمسان,Tlemcen
 13061,بني مستر,Beni Mester,شارع البريد,Rue De La Poste,404,بني مستر,Beni Mester,منصورة,Mansourah,13,تلمسان,Tlemcen
 13062,بوحناك,Bouhenak,"عمارة ""I"" رقم 01، 500 مسكن",Bt I Nâ°1 Cité 500 Logts,424,منصورة,Mansourah,منصورة,Mansourah,13,تلمسان,Tlemcen
 13063,دار ياغموراسن,Dar Yaghmouracene,شارع البريد,Rue De La Poste,412,دار يغمراسن,Dar Yaghmoracen,الغزوات,Ghazaouet,13,تلمسان,Tlemcen
 13064,جمعة - صخرة,Djamaa Sekhra,شارع البريد,Rue De La Poste,419,الغزوات,Ghazaouet,الغزوات,Ghazaouet,13,تلمسان,Tlemcen
 13065,جبرة - شلايدة,Djebra Chelaida,شارع البريد,Rue De La Poste,399,عمير,Amieur,شتوان,Chetouane,13,تلمسان,Tlemcen
-13066,البويحي,El Bouihi,شارع البريد,Rue De La Poste,410,البويهي,Bouihi,سيدي الجيلالي,Sidi Djillali,13,تلمسان,Tlemcen
+13066,البويحي,El Bouihi,شارع البريد,Rue De La Poste,410,البويهي,Bouihi,سيدي الجيلالي,Sidi Djillali,63,العريشة,El Aricha
 13067,غزوات - سيدي عمار,Ghazaouet Sidi Amar,شارع البريد,Rue De La Poste,419,الغزوات,Ghazaouet,الغزوات,Ghazaouet,13,تلمسان,Tlemcen
 13068,وادي لخضر,Oued Lakhdar,شارع البريد,Rue De La Poste,428,وادي الخضر,Oued Lakhdar,أولاد ميمون,Ouled Mimoun,13,تلمسان,Tlemcen
 13069,وادي زيتون,Oued Zitoun,شارع البريد,Rue De La Poste,432,صبرة,Sabra,صبرة,Sabra,13,تلمسان,Tlemcen
@@ -1128,13 +1128,13 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 ,تلمسان - أغادير,Tlemcen Agadir,شارع منور عمر أغادير,Rue Menouar Omar Agadir,443,تلمسان,Tlemcen,تلمسان,Tlemcen,13,تلمسان,Tlemcen
 ,مغنية - بتايم,Maghnia Betaim,طريق مرسى بن مهيدي,Route De Marsa Ben M'Hidi,423,مغنية,Maghnia,مغنية,Maghnia,13,تلمسان,Tlemcen
 ,سيدي بوجنان,Sidi Boudjenane,طريق مرسى بن مهيدي - سواني,Route De Marsa Ben M'Hidi Souani,439,السواني,Souani,باب العسة,Bab El Assa,13,تلمسان,Tlemcen
-22030,سيدي جيلالي,Sidi Djillali,جادة يبقى أحمد، حي 456 مسكن,Bvd Yebka Ahmed Cité 456 Logts,436,سيدي الجيلالي,Sidi Djillali,سيدي الجيلالي,Sidi Djillali,13,تلمسان,Tlemcen
+22030,سيدي جيلالي,Sidi Djillali,جادة يبقى أحمد، حي 456 مسكن,Bvd Yebka Ahmed Cité 456 Logts,436,سيدي الجيلالي,Sidi Djillali,سيدي الجيلالي,Sidi Djillali,63,العريشة,El Aricha
 31051,خميستي,Khemisti,حي خميستي,Hai Khemisti,404,بني مستر,Beni Mester,منصورة,Mansourah,13,تلمسان,Tlemcen
 34050,وادي الأخضر,Oued Lakhdar,وادي الأخضر,Oued Lakhdar,428,وادي الخضر,Oued Lakhdar,أولاد ميمون,Ouled Mimoun,13,تلمسان,Tlemcen
 38006,خميستي,Khemisti,حي 5 جويلية,Hai 05 Juillet,404,بني مستر,Beni Mester,منصورة,Mansourah,13,تلمسان,Tlemcen
 14000,تيارت - القبّاضة الرّئيسيّة,Tiaret,شارع أول نوفمبر,Boulevard Du 1er Novembre,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14001,فرندة,Frenda,حي الشرطة، فرندة,Cité Policiere Frenda,456,فرندة,Frenda,فرندة,Frenda,14,تيارت,Tiaret
-14002,قصر الشلالة,Ksar Chellala,حي المنظر الجميل الشلالة,Cité Belle Vue Chellala,459,قصر الشلالة,Ksar Chellala,قصر الشلالة,Ksar Chellala,14,تيارت,Tiaret
+14002,قصر الشلالة,Ksar Chellala,حي المنظر الجميل الشلالة,Cité Belle Vue Chellala,459,قصر الشلالة,Ksar Chellala,قصر الشلالة,Ksar Chellala,64,قصر الشلالة,Ksar Chellala
 14003,سوقر,Sougueur,جادة سي عبد الغني,Boulevard Si Abdelghani,480,السوقر,Sougueur,السوقر,Sougueur,14,تيارت,Tiaret
 14004,مهدية,Mahdia,شارع مصطفى بن بولعيد,Rue Mostapha Benboulaid,461,مهدية,Mahdia,مهدية,Mahdia,14,تيارت,Tiaret
 14005,رحوية,Rahouia,شارع النقيب بوسيف,Rue Capitaine Boucif,470,الرحوية,Rahouia,رحوية,Rahouia,14,تيارت,Tiaret
@@ -1143,21 +1143,21 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 14008,عين الحديد,Ain El Hadid,جادة الشهداء,Boulevard Des Martyrs,448,عين الحديد,Ain El Hadid,فرندة,Frenda,14,تيارت,Tiaret
 14009,عين كرمس,Ain Kermes,شارع النقيب بوسيف,Rue Capitaine Boucif,449,عين كرمس,Ain Kermes,عين كرمس,Ain Kermes,14,تيارت,Tiaret
 14010,دحموني,Dahmouni,شارع الانتصار,Rue De La Voctoire,452,دحموني,Dahmouni,دحموني,Dahmouni,14,تيارت,Tiaret
-14011,قصر الشلالة - الوئام,Ksar Chellala El Wiam,طريق تيارت,Route De Tiaret,459,قصر الشلالة,Ksar Chellala,قصر الشلالة,Ksar Chellala,14,تيارت,Tiaret
+14011,قصر الشلالة - الوئام,Ksar Chellala El Wiam,طريق تيارت,Route De Tiaret,459,قصر الشلالة,Ksar Chellala,قصر الشلالة,Ksar Chellala,64,قصر الشلالة,Ksar Chellala
 14012,مشرع الصفا,Mechraa Sfa,شارع 05 جويلية,Rue Du 05 Juillet,462,مشرع الصفا,Mechraa Safa,مشرع الصفا,Mechraa Sfa,14,تيارت,Tiaret
 14013,مدريسة,Medrissa,شارع منصور محمد,Rue Mansour Med,463,مدريسة,Medrissa,عين كرمس,Ain Kermes,14,تيارت,Tiaret
 14014,وادي ليلي,Oued Lili,شارع الاستقلال,Rue De L'Independance,469,وادي ليلي,Oued Lilli,وادي ليلي,Oued Lili,14,تيارت,Tiaret
 14015,تاخمارت,Takhmaret,جادة الشهداء,Boulevard Des Martyrs,482,تخمرت,Takhemaret,فرندة,Frenda,14,تيارت,Tiaret
 14016,تيارت - بن عمارة جيلالي,Tiaret Benamara Djillali,جادة بوعبداللي بو عبد الله,Bd Bouabdelli Bouabdellah,454,جيلالي بن عمار,Djillali Ben Amar,مشرع الصفا,Mechraa Sfa,14,تيارت,Tiaret
 14017,عين دزاريت,Ain Dzarit,حي زيغود يوسف,Cité Ziroud Youcef,447,عين دزاريت,Ain Dzarit,مهدية,Mahdia,14,تيارت,Tiaret
-14018,العقيد بوقارة,Colonel Bougara,حي الثورة,Cité La Revolution,450,بوقرة,Bougara,حمادية,Hamadia,14,تيارت,Tiaret
+14018,العقيد بوقارة,Colonel Bougara,حي الثورة,Cité La Revolution,450,بوقرة,Bougara,حمادية,Hamadia,64,قصر الشلالة,Ksar Chellala
 14019,قرطوفة,Guertoufa,شارع أول نوفمبر,Rue Du 1er Novembre,457,قرطوفة,Guertoufa,رحوية,Rahouia,14,تيارت,Tiaret
-14020,حمادية,Hamadia,طريق تيسمسيلت,Route De Tissemesilt,458,حمادية,Hamadia,حمادية,Hamadia,14,تيارت,Tiaret
+14020,حمادية,Hamadia,طريق تيسمسيلت,Route De Tissemesilt,458,حمادية,Hamadia,حمادية,Hamadia,64,قصر الشلالة,Ksar Chellala
 14021,كرمان,Kerman,حي كرمان,Cité Karman,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14023,مدروسة,Medroussa,شارع أول نوفمبر,Rue Du 1er Novembre,464,مدروسة,Medroussa,مدروسة,Medroussa,14,تيارت,Tiaret
 14024,مغيلة,Meghila,الشارع الرئيسي,Rue Principale,465,مغيلة,Meghila,مغيلة,Meghila,14,تيارت,Tiaret
 14025,ملاكو,Mellakou,شارع أومريسي بلقاسم,Rue Omrissi Belkacem,466,ملاكو,Mellakou,مدروسة,Medroussa,14,تيارت,Tiaret
-14026,رشايقة,Rechaiga,شارع الأسواق,Rue Des Marches,471,الرشايقة,Rechaiga,حمادية,Hamadia,14,تيارت,Tiaret
+14026,رشايقة,Rechaiga,شارع الأسواق,Rue Des Marches,471,الرشايقة,Rechaiga,حمادية,Hamadia,64,قصر الشلالة,Ksar Chellala
 14027,السي عبد الغني,Si Abdelghani,شارع الأمير عبد القادر,Rue Emir Abdelkader,475,سي عبد الغني,Si Abdelghani,السوقر,Sougueur,14,تيارت,Tiaret
 14029,سيدي حسني,Sidi Hosni,شارع أول نوفمبر,Rue Du 1er Novembre,479,سيدي حسني,Sidi Hosni,مغيلة,Meghila,14,تيارت,Tiaret
 14030,سي الحواس,Si Haoues,شارع أول نوفمبر,Rue Du 1er Novembre,472,السبعين,Sebaine,مهدية,Mahdia,14,تيارت,Tiaret
@@ -1168,10 +1168,10 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 14035,تيارت - الجامعة,Tiaret Universite,حي 500 مسكن,Cité Des 500 Logements,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14036,تيارت - زعرورة,Tiaret Zaaroura,حي المنار,Hai El Manar,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14037,توسنينة,Tousnina,الشارع الرئيسي,Rue Principale,485,توسنينة,Tousnina,السوقر,Sougueur,14,تيارت,Tiaret
-14038,زمالة الأمير عبد القادر,Z'Malet El Emir Aek,شارع أول نوفمبر,Rue Du 1er Novembre,486,زمالة  الأمير عبد القادر,Zmalet El Emir Abdelkade,قصر الشلالة,Ksar Chellala,14,تيارت,Tiaret
+14038,زمالة الأمير عبد القادر,Z'Malet El Emir Aek,شارع أول نوفمبر,Rue Du 1er Novembre,486,زمالة  الأمير عبد القادر,Zmalet El Emir Abdelkade,قصر الشلالة,Ksar Chellala,64,قصر الشلالة,Ksar Chellala
 14040,عين بوشقيف,Ain Bouchekif,شارع أول نوفمبر,Rue Du 1er Novembre,445,عين بوشقيف,Ain Bouchekif,دحموني,Dahmouni,14,تيارت,Tiaret
 14041,عين مريم,Ain Meriem,شارع بن عيشة أحمد,Rue Benaicha Ahmed,445,عين بوشقيف,Ain Bouchekif,دحموني,Dahmouni,14,تيارت,Tiaret
-14042,عين رجاح,Ain Radjah,عين رجاح,Ain Radjah,459,قصر الشلالة,Ksar Chellala,قصر الشلالة,Ksar Chellala,14,تيارت,Tiaret
+14042,عين رجاح,Ain Radjah,عين رجاح,Ain Radjah,459,قصر الشلالة,Ksar Chellala,قصر الشلالة,Ksar Chellala,64,قصر الشلالة,Ksar Chellala
 14043,عين سباين,Ain Sebain,شارع الشهداء,Rue Des Martyrs,472,السبعين,Sebaine,مهدية,Mahdia,14,تيارت,Tiaret
 14044,عين سي مصباح,Ain Si Mesbah,القرية الزراعية طريق سوقر,Village Agricole Rte De Sougueur,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14045,بونوال,Bounoual,طريق معسكر,Route De Mascara,482,تخمرت,Takhemaret,فرندة,Frenda,14,تيارت,Tiaret
@@ -1180,7 +1180,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 14048,جيلالي بن عمار,Djillali Ben Amar,الشارع الرئيسي,Rue Principale,454,جيلالي بن عمار,Djillali Ben Amar,مشرع الصفا,Mechraa Sfa,14,تيارت,Tiaret
 14049,فايجة,Faidja,شارع أ أ جهة الدرك,Rue A A Cote De La Gendarmerie,455,الفايجة,Faidja,السوقر,Sougueur,14,تيارت,Tiaret
 14050,فرندة - الأمير عبد القادر,Frenda Emir Abdelkader,الشارع الرئيسي,Rue Principale,456,فرندة,Frenda,فرندة,Frenda,14,تيارت,Tiaret
-14051,فريتيسة,Fritissa,طريق سرغين,Route De Serguine,474,سرغين,Serghine,قصر الشلالة,Ksar Chellala,14,تيارت,Tiaret
+14051,فريتيسة,Fritissa,طريق سرغين,Route De Serguine,474,سرغين,Serghine,قصر الشلالة,Ksar Chellala,64,قصر الشلالة,Ksar Chellala
 14052,كروم عمار,Kerroum Amar,الحي الجميل,Hai El Jamil,446,عين الذهب,Ain Deheb,عين الذهب,Ain Deheb,14,تيارت,Tiaret
 14053,خروبة,Kharrouba,القرية الزراعية,Village Agricole,462,مشرع الصفا,Mechraa Safa,مشرع الصفا,Mechraa Sfa,14,تيارت,Tiaret
 14054,خربة أولاد بوزيان,Kherbet Ouled Bouziane,الشارع الرئيسي,Rue Principale,452,دحموني,Dahmouni,دحموني,Dahmouni,14,تيارت,Tiaret
@@ -1191,7 +1191,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 14059,ناظور منور,Nador M'Naouer,القرية الزراعية,Village Agricole,480,السوقر,Sougueur,السوقر,Sougueur,14,تيارت,Tiaret
 14060,نعيمة,Naima,شارع شبلي عبد القادر,Rue Chebil Abdelkader,468,النعيمة,Naima,عين الذهب,Ain Deheb,14,تيارت,Tiaret
 14061,الرصفة,Rosfa,قرية الرصفة,Village Rosfa,453,جبيلات الرصفاء,Djebilet Rosfa,عين كرمس,Ain Kermes,14,تيارت,Tiaret
-14063,سرغين,Serguine,بلدية سرغين,Commune De Serguine,474,سرغين,Serghine,قصر الشلالة,Ksar Chellala,14,تيارت,Tiaret
+14063,سرغين,Serguine,بلدية سرغين,Commune De Serguine,474,سرغين,Serghine,قصر الشلالة,Ksar Chellala,64,قصر الشلالة,Ksar Chellala
 14064,سيدي علي ملال,Sidi Ali Mellal,حي 20 مسكن,Cité Des 20 Logements,477,سيدي علي ملال,Sidi Ali Mellal,وادي ليلي,Oued Lili,14,تيارت,Tiaret
 14065,سيدي بختي,Sidi Bakhti,شارع صباع مزيان,Rue Sbaa Meziane,478,سيدي بختي,Sidi Bakhti,مدروسة,Medroussa,14,تيارت,Tiaret
 14066,سوقر - حي صافة عبد القادر,Sougueur Cité Safa Abdelkader,حي صافة عبد القادر,Cité Safa Abdelkader,480,السوقر,Sougueur,السوقر,Sougueur,14,تيارت,Tiaret
@@ -1202,7 +1202,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 14071,تيدة,Tidda,الشارع الرئيسي,Rue Principale,484,تيدة,Tidda,وادي ليلي,Oued Lili,14,تيارت,Tiaret
 14072,فرندة - إبن خلدون,Frenda Ibn Khaldoun,شارع النقيب بوسيف,Rue Capitaine Boucif,456,فرندة,Frenda,فرندة,Frenda,14,تيارت,Tiaret
 14073,قايد أحمد,Kaid Ahmed,عدل طريق الجزائر,Aadl Route D'Alger,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
-14074,حمادية - الهضاب,Hamadia El Hidhab,شارع بونعمة جيلالي,Rue Bounaama Djillali,458,حمادية,Hamadia,حمادية,Hamadia,14,تيارت,Tiaret
+14074,حمادية - الهضاب,Hamadia El Hidhab,شارع بونعمة جيلالي,Rue Bounaama Djillali,458,حمادية,Hamadia,حمادية,Hamadia,64,قصر الشلالة,Ksar Chellala
 14075,تيارت - سيدي خالد,Tiaret Sidi Khaled,حي ماري كوري,Cité Marie Curie,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14076,تيارت - إبن خلدون,Tiaret Ibn Khaldoun,المركز الجامعي تيارت,Centre Universitaire Tiaret,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
 14077,تيارت - القطب الجامعي,Tiaret Campus,المركز الجامعي تيارت,Centre Universitaire Tiaret,483,تيارت,Tiaret,تيارت,Tiaret,14,تيارت,Tiaret
@@ -1640,80 +1640,80 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 29002,محمدية,Mohammadia,ساحة السوق المغطى - محمدية,Place Du Marche Couvert Mohammadia,595,المحمدية,Mohammadia,الدار البيضاء,Dar El Beida,16,الجزائر,Alger
 34017,الحمادية,El Hammadia,حةماري بعبوش - وسط مدينة الحمادية,Houmari Baabouche Centre Ville El Hammadia,571,بوزريعة,Bouzareah,بوزريعة,Bouzareah,16,الجزائر,Alger
 17000,الجلفة - القبّاضة الرّئيسيّة,Djelfa,شارع الأمير عبد القادر,Rue Emir A Ek,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
-17001,عين وسارة,Ain Oussera,الطريق الوطني,Route National,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
+17001,عين وسارة,Ain Oussera,الطريق الوطني,Route National,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
 17002,حاسي بحبح,Hassi Bahbah,الطريق الوطني رقم 01 HBB,Route National Nâ° 01 Hbb,633,حاسي بحبح,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
-17003,مسعد,Messaad,حي أول نوفمبر، مسعد,Cité 1er Novembre Messaad,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
-17004,عين وسارة - سليماني سليمان,Ain Oussera Slimani Slimane,حي سليماني سليمان، عين وسارة,Cité Slimani Slimane Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
-17005,عين وسارة - زيغوت يوسف,Ain Oussera Zighout Youcef,حي علي عمار,Cité Ali Ammar A/O,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
+17003,مسعد,Messaad,حي أول نوفمبر، مسعد,Cité 1er Novembre Messaad,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
+17004,عين وسارة - سليماني سليمان,Ain Oussera Slimani Slimane,حي سليماني سليمان، عين وسارة,Cité Slimani Slimane Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
+17005,عين وسارة - زيغوت يوسف,Ain Oussera Zighout Youcef,حي علي عمار,Cité Ali Ammar A/O,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
 17006,دار الشيوخ,Dar Chioukh,وسط مدينة دار الشيوخ,Centre Ville Dar Chioukh,622,دار الشيوخ,Dar Chioukh,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
 17007,الجلفة - 05 جويلية,Djelfa 5 Juillet,حي 05 جويلية,Cité 05 Juillet,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17008,الجلفة - الداية,Djelfa Daya,حي داية,Cité Daya,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17009,الجلفة - سيدي نايل,Djelfa Sidi Nail,وسط مدينة الجلفة,Centre Ville Djelfa,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17010,حاسي بحبح - جارون سعيد,Hassi Bahbah Djaaroune Said,شارع هواري بومدين - حاسي بحبح,Rue Haouari Boumedine Hbb,633,حاسي بحبح,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
 17011,عين الإبل,Ain El Ibel,حي سايلع مبروك,Cité Sailaa Mabrouk,612,عين الإبل,Ain El Ibel,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
-17012,عين وسارة - عبان رمضان,Ain Oussera Abane Ramdane,حي عبان رمضان - عين وسارة,Cité Abanne Ramdhane Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
-17013,عين وسارة - قرادة بلقاسم,Ain Oussera Guerada Belkacem,حي قرادة بلقاسم - عين وسارة,Cit Gueerada Belkacem Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
-17014,بيرين,Birine,طريق عين وسارة - بيرين,Route Ain Oussera Birine,619,بيرين,Birine,بيرين,Birine,17,الجلفة,Djelfa
+17012,عين وسارة - عبان رمضان,Ain Oussera Abane Ramdane,حي عبان رمضان - عين وسارة,Cité Abanne Ramdhane Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
+17013,عين وسارة - قرادة بلقاسم,Ain Oussera Guerada Belkacem,حي قرادة بلقاسم - عين وسارة,Cit Gueerada Belkacem Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
+17014,بيرين,Birine,طريق عين وسارة - بيرين,Route Ain Oussera Birine,619,بيرين,Birine,بيرين,Birine,65,عين وسارة,Aïn Ouessara
 17015,شارف,Charef,شارع عبد العزيز الحاج - شارف,Rue Abdelaziz El Hadj Charef,621,الشارف,Charef,الشارف,Charef,17,الجلفة,Djelfa
 17016,الجلفة - حسن عبد القادر,Djelfa Hassen Abdelkader,حي البستان - الجلفة,Cité Du Jardin Djelfa,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17017,الجلفة - بربيح,Djelfa Berrebih,حي بربيح - الجلفة,Cité Berrbih,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17018,الجلفة - بوتريفيس,Djelfa Boutrifis,حي بوتريفيس - الجلفة,Cité Boutrifis,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17019,القديد,El Guedid,الحي الجديد - القديد,Cité Nlle El Gueddid,626,القديد,El Guedid,الشارف,Charef,17,الجلفة,Djelfa
 17020,الإدريسيّة,El Idrissia,وسط مدينة الإدريسيّة,Centre Ville El Idrissia,627,الادريسية,El Idrissia,الادريسية,El Idrissia,17,الجلفة,Djelfa
-17021,فايد البطمة,Feid El Botma,أول نوفمبر - فايد البطمة,1 Er Novembre Feid El Botma,629,فيض البطمة,Faidh El Botma,فيض البطمة,Faidh El Botma,17,الجلفة,Djelfa
-17022,حاد صحاري,Had Sahary,شارع علي بومنجل - حاد صحاري,Rue Ali Boumendjel Had Sahary,632,حد الصحاري,Had Sahary,حد الصحاري,Had Sahary,17,الجلفة,Djelfa
+17021,فايد البطمة,Feid El Botma,أول نوفمبر - فايد البطمة,1 Er Novembre Feid El Botma,629,فيض البطمة,Faidh El Botma,فيض البطمة,Faidh El Botma,66,مسعد,Messaad
+17022,حاد صحاري,Had Sahary,شارع علي بومنجل - حاد صحاري,Rue Ali Boumendjel Had Sahary,632,حد الصحاري,Had Sahary,حد الصحاري,Had Sahary,65,عين وسارة,Aïn Ouessara
 17023,حاسي بحبح - شطوح خير الدين,Hassi Bahbah Chettouh Kheiredine,حي بوعافية - حاسي بحبح,Cité Bouaffia Hbb,633,حاسي بحبح,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
-17024,سيدي لعجل,Sidi Ladjel,وسط مدينة سيدي لعجل,Centre Ville Sidi Laadjel,643,سيدي لعجال,Sidi Laadjel,سيدي لعجال,Sidi Laadjel,17,الجلفة,Djelfa
+17024,سيدي لعجل,Sidi Ladjel,وسط مدينة سيدي لعجل,Centre Ville Sidi Laadjel,643,سيدي لعجال,Sidi Laadjel,سيدي لعجال,Sidi Laadjel,65,عين وسارة,Aïn Ouessara
 17025,عين معابد,Ain Maabed,وسط مدينة عين معابد,Centre Ville Ain Maabed,614,عين معبد,Ain Maabed,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
 17026,بن يعقوب,Ben Yagoub,شارع أول نوفمبر - بن يعقوب,Rue 1 Novembre Benyagoub,618,بن يعقوب,Benyagoub,الشارف,Charef,17,الجلفة,Djelfa
-17027,بيرين - قاضي طاهر,Birine Kadi Tahar,حي قاضي طاهر- بيرين,Cité Kadi Tahar Birine,619,بيرين,Birine,بيرين,Birine,17,الجلفة,Djelfa
+17027,بيرين - قاضي طاهر,Birine Kadi Tahar,حي قاضي طاهر- بيرين,Cité Kadi Tahar Birine,619,بيرين,Birine,بيرين,Birine,65,عين وسارة,Aïn Ouessara
 17028,الجلفة - عين الشيح,Djelfa Ain Chih,حي عين الشيح - الجلفة,Cité Ain Chih Djelfa,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17029,الجلفة - زحاف,Djelfa Zahaf,حي زحاف - الجلفة,Cité Zahaf Djelfa,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17030,دويس,Douis,وسط مدينة دويس,Centre Ville Douis,625,دويس,Douis,الادريسية,El Idrissia,17,الجلفة,Djelfa
 17031,حاسي بحبح - 5 جويلية,Hassi Bahbah 5 Juillet,حي 05 جويلية,Cité 05 Juillet,633,حاسي بحبح,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
 17032,حاسي العش,Hassi El Euch,وسط مدينة حاسي العش,Centre Ville Hassi El Euch,634,حاسي العش,Hassi El Euch,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
-17033,مسعد - حي القدس,Messaad Cité El Quods,حي القدس,Cité El Quods,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
-17034,مسعد - دامد,Messaad Demed,ساحة الأمير عبد القادر - مسعد,Place Emir A E K Messaad,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
-17035,مسعد - الأمير عبد القادر,Messad Emir Abdelkader,دماد - مسعد,Demed Messaad,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
+17033,مسعد - حي القدس,Messaad Cité El Quods,حي القدس,Cité El Quods,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
+17034,مسعد - دامد,Messaad Demed,ساحة الأمير عبد القادر - مسعد,Place Emir A E K Messaad,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
+17035,مسعد - الأمير عبد القادر,Messad Emir Abdelkader,دماد - مسعد,Demed Messaad,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
 17036,مويلح,Mouilah,مويلح,Mouilah,637,مليليحة,M'liliha,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
 17037,تعدميت,Taadmit,وسط مدينة تعدميت,Centre Ville Taadmit,644,تعظميت,Taadmit,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
 17038,زعفران,Zaafrane,وسط مدينة زعفران,Centre Ville Zaafrane,645,زعفران,Zaafrane,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
 17039,عين الشهداء,Ain Chouhada,وسط مدينة عين الشهداء,Centre Ville Ain Chouhada,611,عين الشهداء,Ain Chouhada,الادريسية,El Idrissia,17,الجلفة,Djelfa
-17040,عين فكة,Ain Fekka,عين فكة,Ain Fekka,613,عين فقه,Ain Fekka,حد الصحاري,Had Sahary,17,الجلفة,Djelfa
+17040,عين فكة,Ain Fekka,عين فكة,Ain Fekka,613,عين فقه,Ain Fekka,حد الصحاري,Had Sahary,65,عين وسارة,Aïn Ouessara
 17041,عميرة,Amera,وسط مدينة عميرة,Centre Ville Amera,612,عين الإبل,Ain El Ibel,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
-17042,عمورة,Amourah,وسط مدينة عمورة,Centre Ville Amourah,616,عمورة,Amourah,فيض البطمة,Faidh El Botma,17,الجلفة,Djelfa
-17043,بالنهار,Benhar,وسط مدينة بالنهار,Centre Ville Benhar,617,بنهار,Benhar,بيرين,Birine,17,الجلفة,Djelfa
-17044,بويرات - لهداب,Bouira Lahdab,بويرات - لهداب,Bouirat Lahdab,620,بويرة الأحداب,Bouira Lahdab,حد الصحاري,Had Sahary,17,الجلفة,Djelfa
+17042,عمورة,Amourah,وسط مدينة عمورة,Centre Ville Amourah,616,عمورة,Amourah,فيض البطمة,Faidh El Botma,66,مسعد,Messaad
+17043,بالنهار,Benhar,وسط مدينة بالنهار,Centre Ville Benhar,617,بنهار,Benhar,بيرين,Birine,65,عين وسارة,Aïn Ouessara
+17044,بويرات - لهداب,Bouira Lahdab,بويرات - لهداب,Bouirat Lahdab,620,بويرة الأحداب,Bouira Lahdab,حد الصحاري,Had Sahary,65,عين وسارة,Aïn Ouessara
 17045,داية البخور,Dait El Bkhour,داية البخور,Daiet El Bkheur,633,حاسي بحبح,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
-17046,دلدول,Deldoul,وسط مدينة دلدول,Centre Ville Deldoul,623,دلدول,Deldoul,مسعد,Messaad,17,الجلفة,Djelfa
-17047,دراع السواري,Draa Souary,حي المجاهدين دراع السواري,Cité Moudjahidine Draa Soury,617,بنهار,Benhar,بيرين,Birine,17,الجلفة,Djelfa
-17048,القهرة,El Gahra,وسط مدينة لقهرة,Centre Ville El Gahra,623,دلدول,Deldoul,مسعد,Messaad,17,الجلفة,Djelfa
+17046,دلدول,Deldoul,وسط مدينة دلدول,Centre Ville Deldoul,623,دلدول,Deldoul,مسعد,Messaad,66,مسعد,Messaad
+17047,دراع السواري,Draa Souary,حي المجاهدين دراع السواري,Cité Moudjahidine Draa Soury,617,بنهار,Benhar,بيرين,Birine,65,عين وسارة,Aïn Ouessara
+17048,القهرة,El Gahra,وسط مدينة لقهرة,Centre Ville El Gahra,623,دلدول,Deldoul,مسعد,Messaad,66,مسعد,Messaad
 17049,الحمام,El Hammam,الحمام,El Hammam,621,الشارف,Charef,الشارف,Charef,17,الجلفة,Djelfa
 17050,الحيوحي,El Hiouhi,الحيوحي,El Hiouhi,644,تعظميت,Taadmit,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
-17051,الخميس,El Khemis,وسط مدينة الخميس,Centre Ville El Khemis,628,الخميس,El Khemis,سيدي لعجال,Sidi Laadjel,17,الجلفة,Djelfa
+17051,الخميس,El Khemis,وسط مدينة الخميس,Centre Ville El Khemis,628,الخميس,El Khemis,سيدي لعجال,Sidi Laadjel,65,عين وسارة,Aïn Ouessara
 17052,العقيلة,El Oguila,وسط مدينة العقيلة,Centre Ville El Oguila,642,سيدي بايزيد,Sidi Baizid,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
-17054,قرنيني,Guernini,أول نوفمبر - قرنيني,1 Er Novembre Guernini,630,قرنيني,Guernini,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
-17055,قطارة,Guettara,وسط مدينة قطارة,Centre Ville Guettera,631,قطارة,Guettara,مسعد,Messaad,17,الجلفة,Djelfa
-17056,حاسي فدول,Hassi Fedoul,شارع أول نوفمبر - وسط مدينة حاسي فدول,Rue 1er Novebre Centre Ville Hassi Fdoul,635,حاسي فدول,Hassi Fedoul,سيدي لعجال,Sidi Laadjel,17,الجلفة,Djelfa
+17054,قرنيني,Guernini,أول نوفمبر - قرنيني,1 Er Novembre Guernini,630,قرنيني,Guernini,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
+17055,قطارة,Guettara,وسط مدينة قطارة,Centre Ville Guettera,631,قطارة,Guettara,مسعد,Messaad,66,مسعد,Messaad
+17056,حاسي فدول,Hassi Fedoul,شارع أول نوفمبر - وسط مدينة حاسي فدول,Rue 1er Novebre Centre Ville Hassi Fdoul,635,حاسي فدول,Hassi Fedoul,سيدي لعجال,Sidi Laadjel,65,عين وسارة,Aïn Ouessara
 17057,مليليحة,M'Liliha,وسط مدينة مليليحة,Centre Ville M Liliha,637,مليليحة,M'liliha,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
 17058,موجبارة,Moudjebara,وسط مدينة موجبارة,Centre Ville Moudjebarra,638,مجبارة,Moudjebara,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
 17059,نطيلة,N'Tila,نطيلة,N Thila,644,تعظميت,Taadmit,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
 17060,أم الشقاق,Oum Chegag,أم الشقاق,Oum Chegag,627,الادريسية,El Idrissia,الادريسية,El Idrissia,17,الجلفة,Djelfa
-17061,أم العظم,Oum El Adham,أم العظم,Oum Laadam,639,أم العظام,Oum Laadham,فيض البطمة,Faidh El Botma,17,الجلفة,Djelfa
-17062,سد رحال,Sed Rahal,وسط مدينة سد رحال,Centre Ville Sed Rahal,640,سد الرحال,Sed Rahal,مسعد,Messaad,17,الجلفة,Djelfa
-17063,سلمانة,Selmana,وسط مدينة سلمانة,Centre Ville Selmana,641,سلمانة,Selmana,مسعد,Messaad,17,الجلفة,Djelfa
+17061,أم العظم,Oum El Adham,أم العظم,Oum Laadam,639,أم العظام,Oum Laadham,فيض البطمة,Faidh El Botma,66,مسعد,Messaad
+17062,سد رحال,Sed Rahal,وسط مدينة سد رحال,Centre Ville Sed Rahal,640,سد الرحال,Sed Rahal,مسعد,Messaad,66,مسعد,Messaad
+17063,سلمانة,Selmana,وسط مدينة سلمانة,Centre Ville Selmana,641,سلمانة,Selmana,مسعد,Messaad,66,مسعد,Messaad
 17064,سيدي بايزيد,Sidi Baizid,سيدي بايزيد,Sidi Baizid,642,سيدي بايزيد,Sidi Baizid,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
 17065,زكار,Zaccar,وسط مدينة زكار,Centre Ville Zaccar,646,زكار,Zaccar,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
-17066,طاهيري محمد,Tahiri Mohamed,وسط مدينة طاهيري محمد,Centre Ville Tahiri Mohamd,631,قطارة,Guettara,مسعد,Messaad,17,الجلفة,Djelfa
-17067,حنية أولاد سليم,Haniet Ouled Salm,حنية أولاد سليم,Haniet Ouled Salm,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
+17066,طاهيري محمد,Tahiri Mohamed,وسط مدينة طاهيري محمد,Centre Ville Tahiri Mohamd,631,قطارة,Guettara,مسعد,Messaad,66,مسعد,Messaad
+17067,حنية أولاد سليم,Haniet Ouled Salm,حنية أولاد سليم,Haniet Ouled Salm,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
 17068,سد أم الضرو,Sed Oum Drou,سد أم الضرو,Sed Oum Drou,642,سيدي بايزيد,Sidi Baizid,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
-17069,عبد المجيد,Abdelmadjid,عبد المجيد,Abdelmadjid,629,فيض البطمة,Faidh El Botma,فيض البطمة,Faidh El Botma,17,الجلفة,Djelfa
-17070,مقيّد,Meguied,مقيّد,El M'Gueid,623,دلدول,Deldoul,مسعد,Messaad,17,الجلفة,Djelfa
-17071,حد الصحاري - آيت مسعودان,Had Sahary Ait Messaoudene,وسط مدينة حد الصحاري,Centre Ville Had Sahary,632,حد الصحاري,Had Sahary,حد الصحاري,Had Sahary,17,الجلفة,Djelfa
+17069,عبد المجيد,Abdelmadjid,عبد المجيد,Abdelmadjid,629,فيض البطمة,Faidh El Botma,فيض البطمة,Faidh El Botma,66,مسعد,Messaad
+17070,مقيّد,Meguied,مقيّد,El M'Gueid,623,دلدول,Deldoul,مسعد,Messaad,66,مسعد,Messaad
+17071,حد الصحاري - آيت مسعودان,Had Sahary Ait Messaoudene,وسط مدينة حد الصحاري,Centre Ville Had Sahary,632,حد الصحاري,Had Sahary,حد الصحاري,Had Sahary,65,عين وسارة,Aïn Ouessara
 17072,الجلفة - عاشور زيان,Djelfa Achour Ziane,الحي الجامعي عاشور زيان,Cité Universitaire Z Achour,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17073,الجلفة - المحطة البرية,Djelfa Gare Routiere,الجلفة - المحطة البرية,Gare Routiere Djelfa,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
-17074,عين وسارة - المحطة البرية,Ain Oussera Gare Routiere,عين وسارة - المحطة البرية,Gare Routiere Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
-17075,مسعد - المحطة البرية,Messaad Gare Routiere,مسعد - المحطة البرية,Gare Routiere Messaad,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
+17074,عين وسارة - المحطة البرية,Ain Oussera Gare Routiere,عين وسارة - المحطة البرية,Gare Routiere Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
+17075,مسعد - المحطة البرية,Messaad Gare Routiere,مسعد - المحطة البرية,Gare Routiere Messaad,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
 17076,الجلفة - أولاد عبيد الله,Djelfa Ouled Obaid Allah,أولاد عبيد الله,Ouled Obaidellah,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17077,الجلفة - محمد بن الأبيض,Djelfa Mohamed Ben Labiad,حي محمد بن الأبيض,Cité Ben Labiad Med,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17078,الإدريسيّة - 11 ديسمبر 1960,El Idrissia 11 Dec 1960,الإدريسيّة - 11 ديسمبر 1959,11 Decembre 1960 El Idrissia,627,الادريسية,El Idrissia,الادريسية,El Idrissia,17,الجلفة,Djelfa
@@ -1721,15 +1721,15 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 17080,توازي,Touazi,منطقة توازي، بلدية شارف، الجلفة,"La Localite De Touazi Commune De Charef,Djelfa",621,الشارف,Charef,الشارف,Charef,17,الجلفة,Djelfa
 17081,وادي سدار,Oued Sdar,وادي سدار، الطريق الوطني رقم 01، الجلفة,"Oued Sdar Route Nationale N°01,Djelfa",612,عين الإبل,Ain El Ibel,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
 17082,بن حامد,Ben Hamed,قرية بن حامد، بلدية تادميت، الجلفة,"Village De Ben Hamed Commune De Tadmit,Djelfa",644,تعظميت,Taadmit,عين الإبل,Ain El Ibel,17,الجلفة,Djelfa
-17083,مسعد - موساوي مسعود,Messaad Moussaoui Messaoud,حي صايفي، بلدية مسعد,Cité Saifi Commune De Messaad,636,مسعد,Messaad,مسعد,Messaad,17,الجلفة,Djelfa
-17084,عين وسارة - القوات البرية,Ain Oussera Terre,القاعدة الجويّة ، عين وسارة,Base Airienne Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,17,الجلفة,Djelfa
+17083,مسعد - موساوي مسعود,Messaad Moussaoui Messaoud,حي صايفي، بلدية مسعد,Cité Saifi Commune De Messaad,636,مسعد,Messaad,مسعد,Messaad,66,مسعد,Messaad
+17084,عين وسارة - القوات البرية,Ain Oussera Terre,القاعدة الجويّة ، عين وسارة,Base Airienne Ain Oussera,615,عين وسارة,Ain Oussera,عين وسارة,Ain Oussera,65,عين وسارة,Aïn Ouessara
 17085,حاسي بحبح - القوات البرية,Hassi Bahbah Terre,حاسي المرة,Hassi El Morra,633,حاسي بحبح,Hassi Bahbah,حاسي بحبح,Hassi Bahbah,17,الجلفة,Djelfa
 17086,الجلفة - هواري بومدين,Djelfa Houari Boumediene,,,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 17087,دار الشيوخ - العقيد شعباني محمد,Dar Chioukh Colonel Chaabani Mohamed,,,622,دار الشيوخ,Dar Chioukh,دار الشيوخ,Dar Chioukh,17,الجلفة,Djelfa
 17088,الجلفة - عين سرار,Djelfa Ain Serar,الجلفة - عين سرار,Djelfa Ain Serar,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 ,الجلفة - القوات البرية,Djelfa Terre,الجلفة - المنطقة العسكرية,Zone Militaire Djelfa,624,الجلفة,Djelfa,الجلفة,Djelfa,17,الجلفة,Djelfa
 19100,الحمام,El Hammam,الحمام,El Hammam,621,الشارف,Charef,الشارف,Charef,17,الجلفة,Djelfa
-44036,عمورة,Amourah,عمورة وسط,Amourah Centre,616,عمورة,Amourah,فيض البطمة,Faidh El Botma,17,الجلفة,Djelfa
+44036,عمورة,Amourah,عمورة وسط,Amourah Centre,616,عمورة,Amourah,فيض البطمة,Faidh El Botma,66,مسعد,Messaad
 18000,جيجل - القباضة الرئيسية,Jijel,شارع أول نوفمبر,Rue De 1er Nov,662,جيجل,Jijel,جيجل,Jijel,18,جيجل,Jijel
 18001,الميلية,El Milia,حي بوناح,Rue Bounnah,658,الميلية,El Milia,الميلية,El Milia,18,جيجل,Jijel
 18002,طاهير,Taher,شارع قديد أحمد,Rue Ghuedied Ahmed,672,الطاهير,Taher,الطاهير,Taher,18,جيجل,Jijel
@@ -2362,19 +2362,19 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 26000,المدية - القباضة الرئيسية,Medea,ساحة أول نوفمبر - المدية,Place 1 Nov Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
 26001,بني سليمان,Beni Slimane,ساحة الشهداء - بني سليمان,Place Des Martyrs Beni Slimane,905,بني سليمان,Beni Slimane,بني سليمان,Beni Slimane,26,المدية,Médéa
 26002,البرواقية,Berrouaghia,نهج الجمهورية - البرواقية,Avenue De La Republique Berrouaghia,906,البرواقية,Berrouaghia,البرواقية,Berrouaghia,26,المدية,Médéa
-26003,قصر البخاري,Ksar El Boukhari,جادة محمد خميستي - قصر البخاري,Boulvard Mohamed Khemisti K E B,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
+26003,قصر البخاري,Ksar El Boukhari,جادة محمد خميستي - قصر البخاري,Boulvard Mohamed Khemisti K E B,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
 26004,طابلاط,Tablat,شارع محمد خميستي - طابلات,Rue Mohamed Khemisti Tablat,957,تابلاط,Tablat,تابلاط,Tablat,26,المدية,Médéa
-26005,عين بوسيف,Ain Boucif,شارع شرفي حليمة - عين بوسيف,Rue Cherfi Halima Ain Boucif,899,عين بوسيف,Ain Boucif,عين بوسيف,Ain Boucif,26,المدية,Médéa
+26005,عين بوسيف,Ain Boucif,شارع شرفي حليمة - عين بوسيف,Rue Cherfi Halima Ain Boucif,899,عين بوسيف,Ain Boucif,عين بوسيف,Ain Boucif,67,قصر البخاري,Ksar El Boukhari
 26006,البرواقية - باطم,Berrouaghia Batem,حي جدي عبد القادر - البرواقية,Cité Djeddi Abdelkader Berrouaghia,906,البرواقية,Berrouaghia,البرواقية,Berrouaghia,26,المدية,Médéa
-26007,شلالة العذاورة,Chellalet El Adhaoura,شارع أول نوفمبر - شلالة العذاورة,Rue 1 Nov Chellalat El Adhaoura,915,شلالة العذاورة,Chelalet El Adhaoura,شلالة العذاورة,Chellalat El Adhaoura,26,المدية,Médéa
+26007,شلالة العذاورة,Chellalet El Adhaoura,شارع أول نوفمبر - شلالة العذاورة,Rue 1 Nov Chellalat El Adhaoura,915,شلالة العذاورة,Chelalet El Adhaoura,شلالة العذاورة,Chellalat El Adhaoura,67,قصر البخاري,Ksar El Boukhari
 26008,العمرية,El Omaria,شارع سي الطيب الجوغلالي - العمرية,Rue Si Tayeb El Djoughlali El Omaria,924,العمارية,El Omaria,العمارية,El Omaria,26,المدية,Médéa
 26009,المدية - أولاد إمام,Medea Ould Immam,شارع الأغواط - المدية,Rue De Laghouat Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
-26010,عين بوسيف - 5 جويلية,Ain Boucif 5 Juillet,عين بوسيف - 5 جويلية,Ain Boucif 5 Juillet,899,عين بوسيف,Ain Boucif,عين بوسيف,Ain Boucif,26,المدية,Médéa
+26010,عين بوسيف - 5 جويلية,Ain Boucif 5 Juillet,عين بوسيف - 5 جويلية,Ain Boucif 5 Juillet,899,عين بوسيف,Ain Boucif,عين بوسيف,Ain Boucif,67,قصر البخاري,Ksar El Boukhari
 26011,عين الذهب,Ain D'Hab,عين الذهب - المدية,Ain D'Hab Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
 26012,بن شيكاو,Ben Chicao,بن شيكاو وسط,Ben Chicao Centre,904,بن شكاو,Ben Chicao,وزرة,Ouzera,26,المدية,Médéa
-26013,بوغار,Boghar,بوغار وسط,Boghar Centre,908,بوغار,Boghar,أولاد عنتر,Ouled Antar,26,المدية,Médéa
+26013,بوغار,Boghar,بوغار وسط,Boghar Centre,908,بوغار,Boghar,أولاد عنتر,Ouled Antar,67,قصر البخاري,Ksar El Boukhari
 26014,بوشراحيل,Bouchrahil,بوشراحيل وسط,Bouchrahil Centre,911,بوشراحيل,Bouchrahil,سيدي نعمان,Sidi Naamane,26,المدية,Médéa
-26015,دراق,Derrag,دراق وسط,Derrag Centre,917,دراق,Derrag,عزيز,Aziz,26,المدية,Médéa
+26015,دراق,Derrag,دراق وسط,Derrag Centre,917,دراق,Derrag,عزيز,Aziz,67,قصر البخاري,Ksar El Boukhari
 26016,جواب,Djouab,لوناس عبد القادر جواب,Louanes Abdelkader Djouab,918,جواب,Djouab,السواقي,Souaghi,26,المدية,Médéa
 26017,ذراع السمار,Draa Essemar,ذراع السمار وسط,Draa Esmar Centre,919,ذراع السمار,Draa Esmar,المدية,Medea,26,المدية,Médéa
 26018,العزيزيّة,El Azizia,العزيزيّة وسط,El Azizia Centre,920,العزيزية,El Azizia,العزيزية,El Azizia,26,المدية,Médéa
@@ -2382,59 +2382,59 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 26020,السواقي,Souagui,اشارع الشهيد بوخرس - لسواقي,Rue Chahid Boukhors Souagui,956,السواقي,Souagui,السواقي,Souaghi,26,المدية,Médéa
 26021,الزبيرية,Zoubiria,الزبيرية وسط,Zoubiria Centre,962,الزبيرية,Zoubiria,سغوان,Seghouane,26,المدية,Médéa
 26022,العيساوية,Aissaouia,العيساوية وسط,Aissaouia Centre,901,العيساوية,Aissaouia,تابلاط,Tablat,26,المدية,Médéa
-26023,بوغزول,Boughzoul,بوغزول وسط,Boughzoul Centre,912,بوغزول,Boughzoul,الشهبونية,Chahbounia,26,المدية,Médéa
+26023,بوغزول,Boughzoul,بوغزول وسط,Boughzoul Centre,912,بوغزول,Boughzoul,الشهبونية,Chahbounia,67,قصر البخاري,Ksar El Boukhari
 26024,البرواقية - أول نوفمبر,Bourrouaghia 1er Novembre,البرواقية - حي أول نوفمبر,Cité 1 Nov Berrouaghia,906,البرواقية,Berrouaghia,البرواقية,Berrouaghia,26,المدية,Médéa
 26025,بوسكن,Bouskene,بوسكن وسط,Bouskene Centre,913,بوسكن,Bouskene,بني سليمان,Beni Slimane,26,المدية,Médéa
-26026,الشهبونية,Chahbounia,الشهبونية وسط,Chahbounia Centre,914,الشهبونية,Chabounia,الشهبونية,Chahbounia,26,المدية,Médéa
+26026,الشهبونية,Chahbounia,الشهبونية وسط,Chahbounia Centre,914,الشهبونية,Chabounia,الشهبونية,Chahbounia,67,قصر البخاري,Ksar El Boukhari
 26027,حناشة,Hannacha,حناشة وسط,Hannacha Centre,926,حناشة,Hannacha,عوامري,Ouamri,26,المدية,Médéa
-26028,قصر البخاري - بلخيرت محمد,Ksar El Boukhari Belkheiret Mohamed,قصر البخاري -حي بلخيرت منصور,Quartier Belkheiret Mansour K E B,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
-26029,قصر البخاري - شاوي ندير,Ksar El Boukhari Chaoui Nadir,قصر البخاري - حي الرمانة,Quartier Romanat K E B,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
+26028,قصر البخاري - بلخيرت محمد,Ksar El Boukhari Belkheiret Mohamed,قصر البخاري -حي بلخيرت منصور,Quartier Belkheiret Mansour K E B,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
+26029,قصر البخاري - شاوي ندير,Ksar El Boukhari Chaoui Nadir,قصر البخاري - حي الرمانة,Quartier Romanat K E B,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
 26030,معارك المالح,Maarik El Malah,القلب الكبير وسط,El Guelb Kebir Centre,921,القلب الكبير,El Guelbelkebir,القلب الكبير,Guelb El Kebir,26,المدية,Médéa
 26031,المدية - مرج الشكير,Medea Merdjechkir,المدية - وسط مرج الشكير,Cité Merdjechkir Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
 26032,ميهوب,Mihoub,ميهوب وسط,Mihoub Centre,935,ميهوب,Mihoub,العزيزية,El Azizia,26,المدية,Médéa
 26033,مجبر,Moudjebeur,مجبر وسط,Moudjbeur Centre,932,مجبر,Medjebar,سغوان,Seghouane,26,المدية,Médéa
 26034,أوعمري,Ouamri,أوعمري وسط,Ouamri Centre,936,عوامري,Ouamri,عوامري,Ouamri,26,المدية,Médéa
-26035,أولاد عنتر,Ouled Antar,وسطأولاد عنتر,Ouled Antar Centre,938,أولاد عنتر,Ouled Antar,أولاد عنتر,Ouled Antar,26,المدية,Médéa
+26035,أولاد عنتر,Ouled Antar,وسطأولاد عنتر,Ouled Antar Centre,938,أولاد عنتر,Ouled Antar,أولاد عنتر,Ouled Antar,67,قصر البخاري,Ksar El Boukhari
 26036,أولاد براهيم,Ouled Brahim,أولاد براهيم وسط,Ouled Brahim Centre,940,أولاد إبراهيم,Ouled Brahim,العمارية,El Omaria,26,المدية,Médéa
-26037,أولاد هلال,Ouled Hellal,أولاد هلال وسط,Ouled Hellal Centre,943,أولاد هلال,Ouled Hellal,أولاد عنتر,Ouled Antar,26,المدية,Médéa
-26038,أولاد معرف,Ouled Maareuf,أولاد معرف وسط,Ouled Maareuf Centre,942,أولاد امعرف,Ouled Emaaraf,عين بوسيف,Ain Boucif,26,المدية,Médéa
+26037,أولاد هلال,Ouled Hellal,أولاد هلال وسط,Ouled Hellal Centre,943,أولاد هلال,Ouled Hellal,أولاد عنتر,Ouled Antar,67,قصر البخاري,Ksar El Boukhari
+26038,أولاد معرف,Ouled Maareuf,أولاد معرف وسط,Ouled Maareuf Centre,942,أولاد امعرف,Ouled Emaaraf,عين بوسيف,Ain Boucif,67,قصر البخاري,Ksar El Boukhari
 26039,ربعية,Rebaia,ربعية وسط,Rebaia Centre,946,الربعية,Rebaia,البرواقية,Berrouaghia,26,المدية,Médéa
-26040,سبت عزيز,Sebt Aziz,سبت عزيز وسط,Sebt Aziz Centre,902,عزيز,Aziz,عزيز,Aziz,26,المدية,Médéa
+26040,سبت عزيز,Sebt Aziz,سبت عزيز وسط,Sebt Aziz Centre,902,عزيز,Aziz,عزيز,Aziz,67,قصر البخاري,Ksar El Boukhari
 26041,سغوان,Seghouane,سغوان وسط,Seghouane Centre,949,سغوان,Seghouane,سغوان,Seghouane,26,المدية,Médéa
-26042,سريات,Seriat,سريات وسط,Mezghana Centre,944,أم الجليل,Oum El Djellil,عزيز,Aziz,26,المدية,Médéa
+26042,سريات,Seriat,سريات وسط,Mezghana Centre,944,أم الجليل,Oum El Djellil,عزيز,Aziz,67,قصر البخاري,Ksar El Boukhari
 26044,علالي مسعود,Allali Messaoud,علالي مسعود وسط,Ouled Deid Centre,941,أولاد دايد,Ouled Deid,البرواقية,Berrouaghia,26,المدية,Médéa
 26045,السي محجوب,Si Mahdjoub,السي محجوب وسط,Si Mahdjoub Centre,950,سي المحجوب,Si Mahdjoub,سي المحجوب,Si Mahdjoub,26,المدية,Médéa
 26046,تليتات الدواير,Tletat Ed Douair,تليتات الدواير وسط,Tletat Eddouair Centre,961,ثلاث دوائر,Tletat Ed Douair,سغوان,Seghouane,26,المدية,Médéa
-26047,القصر القديم,Vieux Ksar,القصر القديم,Vieux Ksar,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
-26048,عين أوكسير,Ain Ouksir,عين أوكسير وسط,Ain Ouksir Centre,900,عين اقصير,Ain Ouksir,شلالة العذاورة,Chellalat El Adhaoura,26,المدية,Médéa
-26049,عين تليتات,Ain Tletat,عين تليتات وسط,El M'Fatha Centre,934,مفاتحة,M'fatha,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
+26047,القصر القديم,Vieux Ksar,القصر القديم,Vieux Ksar,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
+26048,عين أوكسير,Ain Ouksir,عين أوكسير وسط,Ain Ouksir Centre,900,عين اقصير,Ain Ouksir,شلالة العذاورة,Chellalat El Adhaoura,67,قصر البخاري,Ksar El Boukhari
+26049,عين تليتات,Ain Tletat,عين تليتات وسط,El M'Fatha Centre,934,مفاتحة,M'fatha,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
 26050,بعتة,Baata,بعتة وسط,Baata Centre,903,بعطة,Baata,العمارية,El Omaria,26,المدية,Médéa
-26051,بنية,Benia,بنية وسط,Benia Centre,927,الكاف الاخضر,Kef Lakhdar,عين بوسيف,Ain Boucif,26,المدية,Médéa
+26051,بنية,Benia,بنية وسط,Benia Centre,927,الكاف الاخضر,Kef Lakhdar,عين بوسيف,Ain Boucif,67,قصر البخاري,Ksar El Boukhari
 26052,البرواقية - وادي غولات,Berrouaghia Oued Gholat,البرواقية - حي وادي غولات,Quartier Oued El Gholat Berrouaghia,906,البرواقية,Berrouaghia,البرواقية,Berrouaghia,26,المدية,Médéa
 26053,بئر بن عابد,Bir Ben Abed,بئر بن عابد وسط,Bir Ben Abed Centre,907,بئر بن عابد,Bir Ben Laabed,القلب الكبير,Guelb El Kebir,26,المدية,Médéa
 26055,بوعيشون,Bouaichoune,بوعيشون وسط,Bouaichoune Centre,910,بوعيشون,Bouaichoune,سي المحجوب,Si Mahdjoub,26,المدية,Médéa
 26056,براهيمي محمد,Brahimi Mohamed,شارع مساعدة بن شيكاو,Rue Assistance Ben Chicao,904,بن شكاو,Ben Chicao,وزرة,Ouzera,26,المدية,Médéa
-26057,شنيقل,Cheniguel,شنيقل وسط,Cheniguel Centre,916,شنيقل,Cheniguel,شلالة العذاورة,Chellalat El Adhaoura,26,المدية,Médéa
+26057,شنيقل,Cheniguel,شنيقل وسط,Cheniguel Centre,916,شنيقل,Cheniguel,شلالة العذاورة,Chellalat El Adhaoura,67,قصر البخاري,Ksar El Boukhari
 26058,الحوضان,Deux Bassins,الحوضان وسط,Deux Bassins Centre,923,الحوضان,El Haoudane,تابلاط,Tablat,26,المدية,Médéa
 26060,الحمدانية,El Hamdania,الحمدانية وسط,El Hamdania Centre,922,الحمدانية,El Hamdania,وزرة,Ouzera,26,المدية,Médéa
 26061,حربيل,Harbil,وادي حربيل وسط,Oued Harbil Centre,937,وادي حربيل,Oued Harbil,عوامري,Ouamri,26,المدية,Médéa
 26062,خمس جمعات,Khams Djouamaa,خمس جمعات وسط,Khams Djouamaa Centre,928,خمس جوامع,Khams Djouamaa,سيدي نعمان,Sidi Naamane,26,المدية,Médéa
 26063,مغراوة,Maghraoua,مغراوة وسط,Maghraoua Centre,930,مغراوة,Maghraoua,العزيزية,El Azizia,26,المدية,Médéa
 26064,أولاد بوعشرة,Ouled Bouachra,أولاد بوعشرة وسط,Ouled Bouachera Centre,939,أولاد بوعشرة,Ouled Bouachra,سي المحجوب,Si Mahdjoub,26,المدية,Médéa
-26065,أم الجليل,Oum El Djellil,أم الجليل وسط,Oum El Djellil Centre,944,أم الجليل,Oum El Djellil,عزيز,Aziz,26,المدية,Médéa
+26065,أم الجليل,Oum El Djellil,أم الجليل وسط,Oum El Djellil Centre,944,أم الجليل,Oum El Djellil,عزيز,Aziz,67,قصر البخاري,Ksar El Boukhari
 26066,رزارزة,Rezarza,حي رزارزة - المدية,Quartier Rezarza Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
-26067,سانق,Saneg,سانق وسط,Saneg Centre,947,السانق,Saneg,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
+26067,سانق,Saneg,سانق وسط,Saneg Centre,947,السانق,Saneg,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
 26068,سدراية,Sedraia,سدراية وسط,Sedraia Centre,948,سدراية,Sedraya,القلب الكبير,Guelb El Kebir,26,المدية,Médéa
-26069,سيدي دامد,Sidi Damed,سيدي دامد وسط,Sidi Damed Centre,951,سيدي دامد,Sidi Demed,عين بوسيف,Ain Boucif,26,المدية,Médéa
+26069,سيدي دامد,Sidi Damed,سيدي دامد وسط,Sidi Damed Centre,951,سيدي دامد,Sidi Demed,عين بوسيف,Ain Boucif,67,قصر البخاري,Ksar El Boukhari
 26070,سيدي الربيع,Sidi Errabie,سيدي الربيع وسط,Sidi Errabie Centre,953,سيدي الربيع,Sidi Rabie,بني سليمان,Beni Slimane,26,المدية,Médéa
 26071,سيدي محي الدين,Sidi Mahieddine,قرية سيدي محي الدين,Sidi Mahieddine Village,952,سيدي نعمان,Sidi Naamane,سيدي نعمان,Sidi Naamane,26,المدية,Médéa
 26072,سيدي زهار,Sidi Zahar,سيدي زهار وسط,Sidi Zahar Centre,954,سيدي زهار,Sidi Zahar,السواقي,Souaghi,26,المدية,Médéa
-26074,تافراوت,Tafraout,تافراوت وسط,Tafraout Centre,958,تفراوت,Tafraout,شلالة العذاورة,Chellalat El Adhaoura,26,المدية,Médéa
+26074,تافراوت,Tafraout,تافراوت وسط,Tafraout Centre,958,تفراوت,Tafraout,شلالة العذاورة,Chellalat El Adhaoura,67,قصر البخاري,Ksar El Boukhari
 26075,تامسقيدة,Tamesguida,تامسقيدة وسط,Tamesguida Centre,959,تمسقيدة,Tamesguida,المدية,Medea,26,المدية,Médéa
 26076,تيزي مهدي,Tizi Mahdi,تيزي مهدي وسط,Tizi Mahdi Centre,960,تيزي مهدي,Tizi Mahdi,وزرة,Ouzera,26,المدية,Médéa
-26077,قصر البخاري - مكاوي عثمان,Ksar El Boukhari Mekkaoui Othmane,قصر البخاري - حي زبرة,Cité Zobra Ksar El Boukhari,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,26,المدية,Médéa
+26077,قصر البخاري - مكاوي عثمان,Ksar El Boukhari Mekkaoui Othmane,قصر البخاري - حي زبرة,Cité Zobra Ksar El Boukhari,929,قصر البخاري,Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,67,قصر البخاري,Ksar El Boukhari
 26078,المدية - تاكبو,Medea Takbou,المدية - حي تاكبو,Quartier Takbou Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
-26079,كرمة الشيحة,Kermet Chiha,أولاد هلال وسط,Ouled Hellal Centre,943,أولاد هلال,Ouled Hellal,أولاد عنتر,Ouled Antar,26,المدية,Médéa
+26079,كرمة الشيحة,Kermet Chiha,أولاد هلال وسط,Ouled Hellal Centre,943,أولاد هلال,Ouled Hellal,أولاد عنتر,Ouled Antar,67,قصر البخاري,Ksar El Boukhari
 26080,القويعة,El Gouea,قرية القويعة,El Gouea Village,962,الزبيرية,Zoubiria,سغوان,Seghouane,26,المدية,Médéa
 26081,أولاد الحاج,Ouled El Hadj,قرية أولاد الحاج,Ouled El Hadj Village,921,القلب الكبير,El Guelbelkebir,القلب الكبير,Guelb El Kebir,26,المدية,Médéa
 26082,المدية - الجامعة,Medea Universite,جامعة الدكتور يحي فارس - المدية,Universite Docteur Yahia Fares Medea,931,المدية,Medea,المدية,Medea,26,المدية,Médéa
@@ -2519,76 +2519,76 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 ,مستغانم - المدرسة الحربية للقوات البحرية,Mostaganem Ecole Navale,الثكنة العسكرية - طريق مزغران,Caserne Militaire Route De Mazagran,979,مستغانم,Mostaganem,مستغانم,Mostaganem,27,مستغانم,Mostaganem
 44027,سيدي لخضر,Sidi Lakhdar,شارع أول نوفمبر,Rue 1er Novembre,988,سيدي لخضر,Sidi-Lakhdar,سيدي لخضر,Sidi Lakhdar,27,مستغانم,Mostaganem
 28000,المسيلة - القباضة الرئيسية,M'Sila,الحي الإداري,Cité Administrative,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
-28001,بوسعادة,Bou Saada,وسط المدينة,Centre Ville,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
+28001,بوسعادة,Bou Saada,وسط المدينة,Centre Ville,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
 28002,سيدي عيسى,Sidi Aissa,وسط المدينة,Centre Ville,1033,سيدي عيسى,Sidi Aissa,سيدي عيسى,Sidi Aissa,28,المسيلة,M'Sila
 28003,عين الحجل,Ain El Hadjel,طريق الجزائر,Route D'Alger,995,عين الحجل,Ain El Hadjel,عين الحجل,Ain El Hadjel,28,المسيلة,M'Sila
-28004,عين الملح,Ain El Melh,وسط المدينة,Centre Ville,996,عين الملح,Ain El Melh,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28004,عين الملح,Ain El Melh,وسط المدينة,Centre Ville,996,عين الملح,Ain El Melh,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28005,حمام الدلاع,Hammam Dalaa,وسط المدينة,Centre Ville,1013,حمام الضلعة,Hammam Dalaa,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
 28006,مقرة,Magra,وسط المدينة,Centre Ville,1018,مقرة,Magra,مقرة,Magra,28,المسيلة,M'Sila
 28007,المسيلة - الحضنة,M'Sila Hodna,نهج العقيد عميروش,Avenue Colonel Amirouche,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28008,عين الخضراء,Ain El Khadra,وسط المدينة,Centre Ville,998,عين الخضراء,Ain Khadra,مقرة,Magra,28,المسيلة,M'Sila
-28009,بن سرور,Ben Srour,بن سرور,Centre Ville,1001,بن سرور,Ben Srour,بن سرور,Ben Srour,28,المسيلة,M'Sila
+28009,بن سرور,Ben Srour,بن سرور,Centre Ville,1001,بن سرور,Ben Srour,بن سرور,Ben Srour,68,بوسعادة,Bou Saâda
 28010,برهوم,Berhoum,بن سرور,Centre Ville,1004,برهوم,Berhoum,مقرة,Magra,28,المسيلة,M'Sila
 28011,بيشارة,Bichara,بن سرور,Centre Ville,1016,المعاضيد,Maadid,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
-28012,بوسعادة - هواري بومدين,Bou Saada Houari Boumediene,طريق بسكرة,Route De Biskra,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28013,بوسعادة - نصر الدين دينات,Bou Saada Nacereddine Dinet,حي شعباني,Cité Chaabani,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
+28012,بوسعادة - هواري بومدين,Bou Saada Houari Boumediene,طريق بسكرة,Route De Biskra,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28013,بوسعادة - نصر الدين دينات,Bou Saada Nacereddine Dinet,حي شعباني,Cité Chaabani,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
 28014,شلال,Chellal,شلال,Chellal,1008,شلال,Chellal,شلال,Chellal,28,المسيلة,M'Sila
-28015,الهامل,El Hamel,الهامل,El Hamel,1011,الهامل,El Hamel,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28016,مجدل,Medjedel,مجدل,Medjedel,1020,امجدل,Medjedel,امجدل,Medjedel,28,المسيلة,M'Sila
+28015,الهامل,El Hamel,الهامل,El Hamel,1011,الهامل,El Hamel,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28016,مجدل,Medjedel,مجدل,Medjedel,1020,امجدل,Medjedel,امجدل,Medjedel,68,بوسعادة,Bou Saâda
 28017,ملوزة,Melouza,ملوزة,Melouza,1025,ونوغة,Ouanougha,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
 28018,المسيلة - شبيلية,M'Sila Chebilia,حي 504 حصة,Cité 504 Lots,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28019,المسيلة - حي النصر,M'Sila Cité Ennasr,حي 132 مسكن,Cité 132 Logements,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28020,المسيلة - محمد بوضياف,M'Sila Mohamed Boudiaf,حي 924 حصة,Cité 924 Lots,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28021,أولاد عدّي - قبالة,Ouled Addi Guebala,وسط المدينة,Centre Ville,1026,أولاد عدي لقبالة,Ouled Addi Guebala,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
 28022,أولاد دراج,Ouled Derradj,وسط المدينة,Centre Ville,1027,أولاد دراج,Ouled Derradj,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
-28023,عين فارس,Ain Fares,عين فارس,Ain Fares,997,عين فارس,Ain Fares,عين الملح,Ain El Melh,28,المسيلة,M'Sila
-28024,عين غراب,Ain Oghrab,عين غراب,Ain Oghrab,1010,جبل مساعد,Djebel Messaad,جبل مساعد,Djebel Messaad,28,المسيلة,M'Sila
-28025,عين الريش,Ain Rich,عين الريش,Ain Rich,999,عين الريش,Ain Rich,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28023,عين فارس,Ain Fares,عين فارس,Ain Fares,997,عين فارس,Ain Fares,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
+28024,عين غراب,Ain Oghrab,عين غراب,Ain Oghrab,1010,جبل مساعد,Djebel Messaad,جبل مساعد,Djebel Messaad,68,بوسعادة,Bou Saâda
+28025,عين الريش,Ain Rich,عين الريش,Ain Rich,999,عين الريش,Ain Rich,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28026,بلعيبة,Belaiba,بلعيبة,Belaiba,1000,بلعايبة,Belaiba,مقرة,Magra,28,المسيلة,M'Sila
 28027,بني إيلمان,Beni Ilmane,بني إيلمان,Beni Ilmane,1002,بني يلمان,Beni Ilmane,سيدي عيسى,Sidi Aissa,28,المسيلة,M'Sila
-28028,بن زوح,Benzouh,بن زوح,Benzouh,1003,بن زوه,Benzouh,أولاد سيدي ابراهيم,Ouled Sidi Brahim,28,المسيلة,M'Sila
-28029,بئر قلالية,Bir Guellalia,بئر قلالية,Bir Guellalia,1019,مسيف,M'cif,خبانة,Khoubana,28,المسيلة,M'Sila
-28030,جبل قطارة,Djebel Guettara,بئر هاني,Bir Hani,1015,خبانة,Khoubana,خبانة,Khoubana,28,المسيلة,M'Sila
-28031,جوب,Djoub,جوب,Djoub,1031,أولاد سليمان,Ouled Slimane,بن سرور,Ben Srour,28,المسيلة,M'Sila
-28032,الديس,Eddis,الديس,Eddis,1030,أولاد سيدي ابراهيم,Ouled Sidi Brahim,أولاد سيدي ابراهيم,Ouled Sidi Brahim,28,المسيلة,M'Sila
-28033,محمد بوضياف,Mohamed Boudiaf,محمد بوضياف,Med Boudiaf,1022,محمد بوضياف,Mohamed Boudiaf,بن سرور,Ben Srour,28,المسيلة,M'Sila
+28028,بن زوح,Benzouh,بن زوح,Benzouh,1003,بن زوه,Benzouh,أولاد سيدي ابراهيم,Ouled Sidi Brahim,68,بوسعادة,Bou Saâda
+28029,بئر قلالية,Bir Guellalia,بئر قلالية,Bir Guellalia,1019,مسيف,M'cif,خبانة,Khoubana,68,بوسعادة,Bou Saâda
+28030,جبل قطارة,Djebel Guettara,بئر هاني,Bir Hani,1015,خبانة,Khoubana,خبانة,Khoubana,68,بوسعادة,Bou Saâda
+28031,جوب,Djoub,جوب,Djoub,1031,أولاد سليمان,Ouled Slimane,بن سرور,Ben Srour,68,بوسعادة,Bou Saâda
+28032,الديس,Eddis,الديس,Eddis,1030,أولاد سيدي ابراهيم,Ouled Sidi Brahim,أولاد سيدي ابراهيم,Ouled Sidi Brahim,68,بوسعادة,Bou Saâda
+28033,محمد بوضياف,Mohamed Boudiaf,محمد بوضياف,Med Boudiaf,1022,محمد بوضياف,Mohamed Boudiaf,بن سرور,Ben Srour,68,بوسعادة,Bou Saâda
 28034,سيدي عيسى - أول نوفمبر 1954,Sidi Aissa 1er Nov. 1954,ساحة 5 جويلية,Place 5 Juillet,1033,سيدي عيسى,Sidi Aissa,سيدي عيسى,Sidi Aissa,28,المسيلة,M'Sila
 28035,سيدي اعمر,Sidi Ameur,سيدي اعمر,Sidi Ameur,1033,سيدي عيسى,Sidi Aissa,سيدي عيسى,Sidi Aissa,28,المسيلة,M'Sila
 28036,سيدي هجرس,Sidi Hadjeres,سيدي هجرس,Sidii Hadjeres,1035,سيدي هجرس,Sidi Hadjeres,عين الحجل,Ain El Hadjel,28,المسيلة,M'Sila
-28037,سليم,Slim,سليم,Slim,1037,سليم,Slim,جبل مساعد,Djebel Messaad,28,المسيلة,M'Sila
+28037,سليم,Slim,سليم,Slim,1037,سليم,Slim,جبل مساعد,Djebel Messaad,68,بوسعادة,Bou Saâda
 28038,تارمونت,Tarmount,تارمونت,Tarmount,1040,تارمونت,Tarmount,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
 28039,أهل الوادي,Ahl El Oued,أهل الوادي,Ahl El Oued,1025,ونوغة,Ouanougha,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
-28040,عين خرمان,Ain Khermane,عين خرمان,Ain Khermane,1003,بن زوه,Benzouh,أولاد سيدي ابراهيم,Ouled Sidi Brahim,28,المسيلة,M'Sila
+28040,عين خرمان,Ain Khermane,عين خرمان,Ain Khermane,1003,بن زوه,Benzouh,أولاد سيدي ابراهيم,Ouled Sidi Brahim,68,بوسعادة,Bou Saâda
 28041,بانيو,Baniou,بانيو,Baniou,1017,معاريف,Maarif,شلال,Chellal,28,المسيلة,M'Sila
 28042,براردة,Berarda,براردة,Berarda,1007,بوطي السايح,Bouti Sayeh,سيدي عيسى,Sidi Aissa,28,المسيلة,M'Sila
-28043,بئر الفضة,Bir Fodda,بئر الفضة,Bir Fodda,1005,بئر فضة,Bir Foda,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28043,بئر الفضة,Bir Fodda,بئر الفضة,Bir Fodda,1005,بئر فضة,Bir Foda,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28044,بئر مهدي,Bir Madhi,بئر مهدي,Bir Madhi,1013,حمام الضلعة,Hammam Dalaa,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
-28045,برج بلخريف,Bordj Belkhrif,برج بلخريف,Bordj Belkhrif,1036,سيدي امحمد,Sidi M'hamed,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28045,برج بلخريف,Bordj Belkhrif,برج بلخريف,Bordj Belkhrif,1036,سيدي امحمد,Sidi M'hamed,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28046,بوخميسة,Boukhemissa,بوخميسة,Boukhemissa,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28047,سد الغابة,Ced El Ghaba,سد الغابة,Ced El Ghaba,1028,أولاد ماضي,Ouled Madhi,شلال,Chellal,28,المسيلة,M'Sila
 28048,دهاهنة,Dehahna,دهاهنة,Dehahna,1009,دهاهنة,Dehahna,مقرة,Magra,28,المسيلة,M'Sila
 28049,جاوونة,Djaouna,جاوونة,Djaouna,1016,المعاضيد,Maadid,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
-28050,جبل محارقة,Djebel Meharga,جبل محارقة,Djebel Meharga,1015,خبانة,Khoubana,خبانة,Khoubana,28,المسيلة,M'Sila
+28050,جبل محارقة,Djebel Meharga,جبل محارقة,Djebel Meharga,1015,خبانة,Khoubana,خبانة,Khoubana,68,بوسعادة,Bou Saâda
 28051,جبل ثامر,Djebel Thameur,جبل ثامر,Djebel Thameur,1017,معاريف,Maarif,شلال,Chellal,28,المسيلة,M'Sila
-28052,جبل زيرق,Djebel Zeyreg,جبل زيرق,Djebel Zyreg,1019,مسيف,M'cif,خبانة,Khoubana,28,المسيلة,M'Sila
+28052,جبل زيرق,Djebel Zeyreg,جبل زيرق,Djebel Zyreg,1019,مسيف,M'cif,خبانة,Khoubana,68,بوسعادة,Bou Saâda
 28053,دريعات,Dreat,دريعات,Dreat,1013,حمام الضلعة,Hammam Dalaa,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
-28054,العليق,El Allig,العليق,El Allig,1032,ولتام,Oulteme,بوسعادة,Bousaada,28,المسيلة,M'Sila
+28054,العليق,El Allig,العليق,El Allig,1032,ولتام,Oulteme,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
 28055,الغيل,El Ghil,الغيل,El Ghil,1016,المعاضيد,Maadid,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
 28056,خطوطي - سد الجير,Khettouti Sed El Djir,خطوطي - سد الجير,Khettouti Sed Djir,1014,خطوطي سد الجير,Khettouti Sed-El-Jir,شلال,Chellal,28,المسيلة,M'Sila
-28057,محمد صديق بن يحي,Med.Seddik Benyahia,محمد صديق بن يحي,Med Seddik Benyahia,1030,أولاد سيدي ابراهيم,Ouled Sidi Brahim,أولاد سيدي ابراهيم,Ouled Sidi Brahim,28,المسيلة,M'Sila
-28059,مقيطعة,M'Guitaa,مقيطعة,M'Guitaa,1005,بئر فضة,Bir Foda,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28057,محمد صديق بن يحي,Med.Seddik Benyahia,محمد صديق بن يحي,Med Seddik Benyahia,1030,أولاد سيدي ابراهيم,Ouled Sidi Brahim,أولاد سيدي ابراهيم,Ouled Sidi Brahim,68,بوسعادة,Bou Saâda
+28059,مقيطعة,M'Guitaa,مقيطعة,M'Guitaa,1005,بئر فضة,Bir Foda,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28060,أولاد منصور,Ouled Mansour,أولاد منصور,Ouled Mansour,1029,أولاد منصور,Ouled Mansour,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
-28061,أولتم,Oultem,أولتم,Oultem,1032,ولتام,Oulteme,بوسعادة,Bousaada,28,المسيلة,M'Sila
+28061,أولتم,Oultem,أولتم,Oultem,1032,ولتام,Oulteme,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
 28062,رقايق,Reguaieg,رقايق,Reguaieg,1014,خطوطي سد الجير,Khettouti Sed-El-Jir,شلال,Chellal,28,المسيلة,M'Sila
-28063,رمانة,Roumana,رمانة,Roumana,1019,مسيف,M'cif,خبانة,Khoubana,28,المسيلة,M'Sila
+28063,رمانة,Roumana,رمانة,Roumana,1019,مسيف,M'cif,خبانة,Khoubana,68,بوسعادة,Bou Saâda
 28064,صومعة,Souamaa,صومعة,Souamaa,1038,السوامع,Souamaa,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
-28065,تمسة,Temsa,تمسة,Temsa,1039,تامسة,Tamsa,سيدي عامر,Sidi Ameur,28,المسيلة,M'Sila
-28066,ثامر - سيدي امحمد,Thameur Sidi M'Hamed,ثامر - سيدي امحمد,Thameur Sidi M'Hamed,1036,سيدي امحمد,Sidi M'hamed,عين الملح,Ain El Melh,28,المسيلة,M'Sila
-28067,زرزور,Zerzour,زرزور,Zerzour,1041,زرزور,Zarzour,بن سرور,Ben Srour,28,المسيلة,M'Sila
+28065,تمسة,Temsa,تمسة,Temsa,1039,تامسة,Tamsa,سيدي عامر,Sidi Ameur,68,بوسعادة,Bou Saâda
+28066,ثامر - سيدي امحمد,Thameur Sidi M'Hamed,ثامر - سيدي امحمد,Thameur Sidi M'Hamed,1036,سيدي امحمد,Sidi M'hamed,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
+28067,زرزور,Zerzour,زرزور,Zerzour,1041,زرزور,Zarzour,بن سرور,Ben Srour,68,بوسعادة,Bou Saâda
 28068,زيتون,Zitoun,زيتون,Zitoun,1016,المعاضيد,Maadid,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
-28069,بو سعادة - سيدي سليمان,Bou Saada Sidi Slimane,بو سعادة - سيدي سليمان,Cité Sidi Slimane,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28071,البساتين,El Bassatine,حي البساتين,Cité El Bassatin,996,عين الملح,Ain El Melh,عين الملح,Ain El Melh,28,المسيلة,M'Sila
-28073,بوملال,Boumelal,بوملال,Boumelal,1022,محمد بوضياف,Mohamed Boudiaf,بن سرور,Ben Srour,28,المسيلة,M'Sila
+28069,بو سعادة - سيدي سليمان,Bou Saada Sidi Slimane,بو سعادة - سيدي سليمان,Cité Sidi Slimane,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28071,البساتين,El Bassatine,حي البساتين,Cité El Bassatin,996,عين الملح,Ain El Melh,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
+28073,بوملال,Boumelal,بوملال,Boumelal,1022,محمد بوضياف,Mohamed Boudiaf,بن سرور,Ben Srour,68,بوسعادة,Bou Saâda
 28074,أم شاوشي,Oum Chaouchi,أم شاوشي,Oum Chaouchi,1040,تارمونت,Tarmount,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
 28075,أولاد بية,Ouled Bia,أولاد بية,Ouled Bia,1026,أولاد عدي لقبالة,Ouled Addi Guebala,أولاد دراج,Ouled Derradj,28,المسيلة,M'Sila
 28076,لوقمان,Lougmane,لوقمان,Lougmane,1013,حمام الضلعة,Hammam Dalaa,حمام الضلعة,Hammam Dalaa,28,المسيلة,M'Sila
@@ -2600,17 +2600,17 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 28082,المسيلة - العقيد عميروش,M'Sila Cnel Amirouche,المسيلة - العقيد عميروش، حي 5 جويلية,M'Sila Cnel Amirouche Cité 5 Juilli,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28083,المسيلة - الجامعة,M'Sila Universite,المسيلة - الجامعة,Universite De Msila,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
 28084,المسيلة - المحطة البرية,M'Sila Gare Routiere,المسيلة - المحطة البرية,M'Sila Gare Routiere,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
-28085,المدرسة العسكرية,Ecole Militaire (Eaac),المدرسة العسكرية (مدرسة مدفعية الميدان واللوجستية العسكرية),Ecole Militaire (Eaac),1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28086,بوسعادة - الباتن,Bou Saada El Baten,حي الباتن,Cité El Baten,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28087,بوسعادة - 08 ماي 1945,Bousaada 08 Mai 1945,حي 300 مسكن، الباتن، بوسعادة - المسيلة,"Cité 300 Logements El Baten,Bousaada,M'Sila",1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28088,عين الملح - مسعودي امحمد بشير,Ain El Melh Messaoudi M'Hamed Bachir,حي 100 مسكن - عين الملح,"Cité 100 Logements, Ain El Melh",996,عين الملح,Ain El Melh,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28085,المدرسة العسكرية,Ecole Militaire (Eaac),المدرسة العسكرية (مدرسة مدفعية الميدان واللوجستية العسكرية),Ecole Militaire (Eaac),1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28086,بوسعادة - الباتن,Bou Saada El Baten,حي الباتن,Cité El Baten,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28087,بوسعادة - 08 ماي 1945,Bousaada 08 Mai 1945,حي 300 مسكن، الباتن، بوسعادة - المسيلة,"Cité 300 Logements El Baten,Bousaada,M'Sila",1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28088,عين الملح - مسعودي امحمد بشير,Ain El Melh Messaoudi M'Hamed Bachir,حي 100 مسكن - عين الملح,"Cité 100 Logements, Ain El Melh",996,عين الملح,Ain El Melh,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28089,المسيلة - الأمير عبد القادر,M'Sila El Emir Abdelkader,المسيلة - حي 120 مسكن، القطب الجامعي,"Cité 120 Logements Pole Universitaire,M'Sila",1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
-28090,بوسعادة - المحطة البرية,Bou Saada Gare Routiere,بوسعادة - المحطة البرية,Gare Routiere De Bousaada,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,28,المسيلة,M'Sila
-28091,عين سيدي امحمد بوقطاية - بوقطاية,Ain Sidi M'Hamed Bouguetaya Bouguetaya,عين سيدي امحمد - الطريق الوطني رقم 70، باتجاه عين المالح,"Village De Ain Sidi M'Hamed, La Route Nationale Nâ° 70 Allant Sur Ain El Melh",1036,سيدي امحمد,Sidi M'hamed,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+28090,بوسعادة - المحطة البرية,Bou Saada Gare Routiere,بوسعادة - المحطة البرية,Gare Routiere De Bousaada,1006,بوسعادة,Bou Saada,بوسعادة,Bousaada,68,بوسعادة,Bou Saâda
+28091,عين سيدي امحمد بوقطاية - بوقطاية,Ain Sidi M'Hamed Bouguetaya Bouguetaya,عين سيدي امحمد - الطريق الوطني رقم 70، باتجاه عين المالح,"Village De Ain Sidi M'Hamed, La Route Nationale Nâ° 70 Allant Sur Ain El Melh",1036,سيدي امحمد,Sidi M'hamed,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 28092,سيدي عيسى - عبدلي الطاهر,Sidi Aissa Abdelli El Tahar,,,1033,سيدي عيسى,Sidi Aissa,سيدي عيسى,Sidi Aissa,28,المسيلة,M'Sila
-28093,غزال,Ghezal,غزال,Ghezal,1001,بن سرور,Ben Srour,بن سرور,Ben Srour,28,المسيلة,M'Sila
+28093,غزال,Ghezal,غزال,Ghezal,1001,بن سرور,Ben Srour,بن سرور,Ben Srour,68,بوسعادة,Bou Saâda
 ,المسيلة - الحي المشرق,M'Sila Cité Radieuse,الحي المشرق,Cité Radieuse,1023,المسيلة,M'sila,المسيلة,M'sila,28,المسيلة,M'Sila
-29020,عين فارس,Ain Fares,شارع رمال عبد القادر - عين فارس,Rue Remal Abdelkader Ain Fares,997,عين فارس,Ain Fares,عين الملح,Ain El Melh,28,المسيلة,M'Sila
+29020,عين فارس,Ain Fares,شارع رمال عبد القادر - عين فارس,Rue Remal Abdelkader Ain Fares,997,عين فارس,Ain Fares,عين الملح,Ain El Melh,68,بوسعادة,Bou Saâda
 29000,معسكر - القباضة الرئيسية,Mascara,معسكر - شارع فري مهدي,Rue Frimahdi Mascara,1069,معسكر,Mascara,معسكر,Mascara,29,معسكر,Mascara
 29001,سيق,Sig,رقم 06 زيغوت يوسف - سيق,06 Rue Zirout Youcef Sig,1084,سيق,Sig,سيق,Sig,29,معسكر,Mascara
 29003,محمدية - هبرة,Mohammadia Habra,حي 124 حصة - محمدية,Cité Des 124 Lots Mohammadia,1072,المحمدية,Mohammadia,المحمدية,Mohammadia,29,معسكر,Mascara
@@ -2878,30 +2878,30 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 32000,البيض - القباضة الرئيسية,El Bayadh,طريق أفلو,Route D'Aflou,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32001,بوقطب,Bougtob,شارع ميلودي بشار,Rue Miloudi Bachar,1139,بوقطب,Bougtoub,بوقطب,Bougtoub,32,البيض,El Bayadh
 32002,بريزينة,Brezina,ساحة 19 جوان,Place 19 Juin,1141,بريزينة,Brezina,بريزينة,Brezina,32,البيض,El Bayadh
-32003,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh,شارع الأمير عبد القادر,Rue Emir Abdelkader,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32003,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh,شارع الأمير عبد القادر,Rue Emir Abdelkader,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32004,البيض - تومي محمد,El Bayadh Toumi Mohamed,ساحة طرابلس,Place De Tripoli,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
-32005,عربوات,Arbaouat,شارع الشهداء,Rue Des Martyrs,1137,اربوات,Arbaouat,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32005,عربوات,Arbaouat,شارع الشهداء,Rue Des Martyrs,1137,اربوات,Arbaouat,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32006,بوعلام,Boualem,شارع أول نوفمبر,Rue 1er Novembre,1138,بوعلام,Boualem,بوعلام,Boualem,32,البيض,El Bayadh
-32007,الأبيض سيدي الشيخ - بلمبروك,El Abiodh Sidi Cheikh Belmabrouk,شارع ديدوش مراد,Rue Didouche Mourad,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32007,الأبيض سيدي الشيخ - بلمبروك,El Abiodh Sidi Cheikh Belmabrouk,شارع ديدوش مراد,Rue Didouche Mourad,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32008,البيض - آيت عميري,El Bayadh Ait Amiri,حي اللوز,Hai El Laouze,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32009,البيض - حميدي بولنوار,El Bayadh Hamidi Boulenouar,شارع أول نوفمبر 1954,Rue 1er Novembre 1954,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32010,البيض - حسناوي سعيد,El Bayadh Hasnaoui Said,شارع الفداء,Rue Des Fidahs,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32011,الخثير,El Kheither,شارع الشيخ محمد,Rue Cheikh Med,1147,الخيثر,El Kheiter,بوقطب,Bougtoub,32,البيض,El Bayadh
 32012,حسين بن علي,Hossein Ibn Ali,سيد علي حاج بحوص,Sid El Hadj Bahous,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32013,كحف الأحمر,Kef El Ahmar,الطريق الوطني رقم 06,Route Nationale Nâ°06,1150,الكاف الأحمر,Kef El Ahmar,رقاصة,Rogassa,32,البيض,El Bayadh
-32014,بوسمغون,Boussemghoun,شارع أول نوفمبر 1954,Rue 1er Novembre 1954,1140,بوسمغون,Boussemghoun,بوسمغون,Boussemghoun,32,البيض,El Bayadh
-32015,الشلالة الظهرانية,Chellala Dahrania,شارع بلية الحبيب,Rue Belia Lehbib,1143,شلالة,Chellala,شلالة,Chellala,32,البيض,El Bayadh
+32014,بوسمغون,Boussemghoun,شارع أول نوفمبر 1954,Rue 1er Novembre 1954,1140,بوسمغون,Boussemghoun,بوسمغون,Boussemghoun,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
+32015,الشلالة الظهرانية,Chellala Dahrania,شارع بلية الحبيب,Rue Belia Lehbib,1143,شلالة,Chellala,شلالة,Chellala,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32016,البيض - قاديشو محمد,El Bayadh Kadichou Mohamed,حي أولاد يحي,Quartier Ouled Yahia,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32017,غسول,Ghassoul,ساحة سعدلي محمد,Place Sadeli Med,1149,الغاسول,Ghassoul,بريزينة,Brezina,32,البيض,El Bayadh
 32018,رقاصة,Rogassa,شارع الأمير عبد القادر,Rue Emir Abdelkader,1152,رقاصة,Rogassa,رقاصة,Rogassa,32,البيض,El Bayadh
-32019,عين الوراك,Ain El Orak,عين الوراك,Ain El Orak,1136,عين العراك,Ain El Orak,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
-32020,عربة فوقاني,Arba Fougani,عربة فوقاني,Arbat Fougani,1137,اربوات,Arbaouat,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32019,عين الوراك,Ain El Orak,عين الوراك,Ain El Orak,1136,عين العراك,Ain El Orak,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
+32020,عربة فوقاني,Arba Fougani,عربة فوقاني,Arbat Fougani,1137,اربوات,Arbaouat,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32021,برج الماي,Bordj El May,برج الماي,Bordj El May,1147,الخيثر,El Kheiter,بوقطب,Bougtoub,32,البيض,El Bayadh
 32022,شقيق,Cheguig,شارع مقدم نعيمي,Rue Mokadem Naimi,1142,الشقيق,Cheguig,رقاصة,Rogassa,32,البيض,El Bayadh
-32023,شلالة القبلية,Chellala El Gueblia,شلالة القبلية,Chellala Gueblia,1143,شلالة,Chellala,شلالة,Chellala,32,البيض,El Bayadh
-32024,دغيمة,Deghima,دغيمة,Deghima,1148,المحرة,El Mehara,شلالة,Chellala,32,البيض,El Bayadh
-32025,البنود,El Bnoud,البنود,Bnoud,1146,البنود,El Bnoud,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
-32026,المهارة,El Mehara,المهارة,El M'Harra,1148,المحرة,El Mehara,شلالة,Chellala,32,البيض,El Bayadh
+32023,شلالة القبلية,Chellala El Gueblia,شلالة القبلية,Chellala Gueblia,1143,شلالة,Chellala,شلالة,Chellala,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
+32024,دغيمة,Deghima,دغيمة,Deghima,1148,المحرة,El Mehara,شلالة,Chellala,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
+32025,البنود,El Bnoud,البنود,Bnoud,1146,البنود,El Bnoud,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
+32026,المهارة,El Mehara,المهارة,El M'Harra,1148,المحرة,El Mehara,شلالة,Chellala,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32027,كراكدة,Krakda,كراكدة,Krakda,1151,كراكدة,Krakda,بريزينة,Brezina,32,البيض,El Bayadh
 32028,مصباح,Mosbah,مصباح,Mosbah,1147,الخيثر,El Kheiter,بوقطب,Bougtoub,32,البيض,El Bayadh
 32030,سيدي خليفة,Sidi Khelifa,سيدي خليفة,Sidi Khelifa,1147,الخيثر,El Kheiter,بوقطب,Bougtoub,32,البيض,El Bayadh
@@ -2911,11 +2911,11 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 32035,البيض - المحطة البرية,El Bayadh Gare Routiere,البيض - المحطة البرية,Gare Routiere El Bayadh,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32036,البيض - الجامعة,El Bayadh Universite,البيض - الإقامة الجامعية نور بشير,Centre Universitaire Nour Bachier El Bayadh,1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
 32037,البيض - محمد العماري,El Bayadh Med Lamari,البيض - ثكنة سلاح الإشارة,El Bayadh Caserne (Trans),1144,البيض,El Bayadh,البيض,El Bayadh,32,البيض,El Bayadh
-32038,الأبيض سيدي الشيخ - المحطة البرية,El Abiodh Sidi Cheikh Gare Routiere,الأبيض سيدي الشيخ - المحطة البرية,Gare Routiere El Abiodh Sidi Cheikh,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32038,الأبيض سيدي الشيخ - المحطة البرية,El Abiodh Sidi Cheikh Gare Routiere,الأبيض سيدي الشيخ - المحطة البرية,Gare Routiere El Abiodh Sidi Cheikh,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32039,بوقطب - حي النصر,Bougtob Hai Nasr,حي النصر,Hai Nasr,1139,بوقطب,Bougtoub,بوقطب,Bougtoub,32,البيض,El Bayadh
-32040,الأبيض سيدي الشيخ - جودي بحوص,El Abiodh Sidi Cheikh Djoudi Bahous,,,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32040,الأبيض سيدي الشيخ - جودي بحوص,El Abiodh Sidi Cheikh Djoudi Bahous,,,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 32041,بوقطب - عبدلي شيخ,Bougtob Abdelli Cheikh,,,1139,بوقطب,Bougtoub,بوقطب,Bougtoub,32,البيض,El Bayadh
-32042,الأبيض سيدي الشيخ - بن عيسى تالية,El Abiodh Sidi Cheikh Ben Aissa Talia,,,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,32,البيض,El Bayadh
+32042,الأبيض سيدي الشيخ - بن عيسى تالية,El Abiodh Sidi Cheikh Ben Aissa Talia,,,1145,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,Labiodh Sidi Cheikh,69,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh
 43060,سيدي خليفة,Sidi Khelifa,سيدي خليفة,Sidi Khelifa,1147,الخيثر,El Kheiter,بوقطب,Bougtoub,32,البيض,El Bayadh
 33000,إليزي - القباضة الرئيسية,Illizi,إليزي - وسط المدينة,Illizi   Centre Ville,1162,إيليزي,Illizi,إيليزي,Illizi,33,إليزي,Illizi
 33001,عين أمناس,In Amenas,عين أمناس - وسط المدينة,In Amenas  Centre Ville,1163,إن أمناس,In Amenas,إن أمناس,In Amenas,33,إليزي,Illizi
@@ -3442,7 +3442,7 @@ post_code,post_name,post_name_ascii,post_address,post_address_ascii,commune_id,c
 43011,تاجنانت - وسط,Tadjenanet Centre,شارع الأمير عبد القادر,Rue Emir A/Kader,1407,تاجنانت,Tadjenanet,تاجنانت,Tadjenanet,43,ميلة,Mila
 43012,زغاية,Zeghaia,شارع بودبان,Rue Boudebane,1414,زغاية,Zeghaia,وادي النجاء,Oued Endja,43,ميلة,Mila
 43013,أحمد راشدي,Ahmed Rachdi,أحمد راشدي,Ahmed Rachdi,1383,أحمد راشدي,Ahmed Rachedi,وادي النجاء,Oued Endja,43,ميلة,Mila
-43014,عين البيضاء - جبل الحلفة,Ain Beida Djebel Halfa,حي كاش كاش,Rue Kache Kache,1384," عين البيضاء أحريش",Ain Beida Harriche,عين البيضاء أحريش,Ain Beida Harriche,43,ميلة,Mila
+43014,عين البيضاء - جبل الحلفة,Ain Beida Djebel Halfa,حي كاش كاش,Rue Kache Kache,1384, عين البيضاء أحريش,Ain Beida Harriche,عين البيضاء أحريش,Ain Beida Harriche,43,ميلة,Mila
 43015,عين ملوك,Ain Melouk,شارع أول نوفمبر,Rue 1er Novembre,1385,عين الملوك,Ain Mellouk,شلغوم العيد,Chelghoum Laid,43,ميلة,Mila
 43016,عين التين,Ain Tine,عين التين,Ain Tine,1386,عين التين,Ain Tine,ميلة,Mila,43,ميلة,Mila
 43017,عراس,Arres,بوغرداين,Boughardayen,1387,اعميرة اراس,Amira Arres,ترعي باينان,Terrai Bainen,43,ميلة,Mila

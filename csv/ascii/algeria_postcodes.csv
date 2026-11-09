@@ -161,11 +161,11 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 45036,Sidi Moussa,Village Sidi Moussa,40,Dahra,Taougrit,02,Chlef
 48058,Ouled Bouali,Ouled Bouali,51,Ouled Abbes,Oued Fodda,02,Chlef
 03000,Laghouat,Laghouat,79,Laghouat,Laghouat,03,Laghouat
-03001,Aflou,Aflou,64,Aflou,Aflou,03,Laghouat
+03001,Aflou,Aflou,64,Aflou,Aflou,59,Aflou
 03002,Laghouat Maamourah,Maamourah,79,Laghouat,Laghouat,03,Laghouat
 03003,Ksar El Hirane,Ksar Elhirane,78,Ksar El Hirane,Ksar El Hirane,03,Laghouat
 03004,Hassi R'Mel,Hassi R'Mel,76,Hassi R'mel,Hassi R'mel,03,Laghouat
-03005,Brida,Brida,69,Brida,Brida,03,Laghouat
+03005,Brida,Brida,69,Brida,Brida,59,Aflou
 03006,Laghouat El Makam,El M'Kam,79,Laghouat,Laghouat,03,Laghouat
 03007,Tadjemout,Tadjemout,85,Tadjemout,Ain Madhi,03,Laghouat
 03008,Bellil,Bellil,76,Hassi R'mel,Hassi R'mel,03,Laghouat
@@ -173,44 +173,44 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 03010,El Kheneg,El Kheneg,77,Kheneg,Ain Madhi,03,Laghouat
 03011,Tadjerouna,Tadjerouna,86,Tadjrouna,Ain Madhi,03,Laghouat
 03012,Ain Madhi,Ain Madhi,65,Ain Madhi,Ain Madhi,03,Laghouat
-03013,Beidha,Beidha,67,El Beidha,Gueltat Sidi Saad,03,Laghouat
+03013,Beidha,Beidha,67,El Beidha,Gueltat Sidi Saad,59,Aflou
 03014,El Assafia,El Assafia,70,El Assafia,Sidi Makhlouf,03,Laghouat
 03015,Laghouat Essadikia,Essadikia,79,Laghouat,Laghouat,03,Laghouat
 03016,Laghouat Cité Nord,Cité Nord,79,Laghouat,Laghouat,03,Laghouat
 03017,Laghouat 1er Nov.,Laghouat 1er Nov,79,Laghouat,Laghouat,03,Laghouat
 03018,Laghouat Emir Aek (Gare Routiere),Laghouat Emir Aek,79,Laghouat,Laghouat,03,Laghouat
 03019,Sidi Makhlouf,Sidi Makhlouf,84,Sidi Makhlouf,Sidi Makhlouf,03,Laghouat
-03020,Aflou Hay El Gaada,Aflou Hay Elgaada,64,Aflou,Aflou,03,Laghouat
-03021,Aflou Hai Med Boudiaf,Aflou Med Boudiaf,64,Aflou,Aflou,03,Laghouat
+03020,Aflou Hay El Gaada,Aflou Hay Elgaada,64,Aflou,Aflou,59,Aflou
+03021,Aflou Hai Med Boudiaf,Aflou Med Boudiaf,64,Aflou,Aflou,59,Aflou
 03022,Hassi Dalaa,Hassi Delaa,75,Hassi Delaa,Hassi R'mel,03,Laghouat
-03023,El Ghicha,El Ghicha,71,El Ghicha,El Ghicha,03,Laghouat
-03024,Sidi Bouzid,Sidi Bouzid,83,Sidi Bouzid,Aflou,03,Laghouat
-03025,Gueltat Sidi Saad,Gueltat Sidi Saad,73,Gueltat Sidi Saad,Gueltat Sidi Saad,03,Laghouat
-03026,Taouiala,Taouiala,87,Taouiala,Brida,03,Laghouat
-03027,Oued Mourra,Oued Mourra,80,Oued Morra,Oued Morra,03,Laghouat
-03028,Ain Sidi Ali,Ain Sidi Ali,66,Ain Sidi Ali,Gueltat Sidi Saad,03,Laghouat
-03030,Ain Skhouna,Ain Skhouna,83,Sidi Bouzid,Aflou,03,Laghouat
-03031,Chekkala,Chekkala,83,Sidi Bouzid,Aflou,03,Laghouat
+03023,El Ghicha,El Ghicha,71,El Ghicha,El Ghicha,59,Aflou
+03024,Sidi Bouzid,Sidi Bouzid,83,Sidi Bouzid,Aflou,59,Aflou
+03025,Gueltat Sidi Saad,Gueltat Sidi Saad,73,Gueltat Sidi Saad,Gueltat Sidi Saad,59,Aflou
+03026,Taouiala,Taouiala,87,Taouiala,Brida,59,Aflou
+03027,Oued Mourra,Oued Mourra,80,Oued Morra,Oued Morra,59,Aflou
+03028,Ain Sidi Ali,Ain Sidi Ali,66,Ain Sidi Ali,Gueltat Sidi Saad,59,Aflou
+03030,Ain Skhouna,Ain Skhouna,83,Sidi Bouzid,Aflou,59,Aflou
+03031,Chekkala,Chekkala,83,Sidi Bouzid,Aflou,59,Aflou
 03032,Bordj Senouci,Bordj Senouci,79,Laghouat,Laghouat,03,Laghouat
 03033,Benacer Benchohra,Benacer Benchohra,68,Benacer Benchohra,Ksar El Hirane,03,Laghouat
-03034,Sebgag,Sebgag,82,Sebgag,Aflou,03,Laghouat
-03035,Terghalel,Terkellel,71,El Ghicha,El Ghicha,03,Laghouat
+03034,Sebgag,Sebgag,82,Sebgag,Aflou,59,Aflou
+03035,Terghalel,Terkellel,71,El Ghicha,El Ghicha,59,Aflou
 03036,Laghouat Djamia,Laghouat Djamiaa,79,Laghouat,Laghouat,03,Laghouat
-03037,Anfous,Anfous,71,El Ghicha,El Ghicha,03,Laghouat
-03038,Hadj Mecheri,Hadj Mecheri,74,Hadj Mechri,Brida,03,Laghouat
+03037,Anfous,Anfous,71,El Ghicha,El Ghicha,59,Aflou
+03038,Hadj Mecheri,Hadj Mecheri,74,Hadj Mechri,Brida,59,Aflou
 03040,El Houita,El Houita,72,El Haouaita,Ain Madhi,03,Laghouat
-03041,Oued M'Zi,Oued M'Zi,81,Oued M'zi,Oued Morra,03,Laghouat
+03041,Oued M'Zi,Oued M'Zi,81,Oued M'zi,Oued Morra,59,Aflou
 03042,Lalmaya,Lalmaya,86,Tadjrouna,Ain Madhi,03,Laghouat
-03043,Oued Touil,Oued Touil,73,Gueltat Sidi Saad,Gueltat Sidi Saad,03,Laghouat
-03044,Hassiane Dhib,Hassiane Dhib,73,Gueltat Sidi Saad,Gueltat Sidi Saad,03,Laghouat
+03043,Oued Touil,Oued Touil,73,Gueltat Sidi Saad,Gueltat Sidi Saad,59,Aflou
+03044,Hassiane Dhib,Hassiane Dhib,73,Gueltat Sidi Saad,Gueltat Sidi Saad,59,Aflou
 03046,Bouzbaeir,Bouzbaeir,76,Hassi R'mel,Hassi R'mel,03,Laghouat
-03047,Aflou Zaoui Said,Aflou Zaoui Said,64,Aflou,Aflou,03,Laghouat
+03047,Aflou Zaoui Said,Aflou Zaoui Said,64,Aflou,Aflou,59,Aflou
 03048,Laghouat D C A,Laghouat Dca,79,Laghouat,Laghouat,03,Laghouat
 03049,Laghouat Pole 1,Laghouat Pole 1,79,Laghouat,Laghouat,03,Laghouat
-03050,Aflou Universite,Aflou Universite,64,Aflou,Aflou,03,Laghouat
+03050,Aflou Universite,Aflou Universite,64,Aflou,Aflou,59,Aflou
 03051,Laghouat Air,Laghouat Air,79,Laghouat,Laghouat,03,Laghouat
 03052,Laghouat El Wiam,Laghouat El Wiam,79,Laghouat,Laghouat,03,Laghouat
-03053,Aflou 01 Mai,Aflou 01 Mai,64,Aflou,Aflou,03,Laghouat
+03053,Aflou 01 Mai,Aflou 01 Mai,64,Aflou,Aflou,59,Aflou
 03054,Laghouat Pole Universitaire 2,Laghouat Pole Universitaire 2,79,Laghouat,Laghouat,03,Laghouat
 ,Laghouat Dhalaa,Laghouat Dhalaa,79,Laghouat,Laghouat,03,Laghouat
 ,El Hadjeub,"Route Nationale N° 23 Reliant La Wilaya De Laghouat A Tiaret,Village El Hadjeub",85,Tadjemout,Ain Madhi,03,Laghouat
@@ -289,7 +289,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 34053,Ouled Zaid,Ouled Zaid,93,Ain M'lila,Ain M'lila,04,Oum El Bouaghi
 46028,Ain Beida,Ain Beida,89,Ain Beida,Ain Beida,04,Oum El Bouaghi
 05000,Batna,Cité Des 410 Logts Ex Ecotec Batna,123,Batna,Batna,05,Batna
-05001,Barika,Centre Ville Barika,122,Barika,Barika,05,Batna
+05001,Barika,Centre Ville Barika,122,Barika,Barika,60,Barika
 05002,Ain Touta,Route De Biskra,118,Ain Touta,Ain Touta,05,Batna
 05003,Batna Ben Boulaid,Alees Ben Boulaid,123,Batna,Batna,05,Batna
 05004,N'Gaous,Cité Administratif,153,N Gaous,N'gaous,05,Batna
@@ -310,13 +310,13 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 05019,N'Gaous 5 Juillet,N'Gaous Centre Ville,153,N Gaous,N'gaous,05,Batna
 05020,T'Kout,T'Kout Centre,168,T Kout,Tkout,05,Batna
 05021,Batna El Boustene,Cité El Boustene,123,Batna,Batna,05,Batna
-05022,Barika Liberte,Cité Liberte,122,Barika,Barika,05,Batna
+05022,Barika Liberte,Cité Liberte,122,Barika,Barika,60,Barika
 05023,Timgad,Route Des Ruinestimgad,176,Timgad,Timgad,05,Batna
 05024,Arris Mezoudji Amor,Cité Mezoudji Amor,120,Arris,Arris,05,Batna
 05025,Seriana,Centre Ville Seriana,167,Seriana,Seriana,05,Batna
 05026,Medina,Medina Centre,142,Ichemoul,Ichemoul,05,Batna
-05027,Seggana,Route De Barika,166,Seggana,Seggana,05,Batna
-05028,Barika Ben Baatouche,Cité 1000 Logts,122,Barika,Barika,05,Batna
+05027,Seggana,Route De Barika,166,Seggana,Seggana,60,Barika
+05028,Barika Ben Baatouche,Cité 1000 Logts,122,Barika,Barika,60,Barika
 05029,N'Gaous Ras El Ain,Cité Ras El Ain,153,N Gaous,N'gaous,05,Batna
 05030,Merouana 8 Mai 1945,Rue 5 Juillet,152,Merouana,Merouana,05,Batna
 05031,Ain Yagout,Ain Yagout Centre,119,Ain Yagout,El Madher,05,Batna
@@ -325,7 +325,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 05034,Merouana Houari Boumediene,Cité Houari Boumediene,152,Merouana,Merouana,05,Batna
 05035,Teniet El Abed,Teniet El Abed Centre,172,Teniet El Abed,Theniet El Abed,05,Batna
 05036,Oued Taga,Oued Taga Cité Nouvelle,156,Oued Taga,Theniet El Abed,05,Batna
-05037,M'Doukal,M'Doukal Centre,149,M Doukal,Barika,05,Batna
+05037,M'Doukal,M'Doukal Centre,149,M Doukal,Barika,60,Barika
 05038,Nouader,Nouader Route Menaa,131,Chir,Theniet El Abed,05,Batna
 05039,Chemmora,Chemmora Centre,130,Chemora,Chemora,05,Batna
 05040,Batna Kechida,Batna Cité Kechida,123,Batna,Batna,05,Batna
@@ -333,8 +333,8 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 05042,Arris Grine Belgacem,Cité 1052 Logts Arris,120,Arris,Arris,05,Batna
 05043,Tifelfel,Tifelfel,138,Ghassira,Tkout,05,Batna
 05044,M'Cil,M'Cil Centre,160,Ouled Sellem,Ras El Aioun,05,Batna
-05045,Bitam,Route Biskra Bitam,125,Bitam,Barika,05,Batna
-05046,Merabtine,Merabtine El Djezzar,133,Djezzar,Djezzar,05,Batna
+05045,Bitam,Route Biskra Bitam,125,Bitam,Barika,60,Barika
+05046,Merabtine,Merabtine El Djezzar,133,Djezzar,Djezzar,60,Barika
 05047,El Ksar,El Ksar,145,Ksar Bellezma,Merouana,05,Batna
 05048,Ain Touta 1er Nov.,Rue Louchene Tahar,118,Ain Touta,Ain Touta,05,Batna
 05049,Foum Toub,Foum Toub,137,Foum Toub,Ichemoul,05,Batna
@@ -374,7 +374,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 05083,Inoughissene,Inoughissene,143,Inoughissen,Ichemoul,05,Batna
 05085,Dermoune,Dermoune,168,T Kout,Tkout,05,Batna
 05086,Nirdi,Nirdi,129,Bouzina,Bouzina,05,Batna
-05087,Ouled Derradji,Ouled Derradji,121,Azil Abedelkader,Djezzar,05,Batna
+05087,Ouled Derradji,Ouled Derradji,121,Azil Abedelkader,Djezzar,60,Barika
 05088,Koudiat Messara,Koudiat Messara,170,Taxlent,Ouled Si Slimane,05,Batna
 05089,Kenda,Kenda,164,Ras El Aioun,Ras El Aioun,05,Batna
 05090,Chaabet El Gosbat,Chaabet El Gosbat,139,Gosbat,Ras El Aioun,05,Batna
@@ -406,27 +406,27 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 05116,El Hassi,El Hassi,134,El Hassi,Ain Djasser,05,Batna
 05117,Lazrou,Lazrou,147,Lazrou,Seriana,05,Batna
 05118,Chott,Chott,160,Ouled Sellem,Ras El Aioun,05,Batna
-05119,Ouled Aiche,Ouled Aiche,125,Bitam,Barika,05,Batna
+05119,Ouled Aiche,Ouled Aiche,125,Bitam,Barika,60,Barika
 05120,Taga,Taga,167,Seriana,Seriana,05,Batna
-05121,Ouled Ammar,Ouled Ammar,157,Ouled Ammar,Djezzar,05,Batna
+05121,Ouled Ammar,Ouled Ammar,157,Ouled Ammar,Djezzar,60,Barika
 05122,Chihat,Chihat,158,Ouled Aouf,Ain Touta,05,Batna
 05123,Maafa,Maafa,150,Maafa,Ain Touta,05,Batna
 05124,Ras El Ma,Ras El Ma,118,Ain Touta,Ain Touta,05,Batna
-05125,Tazeght,Tazeght,166,Seggana,Seggana,05,Batna
+05125,Tazeght,Tazeght,166,Seggana,Seggana,60,Barika
 05126,Moulia,Moulia,118,Ain Touta,Ain Touta,05,Batna
-05127,Legridet,Legridet,175,Tilatou,Seggana,05,Batna
+05127,Legridet,Legridet,175,Tilatou,Seggana,60,Barika
 05128,Fenarou,Fenarou,153,N Gaous,N'gaous,05,Batna
 05129,Tarf,Tarf,140,Guigba,Ras El Aioun,05,Batna
-05130,M'Tkaouak,M'Tkaouak,121,Azil Abedelkader,Djezzar,05,Batna
+05130,M'Tkaouak,M'Tkaouak,121,Azil Abedelkader,Djezzar,60,Barika
 05131,Tamachit,Cité Tamachit Batna,123,Batna,Batna,05,Batna
 05132,Bouteraa Kermia,Bouteraa Kermia,163,Rahbat,Ras El Aioun,05,Batna
 05133,Tamesghit,Tamesghit,123,Batna,Batna,05,Batna
 05134,Batna Gare Routiere,Gare Routiere,123,Batna,Batna,05,Batna
 05135,Batna  E A A B,Ecole Militaire E A A B,123,Batna,Batna,05,Batna
-05136,Berika 1ere Division Blindee,Berika Division Blindee,122,Barika,Barika,05,Batna
+05136,Berika 1ere Division Blindee,Berika Division Blindee,122,Barika,Barika,60,Barika
 05137,Batna Universite,Batna Universite,123,Batna,Batna,05,Batna
 05138,Seriana Eris,Eris Seriana,167,Seriana,Seriana,05,Batna
-05139,Barika Gare Routiere,Gare Routiere Barika,122,Barika,Barika,05,Batna
+05139,Barika Gare Routiere,Gare Routiere Barika,122,Barika,Barika,60,Barika
 05140,Ain Touta Chaffet,"Cité Chaffet, Commune Ain Touta, Batna",118,Ain Touta,Ain Touta,05,Batna
 05141,Beni Fedhala El Hakania,"Commune Beni Fedala El Hakania, Batna",124,Beni Foudhala El Hakania,Ain Touta,05,Batna
 05142,Tazoult 20 Aout 1956,,171,Tazoult,Tazoult,05,Batna
@@ -600,12 +600,12 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 07003,Tolga,Av 5 Juillet Tolga,261,Tolga,Tolga,07,Biskra
 07005,Sidi Okba,Route Ain Naga Sidi Okba,260,Sidi Okba,Sidi Okba,07,Biskra
 07006,Biskra Bab Darb,Rue Khrachi Brahim Biskra,233,Biskra,Biskra,07,Biskra
-07008,El Kantara,Rue 5 Juillet El Kantara,245,El Kantara,El Kantara,07,Biskra
+07008,El Kantara,Rue 5 Juillet El Kantara,245,El Kantara,El Kantara,61,El Kantara
 07009,Lichana,Rue 1er Nov 54 Lichana,249,Lichana,Tolga,07,Biskra
 07010,M'Chounech,Rue Meouri M'Chouneche,251,M'chouneche,Mechouneche,07,Biskra
 07011,Ourlal,Rue Chaiba Abdel Madjid Ourlal,257,Ourlal,Ourlal,07,Biskra
 07012,Zeribet El Oued,Rue Nationnale Nâ° 83 Zeribet El Oued,262,Zeribet El Oued,Zeribet El Oued,07,Biskra
-07013,Ain Zaatout,Rue 10 Juillet 57 Ain Zaatout,231,Ain Zaatout,El Kantara,07,Biskra
+07013,Ain Zaatout,Rue 10 Juillet 57 Ain Zaatout,231,Ain Zaatout,El Kantara,61,El Kantara
 07014,Biskra Beni Morah,Hai Belaiath Biskra,233,Biskra,Biskra,07,Biskra
 07015,Biskra Cité El Amal,Cité 726 Logts Biskra,233,Biskra,Biskra,07,Biskra
 07016,Biskra El Alia,Rue Freres Ouanoughi El Alia Biskra,233,Biskra,Biskra,07,Biskra
@@ -615,36 +615,36 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 07020,Biskra Universite,Universite Khaider Med Biskra,233,Biskra,Biskra,07,Biskra
 07021,Bordj Benazzouz,Rue Ali Haif Bordj Ben Azzouz,234,Bordj Ben Azzouz,Tolga,07,Biskra
 07022,Bouchagroune,Rue Emir Aek Bouchagroune,235,Bouchakroun,Tolga,07,Biskra
-07023,Branis,Rue 19 Juin Branis,236,Branis,Djemorah,07,Biskra
+07023,Branis,Rue 19 Juin Branis,236,Branis,Djemorah,61,El Kantara
 07024,Chetma,Rue Amrane Mohamed Chetma,238,Chetma,Sidi Okba,07,Biskra
-07025,Djemourah,Rue 1er Nov Djemmorah,239,Djemorah,Djemorah,07,Biskra
+07025,Djemourah,Rue 1er Nov Djemmorah,239,Djemorah,Djemorah,61,El Kantara
 07026,El Feidh,Hai El Jadide El Feidh,241,El Feidh,Zeribet El Oued,07,Biskra
 07027,El Ghrous,Rue Soueret El Tayb El Ghrous,242,El Ghrous,Foughala,07,Biskra
 07028,El Haouch,Hai El Moudjahidine El Haouch,244,El Haouch,Sidi Okba,07,Biskra
-07029,El Kantara Les Gorges,Route De Batna El Kantara,245,El Kantara,El Kantara,07,Biskra
-07030,El Outaya,Rue Boudjemaa Mihoub El Outaya,246,El Outaya,El Outaya,07,Biskra
+07029,El Kantara Les Gorges,Route De Batna El Kantara,245,El Kantara,El Kantara,61,El Kantara
+07030,El Outaya,Rue Boudjemaa Mihoub El Outaya,246,El Outaya,El Outaya,61,El Kantara
 07031,Foughala,Rue Sellamine Aissa Foughala,247,Foughala,Foughala,07,Biskra
 07032,Khangat Sidi Nadji El Bordj,Rue Nationnale Nâ° 83 Khangat Sidi Nadji El Bordj,248,Khenguet Sidi Nadji,Zeribet El Oued,07,Biskra
 07033,Lioua,Rue Sahel Sedik Lioua,250,Lioua,Ourlal,07,Biskra
 07034,Mekhadma,Rue Des Cousins Zaghez Mekhadma,252,Mekhadma,Ourlal,07,Biskra
 07035,Oumache,Cité Belkhoukh Oumache,256,Oumache,Ourlal,07,Biskra
 07037,Ain El Kerma,Ain El Kerma,243,El Hadjab,Biskra,07,Biskra
-07038,Ain Ghezal,Ain Ghezal,246,El Outaya,El Outaya,07,Biskra
+07038,Ain Ghezal,Ain Ghezal,246,El Outaya,El Outaya,61,El Kantara
 07039,Ain Naga,Ain Naga,230,Ain Naga,Sidi Okba,07,Biskra
 07041,Bades,Bades,262,Zeribet El Oued,Zeribet El Oued,07,Biskra
 07042,Baniane,Baniane,251,M'chouneche,Mechouneche,07,Biskra
 07043,Beghila,Beghila,253,Meziraa,Zeribet El Oued,07,Biskra
 07046,Bouchagroune C Amirouche,Cité Amirouche Bouchagroune,235,Bouchakroun,Tolga,07,Biskra
-07049,Driss Amor,Route National Nâ°03,246,El Outaya,El Outaya,07,Biskra
+07049,Driss Amor,Route National Nâ°03,246,El Outaya,El Outaya,61,El Kantara
 07050,Droh,Route D'Arris Droh,238,Chetma,Sidi Okba,07,Biskra
 07051,El Amri,El Amri,242,El Ghrous,Foughala,07,Biskra
 07052,El Horaya,El Horaya,230,Ain Naga,Sidi Okba,07,Biskra
-07053,"El Kantara 1er Nov,",Cité 200 Logement El Kantara,245,El Kantara,El Kantara,07,Biskra
+07053,"El Kantara 1er Nov,",Cité 200 Logement El Kantara,245,El Kantara,El Kantara,61,El Kantara
 07054,El Oualadja,El Oualadja,241,El Feidh,Zeribet El Oued,07,Biskra
 07055,Farfar,Farfar,261,Tolga,Tolga,07,Biskra
 07056,Feliache,Feliache,233,Biskra,Biskra,07,Biskra
 07058,Ghartha,Ghartha,233,Biskra,Biskra,07,Biskra
-07059,Guedila,Route Djemourah Guedila,239,Djemorah,Djemorah,07,Biskra
+07059,Guedila,Route Djemourah Guedila,239,Djemorah,Djemorah,61,El Kantara
 07060,Guettouchi Lakhdar,Hai El Blida M'Chouneche,251,M'chouneche,Mechouneche,07,Biskra
 07065,Les Freres Harzelli,Les Freres Harzelli,241,El Feidh,Zeribet El Oued,07,Biskra
 07066,Megloub,Megloub,243,El Hadjab,Biskra,07,Biskra
@@ -658,7 +658,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 07078,Sidi Masmoudi,Sidi Masmoudi,253,Meziraa,Zeribet El Oued,07,Biskra
 07079,Sidi Mohamed Moussa,Sidi Mohamed Moussa,244,El Haouch,Sidi Okba,07,Biskra
 07080,Benthious (Tarfayet El Nos),Rue Rezigat Amor Ourlal,252,Mekhadma,Ourlal,07,Biskra
-07081,Tizi,Rue Dada Amar Ain Zaatout,231,Ain Zaatout,El Kantara,07,Biskra
+07081,Tizi,Rue Dada Amar Ain Zaatout,231,Ain Zaatout,El Kantara,61,El Kantara
 07082,Tolga Emir Aek,Rue Emir Aek Tolga,261,Tolga,Tolga,07,Biskra
 07083,Zaatcha Ben Boulaid,Zaatcha Ben Boulaid,243,El Hadjab,Biskra,07,Biskra
 07084,Zeribet El Oued 1er Nov.,Cité Communale Zeribet El Oued,262,Zeribet El Oued,Zeribet El Oued,07,Biskra
@@ -669,11 +669,11 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 07090,Biskra Korra,Caserne Etap Biskra,233,Biskra,Biskra,07,Biskra
 07091,Biskra Base,Caserne Biskra,233,Biskra,Biskra,07,Biskra
 07092,Biskra Hay El Moudjahidine,,233,Biskra,Biskra,07,Biskra
-07093,Ouled Seid,Ouled Seid,236,Branis,Djemorah,07,Biskra
-07094,Beni Souik,Beni Souik,239,Djemorah,Djemorah,07,Biskra
+07093,Ouled Seid,Ouled Seid,236,Branis,Djemorah,61,El Kantara
+07094,Beni Souik,Beni Souik,239,Djemorah,Djemorah,61,El Kantara
 07095,Mobar Mohamed,,242,El Ghrous,Foughala,07,Biskra
 ,Sidi Okba Cheikh Tayeb El Okbi,Sidi Okba,260,Sidi Okba,Sidi Okba,07,Biskra
-29018,Tizi,Rue Nasreddine Tizi,231,Ain Zaatout,El Kantara,07,Biskra
+29018,Tizi,Rue Nasreddine Tizi,231,Ain Zaatout,El Kantara,61,El Kantara
 30059,Mekhadma,Cité 460 Lgts Mekhadma Ouargla,252,Mekhadma,Ourlal,07,Biskra
 38015,Ain El Kerma,Rue Principale,243,El Hadjab,Biskra,07,Biskra
 08000,Bechar,Centre Ville,264,Bechar,Bechar,08,Béchar
@@ -938,7 +938,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 ,Outoul Groupement Militaire,Outoul Groupement Militaire,361,Tamanrasset,Tamanrasset,11,Tamanrasset
 ,In Kouf Groupement Regional Gendarmerie,In Kouf Groupement Regional Gendarmerie,361,Tamanrasset,Tamanrasset,11,Tamanrasset
 12000,Tebessa,Cité Djebel El Djorf,390,Tebessa,Tebessa,12,Tébessa
-12001,Bir El Ater,Centre Ville Bir El Ater,369,Bir-El-Ater,Bir El Ater,12,Tébessa
+12001,Bir El Ater,Centre Ville Bir El Ater,369,Bir-El-Ater,Bir El Ater,62,Bir El Ater
 12002,Cheria,Centre Ville Cheria,372,Cheria,Cheria,12,Tébessa
 12003,Ouenza,Centre Ville Ouenza,386,Ouenza,Ouenza,12,Tébessa
 12004,Tebessa Minerve,Route De Constantine,390,Tebessa,Tebessa,12,Tébessa
@@ -946,7 +946,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 12006,El Kouif,Centre Ville El Kouif,373,El Kouif,El Kouif,12,Tébessa
 12007,Tebessa La Concorde,Cité La Concorde Tebessa,390,Tebessa,Tebessa,12,Tébessa
 12008,Ain Zerga,Route Nationale Nâ° 82 Ain Zerga,364,Ain Zerga,Ouenza,12,Tébessa
-12009,Bir El Ater 19 Juin,Cité El Djabel 19 Juin Bea,369,Bir-El-Ater,Bir El Ater,12,Tébessa
+12009,Bir El Ater 19 Juin,Cité El Djabel 19 Juin Bea,369,Bir-El-Ater,Bir El Ater,62,Bir El Ater
 12011,Bir Mokadem,Centre Ville B.Mokkadem,368,Bir Mokkadem,Bir Mokadem,12,Tébessa
 12012,Boukhadra,Cité Guenze Hassenaoui Boukhadra,370,Boukhadra,El Aouinet,12,Tébessa
 12013,Draa Limame,Cité Draa Limame Tebessa,390,Tebessa,Tebessa,12,Tébessa
@@ -956,11 +956,11 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 12017,Morsott,Centre Ville Morsott,384,Morsott,Morsott,12,Tébessa
 12018,Tebessa Ezzouhour,Cité Ezzouhour Tebessa,390,Tebessa,Tebessa,12,Tébessa
 12019,Bekkaria,Centre Ville Bekkaria,366,Bekkaria,El Kouif,12,Tébessa
-12020,Bir El Ater El Imrane,Cité El Imrane Bir El Ater,369,Bir-El-Ater,Bir El Ater,12,Tébessa
+12020,Bir El Ater El Imrane,Cité El Imrane Bir El Ater,369,Bir-El-Ater,Bir El Ater,62,Bir El Ater
 12021,Cheria 9 Octobre,Cité 09 Ocobre Cheria,372,Cheria,Cheria,12,Tébessa
 12022,Djebel Anoual,Cité 1er Nov Tebessa,390,Tebessa,Tebessa,12,Tébessa
 12023,El Meridj,Centre Ville El Meridj,375,El Meridj,Ouenza,12,Tébessa
-12024,Negrine,Centre Ville Negrine,385,Negrine,Negrine,12,Tébessa
+12024,Negrine,Centre Ville Negrine,385,Negrine,Negrine,62,Bir El Ater
 12025,Ouenza 1er Novembre,Cité Centrale Ouenza,386,Ouenza,Ouenza,12,Tébessa
 12026,Ouenza Amel,Cité El Amel Ouenza,386,Ouenza,Ouenza,12,Tébessa
 12027,Oum Ali,Centre Ville Oum Ali,387,Oum Ali,Oum Ali,12,Tébessa
@@ -979,9 +979,9 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 12040,Dyr,Village Dyr,364,Ain Zerga,Ouenza,12,Tébessa
 12041,Lahouidjebet,Village El Houdjebet,380,El-Houidjbet,El Malabiod,12,Tébessa
 12042,El Mezraa,Village El Mazraa,376,El Mezeraa,El Ogla,12,Tébessa
-12043,El Ogla El Malha,Village El Ogla El Malah,378,El Ogla El Malha,Bir El Ater,12,Tébessa
-12044,Ferkane,Village Ferkane,381,Ferkane,Negrine,12,Tébessa
-12045,Foum El Matleg,Village Foum El Matleg,378,El Ogla El Malha,Bir El Ater,12,Tébessa
+12043,El Ogla El Malha,Village El Ogla El Malah,378,El Ogla El Malha,Bir El Ater,62,Bir El Ater
+12044,Ferkane,Village Ferkane,381,Ferkane,Negrine,62,Bir El Ater
+12045,Foum El Matleg,Village Foum El Matleg,378,El Ogla El Malha,Bir El Ater,62,Bir El Ater
 12046,Gourigueur,Village Gourigueur,382,Guorriguer,Bir Mokadem,12,Tébessa
 12047,Guentis,Village Guentis,389,Stah Guentis,El Ogla,12,Tébessa
 12048,Kissa,Village Kissa,371,Boulhaf Dyr,El Kouif,12,Tébessa
@@ -1038,11 +1038,11 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 13027,Boukanoun,Route D'Arbouz,426,M'sirda Fouaga,Marsa Ben Mehdi,13,Tlemcen
 13028,Boutrak,Route Boutrak,392,Ain Fetah,Fellaoucene,13,Tlemcen
 13029,Djebala,Rue De L'APC Djebala,413,Djebala,Nedroma,13,Tlemcen
-13030,El Abed,Rue De La Poste,410,Bouihi,Sidi Djillali,13,Tlemcen
-13031,El Aricha,Hai Chouhada,414,El Aricha,Sebdou,13,Tlemcen
+13030,El Abed,Rue De La Poste,410,Bouihi,Sidi Djillali,63,El Aricha
+13031,El Aricha,Hai Chouhada,414,El Aricha,Sebdou,63,El Aricha
 13032,El Bor,Rue Sidi Ouchaa,412,Dar Yaghmoracen,Ghazaouet,13,Tlemcen
 13033,El Fehoul,Rue Belaidouni Med,416,El Fehoul,Remchi,13,Tlemcen
-13034,El Gor,Rue L'Independance Slimani Med,417,El Gor,Sebdou,13,Tlemcen
+13034,El Gor,Rue L'Independance Slimani Med,417,El Gor,Sebdou,63,El Aricha
 13035,Fillaoucene,Rue Djerief Aek,418,Fellaoucene,Fellaoucene,13,Tlemcen
 13036,Hammam Boughrara,Route Nationale 35,420,Hammam Boughrara,Maghnia,13,Tlemcen
 13037,El Khemis Beni Snous,Rue De La Poste Ancienne Mairie,407,Beni Snous,Beni Snous,13,Tlemcen
@@ -1051,7 +1051,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 13040,Maaziz,Bd Principale,420,Hammam Boughrara,Maghnia,13,Tlemcen
 13041,Mezaourou Sidi Brahim,Rue De Nedroma,438,Souahlia,Ghazaouet,13,Tlemcen
 13042,Sebaa Chioukh,Rue Independance,433,Sebbaa Chioukh,Remchi,13,Tlemcen
-13043,Sidi Djillali,Cité 11 Decembre,436,Sidi Djillali,Sidi Djillali,13,Tlemcen
+13043,Sidi Djillali,Cité 11 Decembre,436,Sidi Djillali,Sidi Djillali,63,El Aricha
 13044,Sidi Medjahed,Rue Sidi Medjahed,437,Sidi Medjahed,Beni Boussaid,13,Tlemcen
 13045,Sidi Zouaoui Keddari Kouider,Hai El Rahma,437,Sidi Medjahed,Beni Boussaid,13,Tlemcen
 13046,Souani,Rue Achi Ahmed Souani,439,Souani,Bab El Assa,13,Tlemcen
@@ -1067,14 +1067,14 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 13056,Ain Zana Chebikia,Rue De La Poste,423,Maghnia,Maghnia,13,Tlemcen
 13057,Akid Lotfi,Rue De La Poste,423,Maghnia,Maghnia,13,Tlemcen
 13058,Amieur,Rue De La Poste,399,Amieur,Chetouane,13,Tlemcen
-13059,Belhadji Boucif,Rue De La Poste,414,El Aricha,Sebdou,13,Tlemcen
+13059,Belhadji Boucif,Rue De La Poste,414,El Aricha,Sebdou,63,El Aricha
 13060,Beni Bahdel,Rue De La Poste,401,Beni Bahdel,Beni Snous,13,Tlemcen
 13061,Beni Mester,Rue De La Poste,404,Beni Mester,Mansourah,13,Tlemcen
 13062,Bouhenak,Bt I Nâ°1 Cité 500 Logts,424,Mansourah,Mansourah,13,Tlemcen
 13063,Dar Yaghmouracene,Rue De La Poste,412,Dar Yaghmoracen,Ghazaouet,13,Tlemcen
 13064,Djamaa Sekhra,Rue De La Poste,419,Ghazaouet,Ghazaouet,13,Tlemcen
 13065,Djebra Chelaida,Rue De La Poste,399,Amieur,Chetouane,13,Tlemcen
-13066,El Bouihi,Rue De La Poste,410,Bouihi,Sidi Djillali,13,Tlemcen
+13066,El Bouihi,Rue De La Poste,410,Bouihi,Sidi Djillali,63,El Aricha
 13067,Ghazaouet Sidi Amar,Rue De La Poste,419,Ghazaouet,Ghazaouet,13,Tlemcen
 13068,Oued Lakhdar,Rue De La Poste,428,Oued Lakhdar,Ouled Mimoun,13,Tlemcen
 13069,Oued Zitoun,Rue De La Poste,432,Sabra,Sabra,13,Tlemcen
@@ -1128,13 +1128,13 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 ,Tlemcen Agadir,Rue Menouar Omar Agadir,443,Tlemcen,Tlemcen,13,Tlemcen
 ,Maghnia Betaim,Route De Marsa Ben M'Hidi,423,Maghnia,Maghnia,13,Tlemcen
 ,Sidi Boudjenane,Route De Marsa Ben M'Hidi Souani,439,Souani,Bab El Assa,13,Tlemcen
-22030,Sidi Djillali,Bvd Yebka Ahmed Cité 456 Logts,436,Sidi Djillali,Sidi Djillali,13,Tlemcen
+22030,Sidi Djillali,Bvd Yebka Ahmed Cité 456 Logts,436,Sidi Djillali,Sidi Djillali,63,El Aricha
 31051,Khemisti,Hai Khemisti,404,Beni Mester,Mansourah,13,Tlemcen
 34050,Oued Lakhdar,Oued Lakhdar,428,Oued Lakhdar,Ouled Mimoun,13,Tlemcen
 38006,Khemisti,Hai 05 Juillet,404,Beni Mester,Mansourah,13,Tlemcen
 14000,Tiaret,Boulevard Du 1er Novembre,483,Tiaret,Tiaret,14,Tiaret
 14001,Frenda,Cité Policiere Frenda,456,Frenda,Frenda,14,Tiaret
-14002,Ksar Chellala,Cité Belle Vue Chellala,459,Ksar Chellala,Ksar Chellala,14,Tiaret
+14002,Ksar Chellala,Cité Belle Vue Chellala,459,Ksar Chellala,Ksar Chellala,64,Ksar Chellala
 14003,Sougueur,Boulevard Si Abdelghani,480,Sougueur,Sougueur,14,Tiaret
 14004,Mahdia,Rue Mostapha Benboulaid,461,Mahdia,Mahdia,14,Tiaret
 14005,Rahouia,Rue Capitaine Boucif,470,Rahouia,Rahouia,14,Tiaret
@@ -1143,21 +1143,21 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 14008,Ain El Hadid,Boulevard Des Martyrs,448,Ain El Hadid,Frenda,14,Tiaret
 14009,Ain Kermes,Rue Capitaine Boucif,449,Ain Kermes,Ain Kermes,14,Tiaret
 14010,Dahmouni,Rue De La Voctoire,452,Dahmouni,Dahmouni,14,Tiaret
-14011,Ksar Chellala El Wiam,Route De Tiaret,459,Ksar Chellala,Ksar Chellala,14,Tiaret
+14011,Ksar Chellala El Wiam,Route De Tiaret,459,Ksar Chellala,Ksar Chellala,64,Ksar Chellala
 14012,Mechraa Sfa,Rue Du 05 Juillet,462,Mechraa Safa,Mechraa Sfa,14,Tiaret
 14013,Medrissa,Rue Mansour Med,463,Medrissa,Ain Kermes,14,Tiaret
 14014,Oued Lili,Rue De L'Independance,469,Oued Lilli,Oued Lili,14,Tiaret
 14015,Takhmaret,Boulevard Des Martyrs,482,Takhemaret,Frenda,14,Tiaret
 14016,Tiaret Benamara Djillali,Bd Bouabdelli Bouabdellah,454,Djillali Ben Amar,Mechraa Sfa,14,Tiaret
 14017,Ain Dzarit,Cité Ziroud Youcef,447,Ain Dzarit,Mahdia,14,Tiaret
-14018,Colonel Bougara,Cité La Revolution,450,Bougara,Hamadia,14,Tiaret
+14018,Colonel Bougara,Cité La Revolution,450,Bougara,Hamadia,64,Ksar Chellala
 14019,Guertoufa,Rue Du 1er Novembre,457,Guertoufa,Rahouia,14,Tiaret
-14020,Hamadia,Route De Tissemesilt,458,Hamadia,Hamadia,14,Tiaret
+14020,Hamadia,Route De Tissemesilt,458,Hamadia,Hamadia,64,Ksar Chellala
 14021,Kerman,Cité Karman,483,Tiaret,Tiaret,14,Tiaret
 14023,Medroussa,Rue Du 1er Novembre,464,Medroussa,Medroussa,14,Tiaret
 14024,Meghila,Rue Principale,465,Meghila,Meghila,14,Tiaret
 14025,Mellakou,Rue Omrissi Belkacem,466,Mellakou,Medroussa,14,Tiaret
-14026,Rechaiga,Rue Des Marches,471,Rechaiga,Hamadia,14,Tiaret
+14026,Rechaiga,Rue Des Marches,471,Rechaiga,Hamadia,64,Ksar Chellala
 14027,Si Abdelghani,Rue Emir Abdelkader,475,Si Abdelghani,Sougueur,14,Tiaret
 14029,Sidi Hosni,Rue Du 1er Novembre,479,Sidi Hosni,Meghila,14,Tiaret
 14030,Si Haoues,Rue Du 1er Novembre,472,Sebaine,Mahdia,14,Tiaret
@@ -1168,10 +1168,10 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 14035,Tiaret Universite,Cité Des 500 Logements,483,Tiaret,Tiaret,14,Tiaret
 14036,Tiaret Zaaroura,Hai El Manar,483,Tiaret,Tiaret,14,Tiaret
 14037,Tousnina,Rue Principale,485,Tousnina,Sougueur,14,Tiaret
-14038,Z'Malet El Emir Aek,Rue Du 1er Novembre,486,Zmalet El Emir Abdelkade,Ksar Chellala,14,Tiaret
+14038,Z'Malet El Emir Aek,Rue Du 1er Novembre,486,Zmalet El Emir Abdelkade,Ksar Chellala,64,Ksar Chellala
 14040,Ain Bouchekif,Rue Du 1er Novembre,445,Ain Bouchekif,Dahmouni,14,Tiaret
 14041,Ain Meriem,Rue Benaicha Ahmed,445,Ain Bouchekif,Dahmouni,14,Tiaret
-14042,Ain Radjah,Ain Radjah,459,Ksar Chellala,Ksar Chellala,14,Tiaret
+14042,Ain Radjah,Ain Radjah,459,Ksar Chellala,Ksar Chellala,64,Ksar Chellala
 14043,Ain Sebain,Rue Des Martyrs,472,Sebaine,Mahdia,14,Tiaret
 14044,Ain Si Mesbah,Village Agricole Rte De Sougueur,483,Tiaret,Tiaret,14,Tiaret
 14045,Bounoual,Route De Mascara,482,Takhemaret,Frenda,14,Tiaret
@@ -1180,7 +1180,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 14048,Djillali Ben Amar,Rue Principale,454,Djillali Ben Amar,Mechraa Sfa,14,Tiaret
 14049,Faidja,Rue A A Cote De La Gendarmerie,455,Faidja,Sougueur,14,Tiaret
 14050,Frenda Emir Abdelkader,Rue Principale,456,Frenda,Frenda,14,Tiaret
-14051,Fritissa,Route De Serguine,474,Serghine,Ksar Chellala,14,Tiaret
+14051,Fritissa,Route De Serguine,474,Serghine,Ksar Chellala,64,Ksar Chellala
 14052,Kerroum Amar,Hai El Jamil,446,Ain Deheb,Ain Deheb,14,Tiaret
 14053,Kharrouba,Village Agricole,462,Mechraa Safa,Mechraa Sfa,14,Tiaret
 14054,Kherbet Ouled Bouziane,Rue Principale,452,Dahmouni,Dahmouni,14,Tiaret
@@ -1191,7 +1191,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 14059,Nador M'Naouer,Village Agricole,480,Sougueur,Sougueur,14,Tiaret
 14060,Naima,Rue Chebil Abdelkader,468,Naima,Ain Deheb,14,Tiaret
 14061,Rosfa,Village Rosfa,453,Djebilet Rosfa,Ain Kermes,14,Tiaret
-14063,Serguine,Commune De Serguine,474,Serghine,Ksar Chellala,14,Tiaret
+14063,Serguine,Commune De Serguine,474,Serghine,Ksar Chellala,64,Ksar Chellala
 14064,Sidi Ali Mellal,Cité Des 20 Logements,477,Sidi Ali Mellal,Oued Lili,14,Tiaret
 14065,Sidi Bakhti,Rue Sbaa Meziane,478,Sidi Bakhti,Medroussa,14,Tiaret
 14066,Sougueur Cité Safa Abdelkader,Cité Safa Abdelkader,480,Sougueur,Sougueur,14,Tiaret
@@ -1202,7 +1202,7 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 14071,Tidda,Rue Principale,484,Tidda,Oued Lili,14,Tiaret
 14072,Frenda Ibn Khaldoun,Rue Capitaine Boucif,456,Frenda,Frenda,14,Tiaret
 14073,Kaid Ahmed,Aadl Route D'Alger,483,Tiaret,Tiaret,14,Tiaret
-14074,Hamadia El Hidhab,Rue Bounaama Djillali,458,Hamadia,Hamadia,14,Tiaret
+14074,Hamadia El Hidhab,Rue Bounaama Djillali,458,Hamadia,Hamadia,64,Ksar Chellala
 14075,Tiaret Sidi Khaled,Cité Marie Curie,483,Tiaret,Tiaret,14,Tiaret
 14076,Tiaret Ibn Khaldoun,Centre Universitaire Tiaret,483,Tiaret,Tiaret,14,Tiaret
 14077,Tiaret Campus,Centre Universitaire Tiaret,483,Tiaret,Tiaret,14,Tiaret
@@ -1640,80 +1640,80 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 29002,Mohammadia,Place Du Marche Couvert Mohammadia,595,Mohammadia,Dar El Beida,16,Alger
 34017,El Hammadia,Houmari Baabouche Centre Ville El Hammadia,571,Bouzareah,Bouzareah,16,Alger
 17000,Djelfa,Rue Emir A Ek,624,Djelfa,Djelfa,17,Djelfa
-17001,Ain Oussera,Route National,615,Ain Oussera,Ain Oussera,17,Djelfa
+17001,Ain Oussera,Route National,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
 17002,Hassi Bahbah,Route National Nâ° 01 Hbb,633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
-17003,Messaad,Cité 1er Novembre Messaad,636,Messaad,Messaad,17,Djelfa
-17004,Ain Oussera Slimani Slimane,Cité Slimani Slimane Ain Oussera,615,Ain Oussera,Ain Oussera,17,Djelfa
-17005,Ain Oussera Zighout Youcef,Cité Ali Ammar A/O,615,Ain Oussera,Ain Oussera,17,Djelfa
+17003,Messaad,Cité 1er Novembre Messaad,636,Messaad,Messaad,66,Messaad
+17004,Ain Oussera Slimani Slimane,Cité Slimani Slimane Ain Oussera,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
+17005,Ain Oussera Zighout Youcef,Cité Ali Ammar A/O,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
 17006,Dar Chioukh,Centre Ville Dar Chioukh,622,Dar Chioukh,Dar Chioukh,17,Djelfa
 17007,Djelfa 5 Juillet,Cité 05 Juillet,624,Djelfa,Djelfa,17,Djelfa
 17008,Djelfa Daya,Cité Daya,624,Djelfa,Djelfa,17,Djelfa
 17009,Djelfa Sidi Nail,Centre Ville Djelfa,624,Djelfa,Djelfa,17,Djelfa
 17010,Hassi Bahbah Djaaroune Said,Rue Haouari Boumedine Hbb,633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
 17011,Ain El Ibel,Cité Sailaa Mabrouk,612,Ain El Ibel,Ain El Ibel,17,Djelfa
-17012,Ain Oussera Abane Ramdane,Cité Abanne Ramdhane Ain Oussera,615,Ain Oussera,Ain Oussera,17,Djelfa
-17013,Ain Oussera Guerada Belkacem,Cit Gueerada Belkacem Ain Oussera,615,Ain Oussera,Ain Oussera,17,Djelfa
-17014,Birine,Route Ain Oussera Birine,619,Birine,Birine,17,Djelfa
+17012,Ain Oussera Abane Ramdane,Cité Abanne Ramdhane Ain Oussera,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
+17013,Ain Oussera Guerada Belkacem,Cit Gueerada Belkacem Ain Oussera,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
+17014,Birine,Route Ain Oussera Birine,619,Birine,Birine,65,Aïn Ouessara
 17015,Charef,Rue Abdelaziz El Hadj Charef,621,Charef,Charef,17,Djelfa
 17016,Djelfa Hassen Abdelkader,Cité Du Jardin Djelfa,624,Djelfa,Djelfa,17,Djelfa
 17017,Djelfa Berrebih,Cité Berrbih,624,Djelfa,Djelfa,17,Djelfa
 17018,Djelfa Boutrifis,Cité Boutrifis,624,Djelfa,Djelfa,17,Djelfa
 17019,El Guedid,Cité Nlle El Gueddid,626,El Guedid,Charef,17,Djelfa
 17020,El Idrissia,Centre Ville El Idrissia,627,El Idrissia,El Idrissia,17,Djelfa
-17021,Feid El Botma,1 Er Novembre Feid El Botma,629,Faidh El Botma,Faidh El Botma,17,Djelfa
-17022,Had Sahary,Rue Ali Boumendjel Had Sahary,632,Had Sahary,Had Sahary,17,Djelfa
+17021,Feid El Botma,1 Er Novembre Feid El Botma,629,Faidh El Botma,Faidh El Botma,66,Messaad
+17022,Had Sahary,Rue Ali Boumendjel Had Sahary,632,Had Sahary,Had Sahary,65,Aïn Ouessara
 17023,Hassi Bahbah Chettouh Kheiredine,Cité Bouaffia Hbb,633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
-17024,Sidi Ladjel,Centre Ville Sidi Laadjel,643,Sidi Laadjel,Sidi Laadjel,17,Djelfa
+17024,Sidi Ladjel,Centre Ville Sidi Laadjel,643,Sidi Laadjel,Sidi Laadjel,65,Aïn Ouessara
 17025,Ain Maabed,Centre Ville Ain Maabed,614,Ain Maabed,Hassi Bahbah,17,Djelfa
 17026,Ben Yagoub,Rue 1 Novembre Benyagoub,618,Benyagoub,Charef,17,Djelfa
-17027,Birine Kadi Tahar,Cité Kadi Tahar Birine,619,Birine,Birine,17,Djelfa
+17027,Birine Kadi Tahar,Cité Kadi Tahar Birine,619,Birine,Birine,65,Aïn Ouessara
 17028,Djelfa Ain Chih,Cité Ain Chih Djelfa,624,Djelfa,Djelfa,17,Djelfa
 17029,Djelfa Zahaf,Cité Zahaf Djelfa,624,Djelfa,Djelfa,17,Djelfa
 17030,Douis,Centre Ville Douis,625,Douis,El Idrissia,17,Djelfa
 17031,Hassi Bahbah 5 Juillet,Cité 05 Juillet,633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
 17032,Hassi El Euch,Centre Ville Hassi El Euch,634,Hassi El Euch,Hassi Bahbah,17,Djelfa
-17033,Messaad Cité El Quods,Cité El Quods,636,Messaad,Messaad,17,Djelfa
-17034,Messaad Demed,Place Emir A E K Messaad,636,Messaad,Messaad,17,Djelfa
-17035,Messad Emir Abdelkader,Demed Messaad,636,Messaad,Messaad,17,Djelfa
+17033,Messaad Cité El Quods,Cité El Quods,636,Messaad,Messaad,66,Messaad
+17034,Messaad Demed,Place Emir A E K Messaad,636,Messaad,Messaad,66,Messaad
+17035,Messad Emir Abdelkader,Demed Messaad,636,Messaad,Messaad,66,Messaad
 17036,Mouilah,Mouilah,637,M'liliha,Dar Chioukh,17,Djelfa
 17037,Taadmit,Centre Ville Taadmit,644,Taadmit,Ain El Ibel,17,Djelfa
 17038,Zaafrane,Centre Ville Zaafrane,645,Zaafrane,Hassi Bahbah,17,Djelfa
 17039,Ain Chouhada,Centre Ville Ain Chouhada,611,Ain Chouhada,El Idrissia,17,Djelfa
-17040,Ain Fekka,Ain Fekka,613,Ain Fekka,Had Sahary,17,Djelfa
+17040,Ain Fekka,Ain Fekka,613,Ain Fekka,Had Sahary,65,Aïn Ouessara
 17041,Amera,Centre Ville Amera,612,Ain El Ibel,Ain El Ibel,17,Djelfa
-17042,Amourah,Centre Ville Amourah,616,Amourah,Faidh El Botma,17,Djelfa
-17043,Benhar,Centre Ville Benhar,617,Benhar,Birine,17,Djelfa
-17044,Bouira Lahdab,Bouirat Lahdab,620,Bouira Lahdab,Had Sahary,17,Djelfa
+17042,Amourah,Centre Ville Amourah,616,Amourah,Faidh El Botma,66,Messaad
+17043,Benhar,Centre Ville Benhar,617,Benhar,Birine,65,Aïn Ouessara
+17044,Bouira Lahdab,Bouirat Lahdab,620,Bouira Lahdab,Had Sahary,65,Aïn Ouessara
 17045,Dait El Bkhour,Daiet El Bkheur,633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
-17046,Deldoul,Centre Ville Deldoul,623,Deldoul,Messaad,17,Djelfa
-17047,Draa Souary,Cité Moudjahidine Draa Soury,617,Benhar,Birine,17,Djelfa
-17048,El Gahra,Centre Ville El Gahra,623,Deldoul,Messaad,17,Djelfa
+17046,Deldoul,Centre Ville Deldoul,623,Deldoul,Messaad,66,Messaad
+17047,Draa Souary,Cité Moudjahidine Draa Soury,617,Benhar,Birine,65,Aïn Ouessara
+17048,El Gahra,Centre Ville El Gahra,623,Deldoul,Messaad,66,Messaad
 17049,El Hammam,El Hammam,621,Charef,Charef,17,Djelfa
 17050,El Hiouhi,El Hiouhi,644,Taadmit,Ain El Ibel,17,Djelfa
-17051,El Khemis,Centre Ville El Khemis,628,El Khemis,Sidi Laadjel,17,Djelfa
+17051,El Khemis,Centre Ville El Khemis,628,El Khemis,Sidi Laadjel,65,Aïn Ouessara
 17052,El Oguila,Centre Ville El Oguila,642,Sidi Baizid,Dar Chioukh,17,Djelfa
-17054,Guernini,1 Er Novembre Guernini,630,Guernini,Ain Oussera,17,Djelfa
-17055,Guettara,Centre Ville Guettera,631,Guettara,Messaad,17,Djelfa
-17056,Hassi Fedoul,Rue 1er Novebre Centre Ville Hassi Fdoul,635,Hassi Fedoul,Sidi Laadjel,17,Djelfa
+17054,Guernini,1 Er Novembre Guernini,630,Guernini,Ain Oussera,65,Aïn Ouessara
+17055,Guettara,Centre Ville Guettera,631,Guettara,Messaad,66,Messaad
+17056,Hassi Fedoul,Rue 1er Novebre Centre Ville Hassi Fdoul,635,Hassi Fedoul,Sidi Laadjel,65,Aïn Ouessara
 17057,M'Liliha,Centre Ville M Liliha,637,M'liliha,Dar Chioukh,17,Djelfa
 17058,Moudjebara,Centre Ville Moudjebarra,638,Moudjebara,Ain El Ibel,17,Djelfa
 17059,N'Tila,N Thila,644,Taadmit,Ain El Ibel,17,Djelfa
 17060,Oum Chegag,Oum Chegag,627,El Idrissia,El Idrissia,17,Djelfa
-17061,Oum El Adham,Oum Laadam,639,Oum Laadham,Faidh El Botma,17,Djelfa
-17062,Sed Rahal,Centre Ville Sed Rahal,640,Sed Rahal,Messaad,17,Djelfa
-17063,Selmana,Centre Ville Selmana,641,Selmana,Messaad,17,Djelfa
+17061,Oum El Adham,Oum Laadam,639,Oum Laadham,Faidh El Botma,66,Messaad
+17062,Sed Rahal,Centre Ville Sed Rahal,640,Sed Rahal,Messaad,66,Messaad
+17063,Selmana,Centre Ville Selmana,641,Selmana,Messaad,66,Messaad
 17064,Sidi Baizid,Sidi Baizid,642,Sidi Baizid,Dar Chioukh,17,Djelfa
 17065,Zaccar,Centre Ville Zaccar,646,Zaccar,Ain El Ibel,17,Djelfa
-17066,Tahiri Mohamed,Centre Ville Tahiri Mohamd,631,Guettara,Messaad,17,Djelfa
-17067,Haniet Ouled Salm,Haniet Ouled Salm,636,Messaad,Messaad,17,Djelfa
+17066,Tahiri Mohamed,Centre Ville Tahiri Mohamd,631,Guettara,Messaad,66,Messaad
+17067,Haniet Ouled Salm,Haniet Ouled Salm,636,Messaad,Messaad,66,Messaad
 17068,Sed Oum Drou,Sed Oum Drou,642,Sidi Baizid,Dar Chioukh,17,Djelfa
-17069,Abdelmadjid,Abdelmadjid,629,Faidh El Botma,Faidh El Botma,17,Djelfa
-17070,Meguied,El M'Gueid,623,Deldoul,Messaad,17,Djelfa
-17071,Had Sahary Ait Messaoudene,Centre Ville Had Sahary,632,Had Sahary,Had Sahary,17,Djelfa
+17069,Abdelmadjid,Abdelmadjid,629,Faidh El Botma,Faidh El Botma,66,Messaad
+17070,Meguied,El M'Gueid,623,Deldoul,Messaad,66,Messaad
+17071,Had Sahary Ait Messaoudene,Centre Ville Had Sahary,632,Had Sahary,Had Sahary,65,Aïn Ouessara
 17072,Djelfa Achour Ziane,Cité Universitaire Z Achour,624,Djelfa,Djelfa,17,Djelfa
 17073,Djelfa Gare Routiere,Gare Routiere Djelfa,624,Djelfa,Djelfa,17,Djelfa
-17074,Ain Oussera Gare Routiere,Gare Routiere Ain Oussera,615,Ain Oussera,Ain Oussera,17,Djelfa
-17075,Messaad Gare Routiere,Gare Routiere Messaad,636,Messaad,Messaad,17,Djelfa
+17074,Ain Oussera Gare Routiere,Gare Routiere Ain Oussera,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
+17075,Messaad Gare Routiere,Gare Routiere Messaad,636,Messaad,Messaad,66,Messaad
 17076,Djelfa Ouled Obaid Allah,Ouled Obaidellah,624,Djelfa,Djelfa,17,Djelfa
 17077,Djelfa Mohamed Ben Labiad,Cité Ben Labiad Med,624,Djelfa,Djelfa,17,Djelfa
 17078,El Idrissia 11 Dec 1960,11 Decembre 1960 El Idrissia,627,El Idrissia,El Idrissia,17,Djelfa
@@ -1721,15 +1721,15 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 17080,Touazi,"La Localite De Touazi Commune De Charef,Djelfa",621,Charef,Charef,17,Djelfa
 17081,Oued Sdar,"Oued Sdar Route Nationale N°01,Djelfa",612,Ain El Ibel,Ain El Ibel,17,Djelfa
 17082,Ben Hamed,"Village De Ben Hamed Commune De Tadmit,Djelfa",644,Taadmit,Ain El Ibel,17,Djelfa
-17083,Messaad Moussaoui Messaoud,Cité Saifi Commune De Messaad,636,Messaad,Messaad,17,Djelfa
-17084,Ain Oussera Terre,Base Airienne Ain Oussera,615,Ain Oussera,Ain Oussera,17,Djelfa
+17083,Messaad Moussaoui Messaoud,Cité Saifi Commune De Messaad,636,Messaad,Messaad,66,Messaad
+17084,Ain Oussera Terre,Base Airienne Ain Oussera,615,Ain Oussera,Ain Oussera,65,Aïn Ouessara
 17085,Hassi Bahbah Terre,Hassi El Morra,633,Hassi Bahbah,Hassi Bahbah,17,Djelfa
 17086,Djelfa Houari Boumediene,,624,Djelfa,Djelfa,17,Djelfa
 17087,Dar Chioukh Colonel Chaabani Mohamed,,622,Dar Chioukh,Dar Chioukh,17,Djelfa
 17088,Djelfa Ain Serar,Djelfa Ain Serar,624,Djelfa,Djelfa,17,Djelfa
 ,Djelfa Terre,Zone Militaire Djelfa,624,Djelfa,Djelfa,17,Djelfa
 19100,El Hammam,El Hammam,621,Charef,Charef,17,Djelfa
-44036,Amourah,Amourah Centre,616,Amourah,Faidh El Botma,17,Djelfa
+44036,Amourah,Amourah Centre,616,Amourah,Faidh El Botma,66,Messaad
 18000,Jijel,Rue De 1er Nov,662,Jijel,Jijel,18,Jijel
 18001,El Milia,Rue Bounnah,658,El Milia,El Milia,18,Jijel
 18002,Taher,Rue Ghuedied Ahmed,672,Taher,Taher,18,Jijel
@@ -2362,19 +2362,19 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 26000,Medea,Place 1 Nov Medea,931,Medea,Medea,26,Médéa
 26001,Beni Slimane,Place Des Martyrs Beni Slimane,905,Beni Slimane,Beni Slimane,26,Médéa
 26002,Berrouaghia,Avenue De La Republique Berrouaghia,906,Berrouaghia,Berrouaghia,26,Médéa
-26003,Ksar El Boukhari,Boulvard Mohamed Khemisti K E B,929,Ksar El Boukhari,Ksar El Boukhari,26,Médéa
+26003,Ksar El Boukhari,Boulvard Mohamed Khemisti K E B,929,Ksar El Boukhari,Ksar El Boukhari,67,Ksar El Boukhari
 26004,Tablat,Rue Mohamed Khemisti Tablat,957,Tablat,Tablat,26,Médéa
-26005,Ain Boucif,Rue Cherfi Halima Ain Boucif,899,Ain Boucif,Ain Boucif,26,Médéa
+26005,Ain Boucif,Rue Cherfi Halima Ain Boucif,899,Ain Boucif,Ain Boucif,67,Ksar El Boukhari
 26006,Berrouaghia Batem,Cité Djeddi Abdelkader Berrouaghia,906,Berrouaghia,Berrouaghia,26,Médéa
-26007,Chellalet El Adhaoura,Rue 1 Nov Chellalat El Adhaoura,915,Chelalet El Adhaoura,Chellalat El Adhaoura,26,Médéa
+26007,Chellalet El Adhaoura,Rue 1 Nov Chellalat El Adhaoura,915,Chelalet El Adhaoura,Chellalat El Adhaoura,67,Ksar El Boukhari
 26008,El Omaria,Rue Si Tayeb El Djoughlali El Omaria,924,El Omaria,El Omaria,26,Médéa
 26009,Medea Ould Immam,Rue De Laghouat Medea,931,Medea,Medea,26,Médéa
-26010,Ain Boucif 5 Juillet,Ain Boucif 5 Juillet,899,Ain Boucif,Ain Boucif,26,Médéa
+26010,Ain Boucif 5 Juillet,Ain Boucif 5 Juillet,899,Ain Boucif,Ain Boucif,67,Ksar El Boukhari
 26011,Ain D'Hab,Ain D'Hab Medea,931,Medea,Medea,26,Médéa
 26012,Ben Chicao,Ben Chicao Centre,904,Ben Chicao,Ouzera,26,Médéa
-26013,Boghar,Boghar Centre,908,Boghar,Ouled Antar,26,Médéa
+26013,Boghar,Boghar Centre,908,Boghar,Ouled Antar,67,Ksar El Boukhari
 26014,Bouchrahil,Bouchrahil Centre,911,Bouchrahil,Sidi Naamane,26,Médéa
-26015,Derrag,Derrag Centre,917,Derrag,Aziz,26,Médéa
+26015,Derrag,Derrag Centre,917,Derrag,Aziz,67,Ksar El Boukhari
 26016,Djouab,Louanes Abdelkader Djouab,918,Djouab,Souaghi,26,Médéa
 26017,Draa Essemar,Draa Esmar Centre,919,Draa Esmar,Medea,26,Médéa
 26018,El Azizia,El Azizia Centre,920,El Azizia,El Azizia,26,Médéa
@@ -2382,59 +2382,59 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 26020,Souagui,Rue Chahid Boukhors Souagui,956,Souagui,Souaghi,26,Médéa
 26021,Zoubiria,Zoubiria Centre,962,Zoubiria,Seghouane,26,Médéa
 26022,Aissaouia,Aissaouia Centre,901,Aissaouia,Tablat,26,Médéa
-26023,Boughzoul,Boughzoul Centre,912,Boughzoul,Chahbounia,26,Médéa
+26023,Boughzoul,Boughzoul Centre,912,Boughzoul,Chahbounia,67,Ksar El Boukhari
 26024,Bourrouaghia 1er Novembre,Cité 1 Nov Berrouaghia,906,Berrouaghia,Berrouaghia,26,Médéa
 26025,Bouskene,Bouskene Centre,913,Bouskene,Beni Slimane,26,Médéa
-26026,Chahbounia,Chahbounia Centre,914,Chabounia,Chahbounia,26,Médéa
+26026,Chahbounia,Chahbounia Centre,914,Chabounia,Chahbounia,67,Ksar El Boukhari
 26027,Hannacha,Hannacha Centre,926,Hannacha,Ouamri,26,Médéa
-26028,Ksar El Boukhari Belkheiret Mohamed,Quartier Belkheiret Mansour K E B,929,Ksar El Boukhari,Ksar El Boukhari,26,Médéa
-26029,Ksar El Boukhari Chaoui Nadir,Quartier Romanat K E B,929,Ksar El Boukhari,Ksar El Boukhari,26,Médéa
+26028,Ksar El Boukhari Belkheiret Mohamed,Quartier Belkheiret Mansour K E B,929,Ksar El Boukhari,Ksar El Boukhari,67,Ksar El Boukhari
+26029,Ksar El Boukhari Chaoui Nadir,Quartier Romanat K E B,929,Ksar El Boukhari,Ksar El Boukhari,67,Ksar El Boukhari
 26030,Maarik El Malah,El Guelb Kebir Centre,921,El Guelbelkebir,Guelb El Kebir,26,Médéa
 26031,Medea Merdjechkir,Cité Merdjechkir Medea,931,Medea,Medea,26,Médéa
 26032,Mihoub,Mihoub Centre,935,Mihoub,El Azizia,26,Médéa
 26033,Moudjebeur,Moudjbeur Centre,932,Medjebar,Seghouane,26,Médéa
 26034,Ouamri,Ouamri Centre,936,Ouamri,Ouamri,26,Médéa
-26035,Ouled Antar,Ouled Antar Centre,938,Ouled Antar,Ouled Antar,26,Médéa
+26035,Ouled Antar,Ouled Antar Centre,938,Ouled Antar,Ouled Antar,67,Ksar El Boukhari
 26036,Ouled Brahim,Ouled Brahim Centre,940,Ouled Brahim,El Omaria,26,Médéa
-26037,Ouled Hellal,Ouled Hellal Centre,943,Ouled Hellal,Ouled Antar,26,Médéa
-26038,Ouled Maareuf,Ouled Maareuf Centre,942,Ouled Emaaraf,Ain Boucif,26,Médéa
+26037,Ouled Hellal,Ouled Hellal Centre,943,Ouled Hellal,Ouled Antar,67,Ksar El Boukhari
+26038,Ouled Maareuf,Ouled Maareuf Centre,942,Ouled Emaaraf,Ain Boucif,67,Ksar El Boukhari
 26039,Rebaia,Rebaia Centre,946,Rebaia,Berrouaghia,26,Médéa
-26040,Sebt Aziz,Sebt Aziz Centre,902,Aziz,Aziz,26,Médéa
+26040,Sebt Aziz,Sebt Aziz Centre,902,Aziz,Aziz,67,Ksar El Boukhari
 26041,Seghouane,Seghouane Centre,949,Seghouane,Seghouane,26,Médéa
-26042,Seriat,Mezghana Centre,944,Oum El Djellil,Aziz,26,Médéa
+26042,Seriat,Mezghana Centre,944,Oum El Djellil,Aziz,67,Ksar El Boukhari
 26044,Allali Messaoud,Ouled Deid Centre,941,Ouled Deid,Berrouaghia,26,Médéa
 26045,Si Mahdjoub,Si Mahdjoub Centre,950,Si Mahdjoub,Si Mahdjoub,26,Médéa
 26046,Tletat Ed Douair,Tletat Eddouair Centre,961,Tletat Ed Douair,Seghouane,26,Médéa
-26047,Vieux Ksar,Vieux Ksar,929,Ksar El Boukhari,Ksar El Boukhari,26,Médéa
-26048,Ain Ouksir,Ain Ouksir Centre,900,Ain Ouksir,Chellalat El Adhaoura,26,Médéa
-26049,Ain Tletat,El M'Fatha Centre,934,M'fatha,Ksar El Boukhari,26,Médéa
+26047,Vieux Ksar,Vieux Ksar,929,Ksar El Boukhari,Ksar El Boukhari,67,Ksar El Boukhari
+26048,Ain Ouksir,Ain Ouksir Centre,900,Ain Ouksir,Chellalat El Adhaoura,67,Ksar El Boukhari
+26049,Ain Tletat,El M'Fatha Centre,934,M'fatha,Ksar El Boukhari,67,Ksar El Boukhari
 26050,Baata,Baata Centre,903,Baata,El Omaria,26,Médéa
-26051,Benia,Benia Centre,927,Kef Lakhdar,Ain Boucif,26,Médéa
+26051,Benia,Benia Centre,927,Kef Lakhdar,Ain Boucif,67,Ksar El Boukhari
 26052,Berrouaghia Oued Gholat,Quartier Oued El Gholat Berrouaghia,906,Berrouaghia,Berrouaghia,26,Médéa
 26053,Bir Ben Abed,Bir Ben Abed Centre,907,Bir Ben Laabed,Guelb El Kebir,26,Médéa
 26055,Bouaichoune,Bouaichoune Centre,910,Bouaichoune,Si Mahdjoub,26,Médéa
 26056,Brahimi Mohamed,Rue Assistance Ben Chicao,904,Ben Chicao,Ouzera,26,Médéa
-26057,Cheniguel,Cheniguel Centre,916,Cheniguel,Chellalat El Adhaoura,26,Médéa
+26057,Cheniguel,Cheniguel Centre,916,Cheniguel,Chellalat El Adhaoura,67,Ksar El Boukhari
 26058,Deux Bassins,Deux Bassins Centre,923,El Haoudane,Tablat,26,Médéa
 26060,El Hamdania,El Hamdania Centre,922,El Hamdania,Ouzera,26,Médéa
 26061,Harbil,Oued Harbil Centre,937,Oued Harbil,Ouamri,26,Médéa
 26062,Khams Djouamaa,Khams Djouamaa Centre,928,Khams Djouamaa,Sidi Naamane,26,Médéa
 26063,Maghraoua,Maghraoua Centre,930,Maghraoua,El Azizia,26,Médéa
 26064,Ouled Bouachra,Ouled Bouachera Centre,939,Ouled Bouachra,Si Mahdjoub,26,Médéa
-26065,Oum El Djellil,Oum El Djellil Centre,944,Oum El Djellil,Aziz,26,Médéa
+26065,Oum El Djellil,Oum El Djellil Centre,944,Oum El Djellil,Aziz,67,Ksar El Boukhari
 26066,Rezarza,Quartier Rezarza Medea,931,Medea,Medea,26,Médéa
-26067,Saneg,Saneg Centre,947,Saneg,Ksar El Boukhari,26,Médéa
+26067,Saneg,Saneg Centre,947,Saneg,Ksar El Boukhari,67,Ksar El Boukhari
 26068,Sedraia,Sedraia Centre,948,Sedraya,Guelb El Kebir,26,Médéa
-26069,Sidi Damed,Sidi Damed Centre,951,Sidi Demed,Ain Boucif,26,Médéa
+26069,Sidi Damed,Sidi Damed Centre,951,Sidi Demed,Ain Boucif,67,Ksar El Boukhari
 26070,Sidi Errabie,Sidi Errabie Centre,953,Sidi Rabie,Beni Slimane,26,Médéa
 26071,Sidi Mahieddine,Sidi Mahieddine Village,952,Sidi Naamane,Sidi Naamane,26,Médéa
 26072,Sidi Zahar,Sidi Zahar Centre,954,Sidi Zahar,Souaghi,26,Médéa
-26074,Tafraout,Tafraout Centre,958,Tafraout,Chellalat El Adhaoura,26,Médéa
+26074,Tafraout,Tafraout Centre,958,Tafraout,Chellalat El Adhaoura,67,Ksar El Boukhari
 26075,Tamesguida,Tamesguida Centre,959,Tamesguida,Medea,26,Médéa
 26076,Tizi Mahdi,Tizi Mahdi Centre,960,Tizi Mahdi,Ouzera,26,Médéa
-26077,Ksar El Boukhari Mekkaoui Othmane,Cité Zobra Ksar El Boukhari,929,Ksar El Boukhari,Ksar El Boukhari,26,Médéa
+26077,Ksar El Boukhari Mekkaoui Othmane,Cité Zobra Ksar El Boukhari,929,Ksar El Boukhari,Ksar El Boukhari,67,Ksar El Boukhari
 26078,Medea Takbou,Quartier Takbou Medea,931,Medea,Medea,26,Médéa
-26079,Kermet Chiha,Ouled Hellal Centre,943,Ouled Hellal,Ouled Antar,26,Médéa
+26079,Kermet Chiha,Ouled Hellal Centre,943,Ouled Hellal,Ouled Antar,67,Ksar El Boukhari
 26080,El Gouea,El Gouea Village,962,Zoubiria,Seghouane,26,Médéa
 26081,Ouled El Hadj,Ouled El Hadj Village,921,El Guelbelkebir,Guelb El Kebir,26,Médéa
 26082,Medea Universite,Universite Docteur Yahia Fares Medea,931,Medea,Medea,26,Médéa
@@ -2519,76 +2519,76 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 ,Mostaganem Ecole Navale,Caserne Militaire Route De Mazagran,979,Mostaganem,Mostaganem,27,Mostaganem
 44027,Sidi Lakhdar,Rue 1er Novembre,988,Sidi-Lakhdar,Sidi Lakhdar,27,Mostaganem
 28000,M'Sila,Cité Administrative,1023,M'sila,M'sila,28,M'Sila
-28001,Bou Saada,Centre Ville,1006,Bou Saada,Bousaada,28,M'Sila
+28001,Bou Saada,Centre Ville,1006,Bou Saada,Bousaada,68,Bou Saâda
 28002,Sidi Aissa,Centre Ville,1033,Sidi Aissa,Sidi Aissa,28,M'Sila
 28003,Ain El Hadjel,Route D'Alger,995,Ain El Hadjel,Ain El Hadjel,28,M'Sila
-28004,Ain El Melh,Centre Ville,996,Ain El Melh,Ain El Melh,28,M'Sila
+28004,Ain El Melh,Centre Ville,996,Ain El Melh,Ain El Melh,68,Bou Saâda
 28005,Hammam Dalaa,Centre Ville,1013,Hammam Dalaa,Hammam Dalaa,28,M'Sila
 28006,Magra,Centre Ville,1018,Magra,Magra,28,M'Sila
 28007,M'Sila Hodna,Avenue Colonel Amirouche,1023,M'sila,M'sila,28,M'Sila
 28008,Ain El Khadra,Centre Ville,998,Ain Khadra,Magra,28,M'Sila
-28009,Ben Srour,Centre Ville,1001,Ben Srour,Ben Srour,28,M'Sila
+28009,Ben Srour,Centre Ville,1001,Ben Srour,Ben Srour,68,Bou Saâda
 28010,Berhoum,Centre Ville,1004,Berhoum,Magra,28,M'Sila
 28011,Bichara,Centre Ville,1016,Maadid,Ouled Derradj,28,M'Sila
-28012,Bou Saada Houari Boumediene,Route De Biskra,1006,Bou Saada,Bousaada,28,M'Sila
-28013,Bou Saada Nacereddine Dinet,Cité Chaabani,1006,Bou Saada,Bousaada,28,M'Sila
+28012,Bou Saada Houari Boumediene,Route De Biskra,1006,Bou Saada,Bousaada,68,Bou Saâda
+28013,Bou Saada Nacereddine Dinet,Cité Chaabani,1006,Bou Saada,Bousaada,68,Bou Saâda
 28014,Chellal,Chellal,1008,Chellal,Chellal,28,M'Sila
-28015,El Hamel,El Hamel,1011,El Hamel,Bousaada,28,M'Sila
-28016,Medjedel,Medjedel,1020,Medjedel,Medjedel,28,M'Sila
+28015,El Hamel,El Hamel,1011,El Hamel,Bousaada,68,Bou Saâda
+28016,Medjedel,Medjedel,1020,Medjedel,Medjedel,68,Bou Saâda
 28017,Melouza,Melouza,1025,Ouanougha,Hammam Dalaa,28,M'Sila
 28018,M'Sila Chebilia,Cité 504 Lots,1023,M'sila,M'sila,28,M'Sila
 28019,M'Sila Cité Ennasr,Cité 132 Logements,1023,M'sila,M'sila,28,M'Sila
 28020,M'Sila Mohamed Boudiaf,Cité 924 Lots,1023,M'sila,M'sila,28,M'Sila
 28021,Ouled Addi Guebala,Centre Ville,1026,Ouled Addi Guebala,Ouled Derradj,28,M'Sila
 28022,Ouled Derradj,Centre Ville,1027,Ouled Derradj,Ouled Derradj,28,M'Sila
-28023,Ain Fares,Ain Fares,997,Ain Fares,Ain El Melh,28,M'Sila
-28024,Ain Oghrab,Ain Oghrab,1010,Djebel Messaad,Djebel Messaad,28,M'Sila
-28025,Ain Rich,Ain Rich,999,Ain Rich,Ain El Melh,28,M'Sila
+28023,Ain Fares,Ain Fares,997,Ain Fares,Ain El Melh,68,Bou Saâda
+28024,Ain Oghrab,Ain Oghrab,1010,Djebel Messaad,Djebel Messaad,68,Bou Saâda
+28025,Ain Rich,Ain Rich,999,Ain Rich,Ain El Melh,68,Bou Saâda
 28026,Belaiba,Belaiba,1000,Belaiba,Magra,28,M'Sila
 28027,Beni Ilmane,Beni Ilmane,1002,Beni Ilmane,Sidi Aissa,28,M'Sila
-28028,Benzouh,Benzouh,1003,Benzouh,Ouled Sidi Brahim,28,M'Sila
-28029,Bir Guellalia,Bir Guellalia,1019,M'cif,Khoubana,28,M'Sila
-28030,Djebel Guettara,Bir Hani,1015,Khoubana,Khoubana,28,M'Sila
-28031,Djoub,Djoub,1031,Ouled Slimane,Ben Srour,28,M'Sila
-28032,Eddis,Eddis,1030,Ouled Sidi Brahim,Ouled Sidi Brahim,28,M'Sila
-28033,Mohamed Boudiaf,Med Boudiaf,1022,Mohamed Boudiaf,Ben Srour,28,M'Sila
+28028,Benzouh,Benzouh,1003,Benzouh,Ouled Sidi Brahim,68,Bou Saâda
+28029,Bir Guellalia,Bir Guellalia,1019,M'cif,Khoubana,68,Bou Saâda
+28030,Djebel Guettara,Bir Hani,1015,Khoubana,Khoubana,68,Bou Saâda
+28031,Djoub,Djoub,1031,Ouled Slimane,Ben Srour,68,Bou Saâda
+28032,Eddis,Eddis,1030,Ouled Sidi Brahim,Ouled Sidi Brahim,68,Bou Saâda
+28033,Mohamed Boudiaf,Med Boudiaf,1022,Mohamed Boudiaf,Ben Srour,68,Bou Saâda
 28034,Sidi Aissa 1er Nov. 1954,Place 5 Juillet,1033,Sidi Aissa,Sidi Aissa,28,M'Sila
 28035,Sidi Ameur,Sidi Ameur,1033,Sidi Aissa,Sidi Aissa,28,M'Sila
 28036,Sidi Hadjeres,Sidii Hadjeres,1035,Sidi Hadjeres,Ain El Hadjel,28,M'Sila
-28037,Slim,Slim,1037,Slim,Djebel Messaad,28,M'Sila
+28037,Slim,Slim,1037,Slim,Djebel Messaad,68,Bou Saâda
 28038,Tarmount,Tarmount,1040,Tarmount,Hammam Dalaa,28,M'Sila
 28039,Ahl El Oued,Ahl El Oued,1025,Ouanougha,Hammam Dalaa,28,M'Sila
-28040,Ain Khermane,Ain Khermane,1003,Benzouh,Ouled Sidi Brahim,28,M'Sila
+28040,Ain Khermane,Ain Khermane,1003,Benzouh,Ouled Sidi Brahim,68,Bou Saâda
 28041,Baniou,Baniou,1017,Maarif,Chellal,28,M'Sila
 28042,Berarda,Berarda,1007,Bouti Sayeh,Sidi Aissa,28,M'Sila
-28043,Bir Fodda,Bir Fodda,1005,Bir Foda,Ain El Melh,28,M'Sila
+28043,Bir Fodda,Bir Fodda,1005,Bir Foda,Ain El Melh,68,Bou Saâda
 28044,Bir Madhi,Bir Madhi,1013,Hammam Dalaa,Hammam Dalaa,28,M'Sila
-28045,Bordj Belkhrif,Bordj Belkhrif,1036,Sidi M'hamed,Ain El Melh,28,M'Sila
+28045,Bordj Belkhrif,Bordj Belkhrif,1036,Sidi M'hamed,Ain El Melh,68,Bou Saâda
 28046,Boukhemissa,Boukhemissa,1023,M'sila,M'sila,28,M'Sila
 28047,Ced El Ghaba,Ced El Ghaba,1028,Ouled Madhi,Chellal,28,M'Sila
 28048,Dehahna,Dehahna,1009,Dehahna,Magra,28,M'Sila
 28049,Djaouna,Djaouna,1016,Maadid,Ouled Derradj,28,M'Sila
-28050,Djebel Meharga,Djebel Meharga,1015,Khoubana,Khoubana,28,M'Sila
+28050,Djebel Meharga,Djebel Meharga,1015,Khoubana,Khoubana,68,Bou Saâda
 28051,Djebel Thameur,Djebel Thameur,1017,Maarif,Chellal,28,M'Sila
-28052,Djebel Zeyreg,Djebel Zyreg,1019,M'cif,Khoubana,28,M'Sila
+28052,Djebel Zeyreg,Djebel Zyreg,1019,M'cif,Khoubana,68,Bou Saâda
 28053,Dreat,Dreat,1013,Hammam Dalaa,Hammam Dalaa,28,M'Sila
-28054,El Allig,El Allig,1032,Oulteme,Bousaada,28,M'Sila
+28054,El Allig,El Allig,1032,Oulteme,Bousaada,68,Bou Saâda
 28055,El Ghil,El Ghil,1016,Maadid,Ouled Derradj,28,M'Sila
 28056,Khettouti Sed El Djir,Khettouti Sed Djir,1014,Khettouti Sed-El-Jir,Chellal,28,M'Sila
-28057,Med.Seddik Benyahia,Med Seddik Benyahia,1030,Ouled Sidi Brahim,Ouled Sidi Brahim,28,M'Sila
-28059,M'Guitaa,M'Guitaa,1005,Bir Foda,Ain El Melh,28,M'Sila
+28057,Med.Seddik Benyahia,Med Seddik Benyahia,1030,Ouled Sidi Brahim,Ouled Sidi Brahim,68,Bou Saâda
+28059,M'Guitaa,M'Guitaa,1005,Bir Foda,Ain El Melh,68,Bou Saâda
 28060,Ouled Mansour,Ouled Mansour,1029,Ouled Mansour,Hammam Dalaa,28,M'Sila
-28061,Oultem,Oultem,1032,Oulteme,Bousaada,28,M'Sila
+28061,Oultem,Oultem,1032,Oulteme,Bousaada,68,Bou Saâda
 28062,Reguaieg,Reguaieg,1014,Khettouti Sed-El-Jir,Chellal,28,M'Sila
-28063,Roumana,Roumana,1019,M'cif,Khoubana,28,M'Sila
+28063,Roumana,Roumana,1019,M'cif,Khoubana,68,Bou Saâda
 28064,Souamaa,Souamaa,1038,Souamaa,Ouled Derradj,28,M'Sila
-28065,Temsa,Temsa,1039,Tamsa,Sidi Ameur,28,M'Sila
-28066,Thameur Sidi M'Hamed,Thameur Sidi M'Hamed,1036,Sidi M'hamed,Ain El Melh,28,M'Sila
-28067,Zerzour,Zerzour,1041,Zarzour,Ben Srour,28,M'Sila
+28065,Temsa,Temsa,1039,Tamsa,Sidi Ameur,68,Bou Saâda
+28066,Thameur Sidi M'Hamed,Thameur Sidi M'Hamed,1036,Sidi M'hamed,Ain El Melh,68,Bou Saâda
+28067,Zerzour,Zerzour,1041,Zarzour,Ben Srour,68,Bou Saâda
 28068,Zitoun,Zitoun,1016,Maadid,Ouled Derradj,28,M'Sila
-28069,Bou Saada Sidi Slimane,Cité Sidi Slimane,1006,Bou Saada,Bousaada,28,M'Sila
-28071,El Bassatine,Cité El Bassatin,996,Ain El Melh,Ain El Melh,28,M'Sila
-28073,Boumelal,Boumelal,1022,Mohamed Boudiaf,Ben Srour,28,M'Sila
+28069,Bou Saada Sidi Slimane,Cité Sidi Slimane,1006,Bou Saada,Bousaada,68,Bou Saâda
+28071,El Bassatine,Cité El Bassatin,996,Ain El Melh,Ain El Melh,68,Bou Saâda
+28073,Boumelal,Boumelal,1022,Mohamed Boudiaf,Ben Srour,68,Bou Saâda
 28074,Oum Chaouchi,Oum Chaouchi,1040,Tarmount,Hammam Dalaa,28,M'Sila
 28075,Ouled Bia,Ouled Bia,1026,Ouled Addi Guebala,Ouled Derradj,28,M'Sila
 28076,Lougmane,Lougmane,1013,Hammam Dalaa,Hammam Dalaa,28,M'Sila
@@ -2600,17 +2600,17 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 28082,M'Sila Cnel Amirouche,M'Sila Cnel Amirouche Cité 5 Juilli,1023,M'sila,M'sila,28,M'Sila
 28083,M'Sila Universite,Universite De Msila,1023,M'sila,M'sila,28,M'Sila
 28084,M'Sila Gare Routiere,M'Sila Gare Routiere,1023,M'sila,M'sila,28,M'Sila
-28085,Ecole Militaire (Eaac),Ecole Militaire (Eaac),1006,Bou Saada,Bousaada,28,M'Sila
-28086,Bou Saada El Baten,Cité El Baten,1006,Bou Saada,Bousaada,28,M'Sila
-28087,Bousaada 08 Mai 1945,"Cité 300 Logements El Baten,Bousaada,M'Sila",1006,Bou Saada,Bousaada,28,M'Sila
-28088,Ain El Melh Messaoudi M'Hamed Bachir,"Cité 100 Logements, Ain El Melh",996,Ain El Melh,Ain El Melh,28,M'Sila
+28085,Ecole Militaire (Eaac),Ecole Militaire (Eaac),1006,Bou Saada,Bousaada,68,Bou Saâda
+28086,Bou Saada El Baten,Cité El Baten,1006,Bou Saada,Bousaada,68,Bou Saâda
+28087,Bousaada 08 Mai 1945,"Cité 300 Logements El Baten,Bousaada,M'Sila",1006,Bou Saada,Bousaada,68,Bou Saâda
+28088,Ain El Melh Messaoudi M'Hamed Bachir,"Cité 100 Logements, Ain El Melh",996,Ain El Melh,Ain El Melh,68,Bou Saâda
 28089,M'Sila El Emir Abdelkader,"Cité 120 Logements Pole Universitaire,M'Sila",1023,M'sila,M'sila,28,M'Sila
-28090,Bou Saada Gare Routiere,Gare Routiere De Bousaada,1006,Bou Saada,Bousaada,28,M'Sila
-28091,Ain Sidi M'Hamed Bouguetaya Bouguetaya,"Village De Ain Sidi M'Hamed, La Route Nationale Nâ° 70 Allant Sur Ain El Melh",1036,Sidi M'hamed,Ain El Melh,28,M'Sila
+28090,Bou Saada Gare Routiere,Gare Routiere De Bousaada,1006,Bou Saada,Bousaada,68,Bou Saâda
+28091,Ain Sidi M'Hamed Bouguetaya Bouguetaya,"Village De Ain Sidi M'Hamed, La Route Nationale Nâ° 70 Allant Sur Ain El Melh",1036,Sidi M'hamed,Ain El Melh,68,Bou Saâda
 28092,Sidi Aissa Abdelli El Tahar,,1033,Sidi Aissa,Sidi Aissa,28,M'Sila
-28093,Ghezal,Ghezal,1001,Ben Srour,Ben Srour,28,M'Sila
+28093,Ghezal,Ghezal,1001,Ben Srour,Ben Srour,68,Bou Saâda
 ,M'Sila Cité Radieuse,Cité Radieuse,1023,M'sila,M'sila,28,M'Sila
-29020,Ain Fares,Rue Remal Abdelkader Ain Fares,997,Ain Fares,Ain El Melh,28,M'Sila
+29020,Ain Fares,Rue Remal Abdelkader Ain Fares,997,Ain Fares,Ain El Melh,68,Bou Saâda
 29000,Mascara,Rue Frimahdi Mascara,1069,Mascara,Mascara,29,Mascara
 29001,Sig,06 Rue Zirout Youcef Sig,1084,Sig,Sig,29,Mascara
 29003,Mohammadia Habra,Cité Des 124 Lots Mohammadia,1072,Mohammadia,Mohammadia,29,Mascara
@@ -2878,30 +2878,30 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 32000,El Bayadh,Route D'Aflou,1144,El Bayadh,El Bayadh,32,El Bayadh
 32001,Bougtob,Rue Miloudi Bachar,1139,Bougtoub,Bougtoub,32,El Bayadh
 32002,Brezina,Place 19 Juin,1141,Brezina,Brezina,32,El Bayadh
-32003,El Abiodh Sidi Cheikh,Rue Emir Abdelkader,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
+32003,El Abiodh Sidi Cheikh,Rue Emir Abdelkader,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 32004,El Bayadh Toumi Mohamed,Place De Tripoli,1144,El Bayadh,El Bayadh,32,El Bayadh
-32005,Arbaouat,Rue Des Martyrs,1137,Arbaouat,Labiodh Sidi Cheikh,32,El Bayadh
+32005,Arbaouat,Rue Des Martyrs,1137,Arbaouat,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 32006,Boualem,Rue 1er Novembre,1138,Boualem,Boualem,32,El Bayadh
-32007,El Abiodh Sidi Cheikh Belmabrouk,Rue Didouche Mourad,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
+32007,El Abiodh Sidi Cheikh Belmabrouk,Rue Didouche Mourad,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 32008,El Bayadh Ait Amiri,Hai El Laouze,1144,El Bayadh,El Bayadh,32,El Bayadh
 32009,El Bayadh Hamidi Boulenouar,Rue 1er Novembre 1954,1144,El Bayadh,El Bayadh,32,El Bayadh
 32010,El Bayadh Hasnaoui Said,Rue Des Fidahs,1144,El Bayadh,El Bayadh,32,El Bayadh
 32011,El Kheither,Rue Cheikh Med,1147,El Kheiter,Bougtoub,32,El Bayadh
 32012,Hossein Ibn Ali,Sid El Hadj Bahous,1144,El Bayadh,El Bayadh,32,El Bayadh
 32013,Kef El Ahmar,Route Nationale Nâ°06,1150,Kef El Ahmar,Rogassa,32,El Bayadh
-32014,Boussemghoun,Rue 1er Novembre 1954,1140,Boussemghoun,Boussemghoun,32,El Bayadh
-32015,Chellala Dahrania,Rue Belia Lehbib,1143,Chellala,Chellala,32,El Bayadh
+32014,Boussemghoun,Rue 1er Novembre 1954,1140,Boussemghoun,Boussemghoun,69,El Abiodh Sidi Cheikh
+32015,Chellala Dahrania,Rue Belia Lehbib,1143,Chellala,Chellala,69,El Abiodh Sidi Cheikh
 32016,El Bayadh Kadichou Mohamed,Quartier Ouled Yahia,1144,El Bayadh,El Bayadh,32,El Bayadh
 32017,Ghassoul,Place Sadeli Med,1149,Ghassoul,Brezina,32,El Bayadh
 32018,Rogassa,Rue Emir Abdelkader,1152,Rogassa,Rogassa,32,El Bayadh
-32019,Ain El Orak,Ain El Orak,1136,Ain El Orak,Labiodh Sidi Cheikh,32,El Bayadh
-32020,Arba Fougani,Arbat Fougani,1137,Arbaouat,Labiodh Sidi Cheikh,32,El Bayadh
+32019,Ain El Orak,Ain El Orak,1136,Ain El Orak,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
+32020,Arba Fougani,Arbat Fougani,1137,Arbaouat,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 32021,Bordj El May,Bordj El May,1147,El Kheiter,Bougtoub,32,El Bayadh
 32022,Cheguig,Rue Mokadem Naimi,1142,Cheguig,Rogassa,32,El Bayadh
-32023,Chellala El Gueblia,Chellala Gueblia,1143,Chellala,Chellala,32,El Bayadh
-32024,Deghima,Deghima,1148,El Mehara,Chellala,32,El Bayadh
-32025,El Bnoud,Bnoud,1146,El Bnoud,Labiodh Sidi Cheikh,32,El Bayadh
-32026,El Mehara,El M'Harra,1148,El Mehara,Chellala,32,El Bayadh
+32023,Chellala El Gueblia,Chellala Gueblia,1143,Chellala,Chellala,69,El Abiodh Sidi Cheikh
+32024,Deghima,Deghima,1148,El Mehara,Chellala,69,El Abiodh Sidi Cheikh
+32025,El Bnoud,Bnoud,1146,El Bnoud,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
+32026,El Mehara,El M'Harra,1148,El Mehara,Chellala,69,El Abiodh Sidi Cheikh
 32027,Krakda,Krakda,1151,Krakda,Brezina,32,El Bayadh
 32028,Mosbah,Mosbah,1147,El Kheiter,Bougtoub,32,El Bayadh
 32030,Sidi Khelifa,Sidi Khelifa,1147,El Kheiter,Bougtoub,32,El Bayadh
@@ -2911,11 +2911,11 @@ post_code,post_name,post_address,commune_id,commune_name,daira_name,wilaya_code,
 32035,El Bayadh Gare Routiere,Gare Routiere El Bayadh,1144,El Bayadh,El Bayadh,32,El Bayadh
 32036,El Bayadh Universite,Centre Universitaire Nour Bachier El Bayadh,1144,El Bayadh,El Bayadh,32,El Bayadh
 32037,El Bayadh Med Lamari,El Bayadh Caserne (Trans),1144,El Bayadh,El Bayadh,32,El Bayadh
-32038,El Abiodh Sidi Cheikh Gare Routiere,Gare Routiere El Abiodh Sidi Cheikh,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
+32038,El Abiodh Sidi Cheikh Gare Routiere,Gare Routiere El Abiodh Sidi Cheikh,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 32039,Bougtob Hai Nasr,Hai Nasr,1139,Bougtoub,Bougtoub,32,El Bayadh
-32040,El Abiodh Sidi Cheikh Djoudi Bahous,,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
+32040,El Abiodh Sidi Cheikh Djoudi Bahous,,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 32041,Bougtob Abdelli Cheikh,,1139,Bougtoub,Bougtoub,32,El Bayadh
-32042,El Abiodh Sidi Cheikh Ben Aissa Talia,,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,32,El Bayadh
+32042,El Abiodh Sidi Cheikh Ben Aissa Talia,,1145,Labiodh Sidi Cheikh,Labiodh Sidi Cheikh,69,El Abiodh Sidi Cheikh
 43060,Sidi Khelifa,Sidi Khelifa,1147,El Kheiter,Bougtoub,32,El Bayadh
 33000,Illizi,Illizi   Centre Ville,1162,Illizi,Illizi,33,Illizi
 33001,In Amenas,In Amenas  Centre Ville,1163,In Amenas,In Amenas,33,Illizi

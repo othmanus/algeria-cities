@@ -1626,8 +1626,8 @@ const algeria_postcodes = [
     "commune_id": 64,
     "commune_name": "Aflou",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03002",
@@ -1666,8 +1666,8 @@ const algeria_postcodes = [
     "commune_id": 69,
     "commune_name": "Brida",
     "daira_name": "Brida",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03006",
@@ -1746,8 +1746,8 @@ const algeria_postcodes = [
     "commune_id": 67,
     "commune_name": "El Beidha",
     "daira_name": "Gueltat Sidi Saad",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03014",
@@ -1816,8 +1816,8 @@ const algeria_postcodes = [
     "commune_id": 64,
     "commune_name": "Aflou",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03021",
@@ -1826,8 +1826,8 @@ const algeria_postcodes = [
     "commune_id": 64,
     "commune_name": "Aflou",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03022",
@@ -1846,8 +1846,8 @@ const algeria_postcodes = [
     "commune_id": 71,
     "commune_name": "El Ghicha",
     "daira_name": "El Ghicha",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03024",
@@ -1856,8 +1856,8 @@ const algeria_postcodes = [
     "commune_id": 83,
     "commune_name": "Sidi Bouzid",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03025",
@@ -1866,8 +1866,8 @@ const algeria_postcodes = [
     "commune_id": 73,
     "commune_name": "Gueltat Sidi Saad",
     "daira_name": "Gueltat Sidi Saad",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03026",
@@ -1876,8 +1876,8 @@ const algeria_postcodes = [
     "commune_id": 87,
     "commune_name": "Taouiala",
     "daira_name": "Brida",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03027",
@@ -1886,8 +1886,8 @@ const algeria_postcodes = [
     "commune_id": 80,
     "commune_name": "Oued Morra",
     "daira_name": "Oued Morra",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03028",
@@ -1896,8 +1896,8 @@ const algeria_postcodes = [
     "commune_id": 66,
     "commune_name": "Ain Sidi Ali",
     "daira_name": "Gueltat Sidi Saad",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03030",
@@ -1906,8 +1906,8 @@ const algeria_postcodes = [
     "commune_id": 83,
     "commune_name": "Sidi Bouzid",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03031",
@@ -1916,8 +1916,8 @@ const algeria_postcodes = [
     "commune_id": 83,
     "commune_name": "Sidi Bouzid",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03032",
@@ -1946,8 +1946,8 @@ const algeria_postcodes = [
     "commune_id": 82,
     "commune_name": "Sebgag",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03035",
@@ -1956,8 +1956,8 @@ const algeria_postcodes = [
     "commune_id": 71,
     "commune_name": "El Ghicha",
     "daira_name": "El Ghicha",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03036",
@@ -1976,8 +1976,8 @@ const algeria_postcodes = [
     "commune_id": 71,
     "commune_name": "El Ghicha",
     "daira_name": "El Ghicha",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03038",
@@ -1986,8 +1986,8 @@ const algeria_postcodes = [
     "commune_id": 74,
     "commune_name": "Hadj Mechri",
     "daira_name": "Brida",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03040",
@@ -2006,8 +2006,8 @@ const algeria_postcodes = [
     "commune_id": 81,
     "commune_name": "Oued M'zi",
     "daira_name": "Oued Morra",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03042",
@@ -2026,8 +2026,8 @@ const algeria_postcodes = [
     "commune_id": 73,
     "commune_name": "Gueltat Sidi Saad",
     "daira_name": "Gueltat Sidi Saad",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03044",
@@ -2036,8 +2036,8 @@ const algeria_postcodes = [
     "commune_id": 73,
     "commune_name": "Gueltat Sidi Saad",
     "daira_name": "Gueltat Sidi Saad",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03046",
@@ -2056,8 +2056,8 @@ const algeria_postcodes = [
     "commune_id": 64,
     "commune_name": "Aflou",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03048",
@@ -2086,8 +2086,8 @@ const algeria_postcodes = [
     "commune_id": 64,
     "commune_name": "Aflou",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03051",
@@ -2116,8 +2116,8 @@ const algeria_postcodes = [
     "commune_id": 64,
     "commune_name": "Aflou",
     "daira_name": "Aflou",
-    "wilaya_code": "03",
-    "wilaya_name": "Laghouat"
+    "wilaya_code": "59",
+    "wilaya_name": "Aflou"
   },
   {
     "post_code": "03054",
@@ -2906,8 +2906,8 @@ const algeria_postcodes = [
     "commune_id": 122,
     "commune_name": "Barika",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05002",
@@ -3116,8 +3116,8 @@ const algeria_postcodes = [
     "commune_id": 122,
     "commune_name": "Barika",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05023",
@@ -3166,8 +3166,8 @@ const algeria_postcodes = [
     "commune_id": 166,
     "commune_name": "Seggana",
     "daira_name": "Seggana",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05028",
@@ -3176,8 +3176,8 @@ const algeria_postcodes = [
     "commune_id": 122,
     "commune_name": "Barika",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05029",
@@ -3266,8 +3266,8 @@ const algeria_postcodes = [
     "commune_id": 149,
     "commune_name": "M Doukal",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05038",
@@ -3346,8 +3346,8 @@ const algeria_postcodes = [
     "commune_id": 125,
     "commune_name": "Bitam",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05046",
@@ -3356,8 +3356,8 @@ const algeria_postcodes = [
     "commune_id": 133,
     "commune_name": "Djezzar",
     "daira_name": "Djezzar",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05047",
@@ -3756,8 +3756,8 @@ const algeria_postcodes = [
     "commune_id": 121,
     "commune_name": "Azil Abedelkader",
     "daira_name": "Djezzar",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05088",
@@ -4076,8 +4076,8 @@ const algeria_postcodes = [
     "commune_id": 125,
     "commune_name": "Bitam",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05120",
@@ -4096,8 +4096,8 @@ const algeria_postcodes = [
     "commune_id": 157,
     "commune_name": "Ouled Ammar",
     "daira_name": "Djezzar",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05122",
@@ -4136,8 +4136,8 @@ const algeria_postcodes = [
     "commune_id": 166,
     "commune_name": "Seggana",
     "daira_name": "Seggana",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05126",
@@ -4156,8 +4156,8 @@ const algeria_postcodes = [
     "commune_id": 175,
     "commune_name": "Tilatou",
     "daira_name": "Seggana",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05128",
@@ -4186,8 +4186,8 @@ const algeria_postcodes = [
     "commune_id": 121,
     "commune_name": "Azil Abedelkader",
     "daira_name": "Djezzar",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05131",
@@ -4246,8 +4246,8 @@ const algeria_postcodes = [
     "commune_id": 122,
     "commune_name": "Barika",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05137",
@@ -4276,8 +4276,8 @@ const algeria_postcodes = [
     "commune_id": 122,
     "commune_name": "Barika",
     "daira_name": "Barika",
-    "wilaya_code": "05",
-    "wilaya_name": "Batna"
+    "wilaya_code": "60",
+    "wilaya_name": "Barika"
   },
   {
     "post_code": "05140",
@@ -6016,8 +6016,8 @@ const algeria_postcodes = [
     "commune_id": 245,
     "commune_name": "El Kantara",
     "daira_name": "El Kantara",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07009",
@@ -6066,8 +6066,8 @@ const algeria_postcodes = [
     "commune_id": 231,
     "commune_name": "Ain Zaatout",
     "daira_name": "El Kantara",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07014",
@@ -6166,8 +6166,8 @@ const algeria_postcodes = [
     "commune_id": 236,
     "commune_name": "Branis",
     "daira_name": "Djemorah",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07024",
@@ -6186,8 +6186,8 @@ const algeria_postcodes = [
     "commune_id": 239,
     "commune_name": "Djemorah",
     "daira_name": "Djemorah",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07026",
@@ -6226,8 +6226,8 @@ const algeria_postcodes = [
     "commune_id": 245,
     "commune_name": "El Kantara",
     "daira_name": "El Kantara",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07030",
@@ -6236,8 +6236,8 @@ const algeria_postcodes = [
     "commune_id": 246,
     "commune_name": "El Outaya",
     "daira_name": "El Outaya",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07031",
@@ -6306,8 +6306,8 @@ const algeria_postcodes = [
     "commune_id": 246,
     "commune_name": "El Outaya",
     "daira_name": "El Outaya",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07039",
@@ -6366,8 +6366,8 @@ const algeria_postcodes = [
     "commune_id": 246,
     "commune_name": "El Outaya",
     "daira_name": "El Outaya",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07050",
@@ -6406,8 +6406,8 @@ const algeria_postcodes = [
     "commune_id": 245,
     "commune_name": "El Kantara",
     "daira_name": "El Kantara",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07054",
@@ -6456,8 +6456,8 @@ const algeria_postcodes = [
     "commune_id": 239,
     "commune_name": "Djemorah",
     "daira_name": "Djemorah",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07060",
@@ -6596,8 +6596,8 @@ const algeria_postcodes = [
     "commune_id": 231,
     "commune_name": "Ain Zaatout",
     "daira_name": "El Kantara",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07082",
@@ -6706,8 +6706,8 @@ const algeria_postcodes = [
     "commune_id": 236,
     "commune_name": "Branis",
     "daira_name": "Djemorah",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07094",
@@ -6716,8 +6716,8 @@ const algeria_postcodes = [
     "commune_id": 239,
     "commune_name": "Djemorah",
     "daira_name": "Djemorah",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "07095",
@@ -6746,8 +6746,8 @@ const algeria_postcodes = [
     "commune_id": 231,
     "commune_name": "Ain Zaatout",
     "daira_name": "El Kantara",
-    "wilaya_code": "07",
-    "wilaya_name": "Biskra"
+    "wilaya_code": "61",
+    "wilaya_name": "El Kantara"
   },
   {
     "post_code": "30059",
@@ -9396,8 +9396,8 @@ const algeria_postcodes = [
     "commune_id": 369,
     "commune_name": "Bir-El-Ater",
     "daira_name": "Bir El Ater",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12002",
@@ -9476,8 +9476,8 @@ const algeria_postcodes = [
     "commune_id": 369,
     "commune_name": "Bir-El-Ater",
     "daira_name": "Bir El Ater",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12011",
@@ -9576,8 +9576,8 @@ const algeria_postcodes = [
     "commune_id": 369,
     "commune_name": "Bir-El-Ater",
     "daira_name": "Bir El Ater",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12021",
@@ -9616,8 +9616,8 @@ const algeria_postcodes = [
     "commune_id": 385,
     "commune_name": "Negrine",
     "daira_name": "Negrine",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12025",
@@ -9806,8 +9806,8 @@ const algeria_postcodes = [
     "commune_id": 378,
     "commune_name": "El Ogla El Malha",
     "daira_name": "Bir El Ater",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12044",
@@ -9816,8 +9816,8 @@ const algeria_postcodes = [
     "commune_id": 381,
     "commune_name": "Ferkane",
     "daira_name": "Negrine",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12045",
@@ -9826,8 +9826,8 @@ const algeria_postcodes = [
     "commune_id": 378,
     "commune_name": "El Ogla El Malha",
     "daira_name": "Bir El Ater",
-    "wilaya_code": "12",
-    "wilaya_name": "Tébessa"
+    "wilaya_code": "62",
+    "wilaya_name": "Bir El Ater"
   },
   {
     "post_code": "12046",
@@ -10396,8 +10396,8 @@ const algeria_postcodes = [
     "commune_id": 410,
     "commune_name": "Bouihi",
     "daira_name": "Sidi Djillali",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "13031",
@@ -10406,8 +10406,8 @@ const algeria_postcodes = [
     "commune_id": 414,
     "commune_name": "El Aricha",
     "daira_name": "Sebdou",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "13032",
@@ -10436,8 +10436,8 @@ const algeria_postcodes = [
     "commune_id": 417,
     "commune_name": "El Gor",
     "daira_name": "Sebdou",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "13035",
@@ -10526,8 +10526,8 @@ const algeria_postcodes = [
     "commune_id": 436,
     "commune_name": "Sidi Djillali",
     "daira_name": "Sidi Djillali",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "13044",
@@ -10686,8 +10686,8 @@ const algeria_postcodes = [
     "commune_id": 414,
     "commune_name": "El Aricha",
     "daira_name": "Sebdou",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "13060",
@@ -10756,8 +10756,8 @@ const algeria_postcodes = [
     "commune_id": 410,
     "commune_name": "Bouihi",
     "daira_name": "Sidi Djillali",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "13067",
@@ -11296,8 +11296,8 @@ const algeria_postcodes = [
     "commune_id": 436,
     "commune_name": "Sidi Djillali",
     "daira_name": "Sidi Djillali",
-    "wilaya_code": "13",
-    "wilaya_name": "Tlemcen"
+    "wilaya_code": "63",
+    "wilaya_name": "El Aricha"
   },
   {
     "post_code": "31051",
@@ -11356,8 +11356,8 @@ const algeria_postcodes = [
     "commune_id": 459,
     "commune_name": "Ksar Chellala",
     "daira_name": "Ksar Chellala",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14003",
@@ -11446,8 +11446,8 @@ const algeria_postcodes = [
     "commune_id": 459,
     "commune_name": "Ksar Chellala",
     "daira_name": "Ksar Chellala",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14012",
@@ -11516,8 +11516,8 @@ const algeria_postcodes = [
     "commune_id": 450,
     "commune_name": "Bougara",
     "daira_name": "Hamadia",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14019",
@@ -11536,8 +11536,8 @@ const algeria_postcodes = [
     "commune_id": 458,
     "commune_name": "Hamadia",
     "daira_name": "Hamadia",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14021",
@@ -11586,8 +11586,8 @@ const algeria_postcodes = [
     "commune_id": 471,
     "commune_name": "Rechaiga",
     "daira_name": "Hamadia",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14027",
@@ -11696,8 +11696,8 @@ const algeria_postcodes = [
     "commune_id": 486,
     "commune_name": "Zmalet El Emir Abdelkade",
     "daira_name": "Ksar Chellala",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14040",
@@ -11726,8 +11726,8 @@ const algeria_postcodes = [
     "commune_id": 459,
     "commune_name": "Ksar Chellala",
     "daira_name": "Ksar Chellala",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14043",
@@ -11816,8 +11816,8 @@ const algeria_postcodes = [
     "commune_id": 474,
     "commune_name": "Serghine",
     "daira_name": "Ksar Chellala",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14052",
@@ -11926,8 +11926,8 @@ const algeria_postcodes = [
     "commune_id": 474,
     "commune_name": "Serghine",
     "daira_name": "Ksar Chellala",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14064",
@@ -12036,8 +12036,8 @@ const algeria_postcodes = [
     "commune_id": 458,
     "commune_name": "Hamadia",
     "daira_name": "Hamadia",
-    "wilaya_code": "14",
-    "wilaya_name": "Tiaret"
+    "wilaya_code": "64",
+    "wilaya_name": "Ksar Chellala"
   },
   {
     "post_code": "14075",
@@ -16416,8 +16416,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17002",
@@ -16436,8 +16436,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17004",
@@ -16446,8 +16446,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17005",
@@ -16456,8 +16456,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17006",
@@ -16526,8 +16526,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17013",
@@ -16536,8 +16536,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17014",
@@ -16546,8 +16546,8 @@ const algeria_postcodes = [
     "commune_id": 619,
     "commune_name": "Birine",
     "daira_name": "Birine",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17015",
@@ -16616,8 +16616,8 @@ const algeria_postcodes = [
     "commune_id": 629,
     "commune_name": "Faidh El Botma",
     "daira_name": "Faidh El Botma",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17022",
@@ -16626,8 +16626,8 @@ const algeria_postcodes = [
     "commune_id": 632,
     "commune_name": "Had Sahary",
     "daira_name": "Had Sahary",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17023",
@@ -16646,8 +16646,8 @@ const algeria_postcodes = [
     "commune_id": 643,
     "commune_name": "Sidi Laadjel",
     "daira_name": "Sidi Laadjel",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17025",
@@ -16676,8 +16676,8 @@ const algeria_postcodes = [
     "commune_id": 619,
     "commune_name": "Birine",
     "daira_name": "Birine",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17028",
@@ -16736,8 +16736,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17034",
@@ -16746,8 +16746,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17035",
@@ -16756,8 +16756,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17036",
@@ -16806,8 +16806,8 @@ const algeria_postcodes = [
     "commune_id": 613,
     "commune_name": "Ain Fekka",
     "daira_name": "Had Sahary",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17041",
@@ -16826,8 +16826,8 @@ const algeria_postcodes = [
     "commune_id": 616,
     "commune_name": "Amourah",
     "daira_name": "Faidh El Botma",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17043",
@@ -16836,8 +16836,8 @@ const algeria_postcodes = [
     "commune_id": 617,
     "commune_name": "Benhar",
     "daira_name": "Birine",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17044",
@@ -16846,8 +16846,8 @@ const algeria_postcodes = [
     "commune_id": 620,
     "commune_name": "Bouira Lahdab",
     "daira_name": "Had Sahary",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17045",
@@ -16866,8 +16866,8 @@ const algeria_postcodes = [
     "commune_id": 623,
     "commune_name": "Deldoul",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17047",
@@ -16876,8 +16876,8 @@ const algeria_postcodes = [
     "commune_id": 617,
     "commune_name": "Benhar",
     "daira_name": "Birine",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17048",
@@ -16886,8 +16886,8 @@ const algeria_postcodes = [
     "commune_id": 623,
     "commune_name": "Deldoul",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17049",
@@ -16916,8 +16916,8 @@ const algeria_postcodes = [
     "commune_id": 628,
     "commune_name": "El Khemis",
     "daira_name": "Sidi Laadjel",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17052",
@@ -16936,8 +16936,8 @@ const algeria_postcodes = [
     "commune_id": 630,
     "commune_name": "Guernini",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17055",
@@ -16946,8 +16946,8 @@ const algeria_postcodes = [
     "commune_id": 631,
     "commune_name": "Guettara",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17056",
@@ -16956,8 +16956,8 @@ const algeria_postcodes = [
     "commune_id": 635,
     "commune_name": "Hassi Fedoul",
     "daira_name": "Sidi Laadjel",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17057",
@@ -17006,8 +17006,8 @@ const algeria_postcodes = [
     "commune_id": 639,
     "commune_name": "Oum Laadham",
     "daira_name": "Faidh El Botma",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17062",
@@ -17016,8 +17016,8 @@ const algeria_postcodes = [
     "commune_id": 640,
     "commune_name": "Sed Rahal",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17063",
@@ -17026,8 +17026,8 @@ const algeria_postcodes = [
     "commune_id": 641,
     "commune_name": "Selmana",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17064",
@@ -17056,8 +17056,8 @@ const algeria_postcodes = [
     "commune_id": 631,
     "commune_name": "Guettara",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17067",
@@ -17066,8 +17066,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17068",
@@ -17086,8 +17086,8 @@ const algeria_postcodes = [
     "commune_id": 629,
     "commune_name": "Faidh El Botma",
     "daira_name": "Faidh El Botma",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17070",
@@ -17096,8 +17096,8 @@ const algeria_postcodes = [
     "commune_id": 623,
     "commune_name": "Deldoul",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17071",
@@ -17106,8 +17106,8 @@ const algeria_postcodes = [
     "commune_id": 632,
     "commune_name": "Had Sahary",
     "daira_name": "Had Sahary",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17072",
@@ -17136,8 +17136,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17075",
@@ -17146,8 +17146,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17076",
@@ -17226,8 +17226,8 @@ const algeria_postcodes = [
     "commune_id": 636,
     "commune_name": "Messaad",
     "daira_name": "Messaad",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "17084",
@@ -17236,8 +17236,8 @@ const algeria_postcodes = [
     "commune_id": 615,
     "commune_name": "Ain Oussera",
     "daira_name": "Ain Oussera",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "65",
+    "wilaya_name": "Aïn Ouessara"
   },
   {
     "post_code": "17085",
@@ -17306,8 +17306,8 @@ const algeria_postcodes = [
     "commune_id": 616,
     "commune_name": "Amourah",
     "daira_name": "Faidh El Botma",
-    "wilaya_code": "17",
-    "wilaya_name": "Djelfa"
+    "wilaya_code": "66",
+    "wilaya_name": "Messaad"
   },
   {
     "post_code": "18000",
@@ -23636,8 +23636,8 @@ const algeria_postcodes = [
     "commune_id": 929,
     "commune_name": "Ksar El Boukhari",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26004",
@@ -23656,8 +23656,8 @@ const algeria_postcodes = [
     "commune_id": 899,
     "commune_name": "Ain Boucif",
     "daira_name": "Ain Boucif",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26006",
@@ -23676,8 +23676,8 @@ const algeria_postcodes = [
     "commune_id": 915,
     "commune_name": "Chelalet El Adhaoura",
     "daira_name": "Chellalat El Adhaoura",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26008",
@@ -23706,8 +23706,8 @@ const algeria_postcodes = [
     "commune_id": 899,
     "commune_name": "Ain Boucif",
     "daira_name": "Ain Boucif",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26011",
@@ -23736,8 +23736,8 @@ const algeria_postcodes = [
     "commune_id": 908,
     "commune_name": "Boghar",
     "daira_name": "Ouled Antar",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26014",
@@ -23756,8 +23756,8 @@ const algeria_postcodes = [
     "commune_id": 917,
     "commune_name": "Derrag",
     "daira_name": "Aziz",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26016",
@@ -23836,8 +23836,8 @@ const algeria_postcodes = [
     "commune_id": 912,
     "commune_name": "Boughzoul",
     "daira_name": "Chahbounia",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26024",
@@ -23866,8 +23866,8 @@ const algeria_postcodes = [
     "commune_id": 914,
     "commune_name": "Chabounia",
     "daira_name": "Chahbounia",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26027",
@@ -23886,8 +23886,8 @@ const algeria_postcodes = [
     "commune_id": 929,
     "commune_name": "Ksar El Boukhari",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26029",
@@ -23896,8 +23896,8 @@ const algeria_postcodes = [
     "commune_id": 929,
     "commune_name": "Ksar El Boukhari",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26030",
@@ -23956,8 +23956,8 @@ const algeria_postcodes = [
     "commune_id": 938,
     "commune_name": "Ouled Antar",
     "daira_name": "Ouled Antar",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26036",
@@ -23976,8 +23976,8 @@ const algeria_postcodes = [
     "commune_id": 943,
     "commune_name": "Ouled Hellal",
     "daira_name": "Ouled Antar",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26038",
@@ -23986,8 +23986,8 @@ const algeria_postcodes = [
     "commune_id": 942,
     "commune_name": "Ouled Emaaraf",
     "daira_name": "Ain Boucif",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26039",
@@ -24006,8 +24006,8 @@ const algeria_postcodes = [
     "commune_id": 902,
     "commune_name": "Aziz",
     "daira_name": "Aziz",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26041",
@@ -24026,8 +24026,8 @@ const algeria_postcodes = [
     "commune_id": 944,
     "commune_name": "Oum El Djellil",
     "daira_name": "Aziz",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26044",
@@ -24066,8 +24066,8 @@ const algeria_postcodes = [
     "commune_id": 929,
     "commune_name": "Ksar El Boukhari",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26048",
@@ -24076,8 +24076,8 @@ const algeria_postcodes = [
     "commune_id": 900,
     "commune_name": "Ain Ouksir",
     "daira_name": "Chellalat El Adhaoura",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26049",
@@ -24086,8 +24086,8 @@ const algeria_postcodes = [
     "commune_id": 934,
     "commune_name": "M'fatha",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26050",
@@ -24106,8 +24106,8 @@ const algeria_postcodes = [
     "commune_id": 927,
     "commune_name": "Kef Lakhdar",
     "daira_name": "Ain Boucif",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26052",
@@ -24156,8 +24156,8 @@ const algeria_postcodes = [
     "commune_id": 916,
     "commune_name": "Cheniguel",
     "daira_name": "Chellalat El Adhaoura",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26058",
@@ -24226,8 +24226,8 @@ const algeria_postcodes = [
     "commune_id": 944,
     "commune_name": "Oum El Djellil",
     "daira_name": "Aziz",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26066",
@@ -24246,8 +24246,8 @@ const algeria_postcodes = [
     "commune_id": 947,
     "commune_name": "Saneg",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26068",
@@ -24266,8 +24266,8 @@ const algeria_postcodes = [
     "commune_id": 951,
     "commune_name": "Sidi Demed",
     "daira_name": "Ain Boucif",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26070",
@@ -24306,8 +24306,8 @@ const algeria_postcodes = [
     "commune_id": 958,
     "commune_name": "Tafraout",
     "daira_name": "Chellalat El Adhaoura",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26075",
@@ -24336,8 +24336,8 @@ const algeria_postcodes = [
     "commune_id": 929,
     "commune_name": "Ksar El Boukhari",
     "daira_name": "Ksar El Boukhari",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26078",
@@ -24356,8 +24356,8 @@ const algeria_postcodes = [
     "commune_id": 943,
     "commune_name": "Ouled Hellal",
     "daira_name": "Ouled Antar",
-    "wilaya_code": "26",
-    "wilaya_name": "Médéa"
+    "wilaya_code": "67",
+    "wilaya_name": "Ksar El Boukhari"
   },
   {
     "post_code": "26080",
@@ -25206,8 +25206,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28002",
@@ -25236,8 +25236,8 @@ const algeria_postcodes = [
     "commune_id": 996,
     "commune_name": "Ain El Melh",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28005",
@@ -25286,8 +25286,8 @@ const algeria_postcodes = [
     "commune_id": 1001,
     "commune_name": "Ben Srour",
     "daira_name": "Ben Srour",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28010",
@@ -25316,8 +25316,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28013",
@@ -25326,8 +25326,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28014",
@@ -25346,8 +25346,8 @@ const algeria_postcodes = [
     "commune_id": 1011,
     "commune_name": "El Hamel",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28016",
@@ -25356,8 +25356,8 @@ const algeria_postcodes = [
     "commune_id": 1020,
     "commune_name": "Medjedel",
     "daira_name": "Medjedel",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28017",
@@ -25426,8 +25426,8 @@ const algeria_postcodes = [
     "commune_id": 997,
     "commune_name": "Ain Fares",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28024",
@@ -25436,8 +25436,8 @@ const algeria_postcodes = [
     "commune_id": 1010,
     "commune_name": "Djebel Messaad",
     "daira_name": "Djebel Messaad",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28025",
@@ -25446,8 +25446,8 @@ const algeria_postcodes = [
     "commune_id": 999,
     "commune_name": "Ain Rich",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28026",
@@ -25476,8 +25476,8 @@ const algeria_postcodes = [
     "commune_id": 1003,
     "commune_name": "Benzouh",
     "daira_name": "Ouled Sidi Brahim",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28029",
@@ -25486,8 +25486,8 @@ const algeria_postcodes = [
     "commune_id": 1019,
     "commune_name": "M'cif",
     "daira_name": "Khoubana",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28030",
@@ -25496,8 +25496,8 @@ const algeria_postcodes = [
     "commune_id": 1015,
     "commune_name": "Khoubana",
     "daira_name": "Khoubana",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28031",
@@ -25506,8 +25506,8 @@ const algeria_postcodes = [
     "commune_id": 1031,
     "commune_name": "Ouled Slimane",
     "daira_name": "Ben Srour",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28032",
@@ -25516,8 +25516,8 @@ const algeria_postcodes = [
     "commune_id": 1030,
     "commune_name": "Ouled Sidi Brahim",
     "daira_name": "Ouled Sidi Brahim",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28033",
@@ -25526,8 +25526,8 @@ const algeria_postcodes = [
     "commune_id": 1022,
     "commune_name": "Mohamed Boudiaf",
     "daira_name": "Ben Srour",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28034",
@@ -25566,8 +25566,8 @@ const algeria_postcodes = [
     "commune_id": 1037,
     "commune_name": "Slim",
     "daira_name": "Djebel Messaad",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28038",
@@ -25596,8 +25596,8 @@ const algeria_postcodes = [
     "commune_id": 1003,
     "commune_name": "Benzouh",
     "daira_name": "Ouled Sidi Brahim",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28041",
@@ -25626,8 +25626,8 @@ const algeria_postcodes = [
     "commune_id": 1005,
     "commune_name": "Bir Foda",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28044",
@@ -25646,8 +25646,8 @@ const algeria_postcodes = [
     "commune_id": 1036,
     "commune_name": "Sidi M'hamed",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28046",
@@ -25696,8 +25696,8 @@ const algeria_postcodes = [
     "commune_id": 1015,
     "commune_name": "Khoubana",
     "daira_name": "Khoubana",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28051",
@@ -25716,8 +25716,8 @@ const algeria_postcodes = [
     "commune_id": 1019,
     "commune_name": "M'cif",
     "daira_name": "Khoubana",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28053",
@@ -25736,8 +25736,8 @@ const algeria_postcodes = [
     "commune_id": 1032,
     "commune_name": "Oulteme",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28055",
@@ -25766,8 +25766,8 @@ const algeria_postcodes = [
     "commune_id": 1030,
     "commune_name": "Ouled Sidi Brahim",
     "daira_name": "Ouled Sidi Brahim",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28059",
@@ -25776,8 +25776,8 @@ const algeria_postcodes = [
     "commune_id": 1005,
     "commune_name": "Bir Foda",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28060",
@@ -25796,8 +25796,8 @@ const algeria_postcodes = [
     "commune_id": 1032,
     "commune_name": "Oulteme",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28062",
@@ -25816,8 +25816,8 @@ const algeria_postcodes = [
     "commune_id": 1019,
     "commune_name": "M'cif",
     "daira_name": "Khoubana",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28064",
@@ -25836,8 +25836,8 @@ const algeria_postcodes = [
     "commune_id": 1039,
     "commune_name": "Tamsa",
     "daira_name": "Sidi Ameur",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28066",
@@ -25846,8 +25846,8 @@ const algeria_postcodes = [
     "commune_id": 1036,
     "commune_name": "Sidi M'hamed",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28067",
@@ -25856,8 +25856,8 @@ const algeria_postcodes = [
     "commune_id": 1041,
     "commune_name": "Zarzour",
     "daira_name": "Ben Srour",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28068",
@@ -25876,8 +25876,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28071",
@@ -25886,8 +25886,8 @@ const algeria_postcodes = [
     "commune_id": 996,
     "commune_name": "Ain El Melh",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28073",
@@ -25896,8 +25896,8 @@ const algeria_postcodes = [
     "commune_id": 1022,
     "commune_name": "Mohamed Boudiaf",
     "daira_name": "Ben Srour",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28074",
@@ -26016,8 +26016,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28086",
@@ -26026,8 +26026,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28087",
@@ -26036,8 +26036,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28088",
@@ -26046,8 +26046,8 @@ const algeria_postcodes = [
     "commune_id": 996,
     "commune_name": "Ain El Melh",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28089",
@@ -26066,8 +26066,8 @@ const algeria_postcodes = [
     "commune_id": 1006,
     "commune_name": "Bou Saada",
     "daira_name": "Bousaada",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28091",
@@ -26076,8 +26076,8 @@ const algeria_postcodes = [
     "commune_id": 1036,
     "commune_name": "Sidi M'hamed",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "28092",
@@ -26096,8 +26096,8 @@ const algeria_postcodes = [
     "commune_id": 1001,
     "commune_name": "Ben Srour",
     "daira_name": "Ben Srour",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "",
@@ -26116,8 +26116,8 @@ const algeria_postcodes = [
     "commune_id": 997,
     "commune_name": "Ain Fares",
     "daira_name": "Ain El Melh",
-    "wilaya_code": "28",
-    "wilaya_name": "M'Sila"
+    "wilaya_code": "68",
+    "wilaya_name": "Bou Saâda"
   },
   {
     "post_code": "29000",
@@ -28796,8 +28796,8 @@ const algeria_postcodes = [
     "commune_id": 1145,
     "commune_name": "Labiodh Sidi Cheikh",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32004",
@@ -28816,8 +28816,8 @@ const algeria_postcodes = [
     "commune_id": 1137,
     "commune_name": "Arbaouat",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32006",
@@ -28836,8 +28836,8 @@ const algeria_postcodes = [
     "commune_id": 1145,
     "commune_name": "Labiodh Sidi Cheikh",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32008",
@@ -28906,8 +28906,8 @@ const algeria_postcodes = [
     "commune_id": 1140,
     "commune_name": "Boussemghoun",
     "daira_name": "Boussemghoun",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32015",
@@ -28916,8 +28916,8 @@ const algeria_postcodes = [
     "commune_id": 1143,
     "commune_name": "Chellala",
     "daira_name": "Chellala",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32016",
@@ -28956,8 +28956,8 @@ const algeria_postcodes = [
     "commune_id": 1136,
     "commune_name": "Ain El Orak",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32020",
@@ -28966,8 +28966,8 @@ const algeria_postcodes = [
     "commune_id": 1137,
     "commune_name": "Arbaouat",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32021",
@@ -28996,8 +28996,8 @@ const algeria_postcodes = [
     "commune_id": 1143,
     "commune_name": "Chellala",
     "daira_name": "Chellala",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32024",
@@ -29006,8 +29006,8 @@ const algeria_postcodes = [
     "commune_id": 1148,
     "commune_name": "El Mehara",
     "daira_name": "Chellala",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32025",
@@ -29016,8 +29016,8 @@ const algeria_postcodes = [
     "commune_id": 1146,
     "commune_name": "El Bnoud",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32026",
@@ -29026,8 +29026,8 @@ const algeria_postcodes = [
     "commune_id": 1148,
     "commune_name": "El Mehara",
     "daira_name": "Chellala",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32027",
@@ -29126,8 +29126,8 @@ const algeria_postcodes = [
     "commune_id": 1145,
     "commune_name": "Labiodh Sidi Cheikh",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32039",
@@ -29146,8 +29146,8 @@ const algeria_postcodes = [
     "commune_id": 1145,
     "commune_name": "Labiodh Sidi Cheikh",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "32041",
@@ -29166,8 +29166,8 @@ const algeria_postcodes = [
     "commune_id": 1145,
     "commune_name": "Labiodh Sidi Cheikh",
     "daira_name": "Labiodh Sidi Cheikh",
-    "wilaya_code": "32",
-    "wilaya_name": "El Bayadh"
+    "wilaya_code": "69",
+    "wilaya_name": "El Abiodh Sidi Cheikh"
   },
   {
     "post_code": "43060",
